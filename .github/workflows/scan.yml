@@ -2,13 +2,14 @@ name: GHAL scan
 
 on:
   schedule:
-    # Every 25 minutes — leaves real headroom inside the GitHub Pro 3,000
-    # min/month private-repo Actions budget: ~58 runs/day x ~1.5min each
-    # (checkout + npm ci + scan, most cycles are fast incremental resumes)
-    # ≈ ~87 min/day ≈ ~2,600/month, with slack for occasional slow/fresh
-    # sweeps. Tighten toward */15 later only after watching real usage in
-    # Settings → Billing → Actions minutes.
-    - cron: '*/25 * * * *'
+    # Every 10 minutes — application phase: every fresh posting matters more
+    # than minimizing Actions spend right now. Real measured runtime is
+    # ~50-57s/cycle (checkout+npm ci dominate; actual scan work is ~15-20s),
+    # so at */10 this runs ~144x/day ≈ 4,100 min/month — about 1,100 min
+    # over the Pro plan's 3,000 free, billed at GitHub's standard overage
+    # rate (~$0.008/min for Linux ≈ $9/month). Worth it while actively
+    # applying; dial back to */20-25 once the urgency passes.
+    - cron: '*/10 * * * *'
   workflow_dispatch: {}
 
 concurrency:
