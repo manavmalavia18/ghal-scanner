@@ -280,3 +280,25 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8003016003 | affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | posted: 2026-10-06
 - [ ] https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004 | aloyoga | Software Engineers, Retail Systems | San Ramon, California, United States | posted: 2026-10-06
 - [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8221095 | beyondtrust | Sr Software Development Engineer | Remote United States / Remote Canada | posted: 2026-10-05
+
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5436245008 | newrelic | GTM AI Engineer (Automation & AI) | Portland, Oregon, USA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/reframesystems/661bd313-e71f-4d89-8ddc-5568c6bfa50d | reframesystems | Software Engineer, Applied AI | Boston | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4444326009 | keepersecurity | Web Developer, Technical SEO | Remote, US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8016868003 | affirm | Software Engineer II, Fullstack (Ads Platform) | Remote Canada | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8016866003 | affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/a4dd4748-9825-4090-885c-a79e475f8952 | hadrian-automation | Machine Learning Engineer | Los Angeles, CA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e | resend | Platform Engineer | Europe · Remote | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39 | resend | Platform Engineer | Americas · Remote | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/cteph/jobs/4742641005 | cteph | DevOps Engineer | Remote in the Philippines | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/cteph/jobs/4742640005 | cteph | DevOps Engineer | Remote in the Philippines | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/sentry/5ee81d6f-e837-43bb-af06-8f26c992a766 | sentry | Software Engineer, Streaming Platform | San Francisco, California | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/permitflow/036ad66d-a31e-4f08-9533-838345641335 | permitflow | Applied Machine Learning Engineer | New York City, NY | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/siftstack/e1bfc027-a94a-495b-a58d-5b76cbe4adba | siftstack | Software Engineer, Full Stack | San Francisco, CA | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003030003 | affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote Canada | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | supabase | Platform Engineer, Managed Postgres | Remote, Global | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8019634003 | a3c41b8b71eff8c4 | Full-Stack Web Developer | United States, Remote | posted: 2026-10-09
+- [ ] https://stripe.com/jobs/search?gh_jid=8267736 | stripe | Software Engineer | Seattle, WA | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/glydways/jobs/5262378007 | glydways | Software Engineer (Build Infrastructure) | Remote · Remote | posted: 2026-10-09
+- [ ] https://jobs.lever.co/cyderes/c7c140b1-57b0-4487-a26d-a3084c0a8560 | cyderes | Software Engineer III | United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/ninjatrader/jobs/4720327006 | ninjatrader | Sr. Software Engineer II, FCM | Chicago or Remote* | posted: 2026-10-09
+- [ ] https://truckstop.com/about/careers/openings/5261232007?gh_jid=5261232007 | truckstop | Software Engineer III | Boise, Idaho, United States | posted: 2026-10-09
