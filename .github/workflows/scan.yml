@@ -2,14 +2,13 @@ name: GHAL scan
 
 on:
   schedule:
-    # Every 10 minutes — application phase: every fresh posting matters more
-    # than minimizing Actions spend right now. Real measured runtime is
-    # ~50-57s/cycle (checkout+npm ci dominate; actual scan work is ~15-20s),
-    # so at */10 this runs ~144x/day ≈ 4,100 min/month — about 1,100 min
-    # over the Pro plan's 3,000 free, billed at GitHub's standard overage
-    # rate (~$0.008/min for Linux ≈ $9/month). Worth it while actively
-    # applying; dial back to */20-25 once the urgency passes.
-    - cron: '*/10 * * * *'
+    # Every 5 minutes — this repo is PUBLIC, so GitHub Actions on standard
+    # runners is completely free/unmetered here (no minute quota at all on
+    # any plan for public repos). 5 min is GitHub's documented minimum
+    # schedule granularity; going tighter doesn't do anything. Real measured
+    # runtime is ~50-57s/cycle, so this is comfortably within a single run
+    # finishing before the next one is due.
+    - cron: '*/5 * * * *'
   workflow_dispatch: {}
 
 concurrency:

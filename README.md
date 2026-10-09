@@ -15,10 +15,19 @@ warmed up) — a good fit for a scheduled Actions runner. The expensive slice
 (Workday full-directory sweeps, which can run 30min-10hrs) stays local,
 where it isn't fighting a GitHub Actions 6-hour job cap.
 
+**This repo is public on purpose.** GitHub Actions on standard runners is
+completely unmetered for public repos on any plan — no minute quota at all,
+which is what makes a 5-minute scan cadence free. Nothing sensitive lives
+here: `data/scan-history.tsv` is just scraped public job-posting data
+(company/title/date, already public on Greenhouse/Ashby/Lever's own
+boards), and the only even mildly personal file is `portals.yml` (title/
+location search filters — reveals you're job hunting and roughly what for,
+not true PII). No resume, no application data, no credentials.
+
 ## How it works
 
 1. `.github/workflows/scan.yml` runs `run.mjs` on a cron schedule
-   (`*/25 * * * *`), resuming from `data/cache/ats-ghal-checkpoint.json`
+   (`*/5 * * * *`), resuming from `data/cache/ats-ghal-checkpoint.json`
    each time.
 2. New matches land in `data/scan-history.tsv`; the workflow commits and
    pushes any changes back to this repo.
