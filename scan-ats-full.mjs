@@ -38,6 +38,7 @@ import yaml from 'js-yaml';
 
 import { makeHttpCtx, fetchJson } from './providers/_http.mjs';
 import { isResolverFailure, dnsPacingStats } from './providers/_dns-cache.mjs';
+import { loadCooldown, saveCooldown, isInCooldown, recordFailure, recordSuccess } from './lib/scan-cooldown.mjs';
 import greenhouse from './providers/greenhouse.mjs';
 import lever from './providers/lever.mjs';
 import ashby from './providers/ashby.mjs';
@@ -75,6 +76,16 @@ const RESOLVER_FAILURE_LIMIT = 50;
 const DEFAULT_CHECKPOINT_PATH = 'data/cache/ats-full-checkpoint.json';
 let CHECKPOINT_PATH = DEFAULT_CHECKPOINT_PATH;
 const CHECKPOINT_EVERY = 500;
+
+// Dead-board cooldown: a company that failed recently is overwhelmingly
+// likely to still be dead a few hours later, so skip it on sight next sweep
+// instead of re-paying COMPANY_TIMEOUT_MS. Shared across ATS sources within
+// a run (keyed by `${ats}:${company}`), one file, independent of the
+// resume checkpoint (which is per-sweep; this persists across sweeps).
+// See lib/scan-cooldown.mjs for why — this is what turned routine Workday
+// hourly sweeps into occasional 9+ hour runs (roughly half the ~13-16k
+// tenant list is dead on every single pass).
+const COOLDOWN_PATH = 'data/cache/scan-dead-boards.json';
 
 export function loadCheckpoint(file = CHECKPOINT_PATH) {
   if (!existsSync(file)) return null;
@@ -740,6 +751,7 @@ async function main() {
   // Run-level, because resolverOutage below is per-source and long out of
   // scope by the time the checkpoint's fate is decided at the end of main().
   let stoppedByOutage = false;
+  const cooldown = loadCooldown(COOLDOWN_PATH);
 
   for (const name of opts.ats) {
     const source = SOURCES[name];
@@ -774,6 +786,13 @@ async function main() {
     totalCompaniesScanned += entries.length;
     log(`\n⚙  ${name} — ${entriesAll.length} companies${status !== 'ok' ? ` (dataset: ${status})` : ''}${startAt ? ` — resuming at ${startAt}` : ''}`);
 
+    // Cooldown-skip counter — incremented inside the parallelEach worker
+    // below (not by filtering `entries` up front: the checkpoint's resumeAt
+    // is an index into this exact array, and filtering it would desync that
+    // math on --resume). A skip here means no network call at all, so it
+    // costs microseconds instead of up to COMPANY_TIMEOUT_MS.
+    let skippedCooldown = 0;
+
     let errors = 0;
     let consecutiveResolverFailures = 0;
     let resolverOutage = false;
@@ -788,6 +807,12 @@ async function main() {
     let lastResumeAt = 0;
     const truncated = [];
     await parallelEach(entries, CONCURRENCY, async (entry) => {
+      const cooldownKey = `${name}:${entry.name}`;
+      if (isInCooldown(cooldownKey, cooldown)) {
+        skippedCooldown++;
+        errors++; // still unreachable as far as this sweep's own count goes
+        return;
+      }
       try {
         // The whole per-company unit — fetch AND processJobs (which may issue
         // per-job detail-page requests via provider.enrichDate) — runs inside
@@ -803,10 +828,12 @@ async function main() {
           if (jobs.workdayNoDateSkip) { noDateSkipCompanies++; noDateSkipJobs += jobs.length; }
           await processJobs(jobs, name, source.provider);
         })(), COMPANY_TIMEOUT_MS, `${name}/${entry.name}`);
+        recordSuccess(cooldownKey, cooldown);
       } catch (err) {
         // Mostly defunct boards in the public dataset — expected noise, so the
         // default stays quiet; --verbose surfaces per-board failures.
         errors++;
+        recordFailure(cooldownKey, cooldown);
         // A dead board and a dead resolver look identical one at a time; only
         // the *consecutive* run tells them apart, so any non-resolver outcome
         // resets the count (#2229).
@@ -843,6 +870,11 @@ async function main() {
             totalErrors: totalErrors + errors,
           },
         });
+        // Persist cooldown state at the same cadence as the checkpoint: a
+        // multi-hour sweep killed mid-run must not lose the failure data
+        // that's the whole point of this mechanism — a crash right before
+        // the end would otherwise re-pay every timeout next time too.
+        saveCooldown(COOLDOWN_PATH, cooldown);
       }
     }, () => resolverOutage);
     // Second chance for boards the parallel sweep truncated: retry alone on a
@@ -894,6 +926,7 @@ async function main() {
           counters: snapshotCounters(),
         });
       }
+      saveCooldown(COOLDOWN_PATH, cooldown);
       log(`\n  ⛔ stopped ${name}/${resolverOutageCompany}: ${RESOLVER_FAILURE_LIMIT} consecutive DNS failures.`);
       log(`     Your resolver is refusing queries — it may be rate-limiting this host.`);
       log(`     Lower CONCURRENCY, raise the resolver's per-client limit, or set`);
@@ -908,7 +941,8 @@ async function main() {
     if (!opts.dryRun) {
       writeCheckpoint({ ...checkpointBase(), current: null, counters: snapshotCounters() });
     }
-    log(`\n  done (${errors} unreachable boards skipped)`);
+    saveCooldown(COOLDOWN_PATH, cooldown);
+    log(`\n  done (${errors} unreachable boards skipped${skippedCooldown ? `, ${skippedCooldown} via cooldown (no network call)` : ''})`);
   }
 
   // ── VC portfolio seed sources (--seeds flag) ───────────────────────
