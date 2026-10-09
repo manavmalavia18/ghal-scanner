@@ -1,0 +1,13 @@
+{
+  "name": "ghal-scanner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lean standalone Greenhouse/Ashby/Lever reverse scanner, trimmed out of career-ops to run on a GitHub Actions schedule instead of a laptop.",
+  "scripts": {
+    "scan": "node run.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
+}
