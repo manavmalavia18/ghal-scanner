@@ -320,3 +320,5 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449409008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-09
 
 - [ ] https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1 | openrouter | Site Reliability Engineer, Provider Operations | Remote (US) | posted: 2026-10-09
+
+- [ ] https://jobs.ashbyhq.com/gallatin/a9088c68-98e4-4854-a5fb-e9d0ec6ebc5a | gallatin | AI Software Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-09
