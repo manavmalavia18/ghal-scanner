@@ -322,3 +322,6 @@
 - [ ] https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1 | openrouter | Site Reliability Engineer, Provider Operations | Remote (US) | posted: 2026-10-09
 
 - [ ] https://jobs.ashbyhq.com/gallatin/a9088c68-98e4-4854-a5fb-e9d0ec6ebc5a | gallatin | AI Software Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-09
+
+- [ ] https://jobs.ashbyhq.com/gallatin/8de1a441-15aa-4993-a0f5-d76be215b139 | gallatin | Backend Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-09
+- [ ] https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2 | field-ai | Robotics AI Engineer – Calibration, Localization, and Mapping | Boston, MA | posted: 2026-10-09
