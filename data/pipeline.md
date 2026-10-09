@@ -318,3 +318,5 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449382008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-09
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449409008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-09
+
+- [ ] https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1 | openrouter | Site Reliability Engineer, Provider Operations | Remote (US) | posted: 2026-10-09
