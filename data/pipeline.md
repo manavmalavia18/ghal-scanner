@@ -305,3 +305,7 @@
 
 - [ ] https://job-boards.eu.greenhouse.io/cognite/jobs/5000022101 | cognite | Software Engineer | USA (Phoenix) | posted: 2026-10-09
 - [ ] https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4436807009 | ambiqmicroinc | Sr. AI Software Engineer | Austin, Texas, United States | posted: 2026-10-09
+
+- [ ] https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda | openai | Software Engineer, API Agents | San Francisco | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5262202007 | sparksoftcorporation | DevOps Engineer | Remote/Hybrid if local to Maryland | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/rula/0ae1244b-0204-43b5-b269-6b044ebbe9b7 | rula | Sr. Software Engineer - Provider (Remote) | Remote - United States | posted: 2026-10-09
