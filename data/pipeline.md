@@ -302,3 +302,6 @@
 - [ ] https://jobs.lever.co/cyderes/c7c140b1-57b0-4487-a26d-a3084c0a8560 | cyderes | Software Engineer III | United States | posted: 2026-10-09
 - [ ] https://job-boards.greenhouse.io/ninjatrader/jobs/4720327006 | ninjatrader | Sr. Software Engineer II, FCM | Chicago or Remote* | posted: 2026-10-09
 - [ ] https://truckstop.com/about/careers/openings/5261232007?gh_jid=5261232007 | truckstop | Software Engineer III | Boise, Idaho, United States | posted: 2026-10-09
+
+- [ ] https://job-boards.eu.greenhouse.io/cognite/jobs/5000022101 | cognite | Software Engineer | USA (Phoenix) | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4436807009 | ambiqmicroinc | Sr. AI Software Engineer | Austin, Texas, United States | posted: 2026-10-09
