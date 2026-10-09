@@ -316,3 +316,5 @@
 - [ ] https://jobs.ashbyhq.com/ironcladhq/9af62746-1c31-44d7-b2a7-faf6eefeffc1 | ironcladhq | Software Engineer II - Developer Productivity | San Francisco | posted: 2026-10-09
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449383008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-09
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449382008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-09
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449409008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-09
