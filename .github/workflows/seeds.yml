@@ -1,0 +1,51 @@
+name: VC seed scan (YC + a16z)
+
+on:
+  schedule:
+    # Every 3 hours — walking YC's public API page-by-page takes real time
+    # (minutes, not GHAL's ~1min), and VC portfolio composition doesn't
+    # change minute-to-minute the way a fresh job posting does, so this
+    # doesn't need GHAL's 5-min cadence.
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: vc-seeds-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Run VC seed scan
+        run: node run-seeds.mjs
+        env:
+          SEEDS_SINCE: '7'
+
+      - name: Commit results
+        run: |
+          git config user.name "ghal-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "seeds: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for attempt in 1 2 3; do
+              git pull --rebase --quiet && git push && break
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+          fi
