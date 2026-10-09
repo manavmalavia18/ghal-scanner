@@ -309,3 +309,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda | openai | Software Engineer, API Agents | San Francisco | posted: 2026-10-09
 - [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5262202007 | sparksoftcorporation | DevOps Engineer | Remote/Hybrid if local to Maryland | posted: 2026-10-09
 - [ ] https://jobs.ashbyhq.com/rula/0ae1244b-0204-43b5-b269-6b044ebbe9b7 | rula | Sr. Software Engineer - Provider (Remote) | Remote - United States | posted: 2026-10-09
+
+- [ ] https://glginsights.com/careers/jobs/7978289003?gh_jid=7978289003 | gersonlehrmangroup | Software Engineer | Austin | posted: 2026-10-09
