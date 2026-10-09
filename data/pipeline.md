@@ -251,3 +251,32 @@
 - [ ] https://jobs.ashbyhq.com/arcadeai/ef1e7820-4d7b-4196-a2ec-c9e4a8adf1ee | arcadeai | Founding Machine Learning Engineer | San Francisco, CA | posted: 2026-10-05
 - [ ] https://www.dremio.com/careers/job-postings/?gh_jid=8005826003 | dremio | Software Engineer - Query Execution | Portugal - Remote | posted: 2026-10-05
 - [ ] https://job-boards.greenhouse.io/canonical/jobs/8249005 | canonical | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Home based - Worldwide | posted: 2026-10-05
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003028003 | affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003026003 | affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote Canada | posted: 2026-10-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262100007?gh_jid=5262100007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262099007?gh_jid=5262099007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8012043003 | affirm | Software Engineer II, Backend (Online Storage) | Remote Canada | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6220274004 | 66degrees | Associate Software Engineer, Gradient Specialist | Chicago, IL | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6220259004 | 66degrees | Associate AI/ML Engineer, Gradient Specialist | Chicago, IL | posted: 2026-10-08
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4720250006?gh_jid=4720250006 | accenturefederalservices | Full Stack Developer | Washington, DC | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010610003 | affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote Canada | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010608003 | affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote US | posted: 2026-10-08
+- [ ] https://www.asana.com/jobs/apply/8227390?gh_jid=8227390 | asana | Software Engineer, AI Teammates Experience | San Francisco | posted: 2026-10-08
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261149007?gh_jid=5261149007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5444452008 | betterhelpcom | Full Stack Software Engineer | US - Remote | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8256255 | beyondtrust | Sr Site Reliability Engineer | Remote United States / Remote Canada | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260436007?gh_jid=5260436007 | andurilindustries | Mission Software Engineer, Mission Systems, Networking | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260431007?gh_jid=5260431007 | andurilindustries | Mission Software Engineer, Mission Systems, Deployment and Infrastructure | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007 | andurilindustries | Mission Software Engineer, Mission Systems, Cyber Security | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 | anthropic | IT Systems Engineer, Client Platform Engineer, macOS | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | anthropic | Applied AI Engineer, Public Sector | Washington, DC | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010617003 | affirm | Software Engineer, Early Career (SF) | San Francisco, California, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8008649003 | affirm | Software Engineer, Early Career (NYC) | New York, New York, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/appian/jobs/8259128 | appian | DevOps Engineer | McLean, Virginia | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/aevexaerospace/jobs/5443792008 | aevexaerospace | Software Engineer, Mid-Level | Baltimore, Maryland, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8870682002 | appnovation | Site Reliability Engineer, AI Observability | New York, Austin, Miami, Dallas | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003018003 | affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote Canada | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003016003 | affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | posted: 2026-10-06
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004 | aloyoga | Software Engineers, Retail Systems | San Ramon, California, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8221095 | beyondtrust | Sr Software Development Engineer | Remote United States / Remote Canada | posted: 2026-10-05
