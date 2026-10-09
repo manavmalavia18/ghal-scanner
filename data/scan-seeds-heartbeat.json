@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-09T20:35:35.682Z",
+  "since": 7,
+  "exitCode": 0,
+  "elapsedSec": 143.8,
+  "incomplete": false,
+  "mode": "vc-seeds-actions",
+  "seeds": [
+    "yc",
+    "a16z"
+  ]
+}

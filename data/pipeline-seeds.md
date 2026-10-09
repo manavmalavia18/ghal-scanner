@@ -1,0 +1,316 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5262202007 | sparksoftcorporation | DevOps Engineer | Remote/Hybrid if local to Maryland | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/rula/0ae1244b-0204-43b5-b269-6b044ebbe9b7 | rula | Sr. Software Engineer - Provider (Remote) | Remote - United States | posted: 2026-10-09
+- [ ] https://job-boards.eu.greenhouse.io/cognite/jobs/5000022101 | cognite | Software Engineer | USA (Phoenix) | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4436807009 | ambiqmicroinc | Sr. AI Software Engineer | Austin, Texas, United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/newrelic/jobs/5436245008 | newrelic | GTM AI Engineer (Automation & AI) | Portland, Oregon, USA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/reframesystems/661bd313-e71f-4d89-8ddc-5568c6bfa50d | reframesystems | Software Engineer, Applied AI | Boston | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4444326009 | keepersecurity | Web Developer, Technical SEO | Remote, US | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8016868003 | affirm | Software Engineer II, Fullstack (Ads Platform) | Remote Canada | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8016866003 | affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/a4dd4748-9825-4090-885c-a79e475f8952 | hadrian-automation | Machine Learning Engineer | Los Angeles, CA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e | resend | Platform Engineer | Europe · Remote | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/resend/a9fc1d02-cace-4be9-8d3d-16f4fb137b39 | resend | Platform Engineer | Americas · Remote | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/cteph/jobs/4742641005 | cteph | DevOps Engineer | Remote in the Philippines | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/cteph/jobs/4742640005 | cteph | DevOps Engineer | Remote in the Philippines | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/sentry/5ee81d6f-e837-43bb-af06-8f26c992a766 | sentry | Software Engineer, Streaming Platform | San Francisco, California | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/permitflow/036ad66d-a31e-4f08-9533-838345641335 | permitflow | Applied Machine Learning Engineer | New York City, NY | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/siftstack/e1bfc027-a94a-495b-a58d-5b76cbe4adba | siftstack | Software Engineer, Full Stack | San Francisco, CA | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003030003 | affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote Canada | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | supabase | Platform Engineer, Managed Postgres | Remote, Global | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/8019634003 | a3c41b8b71eff8c4 | Full-Stack Web Developer | United States, Remote | posted: 2026-10-09
+- [ ] https://stripe.com/jobs/search?gh_jid=8267736 | stripe | Software Engineer | Seattle, WA | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/glydways/jobs/5262378007 | glydways | Software Engineer (Build Infrastructure) | Remote · Remote | posted: 2026-10-09
+- [ ] https://jobs.lever.co/cyderes/c7c140b1-57b0-4487-a26d-a3084c0a8560 | cyderes | Software Engineer III | United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/ninjatrader/jobs/4720327006 | ninjatrader | Sr. Software Engineer II, FCM | Chicago or Remote* | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/meridianlink/e821bbf3-859a-4c33-bd2f-0a747025a5db | meridianlink | Software Engineer (L2) - Platform Integrations | US Remote | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003028003 | affirm | Software Engineer II, Backend (Batch Developer Experience) | Remote US | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/mintmcp/36b14a24-bf5a-48f9-911f-a9ec755872cc | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262100007?gh_jid=5262100007 | andurilindustries | Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-09
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262099007?gh_jid=5262099007 | andurilindustries | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/ema/6f816cca-bf17-4061-b751-033a14e433cb | ema | Devops Engineer, US | Mountain View (Hybrid) · United States | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94 | elevenlabs | Fullstack Engineer (Backend Leaning) - Flows | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d | elevenlabs | Fullstack Engineer (Frontend Leaning) - Studio | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4 | supabase | Cloud Platform Engineer | Remote, Global | posted: 2026-10-09
+- [ ] https://job-boards.eu.greenhouse.io/roboyo/jobs/5001122101 | roboyo | DevOps Engineer | London (Remote) | posted: 2026-10-09
+- [ ] https://jobs.lever.co/magnetforensics/efd7e6e1-2cde-4010-8b75-b9500cfdf748 | magnetforensics | SRE/DevOps Engineer | United States; Canada | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e | aurelian | Software Engineer (New Grad) | Seattle | posted: 2026-10-09
+- [ ] https://www.riotgames.com/en/work-with-us/job/8104456?gh_jid=8104456 | riotgames | Machine Learning Engineer III - Unpublished R&D Product | Los Angeles, USA | posted: 2026-10-09
+- [ ] https://careers.roblox.com/jobs/8159857?gh_jid=8159857 | roblox | Software Engineer, Data Model | San Mateo, CA, United States | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/base-power/3fea4f0f-4ff4-434a-8df7-53dc247a61b4 | base-power | Software Engineer, Backend (Security) | Austin, TX | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/openai/1f99d5d3-4512-4247-aaba-3133a3dabf5a | openai | Frontend Software Engineer, ChatGPT Space | San Francisco | posted: 2026-10-08
+- [ ] https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002 | spacex | AI Security Software Engineer (Starshield) | Washington, DC | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6220970004 | sonyinteractiveentertainmentglobal | Software Engineer, AI/ML | United States, San Diego, CA | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/openai/96475a30-5aa1-4c56-802d-fe8a54c9cbd9 | openai | Software Engineer, HSM Infrastructure Security, Consumer Devices | Seattle | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/doppel/1144603c-07da-48b9-b838-da27ebbd2f1b | doppel | Software Engineer, Email | San Francisco, New York · Toronto, ON · Toronto · Canada · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f | handshake | Machine Learning Engineer | San Francisco, CA | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/poshmark/89b69b74-19d8-4f60-b38c-fd59af96abd2 | poshmark | Software Engineer II - Core Infrastructure | US California (Redwood City) - Office | posted: 2026-10-08
+- [ ] https://www.precisely.com/careers-and-culture/us-jobs/job/4739297005?gh_jid=4739297005 | preciselyusjobs | Java Software Engineer | United States | posted: 2026-10-08
+- [ ] https://careers.roblox.com/jobs/8159854?gh_jid=8159854 | roblox | Software Engineer, Engine Systems | San Mateo, CA, United States | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8012043003 | affirm | Software Engineer II, Backend (Online Storage) | Remote Canada | posted: 2026-10-08
+- [ ] https://jobs.lever.co/ispace-inc/d93955a5-5f52-4397-b79d-73c6e6e827fd | ispace-inc | Flight Software Engineer | Englewood, Colorado | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6220274004 | 66degrees | Associate Software Engineer, Gradient Specialist | Chicago, IL | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/6220259004 | 66degrees | Associate AI/ML Engineer, Gradient Specialist | Chicago, IL | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/figure/jobs/8860509002 | figure | Associate AI Engineer | Remote · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5 | weave | Site Reliability Engineer, Cloud Infrastructure | Weave - Headquarters (Lehi, UT) · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/kayak/85165d45-de15-444d-8a5e-b7fdb8f3cf1e | kayak | Software Engineer, Ads (Backend) | Cambridge Office · Concord Office · Concord · United States | posted: 2026-10-08
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4720250006?gh_jid=4720250006 | accenturefederalservices | Full Stack Developer | Washington, DC | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/onapsis/jobs/8879598002 | onapsis | Site Reliability Engineer II | Dallas, Texas, United States | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8017009003 | darkwolfsolutions | Platform Engineer | Northern Virginia | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/lyric/dfade6d7-2100-41ae-b7d0-fa6ccb64ed25 | lyric | Platform Engineer - Full Stack (UI Centric) | BLR/Chennai · Remote | posted: 2026-10-08
+- [ ] https://c3.ai/job-description/8879453002?gh_jid=8879453002 | c3iot | Associate Site Reliability Engineer/Site Reliability Engineer | Redwood City, California, United States | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/lyric/38531d9a-54ac-484e-94f9-b22182cccb9a | lyric | Platform Engineer - Backend | BLR/Chennai · Chennai · Remote | posted: 2026-10-08
+- [ ] https://www.playlist.com/careers/opportunities/4720183006?gh_jid=4720183006 | mindbody | Software Engineer II - Backend | United States | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010610003 | affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote Canada | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010608003 | affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote US | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/mirage/6e95c3c2-db6c-41bf-b553-dee819b69da4 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/mirage/2da18f20-8e66-47a0-b7c5-b25a42f455f5 | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/greatquestion/094067c8-29ec-4809-8617-06c7269593fb | greatquestion | Product Engineer (AI / Full-Stack) | Canada (Remote) | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/kissmyapps/c2456955-b6d2-401a-bed2-361019154ae7 | kissmyapps | Full Stack Developer (React/Next.js + Node.js) | Ukraine · Remote | posted: 2026-10-08
+- [ ] https://jobs.lever.co/disher/e676174d-3a15-493d-890b-f8aaa42b4437 | disher | UI/UX Frontend Developer | Remote | posted: 2026-10-08
+- [ ] https://www.asana.com/jobs/apply/8227390?gh_jid=8227390 | asana | Software Engineer, AI Teammates Experience | San Francisco | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60 | braintrust | Software Engineer, SDK | Remote · New York City · United States · Seattle | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/resend/73a37f4c-02d9-40e4-a116-70507ed413b9 | resend | Software Engineer, Trust & Safety | Europe · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/resend/729ad3fa-10a2-4a07-ba9c-13b6eec6adb1 | resend | Software Engineer, Trust & Safety | Americas · Remote | posted: 2026-10-08
+- [ ] https://motional.com/open-positions/?gh_jid=8016805003#/8016805003 | motional | Software Engineer, Autonomy Actions Release & Integration | Las Vegas, Nevada, United States | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8263726 | doordashusa | Software Engineer, ML Serving Platform | San Francisco, CA; Sunnyvale, CA; • Seattle, WA | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8264534 | doordashusa | Software Engineer, Machine Learning Platform - MDX | San Francisco, CA; Sunnyvale, CA; • Seattle, WA | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8264542 | doordashusa | Software Engineer, Machine Learning Platform - Gen AI | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-08
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261149007?gh_jid=5261149007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-08
+- [ ] https://www.optiver.com/join-us/jobs/8875482002/?gh_jid=8875482002 | optiverus | Software Engineer - Agentic SDLC | New York, New York | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/patrianna/225651e6-4396-4af9-9bc3-d48ae3241b9e | patrianna | Middle DevOps Engineer | Ukraine · Poland · Portugal · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/polar/0b058d3d-f00a-480c-9e3b-481aa8904f09 | polar | Platform Engineering | U.S. / Europe · Remote | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/xbowcareers/d30142de-7c89-4112-8743-10f1817c11bb | xbowcareers | Software Engineer - Console | Europe (Remote) · US East Coast · New York City · United States · Remote Argentina · Argentina | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/xbowcareers/304f9f4e-477e-4d29-a39a-7c212738a0c8 | xbowcareers | Software Engineer - AI Systems | Austria (Remote) · Greece (Remote) · Greece · United Kingdom (Remote) · United Kingdom · Switzerland (Remote) · Switzerland · US East Coast · New York City · United States · Malta (Remote) · Malta · Brazil (Remote) · Brazil · Spain (Remote) · Spain · Denmark(Remote) · Denmark · Ireland (Remote) · Ireland · Remote Argentina · Argentina · Sweden (Remote) · Sweden | posted: 2026-10-08
+- [ ] https://jobs.lever.co/artera/e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1 | artera | Machine Learning Engineer (Model Dev) | Remote-US | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/rogerhealthcare/a9083b49-a21f-4200-87d8-365638e0ce49 | rogerhealthcare | Software Engineer, Full-Stack | San Francisco Office | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6220030004 | extrahopnetworks | Software Engineer III / Framework | Remote (US) / Seattle, WA | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/5444452008 | betterhelpcom | Full Stack Software Engineer | US - Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/numeric/ab300c31-df75-48a7-937a-d882774be688 | numeric | Software Engineer, Product | New York | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/tracelabs/84f1786a-1f06-4798-892c-682a6ab07ba5 | tracelabs | Machine Learning Engineer, Applied | United States · Remote · NYC · New York | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4437832009 | grvty | DevOps Engineer | Lackland AFB, Texas, United States | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f | niantic-spatial | AI Engineer, Computer Vision | San Francisco, CA | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/lively43/jobs/6219949004 | lively43 | Sr. Software Engineer - Front-End | United States - Remote | posted: 2026-10-07
+- [ ] https://stripe.com/jobs/search?gh_jid=8243617 | stripe | Machine Learning Engineer, Radar | Seattle | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/horizon3ai/5eb3c260-262b-4e9e-884d-7ba2db792be1 | horizon3ai | Software Engineer, API Platform | US, Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/horizon3ai/17176038-68a7-458d-a5ed-17ed3b883060 | horizon3ai | Software Engineer, Integrations Delivery & Support | US, Remote | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5260586007 | chaosindustries | Software Engineer, Numerical Computing | Washington, District of Columbia, United States | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8256255 | beyondtrust | Sr Site Reliability Engineer | Remote United States / Remote Canada | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58 | handshake | Software Engineer I, Build Review & Test | San Francisco, CA | posted: 2026-10-07
+- [ ] https://www.cedar.com/careers/open-roles?gh_jid=8257566 | careportalinc | Sr. Software Engineer (Data & Integrations Engineering) | New York, NY, United States | posted: 2026-10-07
+- [ ] https://www.klaviyo.com/careers/jobs/8003261003?gh_jid=8003261003 | klaviyo | AI Engineer II | Boston, MA | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/felix/c748d3de-a8f0-45dd-b46f-61e314d634e8 | felix | Sr. Software Engineer | Remote, Canada | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6206005004 | sonyinteractiveentertainmentglobal | Software Development Engineer in Test II | United States, San Mateo, CA | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/replicant/620ed75e-4d20-40c4-b1e3-21604f99c399 | replicant | Support Software Engineer | United States · Canada · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f | elevenlabs | Full-Stack Engineer (Back-End Leaning) | United Kingdom · Dublin · Ireland · United States · New York · New York City · Sofia · Bulgaria · Germany · Portugal · Poland · Warsaw · Madrid · Spain · Boston · Amsterdam · Netherlands · Remote | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260436007?gh_jid=5260436007 | andurilindustries | Mission Software Engineer, Mission Systems, Networking | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260431007?gh_jid=5260431007 | andurilindustries | Mission Software Engineer, Mission Systems, Deployment and Infrastructure | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007 | andurilindustries | Mission Software Engineer, Mission Systems, Cyber Security | Costa Mesa, California, United States | posted: 2026-10-07
+- [ ] https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002 | chime | Software Engineer, Trust & Safety | Chicago, IL, USA; San Francisco, CA, USA | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/loftfederal/jobs/5445706008 | loftfederal | Software Engineer | Arvada, Colorado | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257703007 | chaosindustries | Production Software Engineer | El Segundo, California, United States | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/crusoe/e9f2ba2c-e9af-4565-bd88-3dada421226f | crusoe | Software Engineer II, Flex Compute | San Francisco, CA - US | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e | decagon | Software Engineer, Enterprise Product | San Francisco | posted: 2026-10-07
+- [ ] https://jobs.lever.co/vida/5e985991-0880-4b3b-8e0c-750cf984c1c7 | vida | Backend Software Engineer II- Data Platform | United States | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/stuut-ai/a8e3f2c4-505e-467a-a834-140fc13f3af2 | stuut-ai | Applied AI Engineer, GTM | New York City · San Francisco · United States | posted: 2026-10-07
+- [ ] https://jobs.lever.co/hermeus/759a5648-15cb-45aa-9fbe-616b953f9fcf | hermeus | Flight Software Engineer – Command & Control | Atlanta, GA | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/pyyne/1bb286af-97c9-47f0-a6e6-a41498fda225 | pyyne | Software Engineer (Python) | Brazil · Argentina · Buenos Aires Province · Buenos Aires · Remote | posted: 2026-10-07
+- [ ] https://job-boards.eu.greenhouse.io/prolific/jobs/4999953101 | prolific | Cloud Platform Engineer | Remote, UK | posted: 2026-10-07
+- [ ] https://stripe.com/jobs/search?gh_jid=8144196 | stripe | AI Engineer | Chicago | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/general-medicine/58b11e7a-90b8-4ad2-a2e5-9e0cf168ce5f | general-medicine | Full-Stack Engineer (SF) | San Francisco · Boston · United States | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/general-medicine/2182bdc9-105e-48b7-9066-8f298a578249 | general-medicine | Full-Stack Engineer (Boston) | Boston | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/general-medicine/85e76287-3ade-4072-9efd-2ebf63305a96 | general-medicine | Frontend Engineer (SF) | San Francisco | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab | elevenlabs | Full-Stack Engineer (Backend Leaning) - CreativeVoices | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/general-medicine/3666a428-4efa-4c0b-b845-34f41121ef27 | general-medicine | Frontend Engineer (Boston) | Boston | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 | anthropic | IT Systems Engineer, Client Platform Engineer, macOS | Boston, MA; Remote-Friendly (Travel-Required) / San Francisco, CA / Seattle, WA / New York City, NY; Washington, DC | posted: 2026-10-07
+- [ ] https://jobs.lever.co/octoenergy/e1bc3825-7ff5-4b1f-8da0-4f3d16ef0c2e | octoenergy | Full Stack Software Engineer | London (GB); Remote (GB); Brighton (GB) | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/sift/45b22605-1abb-483e-8ef7-5ceaf04f5868 | sift | Machine Learning Engineer | San Francisco, California · Seattle, Washington · Seattle · USA · Remote - USA | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945 | elevenlabs | Full-stack Engineer - Creative Agents | Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b | sierra | Software Engineer, Agent (Spanish speaking) | San Francisco, CA · New York, NY · New York · United States · Toronto · Canada | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/darkroom/48a1fe52-8784-4a9f-bee0-4c0d1756411e | darkroom | Full-Stack Engineer | Brazil · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe | elevenlabs | Full-Stack Engineer (Backend Leaning) - Creative Agents | Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3c5cb7fb-eee0-4ef5-bc11-1e06b7040e8b | bjakcareer | Frontend Engineer | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6c2c3903-69c6-4de3-a0a2-aeac0286e4c6 | bjakcareer | Frontend Engineer | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4050c60f-44ad-4af3-88e4-d8fbd3653680 | bjakcareer | Frontend Engineer | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/57e77e20-c742-4efa-9d4e-c472cb90652b | bjakcareer | Frontend Engineer | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/71e75b57-cec9-45fb-87a4-b13d2569ed96 | bjakcareer | Frontend Engineer | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/006cf62c-876b-4db6-8dd1-84be1728c496 | bjakcareer | Frontend Engineer | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2915bded-87d1-4faf-8e75-8665f882ec0f | bjakcareer | Frontend Engineer | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/943e7184-c8fb-4aab-8f9e-9826ff5456f3 | bjakcareer | Frontend Engineer | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/20a1c89d-4b25-494a-aaed-cf68f813de98 | bjakcareer | Machine Learning Platform Engineer | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/800177f4-a2da-49f1-85e2-c0ad13c897ac | bjakcareer | Machine Learning Platform Engineer | Spain · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c2e96356-0959-4dfe-bd56-e9e98b985393 | bjakcareer | Machine Learning Platform Engineer | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/17790e04-d4d2-4378-8b9c-c03f577ec4d3 | bjakcareer | Machine Learning Platform Engineer | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/553f137e-4a3c-4b53-bb2d-8962b95986c3 | bjakcareer | Machine Learning Platform Engineer | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/80f5f24b-fa32-4d10-8cef-1b019c08bdd9 | bjakcareer | Machine Learning Platform Engineer | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7e6faa3e-e2ea-48b8-940d-b45decd9c116 | bjakcareer | Machine Learning Platform Engineer | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a1f8db42-5a5e-4ac9-af8b-add7aae70e5b | bjakcareer | Machine Learning Platform Engineer | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bdc9f0e0-5fff-4689-b047-fb7c43fa0510 | bjakcareer | Machine Learning Platform Engineer | United States · Remote | posted: 2026-10-07
+- [ ] https://sproutsocial.com/careers/open-positions/8260823/?gh_jid=8260823 | sproutsocial | Sr. Applied AI/ML Scientist (B2B) | Remote Poland | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5245bcda-ac4a-4101-a421-aae52b76b6b3 | bjakcareer | Full Stack Engineer, AI systems | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/68560a5b-469a-412f-bc94-b90c0fc55dd3 | bjakcareer | Full Stack Engineer, AI systems | Spain · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c49f40ea-326c-4beb-a0a8-40c2e60e7c20 | bjakcareer | Full Stack Engineer, AI systems | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f5749c08-7463-4458-a55e-6b6e69eba152 | bjakcareer | Full Stack Engineer, AI systems | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3011d3b3-86ff-4e40-8fd6-533c9ffa94f0 | bjakcareer | Full Stack Engineer, AI systems | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2dff0549-f89c-4be3-bddc-c26394c6d5f2 | bjakcareer | Full Stack Engineer, AI systems | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/93922731-1b85-4b37-8160-dd44376f5056 | bjakcareer | Full Stack Engineer, AI systems | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d404fdb8-950b-46f3-b607-8021c1106b06 | bjakcareer | Full Stack Engineer, AI systems | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/462582df-b0c6-4371-8edb-8a7b492b3eb5 | bjakcareer | Full Stack Engineer, AI systems | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/08e3ee2a-6e84-442c-8683-6886dcdd694f | bjakcareer | Software Engineer, Desktop | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/96aed9bd-03a5-40b5-8432-0ab38e320fff | bjakcareer | Software Engineer, Desktop | Indonesia · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/75caeb2a-2b15-4062-8167-b150f2f34294 | bjakcareer | Software Engineer, Desktop | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9fcb0a37-6f13-4c49-9527-7d70dff3e15a | bjakcareer | Software Engineer, Desktop | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bfc5684c-184e-4bbf-863e-6c729c461e97 | bjakcareer | Backend Engineer, AI (Agent Systems) | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/5a551446-ac37-4444-b3ac-a228fafa035b | bjakcareer | Backend Engineer, AI (Agent Systems) | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/31820faa-7f4b-485b-be7b-0e012f807399 | bjakcareer | Backend Engineer, AI (Agent Systems) | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6c39e253-3ee4-444d-8bac-4d24f3f395e1 | bjakcareer | Backend Engineer, AI (Agent Systems) | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f5f3ee17-ce2c-4174-8b28-36d84a48a47f | bjakcareer | Backend Engineer, AI (Agent Systems) | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/44eeccb5-0d50-4a63-bfca-675e59903f94 | bjakcareer | Backend Engineer, AI (Agent Systems) | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/6b8221d0-29d6-4de8-9a5d-89bb77ea0f48 | bjakcareer | Backend Engineer, AI (Agent Systems) | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/42c19463-9e6d-4856-9b37-f86b9a436f9c | bjakcareer | Backend Engineer, AI (Agent Systems) | Zurich, Switzerland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/800c8f3d-fed6-42ee-9ddd-3ee2c026bd30 | bjakcareer | Backend Engineer, AI (Agent Systems) | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/39f51669-fe24-4d41-ae0e-fbb7cc4cc4f9 | bjakcareer | LLM Application Engineer | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3643630b-105a-4ffd-9122-02b4436a9fe9 | bjakcareer | LLM Application Engineer | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/30c52b05-1ffd-47da-af91-9373a17310c3 | bjakcareer | Applied AI Engineer | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4181f285-7624-4048-9137-690136469b47 | bjakcareer | Applied AI Engineer | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d799f9b3-3dd8-4b2a-8ad9-4b2235e9d640 | bjakcareer | Applied AI Engineer | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/4ec19a53-d307-47c5-9600-97cf19dd17bd | bjakcareer | Applied AI Engineer | Spain · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/00f1597f-1059-4d3f-b20e-f2aeaa828278 | bjakcareer | LLM Application Engineer | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1a529f9d-6ea6-460f-92db-2c1e118a8289 | bjakcareer | Applied AI Engineer | Germany · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/eab9fc9c-ab48-4ed4-885b-f0c360fefc7b | bjakcareer | LLM Application Engineer | Spain · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/29a8f218-d8b5-4f88-85d8-6d8c7df17410 | bjakcareer | LLM Application Engineer | Sweden · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7f7757db-b41b-4488-9c10-f27ef843ab71 | bjakcareer | LLM Application Engineer | Ireland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2f788998-159e-422f-8a6e-5823801f42e4 | bjakcareer | Applied AI Engineer | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/cb5b5d4a-e889-467b-a6cb-5da46b8b9981 | bjakcareer | Applied AI Engineer | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2c51f80a-e1bc-4b52-aba5-c12b8acec7f2 | bjakcareer | Applied AI Engineer | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/48e52b42-3b13-47c5-bb41-c8b33337252b | bjakcareer | Applied AI Engineer | Zurich, Switzerland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/9c5f74de-eddb-445e-a7a1-c26ac7e6c58c | bjakcareer | LLM Application Engineer | Switzerland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bcf07cf8-0fd6-451a-b319-b0f7aeaa0779 | bjakcareer | LLM Application Engineer | Singapore · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2410bf26-de9e-471b-9a2c-5bfa2cad4d00 | bjakcareer | Applied AI Engineer | United States · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/7ddef115-7f87-4b07-9d3a-900a12e7af0e | bjakcareer | LLM Application Engineer | Portugal · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3b1834c1-7666-442e-a973-545f0af805fd | bjakcareer | LLM Application Engineer | Poland · Remote | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/bjakcareer/c48a8c9f-b7ca-4c7d-ad90-d8964d27c52f | bjakcareer | Applied AI Engineer | China · Remote | posted: 2026-10-07
+- [ ] https://jobs.lever.co/smart-working-solutions/935fa25e-fd79-42c5-8e55-805e455c5082 | smart-working-solutions | Sr. Machine Learning Engineer (Remote, Contract) \[HR216\] (PK) | Pakistan; Karachi; Lahore; Rawalpindi; Islamabad; Multan; Peshawar | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/frontcareers/bae3ca2b-1f07-41f7-947a-5833a8ee9904 | frontcareers | Software Engineer, Core Product | San Francisco, CA | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/gallatin/6b6273ef-2e45-4669-92ab-bc5f91085eca | gallatin | AI Engineer – Routing & Network Optimization | El Segundo, CA · Austin, TX · Austin · United States | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | anthropic | Applied AI Engineer, Public Sector | Washington, DC | posted: 2026-10-07
+- [ ] https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075 | openai | Software Engineer, Life Sciences | San Francisco | posted: 2026-10-06
+- [ ] https://boards.greenhouse.io/parallel/jobs/5259777007?gh_jid=5259777007 | parallel | Backend Software Engineer II | Los Angeles, CA | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/terac/f93a5f5a-bdc2-4be7-bc15-20e157aafba6 | terac | Part-Time Full-Stack Engineers: Farm-Data Platform Development | United States · Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/philzcoffeecareers/jobs/8015175003 | philzcoffeecareers | Full Stack Software Engineer | California - Los Angeles Market | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/8015176003 | oddball | Full Stack Engineer | Remote · Remote | posted: 2026-10-06
+- [ ] https://nuro.ai/careersitem?gh_jid=8230855 | nuro | Software Engineer, Software Updates | Mountain View, California (HQ) | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5446046008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5446028008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5446026008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5446021008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-06
+- [ ] https://www.businessolver.com/careers/openings/?gh_jid=8256316 | businessolver | Software Engineer II, UI/UX React (Remote) | Remote - United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/knowtex/ecf3a3b3-3f9e-44ae-87a2-f9378c17113d | knowtex | ML Engineer, LLM's | San Francisco | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/perpay/jobs/5252881007 | perpay | Super Day - Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/reducto/1a0a37f5-acdc-4ad5-8d17-aaf29456c3df | reducto | Software Engineer, Platform | San Francisco Office | posted: 2026-10-06
+- [ ] https://jobs.lever.co/inflowfed/c1e4dbf1-6d5f-4f48-8f96-8e8a9e037171 | inflowfed | Sr Platform Engineer (GitLab practice) | Remote | posted: 2026-10-06
+- [ ] https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583 | shieldai | Software Development Engineer - New Graduate | San Diego, California; Washington, D.C.; Boston, Massachusetts | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/openrouter/cd315f34-75a7-4717-8aa9-9dd4e0d6f7ae | openrouter | Software Engineer, Ori | Remote (US) | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/designedconveyorsystems/jobs/8012581003 | designedconveyorsystems | Sr. Software Engineer, Warehouse Execution & Control Systems (WES/WCS) | Remote · Designed Conveyor Systems | posted: 2026-10-06
+- [ ] https://www.fastly.com/about/jobs/apply?gh_jid=8256238 | fastly | Software Engineer - Platform Observability and Intelligence | New York City, NY; San Francisco, CA | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8010617003 | affirm | Software Engineer, Early Career (SF) | San Francisco, California, United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2 | openai | Software Engineer, Shop/Feed Ads | San Francisco | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/numeral/7d78cf68-6480-47bb-9f88-bd0968cb5581 | numeral | Software Engineer, Platform | San Francisco (HQ) · New York · United States | posted: 2026-10-06
+- [ ] https://boards.greenhouse.io/neuralink/jobs/8014659003?gh_jid=8014659003 | neuralink | Software Engineer, Medical Imaging | Austin, Texas, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8008649003 | affirm | Software Engineer, Early Career (NYC) | New York, New York, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/appian/jobs/8259128 | appian | DevOps Engineer | McLean, Virginia | posted: 2026-10-06
+- [ ] https://careers.roblox.com/jobs/8229705?gh_jid=8229705 | roblox | Software Engineer, Test Frameworks & Tooling | San Mateo, CA, United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/bettermoney/8898c5b2-7561-4f23-a274-342f4e389a17 | bettermoney | Sr Backend Engineer | New York City | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5445201008 | racapitalmanagementllc | Software Engineer, Data/AI | Boston, MA | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/marianaminerals/4665e5ec-e3b2-4c3b-b381-d1e80c391203 | marianaminerals | Sr. Software Engineer, Autonomy | San Francisco HQ · Houston, TX · Houston · US · Ann Arbor, MI · Ann Arbor · United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/lively43/jobs/6208697004 | lively43 | Sr. Software Engineer - Backend | Denver, CO | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/clasp-group/c570534a-a8f5-41f7-ae82-3def04b38a95 | clasp-group | Software Engineer, Foundations | Remote | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/clasp-group/82dbc317-1cb1-4e2a-ad0e-ae6e0578202d | clasp-group | Full Stack Engineer - Evergreen Posting | Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8249851 | purestorage | Software Engineer Grad 2027 | Santa Clara, California | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/creatoriq/e88a2ed2-52d8-45c7-9c6c-e372fec21cfb | creatoriq | MLOps / DevOps Engineer – AI Infrastructure | New York · Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/inflect/jobs/4719418006 | inflect | Sr Fullstack Engineer - Capacity & Matching Consultant - (remote - Mexico) | Mexico - remote | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/sibill/e6fd50ec-8163-4a32-8fda-27e65b7b2888 | sibill | AI Engineer | Italy - Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/inflect/jobs/4719415006 | inflect | Backend Engineer Consultant - (remote - Mexico) | Mexico - Remote | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/sibill/fb0bd868-8733-4ff9-bd72-9c2d389558ef | sibill | Software Engineer | Italy - Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/centralreach/jobs/4435013009 | centralreach | Sr. Software Engineer | Remote - US | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/terac/3aecff2c-6fdf-439b-bb67-a6e62910f6f3 | terac | Software Engineers: Feedback on AI Coding Tools | United States · Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/aevexaerospace/jobs/5443792008 | aevexaerospace | Software Engineer, Mid-Level | Baltimore, Maryland, United States | posted: 2026-10-06
+- [ ] https://boards.greenhouse.io/pathrobotics/jobs/8870735002?gh_jid=8870735002 | pathrobotics | Software Engineer, Fleet Engineering | Columbus, Ohio | posted: 2026-10-06
+- [ ] https://jobs.lever.co/thinkahead/a060eb0f-efc2-4b36-8363-049c657df49c | thinkahead | Full Stack Engineer | United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8870682002 | appnovation | Site Reliability Engineer, AI Observability | New York, Austin, Miami, Dallas | posted: 2026-10-06
+- [ ] https://spire.com/careers/job-openings/job/?gh_jid=8238125&gh_jid=8238125 | spire | Backend Software Engineer, Weather & Aviation | Boulder, Colorado, United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003018003 | affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote Canada | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8003016003 | affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002 | icapitalnetwork | Artificial Intelligence / Machine Learning Engineer - Associate | New York, New York, United States | posted: 2026-10-06
+- [ ] https://ats.comparably.com/api/v2/stash/post/8258558:?gh_jid=8258558 | stashinvest | Backend Engineer III | New York | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/weave/2518c1b8-3ffc-40e5-a968-c013e760c3f5 | weave | ML - GenAI Engineer, Voice & Speech | India · Remote | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257331007 | sparksoftcorporation | Full Stack Developer - Mid-Level | Remote/Hybrid if local to Maryland | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257361007 | sparksoftcorporation | Jr. Full Stack Developer | Remote/Hybrid if local to Maryland | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257480007 | sparksoftcorporation | Junior DevOps Engineer | Remote/Hybrid if local to Maryland | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5257500007 | sparksoftcorporation | DevOps Engineer - Mid Level | Remote/Hybrid if local to Maryland | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/batoncorporation/ef5dba80-b476-4a1d-8da3-5d6377ccd1cc | batoncorporation | Machine Learning Engineer ($400k - $600k salary) | New York | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1 | foundationhealthcareers | Software Engineer | Orlando, FL · United States - Remote · United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/flai/68e4597d-e628-4425-941f-bf48056e7828 | flai | Software Engineer | San Francisco | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/nectar-social/a7f7e374-4691-437e-abe9-6e41743b6c65 | nectar-social | Contract Full Stack Editor | Palo Alto, CA · New York City, NY · New York City · United States · Remote - USA · Los Angeles - Remote · Los Angeles | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/blissway/3048f89c-56a2-44d0-960f-2e6553f51d30 | blissway | Software Engineer, Machine Learning Operations | Denver, Colorado | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/peek/98943435-326f-4ea3-b766-22ba84471804 | peek | Sr. Backend Engineer | Mexico City · Cabo San Lucas, Mexico · Cabo San Lucas · Mexico · Chile · Santiago · Santiago de Chile · Región Metropolitana · Monterrey · Medellín, Colombia · Medellín · Colombia · Hermosillo · Guadalajara · Bogota, Colombia · Bogota · Cancún · Remote | posted: 2026-10-06
+- [ ] https://www.weareroku.com/jobs/8188704?gh_jid=8188704 | roku | Software Engineer, Early Careers AI/UI | San Jose, California | posted: 2026-10-06
+- [ ] https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004 | aloyoga | Software Engineers, Retail Systems | San Ramon, California, United States | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/marianaminerals/237dfe0c-7f9d-4264-bb8d-36e4012089bd | marianaminerals | Sr. Software Engineer, Infrastructure | San Francisco HQ · Houston, TX · Houston · US · Ann Arbor, MI · Ann Arbor · United States | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71 | sierra | Software Engineer, Inference | San Francisco, CA | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456 | baseten | Software Engineer - Inference Platform | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04 | baseten | Software Engineer - Inference Performance | San Francisco · Toronto · Canada · New York · United States · Montreal · Seattle | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9 | openai | Software Engineer, Cooperative AI | San Francisco · Seattle · United States | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/katapult-labs/463dfc6d-bf85-491f-9839-824514251ad2 | katapult-labs | Full-Stack Builder | Colombia · Remote | posted: 2026-10-05
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=8231071 | pinterest | Sr Software Engineer, EPD Ads | San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US | posted: 2026-10-05
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=8227344 | pinterest | Software Engineer II, EPD Ads | San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US | posted: 2026-10-05
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=8015547 | pinterest | Security Software Engineer II, Detection and Response | San Francisco, CA, US; Remote, US | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/physicalintelligence/6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe | physicalintelligence | ML Engineer - API Platform | San Francisco | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c | physicalintelligence | ML engineer - API Platform | San Francisco | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/pragmatike/6f314df9-3c97-4461-8c94-b8d5cc6c8120 | pragmatike | Ingénieur(e) Full-Stack / Télétravail LATAM | Argentina · Colombia · Peru · Brazil · Chile · Mexico · Remote | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/pragmatike/67adb7fa-f7b9-4909-9a49-baae68e3cf83 | pragmatike | Full-Stack Engineer (LATAM Remote) - FR speakers | Argentina · Colombia · Peru · Brazil · Chile · Mexico · Remote | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/pragmatike/f9ab1adf-a667-4df9-9ade-937549329276 | pragmatike | Full-Stack Engineer (Backend-Focused) - French speakers only | Argentina · Colombia · Peru · Brazil · Chile · Mexico · Remote | posted: 2026-10-05
+- [ ] https://nuro.ai/careersitem?gh_jid=8248317 | nuro | New Grad Software Engineer, Product Engineering | Mountain View, California (HQ) | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/8256880 | pinterestjobadvertisements | Sr. Machine Learning Engineer | San Francisco, CA, US; Remote, CA, US | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/8256832 | pinterestjobadvertisements | Sr. Machine Learning Engineer | San Francisco, CA, US; Remote, CA, US | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/8256727 | pinterestjobadvertisements | Machine Learning Engineer II | San Francisco, CA, US; Remote, CA, US | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/8256631 | pinterestjobadvertisements | Software Engineer II | Seattle, WA, US | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/8256451 | pinterestjobadvertisements | Sr. Machine Learning Engineer | Seattle, WA, US | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8221095 | beyondtrust | Sr Software Development Engineer | Remote United States / Remote Canada | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e | quindar | Backend Engineer | Denver, CO · Seattle, WA · Seattle · United States · Washington, DC · Washington · San Francisco, CA · San Francisco | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/camunda/327f13d9-6054-46e5-96cd-bd757554f478 | camunda | Software Engineer, Engineering Operations | Remote | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/pokemoncareers/jobs/8010082003 | pokemoncareers | Software Development Engineer (24-month Fixed Term) | Bellevue, Washington, United States | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257077007 | chaosindustries | Software Engineer - Guidance, Navigation, and Controls | El Segundo, California, United States | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257072007 | chaosindustries | Guidance, Navigation, and Control Software Engineer | El Segundo, California, United States | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257069007 | chaosindustries | GNC Software Engineer | El Segundo, California, United States | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257067007 | chaosindustries | Flight Controls & Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5257064007 | chaosindustries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/openloophealth/6aa1ee73-a9d9-4e25-a905-a228e8cece5a | openloophealth | Applied AI Engineer | United States - Remote | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/arcadeai/ef1e7820-4d7b-4196-a2ec-c9e4a8adf1ee | arcadeai | Founding Machine Learning Engineer | San Francisco, CA | posted: 2026-10-05
+- [ ] https://www.dremio.com/careers/job-postings/?gh_jid=8005826003 | dremio | Software Engineer - Query Execution | Portugal - Remote | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/8249005 | canonical | Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu | Home based - Worldwide | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/openeye/jobs/8868302002 | openeye | Software Engineer II | Liberty Lake, Washington | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/openeye/jobs/8868295002 | openeye | Software Engineer II | Liberty Lake, Washington | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/abinbev/jobs/8868234002 | abinbev | AI Engineer | Remote · Campinas, Brazil | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/rescale/7000359c-888c-4686-a17f-513a75d883a0 | rescale | Software Engineer, Agentic AI Systems | Remote (United States) | posted: 2026-10-05
+- [ ] https://job-boards.greenhouse.io/beyondtrust/jobs/8256040 | beyondtrust | Site Reliability Engineer | Remote United States | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/omni/40c5ad19-2fa1-4787-b654-4f274989aa77 | omni | Frontend Engineer, Data Visualization | San Francisco, CA · Santa Cruz, CA · Santa Cruz · United States · Denver, CO · Denver · Philadelphia, PA · Philadelphia · Seattle, WA · Seattle | posted: 2026-10-05
+- [ ] https://www.bill.com/job?6206053004&gh_jid=6206053004 | billcom | Software Engineer II | United States | posted: 2026-10-04
+- [ ] https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef | ambrook | Software Engineer, AI | San Francisco · New York · United States · Denver · Remote | posted: 2026-10-04
+- [ ] https://jobs.ashbyhq.com/openai/88164d12-c8ed-4b62-ae26-dcb6f1cc8482 | openai | Software Engineer, Enterprise Controls | San Francisco | posted: 2026-10-03
+- [ ] https://jobs.ashbyhq.com/openai/b94099f6-8418-48b0-82b5-5953a27d636f | openai | Software Engineer, OpenAI Presence | San Francisco | posted: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007 | andurilindustries | Platform Engineer, Radar | Fort Collins, Colorado, United States | posted: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007 | andurilindustries | DevOps Engineer, Radar | Fort Collins, Colorado, United States | posted: 2026-10-03
+- [ ] https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002 | spacex | Software Engineer (Starshield Products) | Washington, DC | posted: 2026-10-03
+- [ ] https://jobs.ashbyhq.com/infisical/351240fc-0dd3-48c3-a46e-e8861cae27cd | infisical | Full Stack Engineer | United States · United Kingdom · Brazil · Canada · Remote | posted: 2026-10-02
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8250247 | smartsheet | Sr. Software Engineer II (Remote Eligible) | -REMOTE, USA- | posted: 2026-10-02
+- [ ] https://jobs.lever.co/appen-2/cf26dee7-d6ec-4e86-acaf-f481eace21e2 | appen-2 | Applied AI Research Engineer | Remote India | posted: 2026-10-02
+- [ ] https://jobs.ashbyhq.com/oneapp/946f0192-9c64-4b86-8fbd-5ff107cbf88f | oneapp | Quality Platform Engineer | United States (Remote) | posted: 2026-10-02
+- [ ] https://job-boards.greenhouse.io/opploans/jobs/8011770003 | opploans | Software Engineer I | United States | posted: 2026-10-02
+
+## Processed
