@@ -337,4 +337,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5260890007 | altentechnologyusa | Full Stack Developer | Fully Remote | posted: 2026-10-07
 - [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5257595007 | tenstorrent | Applied AI Engineer | Santa Clara, California, United States | posted: 2026-10-06
 
+- [ ] https://jobs.lever.co/alluxio/75e69e43-6658-4fe7-a51b-2b7921def1c2 | alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-10-10
+
 ## Processed
