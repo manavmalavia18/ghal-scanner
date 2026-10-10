@@ -313,4 +313,25 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/oneapp/946f0192-9c64-4b86-8fbd-5ff107cbf88f | oneapp | Quality Platform Engineer | United States (Remote) | posted: 2026-10-02
 - [ ] https://job-boards.greenhouse.io/opploans/jobs/8011770003 | opploans | Software Engineer I | United States | posted: 2026-10-02
 
+- [ ] https://job-boards.greenhouse.io/scoutai/jobs/5449556008 | scoutai | Software Engineer, Core Systems | Sunnyvale, California | posted: 2026-10-10
+- [ ] https://jobs.ashbyhq.com/plaud/0bc163e4-f8a6-427a-aaeb-c98104df2997 | plaud | Backend Engineer - Concumer & Commerce | Palo Alto, CA · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-10-10
+- [ ] https://careers.roblox.com/jobs/8209006?gh_jid=8209006 | roblox | Software Engineer, Account Security | San Mateo, CA, United States | posted: 2026-10-09
+- [ ] https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003 | abnormalsecurity | Software Engineer 2 - Development Infrastructure | Remote - USA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/quindar/752a6842-9b9a-4f3c-9726-9c606815a222 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-09
+- [ ] https://careers.roblox.com/jobs/8262223?gh_jid=8262223 | roblox | Software Engineer, ROS | San Mateo, CA, United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8879836002 | Twitch | Software Engineer II, Fintech | San Francisco, CA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/gallatin/8de1a441-15aa-4993-a0f5-d76be215b139 | gallatin | Backend Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/gallatin/a9088c68-98e4-4854-a5fb-e9d0ec6ebc5a | gallatin | AI Software Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/openrouter/78fc4670-5ba0-4146-b8b1-1ef4d91b96f1 | openrouter | Site Reliability Engineer, Provider Operations | Remote (US) | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449409008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449384008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/ironcladhq/9af62746-1c31-44d7-b2a7-faf6eefeffc1 | ironcladhq | Software Engineer II, Developer Productivity | San Francisco | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449383008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5449382008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-09
+- [ ] https://glginsights.com/careers/jobs/7978289003?gh_jid=7978289003 | gersonlehrmangroup | Software Engineer | Austin | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda | openai | Software Engineer, API Agents | San Francisco | posted: 2026-10-09
+- [ ] https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2 | field-ai | Robotics AI Engineer – Calibration, Localization, and Mapping | Boston, MA | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8879673002 | Twitch | Software Engineer I | San Francisco, CA | posted: 2026-10-08
+- [ ] https://job-boards.greenhouse.io/truebill/jobs/8013696003 | Truebill | Software Engineer, Design Systems | San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA) | posted: 2026-10-05
+
 ## Processed
