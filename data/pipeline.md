@@ -327,3 +327,7 @@
 - [ ] https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2 | field-ai | Robotics AI Engineer – Calibration, Localization, and Mapping | Boston, MA | posted: 2026-10-09
 
 - [ ] https://careers.roblox.com/jobs/8262223?gh_jid=8262223 | roblox | Software Engineer, ROS | San Mateo, CA, United States | posted: 2026-10-09
+
+- [ ] https://careers.roblox.com/jobs/8209006?gh_jid=8209006 | roblox | Software Engineer, Account Security | San Mateo, CA, United States | posted: 2026-10-09
+- [ ] https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003 | abnormalsecurity | Software Engineer 2 - Development Infrastructure | Remote - USA | posted: 2026-10-09
+- [ ] https://jobs.ashbyhq.com/quindar/752a6842-9b9a-4f3c-9726-9c606815a222 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-09
