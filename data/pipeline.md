@@ -335,3 +335,5 @@
 - [ ] https://job-boards.greenhouse.io/scoutai/jobs/5449556008 | scoutai | Software Engineer, Core Systems | Sunnyvale, California | posted: 2026-10-10
 - [ ] https://jobs.ashbyhq.com/plaud/0bc163e4-f8a6-427a-aaeb-c98104df2997 | plaud | Backend Engineer - Concumer & Commerce | Palo Alto, CA · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-10-10
 - [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5260890007 | altentechnologyusa | Full Stack Developer | Fully Remote | posted: 2026-10-07
+
+- [ ] https://jobs.lever.co/alluxio/75e69e43-6658-4fe7-a51b-2b7921def1c2 | alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-10-10
