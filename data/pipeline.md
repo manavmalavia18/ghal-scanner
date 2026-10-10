@@ -331,3 +331,7 @@
 - [ ] https://careers.roblox.com/jobs/8209006?gh_jid=8209006 | roblox | Software Engineer, Account Security | San Mateo, CA, United States | posted: 2026-10-09
 - [ ] https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003 | abnormalsecurity | Software Engineer 2 - Development Infrastructure | Remote - USA | posted: 2026-10-09
 - [ ] https://jobs.ashbyhq.com/quindar/752a6842-9b9a-4f3c-9726-9c606815a222 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-09
+
+- [ ] https://job-boards.greenhouse.io/scoutai/jobs/5449556008 | scoutai | Software Engineer, Core Systems | Sunnyvale, California | posted: 2026-10-10
+- [ ] https://jobs.ashbyhq.com/plaud/0bc163e4-f8a6-427a-aaeb-c98104df2997 | plaud | Backend Engineer - Concumer & Commerce | Palo Alto, CA · Seattle, WA · Seattle · United States · San Francisco, CA · San Francisco | posted: 2026-10-10
+- [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5260890007 | altentechnologyusa | Full Stack Developer | Fully Remote | posted: 2026-10-07
