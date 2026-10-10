@@ -334,4 +334,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/twitch/jobs/8879673002 | Twitch | Software Engineer I | San Francisco, CA | posted: 2026-10-08
 - [ ] https://job-boards.greenhouse.io/truebill/jobs/8013696003 | Truebill | Software Engineer, Design Systems | San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA) | posted: 2026-10-05
 
+- [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5260890007 | altentechnologyusa | Full Stack Developer | Fully Remote | posted: 2026-10-07
+- [ ] https://job-boards.greenhouse.io/tenstorrent/jobs/5257595007 | tenstorrent | Applied AI Engineer | Santa Clara, California, United States | posted: 2026-10-06
+
 ## Processed
