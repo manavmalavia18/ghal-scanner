@@ -337,3 +337,6 @@
 - [ ] https://job-boards.greenhouse.io/altentechnologyusa/jobs/5260890007 | altentechnologyusa | Full Stack Developer | Fully Remote | posted: 2026-10-07
 
 - [ ] https://jobs.lever.co/alluxio/75e69e43-6658-4fe7-a51b-2b7921def1c2 | alluxio | Software Engineer – Distributed Systems | Foster City, California | posted: 2026-10-10
+
+- [ ] https://jobs.ashbyhq.com/optimum/f81c0d67-aa57-4755-925a-058b22c6619f | optimum | Jr. Software Engineer | Remote | posted: 2026-10-11
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007 | andurilindustries | Software Engineer, Strategic Defense | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | posted: 2026-10-11
