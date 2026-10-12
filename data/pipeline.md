@@ -361,3 +361,6 @@
 - [ ] https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2 | brillio-2 | AI Engineer | Dallas, Texas, United States | posted: 2026-10-12
 
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4721082006?gh_jid=4721082006 | accenturefederalservices | PeopleSoft Application Developer | Washington, DC | posted: 2026-10-12
+
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/7609297?gh_jid=7609297 | crunchyroll | Software Engineer III, Apple | San Francisco, CA, United States | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-12
