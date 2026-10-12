@@ -74,4 +74,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sands.wd1.myworkdayjobs.com/sands_careers/job/Remote-United-States/Sr-Software-Engineer---AI-First-Development_R26_0141 | sands | Sr Software Engineer - AI-First Development | Remote, United States | posted: 2026-10-12
 - [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---IL---CHICAGO/Sr-Analyst-I-Software-Engineering---CC_51590698 | dxctechnology | Sr Analyst I Software Engineering - CC | USA - IL - CHICAGO | posted: 2026-10-12
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/AI-DevOps-Engineer---Level-4--AHT-_R10255138 | ngc | AI/DevOps Engineer - Level 4 (AHT) | United States-California-Redondo Beach | posted: 2026-10-12
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/HCM-Cloud-Platform---DevOps-Engineer_333467 | caci | HCM Cloud Platform & DevOps Engineer | Remote (Any State) | posted: 2026-10-12
+
 ## Processed
