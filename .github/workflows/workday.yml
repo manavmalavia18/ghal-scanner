@@ -35,9 +35,18 @@ jobs:
             echo "no changes to commit"
           else
             git commit -m "workday: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
             for attempt in 1 2 3; do
-              git pull --rebase --quiet && git push && break
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
               echo "push attempt $attempt failed, retrying..."
               sleep 5
             done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
           fi

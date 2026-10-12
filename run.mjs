@@ -35,7 +35,7 @@ const started = Date.now();
 const r = spawnSync(process.execPath, args, {
   cwd: ROOT,
   stdio: 'inherit',
-  env: process.env,
+  env: { ...process.env, CAREER_OPS_COOLDOWN_PATH: 'data/cache/scan-dead-boards-ghal.json' },
 });
 const elapsed = ((Date.now() - started) / 1000).toFixed(1);
 

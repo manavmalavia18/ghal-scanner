@@ -85,7 +85,14 @@ const CHECKPOINT_EVERY = 500;
 // See lib/scan-cooldown.mjs for why — this is what turned routine Workday
 // hourly sweeps into occasional 9+ hour runs (roughly half the ~13-16k
 // tenant list is dead on every single pass).
-const COOLDOWN_PATH = 'data/cache/scan-dead-boards.json';
+// Each GitHub Actions workflow (GHAL, Workday, tracked-boards, seeds) commits
+// to the same repo/branch independently. Cooldown keys are always prefixed
+// by ats (workday:x, greenhouse:x, smartrecruiters:x...) so there is zero
+// cross-workflow benefit to a shared file — but a shared file DOES mean
+// concurrent commits regularly produce unresolvable JSON merge conflicts
+// (observed directly: a real one on this exact file). One file per workflow,
+// same reasoning as CAREER_OPS_SCAN_HISTORY/CAREER_OPS_PIPELINE below.
+const COOLDOWN_PATH = process.env.CAREER_OPS_COOLDOWN_PATH || 'data/cache/scan-dead-boards.json';
 
 export function loadCheckpoint(file = CHECKPOINT_PATH) {
   if (!existsSync(file)) return null;

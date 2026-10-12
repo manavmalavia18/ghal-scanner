@@ -42,6 +42,7 @@ const r = spawnSync(process.execPath, args, {
     ...process.env,
     CAREER_OPS_SCAN_HISTORY: 'data/scan-history-seeds.tsv',
     CAREER_OPS_PIPELINE: 'data/pipeline-seeds.md',
+    CAREER_OPS_COOLDOWN_PATH: 'data/cache/scan-dead-boards-seeds.json',
   },
 });
 const elapsed = ((Date.now() - started) / 1000).toFixed(1);

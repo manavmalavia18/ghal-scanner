@@ -33,6 +33,7 @@ const r = spawnSync(process.execPath, args, {
     ...process.env,
     CAREER_OPS_SCAN_HISTORY: 'data/scan-history-workday.tsv',
     CAREER_OPS_PIPELINE: 'data/pipeline-workday.md',
+    CAREER_OPS_COOLDOWN_PATH: 'data/cache/scan-dead-boards-workday.json',
   },
 });
 const elapsed = ((Date.now() - started) / 1000).toFixed(1);

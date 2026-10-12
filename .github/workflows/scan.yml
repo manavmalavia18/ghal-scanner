@@ -49,9 +49,24 @@ jobs:
             # schedule — rebase onto whatever landed since checkout started,
             # retrying once, so a near-simultaneous run from the other
             # workflow doesn't get this push rejected outright.
+            pushed=0
             for attempt in 1 2 3; do
-              git pull --rebase --quiet && git push && break
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
               echo "push attempt $attempt failed, retrying..."
               sleep 5
             done
+            # A failed rebase/push left stranded commits in THIS ephemeral
+            # runner only — nothing reached GitHub. Silently continuing (the
+            # old behavior) made the job report "success" despite publishing
+            # nothing; the next scheduled run would just repeat the same
+            # fresh/duplicate work forever with no visible sign anything was
+            # wrong. Fail loudly instead.
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
           fi
