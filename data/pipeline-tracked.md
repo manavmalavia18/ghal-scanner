@@ -18,4 +18,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484 | Aderant | Associate Software Engineer | Atlanta, Georgia | posted: 2026-10-12
 - [ ] https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2024-Blackstone-Technology-and-Innovations---Software-Developer-Analyst_29127 | Blackstone | 2024 Blackstone Technology and Innovations - Software Developer Analyst | New York
 
+- [ ] https://jobs.ashbyhq.com/clera/a4e649a7-1b60-4ebd-9d5f-0925c4423a04 | Clera | Founding ML Engineer, Computer Vision (Object Detection) | remote | posted: 2026-10-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925 | Hewlett Packard Enterprise | Software Development Engineer in Test | 4 Locations | posted: 2026-10-12
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Sr-Web-Developer_R-10397883 | Fiserv | Sr. Front-End/Full Stack Developer | Sunnyvale, California | posted: 2026-10-12
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/Software-Development-Engineer-in-Test_1201925-1 | Hpe | Software Development Engineer in Test | 4 Locations | posted: 2026-10-12
+- [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/AI-ML-Engineer_31164306-1 | Abbott | AI/ML Engineer | United States - California - Alameda | posted: 2026-10-12
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-MTS_JR357929 | Salesforce | Software Engineering MTS | 2 Locations | posted: 2026-10-12
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR363489 | Salesforce | Software Engineering LMTS | California - San Francisco | posted: 2026-10-12
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS---Data--Remote-_JR363374 | Salesforce | Software Engineering LMTS - Data (Remote) | California - San Francisco | posted: 2026-10-12
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Austin-Texas/Site-Reliability-Engineer_R-799337 | Statestreet | Site Reliability Engineer | Austin, Texas | posted: 2026-10-12
+- [ ] https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/USA-NC-DURHAM-01614-WM-SUPERCENTER/XMLNAME--USA--Front-End-Coach_R-2676429 | Walmart | (USA) Front End Coach | (USA) NC DURHAM 01614 WM SUPERCENTER | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4448761009 | GRVTY | Mid/Sr Software Developer | Aurora, Colorado, United States; Chantilly, Virginia, United States; Herndon, Virginia, United States; Sterling, Virginia, United States | posted: 2026-10-12
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Platform-Engineer_REQ361405-1 | Tmobile | Platform Engineer | Frisco, Texas | posted: 2026-10-12
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Software-Engineer-FSOP-Sales-Experience_R-140123 | The Coca-Cola Company | Software Engineer II - CRM | US - GA - Atlanta | posted: 2026-10-12
+- [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Software-Engineer_2136288 | Fidelity Investments | Full Stack Engineer – AI Technology | Boston, MA | posted: 2026-10-12
+
 ## Processed
