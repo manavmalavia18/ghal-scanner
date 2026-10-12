@@ -357,3 +357,5 @@
 - [ ] https://jobs.ashbyhq.com/newxel/0e4cfe8f-590d-4f6c-9dbb-3dfe2f946ce4 | newxel | Full-Stack Developer (NXJ-215) | Europe · Remote | posted: 2026-10-12
 - [ ] https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811 | qualtrics | Software Engineer I | Provo, Utah, United States | posted: 2026-10-09
 - [ ] https://slice.careers/careers-listing?gh_jid=8260907 | slice | Software Developer, Web | Fully remote - Canada, UK & North Macedonia | posted: 2026-10-09
+
+- [ ] https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2 | brillio-2 | AI Engineer | Dallas, Texas, United States | posted: 2026-10-12
