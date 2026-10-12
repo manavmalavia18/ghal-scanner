@@ -347,3 +347,13 @@
 - [ ] https://jobs.ashbyhq.com/mem0/642f00ec-c220-48a5-9a4d-4af67875032c | mem0 | AI Full Stack Engineer | San Francisco Bay Area | posted: 2026-10-11
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002 | databricks | Sr. AI Engineer, AI FDE | Remote - India | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d | taxo | Software Engineer (AI Quality & Reliability) | New York City | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4448448009 | li-thermal-works | Platform Engineer (ServiceNow) | Remote - US | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8 | empirical-security | Software Engineer | Remote | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4448422009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/staycation/9cc9d2ac-4478-442a-a2b6-9b3deca9efd4 | staycation | 📱 Fullstack Developer (Paris or remote) | Paris, France · Remote · France | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/newxel/0e4cfe8f-590d-4f6c-9dbb-3dfe2f946ce4 | newxel | Full-Stack Developer (NXJ-215) | Europe · Remote | posted: 2026-10-12
+- [ ] https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811 | qualtrics | Software Engineer I | Provo, Utah, United States | posted: 2026-10-09
+- [ ] https://slice.careers/careers-listing?gh_jid=8260907 | slice | Software Developer, Web | Fully remote - Canada, UK & North Macedonia | posted: 2026-10-09
