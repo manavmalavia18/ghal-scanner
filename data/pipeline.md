@@ -384,3 +384,5 @@
 
 - [ ] https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11 | titan-msp | Software Engineer - Applied AI | San Francisco · New York City, San Francisco · New York City · United States | posted: 2026-10-12
 - [ ] https://www.asm.com/open-vacancies/?gh_jid=4966075101 | asm | Field Software Engineer | US > Arizona > Chandler | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa | benchling | Software Engineer, Extensibility Platform | San Francisco, CA | posted: 2026-10-12
