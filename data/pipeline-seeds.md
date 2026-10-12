@@ -342,4 +342,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/optimum/f81c0d67-aa57-4755-925a-058b22c6619f | optimum | Jr. Software Engineer | Remote | posted: 2026-10-11
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007 | andurilindustries | Software Engineer, Strategic Defense | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | posted: 2026-10-11
 
+- [ ] https://jobs.ashbyhq.com/simple-ai/9a5f5694-e066-4087-9a13-b1a62d8d8025 | simple-ai | Software Engineer | San Francisco | posted: 2026-10-11
+- [ ] https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc | nox-metals | Machine Learning Engineer | Los Angeles · San Francisco | posted: 2026-10-11
+- [ ] https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7 | nox-metals | Full Stack Engineer | Los Angeles · San Francisco | posted: 2026-10-11
+- [ ] https://jobs.ashbyhq.com/mem0/642f00ec-c220-48a5-9a4d-4af67875032c | mem0 | AI Full Stack Engineer | San Francisco Bay Area | posted: 2026-10-11
+
 ## Processed
