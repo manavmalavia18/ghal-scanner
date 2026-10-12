@@ -1,0 +1,43 @@
+name: Workday reverse scan
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: workday-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 13
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+      - name: Run Workday scan
+        run: node run-workday.mjs
+        env:
+          WORKDAY_SINCE: '1'
+      - name: Commit results
+        run: |
+          git config user.name "ghal-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "workday: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for attempt in 1 2 3; do
+              git pull --rebase --quiet && git push && break
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+          fi
