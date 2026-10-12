@@ -381,3 +381,6 @@
 - [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4741984005 | globalhealthcareexchangeinc | Software Engineer III - Full Stack, Angular, Java, AWS | Office Location or Remote - USA | posted: 2026-10-12
 
 - [ ] https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae | cursor | Software Engineer, RL Data | San Francisco | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11 | titan-msp | Software Engineer - Applied AI | San Francisco · New York City, San Francisco · New York City · United States | posted: 2026-10-12
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=4966075101 | asm | Field Software Engineer | US > Arizona > Chandler | posted: 2026-10-12
