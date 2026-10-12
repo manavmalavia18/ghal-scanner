@@ -386,3 +386,10 @@
 - [ ] https://www.asm.com/open-vacancies/?gh_jid=4966075101 | asm | Field Software Engineer | US > Arizona > Chandler | posted: 2026-10-12
 
 - [ ] https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa | benchling | Software Engineer, Extensibility Platform | San Francisco, CA | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d | root-access | Simulation and Software Engineer | New York City | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce | root-access | Machine Learning Engineer (Physics-based) | New York City | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/enformion/jobs/5263750007 | enformion | Site Reliability Engineer (SRE) | Remote · No Office | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0 | chaidiscovery | Software Engineer, AI Platform | San Francisco office | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64 | chaidiscovery | Software Engineer, Developer & Research Platform | San Francisco office | posted: 2026-10-12
+- [ ] https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f | zoox | Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA; Seattle, WA | posted: 2026-10-12
