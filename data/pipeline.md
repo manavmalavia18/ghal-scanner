@@ -374,3 +374,5 @@
 - [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006 | gelbergroup | Software Engineer- Equity Derivatives Trading Desk | Chicago, IL | posted: 2026-10-12
 
 - [ ] https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2 | lendbuzz | Software Engineer (Backend) | Boston, MA | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/virtahealth/0cd02f05-28be-4d24-abb6-46fddc487971 | virtahealth | Software Engineer | Remote | posted: 2026-10-12
