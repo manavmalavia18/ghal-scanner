@@ -69,4 +69,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/AI-ML-Engineer_31164306-1 | abbott | AI/ML Engineer | United States - California - Alameda | posted: 2026-10-12
 - [ ] https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Alameda/AI-ML-Engineer_31164306 | abbott | AI/ML Engineer | United States - California - Alameda | posted: 2026-10-12
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Principal-Sr-Principal-Embedded-Software-Engineer--Active-Secret-_R10242053 | ngc | Flight Software Engineer - Level 3 or 4 (Active Secret) - AHT | United States-California-Redondo Beach | posted: 2026-10-12
+
 ## Processed
