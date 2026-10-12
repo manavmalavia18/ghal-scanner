@@ -345,3 +345,5 @@
 - [ ] https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc | nox-metals | Machine Learning Engineer | Los Angeles · San Francisco | posted: 2026-10-11
 - [ ] https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7 | nox-metals | Full Stack Engineer | Los Angeles · San Francisco | posted: 2026-10-11
 - [ ] https://jobs.ashbyhq.com/mem0/642f00ec-c220-48a5-9a4d-4af67875032c | mem0 | AI Full Stack Engineer | San Francisco Bay Area | posted: 2026-10-11
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002 | databricks | Sr. AI Engineer, AI FDE | Remote - India | posted: 2026-10-12
