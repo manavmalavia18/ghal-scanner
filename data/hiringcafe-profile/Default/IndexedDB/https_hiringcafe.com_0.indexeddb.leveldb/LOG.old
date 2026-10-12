@@ -1,0 +1,20 @@
+2026/10/12-17:35:44.438 e1f Creating DB /home/runner/work/ghal-scanner/ghal-scanner/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb since it was missing.
+2026/10/12-17:35:44.439 e1f Reusing MANIFEST /home/runner/work/ghal-scanner/ghal-scanner/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/12-17:35:44.498 e21 Level-0 table #5: started
+2026/10/12-17:35:44.498 e21 Level-0 table #5: 1266 bytes OK
+2026/10/12-17:35:44.499 e21 Delete type=0 #3
+2026/10/12-17:35:44.499 e1f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/12-17:35:49.285 e1f Level-0 table #7: started
+2026/10/12-17:35:49.286 e1f Level-0 table #7: 1963 bytes OK
+2026/10/12-17:35:49.286 e1f Delete type=0 #4
+2026/10/12-17:35:49.288 e22 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/12-17:35:51.963 e21 Level-0 table #9: started
+2026/10/12-17:35:51.963 e21 Level-0 table #9: 992 bytes OK
+2026/10/12-17:35:51.965 e21 Delete type=0 #6
+2026/10/12-17:35:51.965 e20 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 165 : 1
+2026/10/12-17:35:51.965 e20 Compacting 1@0 + 1@1 files
+2026/10/12-17:35:51.966 e20 Generated table #10@0: 59 keys, 1498 bytes
+2026/10/12-17:35:51.966 e20 Compacted 1@0 + 1@1 files => 1498 bytes
+2026/10/12-17:35:51.966 e20 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/12-17:35:51.966 e20 Delete type=2 #9
+2026/10/12-17:35:51.967 e20 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 165 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
