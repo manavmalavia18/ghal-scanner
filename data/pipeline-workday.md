@@ -71,4 +71,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Principal-Sr-Principal-Embedded-Software-Engineer--Active-Secret-_R10242053 | ngc | Flight Software Engineer - Level 3 or 4 (Active Secret) - AHT | United States-California-Redondo Beach | posted: 2026-10-12
 
+- [ ] https://sands.wd1.myworkdayjobs.com/sands_careers/job/Remote-United-States/Sr-Software-Engineer---AI-First-Development_R26_0141 | sands | Sr Software Engineer - AI-First Development | Remote, United States | posted: 2026-10-12
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---IL---CHICAGO/Sr-Analyst-I-Software-Engineering---CC_51590698 | dxctechnology | Sr Analyst I Software Engineering - CC | USA - IL - CHICAGO | posted: 2026-10-12
+
 ## Processed
