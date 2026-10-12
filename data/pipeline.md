@@ -370,3 +370,5 @@
 - [ ] https://job-boards.greenhouse.io/grvty/jobs/4448761009 | grvty | Mid/Sr Software Developer | Aurora, Colorado, United States; Chantilly, Virginia, United States; Herndon, Virginia, United States; Sterling, Virginia, United States | posted: 2026-10-12
 
 - [ ] https://job-boards.greenhouse.io/datacor/jobs/5257433007 | datacor | Software Engineer | Remote, US | posted: 2026-10-12
+
+- [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006 | gelbergroup | Software Engineer- Equity Derivatives Trading Desk | Chicago, IL | posted: 2026-10-12
