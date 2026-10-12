@@ -359,3 +359,5 @@
 - [ ] https://slice.careers/careers-listing?gh_jid=8260907 | slice | Software Developer, Web | Fully remote - Canada, UK & North Macedonia | posted: 2026-10-09
 
 - [ ] https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2 | brillio-2 | AI Engineer | Dallas, Texas, United States | posted: 2026-10-12
+
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4721082006?gh_jid=4721082006 | accenturefederalservices | PeopleSoft Application Developer | Washington, DC | posted: 2026-10-12
