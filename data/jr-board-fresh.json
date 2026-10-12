@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T18:03:26.912Z",
+  "fetchedAt": "2026-10-12T21:06:50.632Z",
   "days": 2,
-  "leadCount": 57,
-  "jobCount": 17,
+  "leadCount": 71,
+  "jobCount": 21,
   "boards": [
     {
       "key": "greenhouse:vectara",
@@ -12,6 +12,11 @@
     {
       "key": "greenhouse:mixpanel",
       "fetched": 55,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:tailscale",
+      "fetched": 63,
       "kept": 0
     },
     {
@@ -36,17 +41,7 @@
     },
     {
       "key": "greenhouse:gleanwork",
-      "fetched": 131,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:stage",
-      "fetched": 131,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:trace3",
-      "fetched": 83,
+      "fetched": 132,
       "kept": 0
     },
     {
@@ -60,18 +55,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:trace3",
+      "fetched": 83,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:upstart",
-      "fetched": 87,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:undercontrolroboticsinc",
-      "fetched": 11,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:bespoketechnologies",
-      "fetched": 58,
+      "fetched": 88,
       "kept": 0
     },
     {
@@ -80,13 +70,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:tailscale",
-      "fetched": 63,
+      "key": "greenhouse:undercontrolroboticsinc",
+      "fetched": 11,
       "kept": 0
     },
     {
-      "key": "greenhouse:wehrtyou",
-      "fetched": 87,
+      "key": "greenhouse:stage",
+      "fetched": 130,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:bespoketechnologies",
+      "fetched": 58,
       "kept": 0
     },
     {
@@ -95,13 +90,38 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:doordashusa",
+      "fetched": 462,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:xai",
-      "fetched": 306,
+      "fetched": 307,
       "kept": 0
     },
     {
       "key": "greenhouse:drweng",
-      "fetched": 175,
+      "fetched": 174,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:wehrtyou",
+      "fetched": 87,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:duolingounirecruitment",
+      "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:anthropic",
+      "fetched": 647,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:explore",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -115,6 +135,21 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:rfsmart",
+      "fetched": 26,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:drivepoint",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:hasbro",
+      "fetched": 115,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:woolpert",
       "fetched": 119,
       "kept": 0
@@ -125,13 +160,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:karman%20industries",
-      "fetched": 31,
+      "key": "greenhouse:vast",
+      "fetched": 184,
       "kept": 0
     },
     {
       "key": "ashby:chalk",
       "fetched": 17,
+      "kept": 0
+    },
+    {
+      "key": "ashby:karman%20industries",
+      "fetched": 31,
       "kept": 0
     },
     {
@@ -150,14 +190,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:ramp",
-      "fetched": 165,
+      "key": "ashby:langchain",
+      "fetched": 101,
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 102,
-      "kept": 0
+      "key": "ashby:quindar",
+      "fetched": 20,
+      "kept": 1
     },
     {
       "key": "ashby:decagon",
@@ -165,8 +205,48 @@
       "kept": 0
     },
     {
+      "key": "ashby:joinpogo",
+      "fetched": 11,
+      "kept": 1
+    },
+    {
+      "key": "ashby:uforce",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
+      "key": "ashby:spoton",
+      "fetched": 74,
+      "kept": 0
+    },
+    {
+      "key": "ashby:taxo",
+      "fetched": 8,
+      "kept": 3
+    },
+    {
+      "key": "ashby:empirical-security",
+      "fetched": 8,
+      "kept": 1
+    },
+    {
+      "key": "ashby:elevenlabs",
+      "fetched": 132,
+      "kept": 0
+    },
+    {
       "key": "ashby:namespace",
       "fetched": 13,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:datadog",
+      "fetched": 433,
+      "kept": 0
+    },
+    {
+      "key": "ashby:mintmcp",
+      "fetched": 7,
       "kept": 1
     },
     {
@@ -180,14 +260,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:nestmed",
-      "fetched": 3,
-      "kept": 1
-    },
-    {
-      "key": "ashby:nox-metals",
-      "fetched": 37,
-      "kept": 2
+      "key": "ashby:ramp",
+      "fetched": 164,
+      "kept": 0
     },
     {
       "key": "ashby:clark",
@@ -195,19 +270,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:datadog",
-      "fetched": 434,
-      "kept": 0
+      "key": "ashby:nox-metals",
+      "fetched": 36,
+      "kept": 2
     },
     {
-      "key": "ashby:joinpogo",
-      "fetched": 11,
+      "key": "ashby:nestmed",
+      "fetched": 3,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:anthropic",
-      "fetched": 645,
-      "kept": 0
     },
     {
       "key": "ashby:legora",
@@ -225,8 +295,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 466,
+      "key": "lever:exowatt",
+      "fetched": 14,
       "kept": 0
     },
     {
@@ -235,24 +305,29 @@
       "kept": 0
     },
     {
-      "key": "lever:runlaminar",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "lever:exowatt",
-      "fetched": 14,
-      "kept": 0
-    },
-    {
       "key": "workday:fico.wd1.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:acronaviation",
+      "fetched": 51,
       "kept": 0
     },
     {
       "key": "workday:parsons.wd5.myworkdayjobs.com/search",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "key": "workday:gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
+      "fetched": 20,
+      "kept": 2
     },
     {
       "key": "workday:panerabread.wd5.myworkdayjobs.com/panera_careers",
@@ -265,8 +340,8 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 722,
+      "key": "lever:runlaminar",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -275,14 +350,9 @@
       "kept": 0
     },
     {
-      "key": "workday:gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
-      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
-      "fetched": 20,
-      "kept": 2
+      "key": "greenhouse:stripe",
+      "fetched": 723,
+      "kept": 0
     },
     {
       "key": "workday:guidehouse.wd1.myworkdayjobs.com/external",
@@ -302,6 +372,66 @@
       "board": "hark"
     },
     {
+      "title": "Full Stack Engineer ",
+      "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506",
+      "company": "Quindar",
+      "location": "Denver, CO",
+      "postedAt": "2026-10-12T16:51:49.120Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "quindar"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/6c485313-37b6-4f5b-a364-87e910310951",
+      "company": "Pogo Technologies",
+      "location": "United States/Canada · Remote",
+      "postedAt": "2026-10-12T15:03:22.492Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "joinpogo"
+    },
+    {
+      "title": "Senior Software Engineer (Full Stack)",
+      "url": "https://jobs.ashbyhq.com/taxo/961b988f-1559-4838-b7d4-00639760292f",
+      "company": "Taxo",
+      "location": "New York City",
+      "postedAt": "2026-10-12T14:35:43.570Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "taxo"
+    },
+    {
+      "title": "Senior Software Engineer (Voice AI)",
+      "url": "https://jobs.ashbyhq.com/taxo/5256e677-0f8c-4fb9-9771-b59094e7b39a",
+      "company": "Taxo",
+      "location": "New York City",
+      "postedAt": "2026-10-12T14:35:28.126Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "taxo"
+    },
+    {
+      "title": "Software Engineer (AI Quality & Reliability)",
+      "url": "https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d",
+      "company": "Taxo",
+      "location": "New York City",
+      "postedAt": "2026-10-12T14:35:03.597Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "taxo"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8",
+      "company": "Empirical Security",
+      "location": "Remote",
+      "postedAt": "2026-10-12T14:06:09.002Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "empirical-security"
+    },
+    {
       "title": "DevOps Engineer, US",
       "url": "https://jobs.ashbyhq.com/namespace/e1aafe2a-d9e4-465e-8c20-6ec62b25720d",
       "company": "Namespace Labs",
@@ -310,6 +440,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "namespace"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292",
+      "company": "MintMCP",
+      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
+      "postedAt": "2026-10-12T14:13:47.674Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mintmcp"
     },
     {
       "title": "Power Platform Engineer",
@@ -322,6 +462,26 @@
       "board": "mindmoves"
     },
     {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
+      "company": "Nox Metals",
+      "location": "Los Angeles · San Francisco · San Fransisco · United States",
+      "postedAt": "2026-10-11T20:54:19.984Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "nox-metals"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
+      "company": "Nox Metals",
+      "location": "Los Angeles · San Francisco · San Fransisco · United States",
+      "postedAt": "2026-10-11T20:53:59.145Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "nox-metals"
+    },
+    {
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/nestmed/3295edf1-a2d5-40f4-9edd-6fa68b1bca9d",
       "company": "Nestmed",
@@ -332,34 +492,26 @@
       "board": "nestmed"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
-      "company": "Nox Metals",
-      "location": "Los Angeles · San Francisco",
-      "postedAt": "2026-10-11T20:54:19.984Z",
+      "title": "Senior Cloud Platform Engineer — Architecture Foundry",
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Senior-Cloud-Platform-Engineer---Architecture-Foundry_34894",
+      "company": "CME Group",
+      "location": "Chicago - 20 S. Wacker",
+      "postedAt": "2026-10-12T12:00:00.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "nox-metals"
+      "ats": "Workday",
+      "board": "cme_careers",
+      "postedAtSource": "workday-detail"
     },
     {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
-      "company": "Nox Metals",
-      "location": "Los Angeles · San Francisco",
-      "postedAt": "2026-10-11T20:53:59.145Z",
+      "title": "Data Platform Engineering II",
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cloud-Data-Platform-Engineering-Lead_33968-1",
+      "company": "CME Group",
+      "location": "Chicago - 20 S. Wacker",
+      "postedAt": "2026-10-12T12:00:00.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "nox-metals"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/joinpogo/6c485313-37b6-4f5b-a364-87e910310951",
-      "company": "Pogo Technologies",
-      "location": "United States/Canada · Remote",
-      "postedAt": "2026-10-12T15:03:22.492Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "joinpogo"
+      "ats": "Workday",
+      "board": "cme_careers",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Staff Software Engineer, Security",
@@ -381,50 +533,6 @@
       "salary": "",
       "ats": "Workday",
       "board": "tempus_careers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Intermediate Software Engineer",
-      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Intermediate-Software-Engineer_R-58461",
-      "company": "Gordon Food Service",
-      "location": "Atlanta, Georgia",
-      "postedAt": "2026-10-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "usjobs-gen-gfs",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Intermediate Software Engineer",
-      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intermediate-Software-Engineer_R-58401",
-      "company": "Gordon Food Service",
-      "location": "2 Locations",
-      "postedAt": "2026-10-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "usjobs-gen-gfs",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Data Platform Engineering II",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cloud-Data-Platform-Engineering-Lead_33968-1",
-      "company": "CME Group",
-      "location": "Chicago - 20 S. Wacker",
-      "postedAt": "2026-10-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "cme_careers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Cloud Platform Engineer — Architecture Foundry",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Senior-Cloud-Platform-Engineer---Architecture-Foundry_34894",
-      "company": "CME Group",
-      "location": "Chicago - 20 S. Wacker",
-      "postedAt": "2026-10-12T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "cme_careers",
       "postedAtSource": "workday-detail"
     },
     {
