@@ -376,3 +376,6 @@
 - [ ] https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2 | lendbuzz | Software Engineer (Backend) | Boston, MA | posted: 2026-10-12
 
 - [ ] https://jobs.ashbyhq.com/virtahealth/0cd02f05-28be-4d24-abb6-46fddc487971 | virtahealth | Software Engineer | Remote | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac | aureliussystems | Robotics Software Engineer | San Francisco · Detroit · United States | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4741984005 | globalhealthcareexchangeinc | Software Engineer III - Full Stack, Angular, Java, AWS | Office Location or Remote - USA | posted: 2026-10-12
