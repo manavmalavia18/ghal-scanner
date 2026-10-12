@@ -350,4 +350,29 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002 | databricks | Sr. AI Engineer, AI FDE | Remote - India | posted: 2026-10-12
 - [ ] https://job-boards.greenhouse.io/shipbobinc/jobs/4737933005 | shipbobinc | Software Development Engineer I | Remote - India | posted: 2026-10-08
 
+- [ ] https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae | cursor | Software Engineer, RL Data | San Francisco | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac | aureliussystems | Robotics Software Engineer | San Francisco · Detroit · United States | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4741984005 | globalhealthcareexchangeinc | Software Engineer III - Full Stack, Angular, Java, AWS | Office Location or Remote - USA | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/virtahealth/0cd02f05-28be-4d24-abb6-46fddc487971 | virtahealth | Software Engineer | Remote | posted: 2026-10-12
+- [ ] https://jobs.lever.co/lendbuzz/0549ae13-05a2-497b-ba81-953c6ad50ef2 | lendbuzz | Software Engineer (Backend) | Boston, MA | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006 | gelbergroup | Software Engineer- Equity Derivatives Trading Desk | Chicago, IL | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/datacor/jobs/5257433007 | datacor | Software Engineer | Remote, US | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4448761009 | grvty | Mid/Sr Software Developer | Aurora, Colorado, United States; Chantilly, Virginia, United States; Herndon, Virginia, United States; Sterling, Virginia, United States | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5442462008 | backblaze | Software Engineer, Open Source AI | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-12
+- [ ] https://boards.greenhouse.io/crunchyroll/jobs/7609297?gh_jid=7609297 | crunchyroll | Software Engineer III, Apple | San Francisco, CA, United States | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-12
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4721082006?gh_jid=4721082006 | accenturefederalservices | PeopleSoft Application Developer | Washington, DC | posted: 2026-10-12
+- [ ] https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2 | brillio-2 | AI Engineer | Dallas, Texas, United States | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d | taxo | Software Engineer (AI Quality & Reliability) | New York City | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/li-thermal-works/jobs/4448448009 | li-thermal-works | Platform Engineer (ServiceNow) | Remote - US | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8 | empirical-security | Software Engineer | Remote | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4448422009 | grvty | Software Engineer | Chantilly, Virginia, United States | posted: 2026-10-12
+- [ ] https://squad.tech/careers/?gh_jid=8273872 | Squad | Frontend Engineer | Kyiv; Lviv; Remote | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/staycation/9cc9d2ac-4478-442a-a2b6-9b3deca9efd4 | staycation | 📱 Fullstack Developer (Paris or remote) | Paris, France · Remote · France | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/newxel/0e4cfe8f-590d-4f6c-9dbb-3dfe2f946ce4 | newxel | Full-Stack Developer (NXJ-215) | Europe · Remote | posted: 2026-10-12
+- [ ] https://slice.careers/careers-listing?gh_jid=8260907 | slice | Software Developer, Web | Fully remote - Canada, UK & North Macedonia | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8831546002 | gomotive | Security Software Engineer | Canada - Remote | posted: 2026-10-06
+- [ ] https://jobs.ashbyhq.com/candidhealth/a406ec65-85ac-4403-9943-1a9ce68d209f | candidhealth | AI/ML Engineer | San Francisco · New York City · United States | posted: 2026-10-06
+
 ## Processed
