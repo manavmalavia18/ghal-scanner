@@ -33,4 +33,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Software-Engineer-FSOP-Sales-Experience_R-140123 | The Coca-Cola Company | Software Engineer II - CRM | US - GA - Atlanta | posted: 2026-10-12
 - [ ] https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Software-Engineer_2136288 | Fidelity Investments | Full Stack Engineer – AI Technology | Boston, MA | posted: 2026-10-12
 
+- [ ] https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f | Zoox | Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA; Seattle, WA | posted: 2026-10-12
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/HCM-Cloud-Platform---DevOps-Engineer_333467 | CACI | HCM Cloud Platform & DevOps Engineer | Remote (Any State) | posted: 2026-10-12
+
 ## Processed
