@@ -1,55 +1,122 @@
-# ghal-scanner
+# Scoutgrid
 
-Standalone Greenhouse/Ashby/Lever reverse scanner, trimmed out of
-[career-ops](https://github.com/career-ops-hq/career-ops) so it can run on a
-**GitHub Actions schedule** instead of 24/7 on a laptop.
+A distributed job-aggregation pipeline that scans Greenhouse, Ashby, Lever,
+Workday, HiringCafe, JobRight, NextPlay, and a curated list of VC-backed
+startup boards — running entirely on **free, unmetered GitHub Actions
+compute**, with residential-IP routing via a self-hosted **Tailscale** exit
+node to get past datacenter IP-reputation blocks.
+
+It started as 10 cron jobs running 24/7 on an 8GB MacBook Air. This repo is
+what's left after moving every scraper off that laptop.
+
+```
+┌─────────────┐   cron (5–15min, offset)   ┌───────────────────────┐
+│ GitHub       │ ─────────────────────────▶│ 7 independent scrapers│
+│ Actions      │                            │ each → own TSV/JSON   │
+│ (public repo,│◀───────────────────────── │ + own checkpoint/      │
+│  unmetered)  │   git commit + push        │ cooldown cache         │
+└──────┬───────┘                            └───────────────────────┘
+       │ Tailscale exit node (datacenter IP → residential IP)
+       ▼
+┌─────────────┐        git pull          ┌──────────────────────┐
+│ Target sites │                          │ Local dashboard        │
+│ (ATS boards, │                          │ (career-ops, Mac-only) │
+│  job boards) │                          └──────────────────────┘
+└─────────────┘                                      │
+                                                        │ same data, live fetch
+                                                        ▼
+                                            ┌──────────────────────┐
+                                            │ Remote dashboard        │
+                                            │ (Vercel, public URL)    │
+                                            └──────────────────────┘
+```
 
 ## Why this exists
 
-career-ops's own GHAL loop (`scripts/scan-ghal.mjs`) ran continuously on a
-personal 8GB MacBook Air alongside several other always-on scrapers,
-contributing to chronic swap pressure / system slowness. Greenhouse/Ashby/
-Lever is the *cheap* slice of the scan matrix (public JSON APIs, no headed
-browser needed, a full incremental cycle runs in under a minute once
-warmed up) — a good fit for a scheduled Actions runner. The expensive slice
-(Workday full-directory sweeps, which can run 30min-10hrs) stays local,
-where it isn't fighting a GitHub Actions 6-hour job cap.
+Running 10 scrapers continuously on a personal laptop meant chronic swap
+pressure, fan noise, and battery drain — for work that doesn't need to
+happen *there* at all. Every scraper here is stateless and idempotent, so
+there's no reason it can't run on someone else's compute.
 
 **This repo is public on purpose.** GitHub Actions on standard runners is
-completely unmetered for public repos on any plan — no minute quota at all,
-which is what makes a 5-minute scan cadence free. Nothing sensitive lives
-here: `data/scan-history.tsv` is just scraped public job-posting data
-(company/title/date, already public on Greenhouse/Ashby/Lever's own
-boards), and the only even mildly personal file is `portals.yml` (title/
-location search filters — reveals you're job hunting and roughly what for,
-not true PII). No resume, no application data, no credentials.
+completely unmetered for public repos — no minute quota, which is what
+makes a 5-minute scan cadence free forever. Nothing sensitive lives here:
+the scraped data is already-public job postings (company/title/date,
+visible on each ATS's own board), and the one mildly personal file
+(`portals.yml`, search filters) reveals only that someone is job hunting,
+not who. No resumes, no application data, no plaintext credentials —
+session cookies live exclusively as encrypted GitHub Actions secrets.
 
-## How it works
+## The scrapers
 
-1. `.github/workflows/scan.yml` runs `run.mjs` on a cron schedule
-   (`*/5 * * * *`), resuming from `data/cache/ats-ghal-checkpoint.json`
-   each time.
-2. New matches land in `data/scan-history.tsv`; the workflow commits and
-   pushes any changes back to this repo.
-3. A lightweight puller on the laptop (`career-ops`'s
-   `scripts/pull-ghal-remote.mjs`) does a cheap `git pull` on a short
-   interval and merges new rows into career-ops's local
-   `data/scan-history.tsv` so `jobs-ui.mjs` keeps working unchanged.
+| Source | Method | Cadence | Notes |
+|---|---|---|---|
+| Greenhouse / Ashby / Lever | Public JSON APIs | `*/5min` | cheapest slice, no browser needed |
+| Workday | Full-directory reverse sweep | `*/15min` | ~13k companies, ~10min per run |
+| Tracked boards | `portals.yml`-defined company list | offset `/15min` | |
+| VC portfolio seeds | YC + a16z public APIs | slower cadence | walks portfolio pages |
+| HiringCafe | Headed-Chrome scrape via `patchright` | offset | needs Xvfb — see below |
+| NextPlay | Headed-Chrome scrape | offset | needs Tailscale — see below |
+| JobRight | Cookie-session scrape | offset | headless, no Xvfb needed |
 
-## Local one-off run
+## Two real infra problems, solved honestly
+
+**1. Cloudflare blocks headless Chrome.** GitHub's Linux runners have no
+display at all, and some targets fingerprint headless mode and block it.
+Fixed with **Xvfb** — a virtual framebuffer that lets Chrome run in genuine
+headed mode on a runner with no physical screen.
+
+**2. Some targets block datacenter IP ranges outright**, independent of
+browser fingerprinting — confirmed via direct A/B testing (identical code,
+home IP vs. GitHub's IP: one works, one 403s). Rather than reach for a paid
+residential-proxy service, this repo routes flagged scrapers' traffic
+through a **Tailscale exit node** — a WireGuard tunnel back to a real
+residential connection, free on Tailscale's personal tier.
+
+**Deliberately not solved**: a third target returns AWS WAF CAPTCHA
+challenges on every request. That's a platform actively defending against
+automation, not a reachability problem — no bypass was built. Reading a
+public API and defeating a deliberate anti-bot wall are different things,
+and this project only does the former.
+
+## Architecture notes
+
+- **No database.** Flat TSV/JSON files + git history as the append log.
+  For a single-operator pipeline at this scale, git *is* the database —
+  free, versioned, and trivially diffable.
+- **No shared mutable state across scrapers.** Early on, two scrapers
+  racing on one shared cooldown-cache file caused silent push failures
+  (job reports green, data never lands). Every scraper now owns its own
+  checkpoint and cooldown file — the fix is structural, not a retry hack.
+- **Every job is independently idempotent and resumable** from its own
+  checkpoint file, so a mid-run failure costs a few minutes, not a restart
+  from zero.
+
+## Downstream
+
+A **local dashboard** (Mac-only, not in this repo) pulls this repo's
+output on a short interval and merges new rows into its own feed — kept
+in sync but decoupled, so a scraper failing here never breaks the viewer.
+
+A second, fully independent **public dashboard on Vercel** reads this
+repo's data live on every request (no caching layer beyond what
+`raw.githubusercontent.com` itself does) — dynamic, not a static
+snapshot, viewable from anywhere without the laptop being on.
+
+## Running a scraper locally
 
 ```
 npm install
-node run.mjs
+node run.mjs          # GHAL
+node run-workday.mjs  # Workday
+node run-hc.mjs        # HiringCafe (needs a local display or Xvfb)
 ```
 
-## Files
+## Repo layout
 
-Trimmed 1:1 from career-ops (unmodified except `run.mjs`, which is new):
-`scan-ats-full.mjs`, `scan.mjs`, `providers/{greenhouse,ashby,lever,icims,
-workday,_*}.mjs` (icims/workday unused here but are load-time deps of
-`scan-ats-full.mjs`), `tracker-*.mjs`, `fingerprint-core.mjs`,
-`invite-match.mjs`, `path-resolver.mjs`, `pipeline-lock.mjs`,
-`portal-health-lock.mjs`, `user-agent.mjs`, `verify-portals.mjs`,
-`plugins/_*.mjs`, `lib/{ascii-fold,cli-flags,is-main-module,title-filter}.mjs`,
-`seeds/vc-portfolios.mjs`, `portals.yml`, `tracker-aliases.json`.
+Each `run-*.mjs` is a thin CI entrypoint around the matching
+`fetch-*.mjs` / `scan-*.mjs` scraper, wiring it to that scraper's own
+checkpoint and output files. `lib/` holds shared, dependency-free parsing
+utilities (location/clearance filtering, repost detection, title
+matching). `.github/workflows/` has one workflow per scraper, each on its
+own offset cron so concurrent runs never collide on the same files.
