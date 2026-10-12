@@ -379,3 +379,5 @@
 
 - [ ] https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac | aureliussystems | Robotics Software Engineer | San Francisco · Detroit · United States | posted: 2026-10-12
 - [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4741984005 | globalhealthcareexchangeinc | Software Engineer III - Full Stack, Angular, Java, AWS | Office Location or Remote - USA | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae | cursor | Software Engineer, RL Data | San Francisco | posted: 2026-10-12
