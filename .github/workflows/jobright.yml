@@ -1,0 +1,73 @@
+name: JobRight (via Tailscale exit node)
+
+on:
+  schedule:
+    - cron: '7-59/15 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: jobright-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 13
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Install scrapling + patchright chromium
+        run: |
+          pip install 'scrapling[fetchers]>=0.4.13'
+          python3 -m patchright install chromium --with-deps
+
+      # Cookie-based auth (JOBRIGHT_COOKIE secret, captured once from the
+      # user's own logged-in session — never a password) runs headless per
+      # scrape-jobright.py, so no Xvfb needed here unlike HC.
+      - name: Connect to Tailscale exit node
+        uses: tailscale/github-action@v3
+        with:
+          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
+          args: "--exit-node=100.70.53.6 --exit-node-allow-lan-access=false"
+
+      - name: Run JobRight feed fetch
+        run: node run-jobright.mjs
+        env:
+          JOBRIGHT_COOKIE: ${{ secrets.JOBRIGHT_COOKIE }}
+          HC_PYTHON: python3
+
+      - name: Commit results
+        run: |
+          git config user.name "ghal-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "jobright: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
+          fi
