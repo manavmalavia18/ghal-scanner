@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T21:19:12.814Z",
+  "fetchedAt": "2026-10-12T21:40:48.521Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -15,7 +15,7 @@
   "hcTotals": {
     "software engineer": 312
   },
-  "count": 176,
+  "count": 177,
   "jobs": [
     {
       "title": "DevOps Engineer, Platform",
@@ -3472,6 +3472,21 @@
       ],
       "company_tagline": "A global aerospace company that innovates and collaborates to make the world a better place.",
       "ats_source": "workday"
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "url": "https://careers.smcusa.com/job/68ae15cb9f66fa003420c7b2/manufacturing-engineer/noblesville-indiana/smcusarms/4658-7846?category=68ae15cb9f66fa003420c7b2",
+      "company": "SMC Corporation of America",
+      "location": "Noblesville, Indiana, United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in engineering or equivalent experience; strong analytical and problem-solving skills; familiarity with relevant software tools; excellent English communication; ability to work in fast-paced office and manufacturing environment.",
+      "tools": [],
+      "company_tagline": "A manufacturing company that designs, implements, and optimizes production processes.",
+      "ats_source": "appvault"
     },
     {
       "title": "Internship, Universal Creative – Facility Design (Summer 2027)",
