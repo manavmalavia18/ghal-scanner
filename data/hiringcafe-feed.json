@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T20:57:14.439Z",
+  "fetchedAt": "2026-10-12T21:19:12.814Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -15,7 +15,7 @@
   "hcTotals": {
     "software engineer": 312
   },
-  "count": 175,
+  "count": 176,
   "jobs": [
     {
       "title": "DevOps Engineer, Platform",
@@ -3443,6 +3443,34 @@
         "PowerShell"
       ],
       "company_tagline": "An innovation company that combines performance, value, efficiency, safety, and style in its vehicles.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineer–Artificial Intelligence (Mid-Level, Senior)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Software-Engineer-Artificial-Intelligence--Mid-Level--Senior-_JR2026525435-1",
+      "company": "Boeing",
+      "location": "Berkeley, Missouri, United States",
+      "postedAt": 1791763200000,
+      "salary": "$140k-$235k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor of Science degree or higher; experience preparing data for, developing and evaluating learned models; programming languages and data tools such as Python, Matlab, C++, C, Java, SQL, Teradata, Tableau, Gephi or Airflow; U.S. Person required.",
+      "tools": [
+        "Python",
+        "Matlab",
+        "C++",
+        "C",
+        "Java",
+        "SQL",
+        "Teradata",
+        "Tableau",
+        "Gephi",
+        "Airflow",
+        "ADO",
+        "JIRA"
+      ],
+      "company_tagline": "A global aerospace company that innovates and collaborates to make the world a better place.",
       "ats_source": "workday"
     },
     {
