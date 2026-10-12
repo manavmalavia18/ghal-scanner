@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-12T21:06:50.647Z",
+  "fetchedAt": "2026-10-12T21:31:42.891Z",
   "scrapedAt": "2026-10-12T18:03:04.378935+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 124,
+  "companyCount": 125,
   "companies": [
     {
       "company": "Acron Aviation",
@@ -111,6 +111,13 @@
       "board": "external_subsidiary",
       "key": "workday:boeing.wd1.myworkdayjobs.com/external_subsidiary",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary"
+    },
+    {
+      "company": "Boeing",
+      "ats": "workday",
+      "board": "external_careers",
+      "key": "workday:boeing.wd1.myworkdayjobs.com/external_careers",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_careers"
     },
     {
       "company": "Canonical",

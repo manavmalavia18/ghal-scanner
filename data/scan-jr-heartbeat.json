@@ -1,12 +1,12 @@
 {
-  "at": "2026-10-12T21:06:50.648Z",
+  "at": "2026-10-12T21:31:42.892Z",
   "exitCode": 0,
-  "elapsedSec": 24,
-  "newMatches": 124,
+  "elapsedSec": 17,
+  "newMatches": 125,
   "loginWall": false,
   "paused": false,
   "apiErrors": [],
-  "companyCount": 124,
+  "companyCount": 125,
   "boardLeadCount": 71,
   "boardFreshCount": 21,
   "leadSources": [
