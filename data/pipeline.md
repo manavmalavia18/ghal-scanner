@@ -366,3 +366,5 @@
 - [ ] https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506 | quindar | Full Stack Engineer | Denver, CO | posted: 2026-10-12
 
 - [ ] https://job-boards.greenhouse.io/backblaze/jobs/5442462008 | backblaze | Software Engineer, Open Source AI | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-12
+
+- [ ] https://job-boards.greenhouse.io/grvty/jobs/4448761009 | grvty | Mid/Sr Software Developer | Aurora, Colorado, United States; Chantilly, Virginia, United States; Herndon, Virginia, United States; Sterling, Virginia, United States | posted: 2026-10-12
