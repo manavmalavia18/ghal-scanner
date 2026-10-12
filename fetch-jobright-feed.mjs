@@ -301,8 +301,8 @@ async function main() {
   if (paused && needsScrape === false && !stampOnly && pauseMsg) {
     console.error(pauseMsg);
   }
-  if (needsScrape && (!existsSync(PY) || !existsSync(SCRAPE))) {
-    console.error('JobRight scraper not installed (.venv-scrapling). Skip.');
+  if (needsScrape && !existsSync(SCRAPE)) {
+    console.error('JobRight scraper not installed (scrape-jobright.py missing). Skip.');
     process.exit(0);
   }
   if (!acquireLock()) process.exit(0);
