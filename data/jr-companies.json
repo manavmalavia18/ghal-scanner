@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T03:09:22.439Z",
+  "fetchedAt": "2026-10-13T03:31:07.612Z",
   "scrapedAt": "2026-10-12T18:03:04.378935+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 178,
+  "companyCount": 190,
   "companies": [
     {
       "company": "Accenture",
@@ -104,6 +104,13 @@
       "board": "",
       "key": "greenhouse-id:4966075101",
       "url": "https://www.asm.com/open-vacancies/field-software-engineer-4966075101?gh_jid=4966075101"
+    },
+    {
+      "company": "August",
+      "ats": "ashby",
+      "board": "august",
+      "key": "ashby:august",
+      "url": "https://jobs.ashbyhq.com/august/99b98fc4-e925-4c36-8148-4716d7354703"
     },
     {
       "company": "Aurelius Systems",
@@ -267,6 +274,13 @@
       "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers"
     },
     {
+      "company": "Comcast",
+      "ats": "workday",
+      "board": "comcast_careers",
+      "key": "workday:comcast.wd115.myworkdayjobs.com/comcast_careers",
+      "url": "https://comcast.wd115.myworkdayjobs.com/comcast_careers"
+    },
+    {
       "company": "COUNTRY Financial®",
       "ats": "workday",
       "board": "COUNTRYCorporateExternal",
@@ -365,6 +379,13 @@
       "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
     },
     {
+      "company": "Eli Lilly and Company",
+      "ats": "workday",
+      "board": "lly",
+      "key": "workday:lilly.wd115.myworkdayjobs.com/lly",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly"
+    },
+    {
       "company": "Empirical Security",
       "ats": "ashby",
       "board": "empirical-security",
@@ -433,6 +454,13 @@
       "board": "first_financial_bank",
       "key": "workday:ffin.wd1.myworkdayjobs.com/first_financial_bank",
       "url": "https://ffin.wd1.myworkdayjobs.com/first_financial_bank"
+    },
+    {
+      "company": "Flossy",
+      "ats": "ashby",
+      "board": "flossy",
+      "key": "ashby:flossy",
+      "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9"
     },
     {
       "company": "GE Aerospace",
@@ -589,6 +617,13 @@
       "url": "https://intel.wd1.myworkdayjobs.com/external"
     },
     {
+      "company": "JLL",
+      "ats": "workday",
+      "board": "jllcareers",
+      "key": "workday:jll.wd1.myworkdayjobs.com/jllcareers",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers"
+    },
+    {
       "company": "Karman Industries",
       "ats": "ashby",
       "board": "karman%20industries",
@@ -622,6 +657,13 @@
       "board": "ur",
       "key": "workday:kla.wd1.myworkdayjobs.com/ur",
       "url": "https://kla.wd1.myworkdayjobs.com/ur"
+    },
+    {
+      "company": "Kohl's",
+      "ats": "workday",
+      "board": "kohlscareers",
+      "key": "workday:kohls.wd504.myworkdayjobs.com/kohlscareers",
+      "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers"
     },
     {
       "company": "Laminar",
@@ -692,6 +734,13 @@
       "board": "marigold",
       "key": "workday:campaignmonitor.wd5.myworkdayjobs.com/marigold",
       "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold"
+    },
+    {
+      "company": "Matter Health",
+      "ats": "ashby",
+      "board": "matter-health",
+      "key": "ashby:matter-health",
+      "url": "https://jobs.ashbyhq.com/matter-health/a3cfa46c-12e6-4876-9259-77336ecabb84"
     },
     {
       "company": "McKesson Corporation",
@@ -818,6 +867,13 @@
       "board": "nox-metals",
       "key": "ashby:nox-metals",
       "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc"
+    },
+    {
+      "company": "NVIDIA",
+      "ats": "workday",
+      "board": "nvidiaexternalcareersite",
+      "key": "workday:nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite"
     },
     {
       "company": "Orbis",
@@ -993,6 +1049,13 @@
       "board": "samsung_careers",
       "key": "workday:sec.wd3.myworkdayjobs.com/samsung_careers",
       "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers"
+    },
+    {
+      "company": "SchoolsFirst Federal Credit Union",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:schoolsfirstfcu.wd115.myworkdayjobs.com/careers",
+      "url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/careers"
     },
     {
       "company": "Schweitzer Engineering Laboratories",
@@ -1240,11 +1303,32 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=virtu&token=4261145002"
     },
     {
+      "company": "Walker-Miller Energy Services",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:5263557007",
+      "url": "https://wmenergy.com/careers/position/5263557007?gh_jid=5263557007"
+    },
+    {
+      "company": "Walmart",
+      "ats": "workday",
+      "board": "walmartexternal",
+      "key": "workday:walmart.wd504.myworkdayjobs.com/walmartexternal",
+      "url": "https://walmart.wd504.myworkdayjobs.com/walmartexternal"
+    },
+    {
       "company": "Woolpert",
       "ats": "greenhouse",
       "board": "woolpert",
       "key": "greenhouse:woolpert",
       "url": "https://job-boards.greenhouse.io/woolpert/jobs/4426374009"
+    },
+    {
+      "company": "Workiva",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:workiva.wd503.myworkdayjobs.com/careers",
+      "url": "https://workiva.wd503.myworkdayjobs.com/careers"
     },
     {
       "company": "Zoom",
