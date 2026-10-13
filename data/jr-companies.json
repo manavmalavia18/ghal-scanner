@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T14:18:19.872Z",
+  "fetchedAt": "2026-10-13T14:39:52.097Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 182,
+  "companyCount": 183,
   "companies": [
     {
       "company": "Accenture",
@@ -41,6 +41,13 @@
       "board": "agiloft",
       "key": "lever:agiloft",
       "url": "https://jobs.lever.co/agiloft/4811ba83-d78c-4bd3-8a50-995d930c834e/apply"
+    },
+    {
+      "company": "AIM Intelligent Machines Inc.",
+      "ats": "ashby",
+      "board": "aim",
+      "key": "ashby:aim",
+      "url": "https://jobs.ashbyhq.com/aim/1e62a759-619f-468a-b8fd-2cbd71b6c5a2"
     },
     {
       "company": "Allstate",
@@ -281,13 +288,6 @@
       "url": "https://jobs.ashbyhq.com/civilgrid/092ae4ef-44c6-4c92-a8ea-c29bb73582d7"
     },
     {
-      "company": "CLARK",
-      "ats": "ashby",
-      "board": "clark",
-      "key": "ashby:clark",
-      "url": "https://jobs.ashbyhq.com/clark/e39423ba-10f6-44bb-a20f-5ccd33d53c52"
-    },
-    {
       "company": "CME Group",
       "ats": "workday",
       "board": "cme_careers",
@@ -369,7 +369,7 @@
       "ats": "ashby",
       "board": "elevenlabs",
       "key": "ashby:elevenlabs",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2"
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5"
     },
     {
       "company": "Eli Lilly and Company",
@@ -384,6 +384,13 @@
       "board": "empirical-security",
       "key": "ashby:empirical-security",
       "url": "https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8"
+    },
+    {
+      "company": "EQT Corporation",
+      "ats": "greenhouse",
+      "board": "eqtcorporation",
+      "key": "greenhouse:eqtcorporation",
+      "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5450042008"
     },
     {
       "company": "Equifax",
@@ -1058,6 +1065,13 @@
       "url": "https://job-boards.greenhouse.io/skyryse/jobs/8275430"
     },
     {
+      "company": "Slalom, LLC",
+      "ats": "greenhouse",
+      "board": "explore",
+      "key": "greenhouse:explore",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668671642?domain=coloradowfx.gov"
+    },
+    {
       "company": "Snowflake",
       "ats": "ashby",
       "board": "snowflake",
@@ -1266,13 +1280,6 @@
       "board": "external",
       "key": "workday:worldwide.wd1.myworkdayjobs.com/external",
       "url": "https://worldwide.wd1.myworkdayjobs.com/external"
-    },
-    {
-      "company": "Zoom",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519892109966400?domain=coloradowfx.gov"
     },
     {
       "company": "Zoox",
