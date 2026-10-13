@@ -117,4 +117,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524 | generalmotors | Software Developer - Simulation Platform (Galileo) | 2 Locations | posted: 2026-10-13
 
+- [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Boston-Massachusetts/Software-Engineer-III--Workspace-Foundations_REQ-980 | verily | Software Engineer III, Workspace Foundations | Boston, Massachusetts | posted: 2026-10-13
+
 ## Processed
