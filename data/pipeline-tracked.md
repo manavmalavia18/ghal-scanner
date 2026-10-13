@@ -127,4 +127,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1 | Entrust | Software Engineer II – Full Stack (Java & React) | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
 - [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285 | Entrust | Software Developer II – Java | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/225dd840-3938-4fe4-84cd-cca280efafc2 | Payward, Inc. | Software Engineer II - Rust - Pro | Brazil · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Slovenia · Lithuania · South Africa · Czech Republic · Hungary · Mexico · Chile · Poland · Slovakia · Bulgaria · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/valinor/c9f43ce2-33a3-4d6a-aee8-6d71cc9b8458 | Valinor | Software Engineer, Backend (Platform) | New York, NY · Remote | posted: 2026-10-13
+
 ## Processed
