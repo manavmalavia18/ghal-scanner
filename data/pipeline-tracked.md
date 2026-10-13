@@ -118,4 +118,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/sbtglobalinc/3743990016065036 | SBT Global | Jr. Front-End Developer(Korean Bilingual) | Remote | posted: 2026-10-12
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283 | RTX | Software Engineer I (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-13
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576 | Hewlett Packard Enterprise | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/AI-Software-Engineer_R014320-1 | Aveva | AI Software Engineer | Lake Forest, California, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576-1 | Hpe | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-1 | Boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
+
 ## Processed
