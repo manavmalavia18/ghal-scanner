@@ -90,4 +90,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ameriprise.wd5.myworkdayjobs.com/ameriprise/job/Boston-Massachusetts/Sr-Software-Engineer_R26_3587 | ameriprise | Sr Software Engineer | Boston, Massachusetts | posted: 2026-10-13
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Azusa/Software-Engineer---Level-2--Active-SCI-_R10255704 | ngc | Software Engineer - Level 2 (Active SCI) | United States-California-Azusa | posted: 2026-10-12
 
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352 | usbank | Software Engineer 1- (Full Stack Developer) | 2 Locations | posted: 2026-10-13
+- [ ] https://pfizer.wd1.myworkdayjobs.com/pfizercareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1 | pfizer | Translational AI Engineer | United States - Massachusetts - Cambridge | posted: 2026-10-13
+- [ ] https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398 | pfizer | Translational AI Engineer | United States - Massachusetts - Cambridge | posted: 2026-10-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Corinne/Software-Engineer---2_R10255731-1 | ngc | Software Engineer - 2 | United States-Utah-Corinne | posted: 2026-10-13
+- [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/ALABAMA-VIRTUAL-USA/PS-Software-Engineer-IV_R1154954-3 | ncratleos | PS Software Engineer IV | 4 Locations | posted: 2026-10-13
+- [ ] https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Platform-Engineer---Marketing_R-096948-2 | jj | Platform Engineer - Marketing | 51 Locations | posted: 2026-10-13
+- [ ] https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Ohio/Software-Engineer_JR100384 | ambarella | Software Engineer | US Ohio | posted: 2026-10-13
+
 ## Processed
