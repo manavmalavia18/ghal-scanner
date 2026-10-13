@@ -452,3 +452,5 @@
 - [ ] https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3 | adaptivesecurity | Software Engineer, Product & Platform | NYC | posted: 2026-10-13
 
 - [ ] https://careers.gofasti.com/job-application/6223500004?gh_jid=6223500004 | gofasti | 1165 - Shopify Software Developer | Remote · FABR | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/valinor/c9f43ce2-33a3-4d6a-aee8-6d71cc9b8458 | valinor | Software Engineer, Backend (Platform) | New York, NY · Remote | posted: 2026-10-13
