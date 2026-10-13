@@ -461,3 +461,7 @@
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192190 | doordashusa | Software Engineer, Spark Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8191886 | doordashusa | Software Engineer, Data Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192187 | doordashusa | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/embedding-vc/9621e073-22b8-46c8-a834-77efed82868a | embedding-vc | Developer Platform Engineer | San Francisco Bay Area | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/embedding-vc/c7556b13-3332-4541-b0ec-42872eda7b51 | embedding-vc | Applied AI Engineer | San Francisco Bay Area | posted: 2026-10-13
