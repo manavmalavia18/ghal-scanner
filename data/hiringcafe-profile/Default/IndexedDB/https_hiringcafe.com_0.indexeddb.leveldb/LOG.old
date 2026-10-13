@@ -1,25 +1,14 @@
-2026/10/13-20:03:57.404 1898 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/13-20:03:57.404 1898 Recovering log #1110
-2026/10/13-20:03:57.404 1898 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/001110.log 
-2026/10/13-20:03:57.404 1898 Delete type=2 #1108
-2026/10/13-20:03:57.425 18a1 Level-0 table #1115: started
-2026/10/13-20:03:57.426 18a1 Level-0 table #1115: 940 bytes OK
-2026/10/13-20:03:57.427 18a1 Delete type=0 #1110
-2026/10/13-20:03:57.427 1898 Manual compaction at level-0 from ' I\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' J\x01\x00\x00\x00' @ 0 : 0; will stop at ' I\x01\x00\x00\x05' @ 10858 : 1
-2026/10/13-20:03:57.427 1898 Compacting 1@0 + 1@1 files
-2026/10/13-20:03:57.428 1898 Generated table #1116@0: 1878 keys, 18829 bytes
-2026/10/13-20:03:57.428 1898 Compacted 1@0 + 1@1 files => 18829 bytes
-2026/10/13-20:03:57.428 1898 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-20:03:57.428 1898 Delete type=2 #1115
-2026/10/13-20:03:57.429 1898 Manual compaction at level-0 from ' I\x01\x00\x00\x05' @ 10858 : 1 .. ' J\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/10/13-20:04:00.991 189b Level-0 table #1118: started
-2026/10/13-20:04:00.992 189b Level-0 table #1118: 935 bytes OK
-2026/10/13-20:04:00.992 189b Delete type=0 #1114
-2026/10/13-20:04:00.993 189b Delete type=2 #1112
-2026/10/13-20:04:00.993 189c Manual compaction at level-0 from ' J\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' K\x01\x00\x00\x00' @ 0 : 0; will stop at ' J\x01\x00\x00\x05' @ 10891 : 1
-2026/10/13-20:04:00.993 189c Compacting 1@0 + 1@1 files
-2026/10/13-20:04:00.995 189c Generated table #1119@0: 1879 keys, 18858 bytes
-2026/10/13-20:04:00.995 189c Compacted 1@0 + 1@1 files => 18858 bytes
-2026/10/13-20:04:00.996 189c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-20:04:00.996 189c Delete type=2 #1118
-2026/10/13-20:04:00.996 1898 Manual compaction at level-0 from ' J\x01\x00\x00\x05' @ 10891 : 1 .. ' K\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/13-20:20:48.448 15a3 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/13-20:20:48.449 15a3 Recovering log #1197
+2026/10/13-20:20:48.449 15a3 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/001197.log 
+2026/10/13-20:20:48.449 15a3 Delete type=2 #1195
+2026/10/13-20:20:48.499 15a3 Level-0 table #1202: started
+2026/10/13-20:20:48.499 15a3 Level-0 table #1202: 938 bytes OK
+2026/10/13-20:20:48.501 15a3 Delete type=0 #1197
+2026/10/13-20:20:48.504 15a3 Manual compaction at level-0 from ' a\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' b\x01\x00\x00\x00' @ 0 : 0; will stop at ' a\x01\x00\x00\x05' @ 11650 : 1
+2026/10/13-20:20:48.504 15a3 Compacting 1@0 + 1@1 files
+2026/10/13-20:20:48.506 15a3 Generated table #1203@0: 1880 keys, 18836 bytes
+2026/10/13-20:20:48.506 15a3 Compacted 1@0 + 1@1 files => 18836 bytes
+2026/10/13-20:20:48.508 15a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/13-20:20:48.508 15a3 Delete type=2 #1202
+2026/10/13-20:20:48.508 15a5 Manual compaction at level-0 from ' a\x01\x00\x00\x05' @ 11650 : 1 .. ' b\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
