@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-12T21:31:42.882Z",
+  "fetchedAt": "2026-10-13T03:09:22.393Z",
   "days": 2,
-  "leadCount": 71,
-  "jobCount": 21,
+  "leadCount": 79,
+  "jobCount": 27,
   "boards": [
     {
       "key": "greenhouse:vectara",
@@ -40,19 +40,24 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stage",
-      "fetched": 130,
+      "key": "greenhouse:doordashusa",
+      "fetched": 463,
       "kept": 0
     },
     {
-      "key": "greenhouse:gleanwork",
-      "fetched": 132,
+      "key": "greenhouse:stage",
+      "fetched": 130,
       "kept": 0
     },
     {
       "key": "greenhouse:canonical",
       "fetched": 311,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:gleanwork",
+      "fetched": 134,
+      "kept": 1
     },
     {
       "key": "greenhouse:pronto",
@@ -65,13 +70,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:undercontrolroboticsinc",
-      "fetched": 11,
+      "key": "greenhouse:upstart",
+      "fetched": 87,
       "kept": 0
     },
     {
-      "key": "greenhouse:figma",
-      "fetched": 151,
+      "key": "greenhouse:undercontrolroboticsinc",
+      "fetched": 10,
       "kept": 0
     },
     {
@@ -80,13 +85,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:upstart",
-      "fetched": 88,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:wehrtyou",
-      "fetched": 87,
+      "key": "greenhouse:anthropic",
+      "fetched": 647,
       "kept": 0
     },
     {
@@ -95,33 +95,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:anthropic",
-      "fetched": 646,
+      "key": "greenhouse:figma",
+      "fetched": 151,
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 462,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:drweng",
-      "fetched": 174,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:duolingounirecruitment",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:orbisoperations",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
+      "key": "greenhouse:wehrtyou",
+      "fetched": 87,
       "kept": 0
     },
     {
@@ -130,39 +110,94 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:drivepoint",
-      "fetched": 0,
+      "key": "greenhouse:skyryse",
+      "fetched": 21,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:orbisoperations",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:drweng",
+      "fetched": 174,
       "kept": 0
     },
     {
       "key": "greenhouse:imc",
-      "fetched": 176,
+      "fetched": 174,
       "kept": 0
     },
     {
-      "key": "greenhouse:vast",
-      "fetched": 185,
+      "key": "greenhouse:memx",
+      "fetched": 11,
       "kept": 0
     },
     {
-      "key": "greenhouse:rfsmart",
-      "fetched": 26,
+      "key": "greenhouse:arcinstitute",
+      "fetched": 24,
+      "kept": 2
+    },
+    {
+      "key": "greenhouse:sc",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:hark",
-      "fetched": 52,
+      "key": "greenhouse:datadog",
+      "fetched": 435,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:blend",
+      "fetched": 15,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:podium81",
+      "fetched": 60,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:gelbergroup",
+      "fetched": 12,
       "kept": 1
     },
     {
-      "key": "greenhouse:woolpert",
-      "fetched": 119,
+      "key": "greenhouse:goatgroup",
+      "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:hasbro",
-      "fetched": 115,
+      "key": "greenhouse:asm",
+      "fetched": 479,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:twinhealth",
+      "fetched": 43,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:datacor",
+      "fetched": 16,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:duolingounirecruitment",
+      "fetched": 2,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:tia",
+      "fetched": 35,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:esri",
+      "fetched": 464,
+      "kept": 1
     },
     {
       "key": "ashby:chalk",
@@ -170,18 +205,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:datadog",
-      "fetched": 433,
+      "key": "ashby:antithesis",
+      "fetched": 24,
       "kept": 0
     },
     {
       "key": "ashby:karman%20industries",
-      "fetched": 31,
-      "kept": 0
-    },
-    {
-      "key": "ashby:liquid-ai",
-      "fetched": 22,
+      "fetched": 32,
       "kept": 0
     },
     {
@@ -190,14 +220,54 @@
       "kept": 0
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 145,
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
-      "key": "ashby:quindar",
-      "fetched": 20,
+      "key": "ashby:ramp",
+      "fetched": 165,
+      "kept": 0
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 141,
+      "kept": 0
+    },
+    {
+      "key": "ashby:titan-msp",
+      "fetched": 7,
       "kept": 1
+    },
+    {
+      "key": "ashby:aureliussystems",
+      "fetched": 13,
+      "kept": 1
+    },
+    {
+      "key": "ashby:revel",
+      "fetched": 28,
+      "kept": 0
+    },
+    {
+      "key": "ashby:civilgrid",
+      "fetched": 6,
+      "kept": 0
+    },
+    {
+      "key": "ashby:liquid-ai",
+      "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "ashby:aurora-operations-inc",
+      "fetched": 97,
+      "kept": 1
+    },
+    {
+      "key": "ashby:tonicai",
+      "fetched": 2,
+      "kept": 0
     },
     {
       "key": "ashby:joinpogo",
@@ -205,18 +275,18 @@
       "kept": 1
     },
     {
+      "key": "ashby:quindar",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "ashby:novita-ai",
+      "fetched": 5,
+      "kept": 0
+    },
+    {
       "key": "ashby:uforce",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:langchain",
-      "fetched": 101,
-      "kept": 0
-    },
-    {
-      "key": "ashby:antithesis",
-      "fetched": 23,
       "kept": 0
     },
     {
@@ -245,11 +315,6 @@
       "kept": 1
     },
     {
-      "key": "ashby:mindmoves",
-      "fetched": 5,
-      "kept": 1
-    },
-    {
       "key": "ashby:perfect-venue",
       "fetched": 5,
       "kept": 0
@@ -260,28 +325,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:nestmed",
-      "fetched": 3,
-      "kept": 1
-    },
-    {
-      "key": "ashby:clark",
+      "key": "lever:azul",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:ramp",
-      "fetched": 164,
-      "kept": 0
-    },
-    {
-      "key": "ashby:nox-metals",
-      "fetched": 36,
-      "kept": 2
-    },
-    {
-      "key": "ashby:legora",
-      "fetched": 295,
       "kept": 0
     },
     {
@@ -295,28 +340,23 @@
       "kept": 0
     },
     {
-      "key": "lever:agiloft",
-      "fetched": 16,
-      "kept": 0
-    },
-    {
-      "key": "lever:azul",
-      "fetched": 16,
-      "kept": 0
-    },
-    {
       "key": "lever:runlaminar",
       "fetched": 17,
       "kept": 0
     },
     {
-      "key": "workday:fico.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
+      "key": "lever:agiloft",
+      "fetched": 16,
       "kept": 0
     },
     {
       "key": "lever:acronaviation",
       "fetched": 51,
+      "kept": 0
+    },
+    {
+      "key": "workday:fico.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -330,11 +370,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 723,
-      "kept": 0
-    },
-    {
       "key": "workday:countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal",
       "fetched": 20,
       "kept": 0
@@ -345,41 +380,136 @@
       "kept": 2
     },
     {
-      "key": "workday:panerabread.wd5.myworkdayjobs.com/panera_careers",
-      "fetched": 80,
-      "kept": 0
-    },
-    {
       "key": "workday:tempus.wd5.myworkdayjobs.com/tempus_careers",
       "fetched": 40,
       "kept": 2
     },
     {
+      "key": "greenhouse:stripe",
+      "fetched": 721,
+      "kept": 0
+    },
+    {
       "key": "workday:guidehouse.wd1.myworkdayjobs.com/external",
       "fetched": 80,
       "kept": 4
+    },
+    {
+      "key": "workday:panerabread.wd5.myworkdayjobs.com/panera_careers",
+      "fetched": 80,
+      "kept": 0
     }
   ],
   "jobs": [
     {
-      "title": "Member of Technical Staff, LLM & Production",
-      "url": "https://job-boards.greenhouse.io/hark/jobs/4444798009",
-      "company": "Hark",
-      "location": "San Jose ",
-      "postedAt": "2026-10-12T03:50:24.000Z",
+      "title": "Software Engineer, Agentic Runtime ",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
+      "company": "Glean",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T23:36:06.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "hark"
+      "board": "gleanwork"
     },
     {
-      "title": "Full Stack Engineer ",
-      "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506",
-      "company": "Quindar",
-      "location": "Denver, CO",
-      "postedAt": "2026-10-12T16:51:49.120Z",
+      "title": "Software Engineer, ML Infrastructure",
+      "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222681004",
+      "company": "Arc Institute",
+      "location": "Palo Alto, CA",
+      "postedAt": "2026-10-12T22:16:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "arcinstitute"
+    },
+    {
+      "title": "Software Engineer, Lab Platform",
+      "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004",
+      "company": "Arc Institute",
+      "location": "Palo Alto, CA",
+      "postedAt": "2026-10-12T22:16:12.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "arcinstitute"
+    },
+    {
+      "title": "Software Engineer- Equity Derivatives Trading Desk",
+      "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006",
+      "company": "Gelber Group",
+      "location": "Chicago, IL",
+      "postedAt": "2026-10-12T19:13:12.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "gelbergroup"
+    },
+    {
+      "title": "Field Software Engineer",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=4966075101",
+      "company": "ASM International",
+      "location": "US > Arizona > Chandler",
+      "postedAt": "2026-10-12T21:14:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "asm"
+    },
+    {
+      "title": "Senior Platform Engineer, MarTech",
+      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004",
+      "company": "Twin Health",
+      "location": "Remote, USA",
+      "postedAt": "2026-10-12T18:57:52.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "twinhealth"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
+      "company": "Datacor",
+      "location": "Remote, US",
+      "postedAt": "2026-10-12T18:19:47.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "datacor"
+    },
+    {
+      "title": "Software Development Engineer II - ArcGIS Enterprise ",
+      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "postedAt": "2026-10-12T19:23:04.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "esri"
+    },
+    {
+      "title": "Software Engineer - Applied AI",
+      "url": "https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11",
+      "company": "Titan",
+      "location": "San Francisco · New York City · United States",
+      "postedAt": "2026-10-12T21:18:51.268Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "quindar"
+      "board": "titan-msp"
+    },
+    {
+      "title": "Robotics Software Engineer ",
+      "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac",
+      "company": "Aurelius Systems",
+      "location": "San Francisco · Detroit · United States",
+      "postedAt": "2026-10-12T20:31:01.404Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aureliussystems"
+    },
+    {
+      "title": "ML Engineer, Behavior Planning",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
+      "company": "Aurora Innovation, Inc.",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T18:47:14.021Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aurora-operations-inc"
     },
     {
       "title": "Full Stack Engineer",
@@ -390,6 +520,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "joinpogo"
+    },
+    {
+      "title": "Full Stack Engineer ",
+      "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506",
+      "company": "Quindar",
+      "location": "Denver, CO",
+      "postedAt": "2026-10-12T16:51:49.120Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "quindar"
     },
     {
       "title": "Senior Software Engineer (Full Stack)",
@@ -450,46 +590,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "namespace"
-    },
-    {
-      "title": "Power Platform Engineer",
-      "url": "https://jobs.ashbyhq.com/mindmoves/30b7058c-9d0e-4755-8370-c57c9c23d2d1",
-      "company": "Mind Moves",
-      "location": "United States · Remote",
-      "postedAt": "2026-10-12T02:58:09.835Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mindmoves"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/nestmed/3295edf1-a2d5-40f4-9edd-6fa68b1bca9d",
-      "company": "Nestmed",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-10-12T00:30:16.536Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "nestmed"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
-      "company": "Nox Metals",
-      "location": "Los Angeles · San Francisco · San Fransisco · United States",
-      "postedAt": "2026-10-11T20:54:19.984Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "nox-metals"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
-      "company": "Nox Metals",
-      "location": "Los Angeles · San Francisco · San Fransisco · United States",
-      "postedAt": "2026-10-11T20:53:59.145Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "nox-metals"
     },
     {
       "title": "Senior Cloud Platform Engineer — Architecture Foundry",
