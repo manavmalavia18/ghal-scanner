@@ -44,4 +44,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402 | Cloudflare | Software Engineer, AI Agents | In-Office · Remote India | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8244284 | OneTrust | Full Stack Web Developer | Atlanta, Georgia | posted: 2026-10-13
+- [ ] https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Platform-Engineer---Marketing_R-096948 | Jj | Platform Engineer - Marketing | 51 Locations | posted: 2026-10-13
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Sr-Software-Engineer-II---Java-Microservices--AVP_R-789109 | Statestreet | Sr. Software Engineer II - Java/Microservices, AVP | Burlington Massachusetts | posted: 2026-10-13
+- [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352 | U.S. Bank | Software Engineer 1- (Full Stack Developer) | 2 Locations | posted: 2026-10-13
+
 ## Processed
