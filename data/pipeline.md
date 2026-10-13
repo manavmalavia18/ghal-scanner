@@ -424,3 +424,7 @@
 - [ ] https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/onetrust/jobs/8244284 | onetrust | Full Stack Web Developer | Atlanta, Georgia | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009 | nimblerobotics | Software Engineer III, Cloud | San Francisco, CA | posted: 2026-10-13
+
+- [ ] https://gruve.ai/careers/?gh_jid=5434249008 | gruve | Junior Full Stack Developer | USA (Remote) | posted: 2026-10-13
+- [ ] https://partnerize.com/company/jobs/?gh_jid=8014644003 | partnerize | Site Reliability Engineer - Fully Remote | Remote - Philadelphia, PA | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/openai/70042d81-4db6-4c5c-bdb2-76c133ee2917 | openai | Machine Learning Engineer, Growth | San Francisco | posted: 2026-10-13
