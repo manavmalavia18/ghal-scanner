@@ -135,4 +135,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/AI-Software-Engineer_R014320-1 | aveva | AI Software Engineer | Lake Forest, California, United States of America | posted: 2026-10-13
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Ireland/Software-Developer-III_R0017452-1 | astreya | Software Developer III | Remote, Ireland | posted: 2026-10-13
 
+- [ ] https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer-II_R0038235-1 | seic | Software Engineer II | USA - PA - Oaks | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576-1 | hpe | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576 | hpe | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576-2 | hpe | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Belvoir/PQL-SQL--C--Software-Developer_RQ222394-1 | gdit | C# Software Developer | USA VA Fort Belvoir | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-1 | boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
+
 ## Processed
