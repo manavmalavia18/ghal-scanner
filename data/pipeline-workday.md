@@ -103,4 +103,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Small-Spindle-Polishing-Technician_J-00353420 | asml | Small Spindle Polishing Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-13
 
+- [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Software-Engineer_44846 | guidehouse | Software Engineer | US - DC, Washington | posted: 2026-10-13
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1003498-1 | capitalone | AI Engineer 4 (Gen AI Platform Services) | 5 Locations | posted: 2026-10-13
+
 ## Processed
