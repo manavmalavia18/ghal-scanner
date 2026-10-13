@@ -142,4 +142,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/ServiceNow/744000155364528 | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0 | Column | Software Engineer (Travel Heavy) | San Francisco, CA | posted: 2026-10-13
 
+- [ ] https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6 | fal | Software Engineer, Applied Machine Learning | San Francisco | posted: 2026-10-13
+
 ## Processed
