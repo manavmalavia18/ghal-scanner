@@ -440,3 +440,6 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/cdd308fa-5cce-4cc8-9c2f-d178b3c52cb2 | truelogic | Mid-level Platform Engineer - Media Production | LatAm · Remote | posted: 2026-10-13
 
 - [ ] https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc | openai | Machine Learning Engineer, Implicit Signals | San Francisco | posted: 2026-10-13
+
+- [ ] https://job-boards.greenhouse.io/cayuse/jobs/8885769002 | cayuse | Associate Software Engineer, AI Solutions | Remote · Remote - US Based | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5 | openai | Software Engineer, Cloud Computer | San Francisco | posted: 2026-10-13
