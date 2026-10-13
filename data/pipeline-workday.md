@@ -142,4 +142,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Belvoir/PQL-SQL--C--Software-Developer_RQ222394-1 | gdit | C# Software Developer | USA VA Fort Belvoir | posted: 2026-10-13
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-1 | boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
 
+- [ ] https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Remote-USA/Software-Engineer-III_R-100604 | csiweb | Software Engineer III (C++) | Remote, USA | posted: 2026-10-13
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4_R1001442-1 | capitalone | AI Engineer 4 | 4 Locations | posted: 2026-10-13
+
 ## Processed
