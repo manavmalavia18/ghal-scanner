@@ -1,0 +1,50 @@
+name: Board discovery (ATS registry expansion)
+
+on:
+  schedule:
+    - cron: '20,50 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: board-discovery
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+      - name: Run board discovery
+        run: node discover-boards.mjs
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add portals.yml data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "board-discovery: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push board discovery results after 3 attempts"
+              exit 1
+            fi
+          fi

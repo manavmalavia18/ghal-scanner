@@ -4423,6 +4423,2486 @@ tracked_companies:
     enabled: true
     provider: lever
     careers_url: https://jobs.lever.co/ttecdigital
+  - name: "8090 Solutions Inc."
+    careers_url: https://jobs.ashbyhq.com/8090%20Solutions%20Inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "a37"
+    careers_url: https://jobs.ashbyhq.com/a37
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Adaptive"
+    careers_url: https://jobs.ashbyhq.com/Adaptive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "AIM Intelligent Machines Inc."
+    careers_url: https://jobs.ashbyhq.com/aim
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Airwallex"
+    careers_url: https://jobs.ashbyhq.com/airwallex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Alan"
+    careers_url: https://jobs.ashbyhq.com/alan
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ande"
+    careers_url: https://jobs.ashbyhq.com/ande
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Antares"
+    careers_url: https://jobs.ashbyhq.com/Antares
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Antimetal"
+    careers_url: https://jobs.ashbyhq.com/antimetal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Antioch"
+    careers_url: https://jobs.ashbyhq.com/antioch
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Applied Compute"
+    careers_url: https://jobs.ashbyhq.com/Applied%20Compute
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Apron"
+    careers_url: https://jobs.ashbyhq.com/apron
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Arcade"
+    careers_url: https://jobs.ashbyhq.com/arcadeai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lam Research"
+    careers_url: https://jobs.ashbyhq.com/arch.co
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Architect"
+    careers_url: https://jobs.ashbyhq.com/architect
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Arena"
+    careers_url: https://jobs.ashbyhq.com/arena
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Armadin"
+    careers_url: https://jobs.ashbyhq.com/armadin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "LARQ"
+    careers_url: https://jobs.ashbyhq.com/ARQ
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Arta"
+    careers_url: https://jobs.ashbyhq.com/artafinance
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Artemis"
+    careers_url: https://jobs.ashbyhq.com/artemis
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ashby"
+    careers_url: https://jobs.ashbyhq.com/Ashby
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Astromech"
+    careers_url: https://jobs.ashbyhq.com/Astro-Mechanica
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "August"
+    careers_url: https://jobs.ashbyhq.com/august
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Augustus"
+    careers_url: https://jobs.ashbyhq.com/Augustus
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Aurelius Systems"
+    careers_url: https://jobs.ashbyhq.com/aureliussystems
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Aurora Innovation, Inc."
+    careers_url: https://jobs.ashbyhq.com/aurora-operations-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Autoscience"
+    careers_url: https://jobs.ashbyhq.com/autoscience
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Axelera AI"
+    careers_url: https://jobs.ashbyhq.com/axelera
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "BASE"
+    careers_url: https://jobs.ashbyhq.com/base-power
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Basecamp Research"
+    careers_url: https://jobs.ashbyhq.com/basecamp-research
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Baseten"
+    careers_url: https://jobs.ashbyhq.com/baseten
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Basic Capital"
+    careers_url: https://jobs.ashbyhq.com/basiccapital
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Beacon Software"
+    careers_url: https://jobs.ashbyhq.com/beaconsoftware
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Bedrock Robotics"
+    careers_url: https://jobs.ashbyhq.com/bedrock-robotics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Benchling"
+    careers_url: https://jobs.ashbyhq.com/benchling
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Bespoke Labs"
+    careers_url: https://jobs.ashbyhq.com/bespokelabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Bevel"
+    careers_url: https://jobs.ashbyhq.com/Bevel
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Boon"
+    careers_url: https://jobs.ashbyhq.com/boon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Brain Co."
+    careers_url: https://jobs.ashbyhq.com/brainco
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Brellium"
+    careers_url: https://jobs.ashbyhq.com/brellium
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Brinc"
+    careers_url: https://jobs.ashbyhq.com/brinc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Callosum"
+    careers_url: https://jobs.ashbyhq.com/callosum
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cambio"
+    careers_url: https://jobs.ashbyhq.com/cambio
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Candid Health"
+    careers_url: https://jobs.ashbyhq.com/candidhealth
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cartesia"
+    careers_url: https://jobs.ashbyhq.com/cartesia
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Casca"
+    careers_url: https://jobs.ashbyhq.com/casca
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Chai Discovery"
+    careers_url: https://jobs.ashbyhq.com/chaidiscovery
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright, nextplay
+  - name: "Chalk"
+    careers_url: https://jobs.ashbyhq.com/chalk
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CircuitHub"
+    careers_url: https://jobs.ashbyhq.com/circuithub
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CivilGrid"
+    careers_url: https://jobs.ashbyhq.com/civilgrid
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, nextplay
+  - name: "Clipbook"
+    careers_url: https://jobs.ashbyhq.com/Clipbook
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cloaked"
+    careers_url: https://jobs.ashbyhq.com/cloaked
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Code Metal"
+    careers_url: https://jobs.ashbyhq.com/code-metal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CodeRabbit"
+    careers_url: https://jobs.ashbyhq.com/coderabbit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cognition"
+    careers_url: https://jobs.ashbyhq.com/cognition
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Column"
+    careers_url: https://jobs.ashbyhq.com/column
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Comfy Org"
+    careers_url: https://jobs.ashbyhq.com/comfy-org
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Convex"
+    careers_url: https://jobs.ashbyhq.com/convex-dev
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Coram AI"
+    careers_url: https://jobs.ashbyhq.com/coram-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Corridor"
+    careers_url: https://jobs.ashbyhq.com/corridor
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cosine"
+    careers_url: https://jobs.ashbyhq.com/cosine
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Coverbase"
+    careers_url: https://jobs.ashbyhq.com/coverbase
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cowboy Space Corporation"
+    careers_url: https://jobs.ashbyhq.com/cowboyspace
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Crosby"
+    careers_url: https://jobs.ashbyhq.com/crosby
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "CTGT"
+    careers_url: https://jobs.ashbyhq.com/ctgt
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cursor"
+    careers_url: https://jobs.ashbyhq.com/cursor
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "CuspAI"
+    careers_url: https://jobs.ashbyhq.com/cuspai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cylake"
+    careers_url: https://jobs.ashbyhq.com/cylake-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Delos Data"
+    careers_url: https://jobs.ashbyhq.com/delos-data
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Delphi"
+    careers_url: https://jobs.ashbyhq.com/delphi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "depthfirst"
+    careers_url: https://jobs.ashbyhq.com/depthfirst
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Dimensional"
+    careers_url: https://jobs.ashbyhq.com/dimensional
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Divine Design Center"
+    careers_url: https://jobs.ashbyhq.com/DivineResearch
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Dominion Dynamics"
+    careers_url: https://jobs.ashbyhq.com/Dominion%20Dynamics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Doppel"
+    careers_url: https://jobs.ashbyhq.com/doppel
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "DOSS.COM"
+    careers_url: https://jobs.ashbyhq.com/doss
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Dream"
+    careers_url: https://jobs.ashbyhq.com/dreamthree
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Drogue"
+    careers_url: https://jobs.ashbyhq.com/drogue
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Dust"
+    careers_url: https://jobs.ashbyhq.com/dust
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "American Eagle Outfitters"
+    careers_url: https://jobs.ashbyhq.com/eagle
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Elliptic"
+    careers_url: https://jobs.ashbyhq.com/elliptic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "EMA"
+    careers_url: https://jobs.ashbyhq.com/ema
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Emerald AI"
+    careers_url: https://jobs.ashbyhq.com/emerald-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Empirical Security"
+    careers_url: https://jobs.ashbyhq.com/empirical-security
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, nextplay
+  - name: "Encord"
+    careers_url: https://jobs.ashbyhq.com/encord
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Epsilon Health"
+    careers_url: https://jobs.ashbyhq.com/epsilon-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Etched"
+    careers_url: https://jobs.ashbyhq.com/etched
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Eventual"
+    careers_url: https://jobs.ashbyhq.com/eventual
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Extend"
+    careers_url: https://jobs.ashbyhq.com/extend
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Eyebot"
+    careers_url: https://jobs.ashbyhq.com/eyebot
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "fal"
+    careers_url: https://jobs.ashbyhq.com/fal-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fieldguide"
+    careers_url: https://jobs.ashbyhq.com/Fieldguide
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fin"
+    careers_url: https://jobs.ashbyhq.com/fin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Firefly"
+    careers_url: https://jobs.ashbyhq.com/firefly-co
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "FleetWorks"
+    careers_url: https://jobs.ashbyhq.com/FleetWorks
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Flink"
+    careers_url: https://jobs.ashbyhq.com/flink
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Flock Safety"
+    careers_url: https://jobs.ashbyhq.com/Flock%20Safety
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Flossy"
+    careers_url: https://jobs.ashbyhq.com/flossy
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Flow Engineering"
+    careers_url: https://jobs.ashbyhq.com/flowengineering
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fluidstack"
+    careers_url: https://jobs.ashbyhq.com/fluidstack
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Flux"
+    careers_url: https://jobs.ashbyhq.com/flux
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Forus"
+    careers_url: https://jobs.ashbyhq.com/forus
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Freehand"
+    careers_url: https://jobs.ashbyhq.com/freehand
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Front"
+    careers_url: https://jobs.ashbyhq.com/frontcareers
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fundamental Research Labs"
+    careers_url: https://jobs.ashbyhq.com/fundamentalresearchlabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gallatin AI"
+    careers_url: https://jobs.ashbyhq.com/gallatin
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "General Medicine"
+    careers_url: https://jobs.ashbyhq.com/general-medicine
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "General Intuition"
+    careers_url: https://jobs.ashbyhq.com/generalintuition-medal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Generalist AI"
+    careers_url: https://jobs.ashbyhq.com/generalist
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Genesis"
+    careers_url: https://jobs.ashbyhq.com/genesis
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Glimpse"
+    careers_url: https://jobs.ashbyhq.com/glimpse
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gray Swan AI"
+    careers_url: https://jobs.ashbyhq.com/Gray%20Swan%20AI
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "GridCARE"
+    careers_url: https://jobs.ashbyhq.com/gridcare
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ground News"
+    careers_url: https://jobs.ashbyhq.com/groundnews
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hadrian"
+    careers_url: https://jobs.ashbyhq.com/hadrian-automation
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Halluminate"
+    careers_url: https://jobs.ashbyhq.com/halluminate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Harmattan AI"
+    careers_url: https://jobs.ashbyhq.com/harmattan-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Harmonic"
+    careers_url: https://jobs.ashbyhq.com/Harmonic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "HavocAI"
+    careers_url: https://jobs.ashbyhq.com/havocai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "H Company"
+    careers_url: https://jobs.ashbyhq.com/hcompany
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Heidi"
+    careers_url: https://jobs.ashbyhq.com/heidihealth.com.au
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Helicon"
+    careers_url: https://jobs.ashbyhq.com/helicon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Helion"
+    careers_url: https://jobs.ashbyhq.com/helion
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hex"
+    careers_url: https://jobs.ashbyhq.com/hex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Higgsfield AI"
+    careers_url: https://jobs.ashbyhq.com/higgsfieldai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Higharc"
+    careers_url: https://jobs.ashbyhq.com/higharc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Highlight AI"
+    careers_url: https://jobs.ashbyhq.com/highlightai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hilbert's AI"
+    careers_url: https://jobs.ashbyhq.com/hilberts
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hippocratic AI"
+    careers_url: https://jobs.ashbyhq.com/Hippocratic%20AI
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hone"
+    careers_url: https://jobs.ashbyhq.com/hone
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hud"
+    careers_url: https://jobs.ashbyhq.com/hud
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Human Archive"
+    careers_url: https://jobs.ashbyhq.com/humanarchive
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "ICEYE"
+    careers_url: https://jobs.ashbyhq.com/iceye
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Imprint"
+    careers_url: https://jobs.ashbyhq.com/imprint
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Impulse"
+    careers_url: https://jobs.ashbyhq.com/impulse
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Inferact"
+    careers_url: https://jobs.ashbyhq.com/Inferact
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Infinity Constellation"
+    careers_url: https://jobs.ashbyhq.com/infinity-constellation
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Infisical"
+    careers_url: https://jobs.ashbyhq.com/infisical
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Inherent"
+    careers_url: https://jobs.ashbyhq.com/inherent
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Inkeep"
+    careers_url: https://jobs.ashbyhq.com/inkeep
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "InterAction"
+    careers_url: https://jobs.ashbyhq.com/interaction
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Variance"
+    careers_url: https://jobs.ashbyhq.com/intrinsic-safety
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Isometric"
+    careers_url: https://jobs.ashbyhq.com/isometric
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Junction"
+    careers_url: https://jobs.ashbyhq.com/junction
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Kandou AI"
+    careers_url: https://jobs.ashbyhq.com/kandou-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Kindred"
+    careers_url: https://jobs.ashbyhq.com/kindred
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Payward, Inc."
+    careers_url: https://jobs.ashbyhq.com/kraken.com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Krea"
+    careers_url: https://jobs.ashbyhq.com/krea
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Laurel"
+    careers_url: https://jobs.ashbyhq.com/laurel
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "LemFi"
+    careers_url: https://jobs.ashbyhq.com/lemfi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Leona Health"
+    careers_url: https://jobs.ashbyhq.com/leona
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lightdash"
+    careers_url: https://jobs.ashbyhq.com/lightdash
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lio"
+    careers_url: https://jobs.ashbyhq.com/lio
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Listen Labs"
+    careers_url: https://jobs.ashbyhq.com/listenlabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "LiveKit"
+    careers_url: https://jobs.ashbyhq.com/livekit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lumilens"
+    careers_url: https://jobs.ashbyhq.com/lumilens
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Magic Patterns"
+    careers_url: https://jobs.ashbyhq.com/magicpatterns
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Manifest OS"
+    careers_url: https://jobs.ashbyhq.com/manifest-os
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mariana Minerals"
+    careers_url: https://jobs.ashbyhq.com/marianaminerals
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Matic Robots"
+    careers_url: https://jobs.ashbyhq.com/MaticRobots
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Matter Health"
+    careers_url: https://jobs.ashbyhq.com/matter-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Maxima"
+    careers_url: https://jobs.ashbyhq.com/Maxima
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Maze"
+    careers_url: https://jobs.ashbyhq.com/mazehq
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mecka AI"
+    careers_url: https://jobs.ashbyhq.com/mecka.ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Medal"
+    careers_url: https://jobs.ashbyhq.com/medal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Medra"
+    careers_url: https://jobs.ashbyhq.com/medraai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mem0"
+    careers_url: https://jobs.ashbyhq.com/mem0
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Merge Labs"
+    careers_url: https://jobs.ashbyhq.com/Merge%20Labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Method"
+    careers_url: https://jobs.ashbyhq.com/method
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mind Moves"
+    careers_url: https://jobs.ashbyhq.com/mindmoves
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mirendil"
+    careers_url: https://jobs.ashbyhq.com/mirendil
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Miter"
+    careers_url: https://jobs.ashbyhq.com/miter
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mithrl"
+    careers_url: https://jobs.ashbyhq.com/mithrl
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mobasi"
+    careers_url: https://jobs.ashbyhq.com/mobasi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Modal"
+    careers_url: https://jobs.ashbyhq.com/modal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Modus"
+    careers_url: https://jobs.ashbyhq.com/modus
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Monk"
+    careers_url: https://jobs.ashbyhq.com/monk
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Monumental"
+    careers_url: https://jobs.ashbyhq.com/monumental
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Natter"
+    careers_url: https://jobs.ashbyhq.com/Natter
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nebulock"
+    careers_url: https://jobs.ashbyhq.com/nebulock
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nectar Social"
+    careers_url: https://jobs.ashbyhq.com/nectar-social
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Neko Health"
+    careers_url: https://jobs.ashbyhq.com/neko-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nelo"
+    careers_url: https://jobs.ashbyhq.com/nelo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "NerdWallet"
+    careers_url: https://jobs.ashbyhq.com/nerdwallet
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nestmed"
+    careers_url: https://jobs.ashbyhq.com/nestmed
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Netic"
+    careers_url: https://jobs.ashbyhq.com/netic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright, nextplay
+  - name: "Neural Concept"
+    careers_url: https://jobs.ashbyhq.com/neuralconcept
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Neurophos"
+    careers_url: https://jobs.ashbyhq.com/neurophos
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Norm Ai"
+    careers_url: https://jobs.ashbyhq.com/norm-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Normal Computing"
+    careers_url: https://jobs.ashbyhq.com/NormalComputing
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nova Intelligence"
+    careers_url: https://jobs.ashbyhq.com/novaintelligence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Novita AI"
+    careers_url: https://jobs.ashbyhq.com/novita-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Nox Metals"
+    careers_url: https://jobs.ashbyhq.com/nox-metals
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Numeral"
+    careers_url: https://jobs.ashbyhq.com/Numeral
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Olix"
+    careers_url: https://jobs.ashbyhq.com/olix
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "OneCrew"
+    careers_url: https://jobs.ashbyhq.com/onecrew
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "OpenAI"
+    careers_url: https://jobs.ashbyhq.com/openai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "OpenEvidence"
+    careers_url: https://jobs.ashbyhq.com/openevidence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "OpenRouter"
+    careers_url: https://jobs.ashbyhq.com/openrouter
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Oratomic"
+    careers_url: https://jobs.ashbyhq.com/oratomic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Orbital Industries"
+    careers_url: https://jobs.ashbyhq.com/orbitalindustries
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Outmarket AI"
+    careers_url: https://jobs.ashbyhq.com/outmarket
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pangram Labs"
+    careers_url: https://jobs.ashbyhq.com/pangramlabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Paradigm"
+    careers_url: https://jobs.ashbyhq.com/paradigmai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Partiful"
+    careers_url: https://jobs.ashbyhq.com/partiful
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pathwork"
+    careers_url: https://jobs.ashbyhq.com/pathwork
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Patreon"
+    careers_url: https://jobs.ashbyhq.com/patreon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pennylane"
+    careers_url: https://jobs.ashbyhq.com/pennylane
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Perfect Venue"
+    careers_url: https://jobs.ashbyhq.com/perfect-venue
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Periodic"
+    careers_url: https://jobs.ashbyhq.com/periodic-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "PermitFlow"
+    careers_url: https://jobs.ashbyhq.com/permitflow
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Perry Weather"
+    careers_url: https://jobs.ashbyhq.com/perryweather
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Persona AI"
+    careers_url: https://jobs.ashbyhq.com/persona.ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Phantom"
+    careers_url: https://jobs.ashbyhq.com/phantom
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Phoebe"
+    careers_url: https://jobs.ashbyhq.com/phoebe-work
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Physical Intelligence"
+    careers_url: https://jobs.ashbyhq.com/physicalintelligence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Plain"
+    careers_url: https://jobs.ashbyhq.com/plain
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Poolside AI"
+    careers_url: https://jobs.ashbyhq.com/poolside
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Poseidon Aerospace"
+    careers_url: https://jobs.ashbyhq.com/poseidonaero
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "PostHog"
+    careers_url: https://jobs.ashbyhq.com/posthog
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Prime Intellect"
+    careers_url: https://jobs.ashbyhq.com/PrimeIntellect
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Probook"
+    careers_url: https://jobs.ashbyhq.com/probook
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Project Eleven"
+    careers_url: https://jobs.ashbyhq.com/projecteleven
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Protege"
+    careers_url: https://jobs.ashbyhq.com/protege
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Proxima Fusion"
+    careers_url: https://jobs.ashbyhq.com/proxima-fusion
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "QuantWare"
+    careers_url: https://jobs.ashbyhq.com/quantware
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Quartermaster"
+    careers_url: https://jobs.ashbyhq.com/quartermaster
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Quindar"
+    careers_url: https://jobs.ashbyhq.com/quindar
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Railway"
+    careers_url: https://jobs.ashbyhq.com/railway
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Rain"
+    careers_url: https://jobs.ashbyhq.com/rain
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Rainmaker Technology Corporation"
+    careers_url: https://jobs.ashbyhq.com/rainmaker
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Ramp"
+    careers_url: https://jobs.ashbyhq.com/ramp
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Realm Alliance"
+    careers_url: https://jobs.ashbyhq.com/realmalliance
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Redesign Health"
+    careers_url: https://jobs.ashbyhq.com/Redesign%20Health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "ReflectionAI"
+    careers_url: https://jobs.ashbyhq.com/reflectionai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Relay"
+    careers_url: https://jobs.ashbyhq.com/relayfi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Relevance AI"
+    careers_url: https://jobs.ashbyhq.com/relevanceai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Reliable Robotics"
+    careers_url: https://jobs.ashbyhq.com/reliable-robotics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Render"
+    careers_url: https://jobs.ashbyhq.com/render
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Replit"
+    careers_url: https://jobs.ashbyhq.com/replit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Restate"
+    careers_url: https://jobs.ashbyhq.com/restate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Revel"
+    careers_url: https://jobs.ashbyhq.com/revel
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rho"
+    careers_url: https://jobs.ashbyhq.com/rho
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Rhoda AI"
+    careers_url: https://jobs.ashbyhq.com/rhoda-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Ricursive Intelligence"
+    careers_url: https://jobs.ashbyhq.com/Ricursive%20Intelligence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Also."
+    careers_url: https://jobs.ashbyhq.com/Ridealso
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "River"
+    careers_url: https://jobs.ashbyhq.com/river
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Root Access"
+    careers_url: https://jobs.ashbyhq.com/root-access
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "RUNE"
+    careers_url: https://jobs.ashbyhq.com/runetech
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Runlayer"
+    careers_url: https://jobs.ashbyhq.com/runlayer
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Runway"
+    careers_url: https://jobs.ashbyhq.com/Runway
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sable"
+    careers_url: https://jobs.ashbyhq.com/sable
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sapiom"
+    careers_url: https://jobs.ashbyhq.com/sapiom
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Saris"
+    careers_url: https://jobs.ashbyhq.com/saris-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sarvam AI"
+    careers_url: https://jobs.ashbyhq.com/sarvam
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Wordware"
+    careers_url: https://jobs.ashbyhq.com/sauna.ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Scan.com"
+    careers_url: https://jobs.ashbyhq.com/scan-com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Scribe"
+    careers_url: https://jobs.ashbyhq.com/scribe
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Seneca"
+    careers_url: https://jobs.ashbyhq.com/seneca
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sequence"
+    careers_url: https://jobs.ashbyhq.com/sequence
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sereact"
+    careers_url: https://jobs.ashbyhq.com/sereact
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Serval"
+    careers_url: https://jobs.ashbyhq.com/Serval
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sesame"
+    careers_url: https://jobs.ashbyhq.com/sesame
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Siena AI"
+    careers_url: https://jobs.ashbyhq.com/siena
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Silna"
+    careers_url: https://jobs.ashbyhq.com/silnahealth.com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Slash"
+    careers_url: https://jobs.ashbyhq.com/slash-financial
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Socket"
+    careers_url: https://jobs.ashbyhq.com/socket
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Socure"
+    careers_url: https://jobs.ashbyhq.com/socure
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sola"
+    careers_url: https://jobs.ashbyhq.com/sola
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Solstice"
+    careers_url: https://jobs.ashbyhq.com/solstice
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Speakeasy"
+    careers_url: https://jobs.ashbyhq.com/Speakeasy
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "SpotOn"
+    careers_url: https://jobs.ashbyhq.com/spoton
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stacks"
+    careers_url: https://jobs.ashbyhq.com/stacks
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Starbridge"
+    careers_url: https://jobs.ashbyhq.com/starbridge
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Strava"
+    careers_url: https://jobs.ashbyhq.com/strava
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Stuut"
+    careers_url: https://jobs.ashbyhq.com/stuut-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Summation"
+    careers_url: https://jobs.ashbyhq.com/summation
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "sunday"
+    careers_url: https://jobs.ashbyhq.com/sunday
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Suno"
+    careers_url: https://jobs.ashbyhq.com/suno
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Swarm Aero"
+    careers_url: https://jobs.ashbyhq.com/swarmaero
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "SweatPals"
+    careers_url: https://jobs.ashbyhq.com/sweatpals
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Synthflow AI"
+    careers_url: https://jobs.ashbyhq.com/synthflow
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tabs"
+    careers_url: https://jobs.ashbyhq.com/tabs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tacit"
+    careers_url: https://jobs.ashbyhq.com/tacit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Take2 AI"
+    careers_url: https://jobs.ashbyhq.com/take2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Taktile"
+    careers_url: https://jobs.ashbyhq.com/taktile
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tandem Health"
+    careers_url: https://jobs.ashbyhq.com/tandem-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "TAR"
+    careers_url: https://jobs.ashbyhq.com/tar
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tarro"
+    careers_url: https://jobs.ashbyhq.com/tarro
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Taxo"
+    careers_url: https://jobs.ashbyhq.com/taxo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tenex"
+    careers_url: https://jobs.ashbyhq.com/tenex
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tennr"
+    careers_url: https://jobs.ashbyhq.com/tennr
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Titan"
+    careers_url: https://jobs.ashbyhq.com/titan-msp
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright, nextplay
+  - name: "TLDR"
+    careers_url: https://jobs.ashbyhq.com/tldr.tech
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tonic.ai"
+    careers_url: https://jobs.ashbyhq.com/tonicai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tools for Humanity"
+    careers_url: https://jobs.ashbyhq.com/Tools%20for%20Humanity
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Traba"
+    careers_url: https://jobs.ashbyhq.com/traba
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Trajectory"
+    careers_url: https://jobs.ashbyhq.com/trajectory
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "TriEdge Investments"
+    careers_url: https://jobs.ashbyhq.com/triedge-investments
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Turnkey"
+    careers_url: https://jobs.ashbyhq.com/turnkey
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Turquoise Health"
+    careers_url: https://jobs.ashbyhq.com/turquoise-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Twelve Labs"
+    careers_url: https://jobs.ashbyhq.com/twelve-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Two Dots"
+    careers_url: https://jobs.ashbyhq.com/two-dots
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "TypeSafe AI"
+    careers_url: https://jobs.ashbyhq.com/typesafe-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "UFORCE"
+    careers_url: https://jobs.ashbyhq.com/uforce
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Unit"
+    careers_url: https://jobs.ashbyhq.com/unit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "PRO Unlimited"
+    careers_url: https://jobs.ashbyhq.com/unlimitedindustries
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Upside"
+    careers_url: https://jobs.ashbyhq.com/upside
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Valinor"
+    careers_url: https://jobs.ashbyhq.com/valinor
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Valon"
+    careers_url: https://jobs.ashbyhq.com/Valon
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vanta"
+    careers_url: https://jobs.ashbyhq.com/vanta
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vendelux"
+    careers_url: https://jobs.ashbyhq.com/vendelux
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Venn"
+    careers_url: https://jobs.ashbyhq.com/venn
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vesta"
+    careers_url: https://jobs.ashbyhq.com/vesta
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Viktorious Holdings"
+    careers_url: https://jobs.ashbyhq.com/viktor
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vitalize"
+    careers_url: https://jobs.ashbyhq.com/vitalize
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vizcom"
+    careers_url: https://jobs.ashbyhq.com/vizcom
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vocca"
+    careers_url: https://jobs.ashbyhq.com/vocca
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Volta Infrastructure Holdings Limited"
+    careers_url: https://jobs.ashbyhq.com/volta
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Warp"
+    careers_url: https://jobs.ashbyhq.com/warp
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Watney Robotics Inc"
+    careers_url: https://jobs.ashbyhq.com/watney
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "webAI"
+    careers_url: https://jobs.ashbyhq.com/webai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "WindBorne"
+    careers_url: https://jobs.ashbyhq.com/windborne-systems
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Wispr Flow"
+    careers_url: https://jobs.ashbyhq.com/wispr-flow
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Daydream"
+    careers_url: https://jobs.ashbyhq.com/withdaydream
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pace"
+    careers_url: https://jobs.ashbyhq.com/withpace
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Wordsmith AI"
+    careers_url: https://jobs.ashbyhq.com/wordsmith
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "XBOW"
+    careers_url: https://jobs.ashbyhq.com/xbowcareers
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "XONA"
+    careers_url: https://jobs.ashbyhq.com/xona-space
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Zip"
+    careers_url: https://jobs.ashbyhq.com/zip
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "AcuityMD"
+    careers_url: https://job-boards.greenhouse.io/acuitymd
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Allen Control Systems"
+    careers_url: https://job-boards.greenhouse.io/allencontrolsystems
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Arc Institute"
+    careers_url: https://job-boards.greenhouse.io/arcinstitute
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Array"
+    careers_url: https://boards.greenhouse.io/array
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Blend"
+    careers_url: https://job-boards.greenhouse.io/blend
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bluefish AI"
+    careers_url: https://job-boards.greenhouse.io/bluefishai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Capitolis"
+    careers_url: https://job-boards.greenhouse.io/capitolis
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Carta"
+    careers_url: https://job-boards.greenhouse.io/carta
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Chan Zuckerberg Initiative"
+    careers_url: https://job-boards.greenhouse.io/chanzuckerbergbiohub
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Checkr"
+    careers_url: https://job-boards.greenhouse.io/checkr
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Claros"
+    careers_url: https://job-boards.greenhouse.io/claros
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Clear Street"
+    careers_url: https://job-boards.greenhouse.io/clearstreet
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "ClickHouse"
+    careers_url: https://job-boards.greenhouse.io/clickhouse
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Cortex"
+    careers_url: https://job-boards.greenhouse.io/cortex
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Curaleaf"
+    careers_url: https://job-boards.greenhouse.io/curaleaf
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Databento"
+    careers_url: https://job-boards.greenhouse.io/databento
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Datacor, Inc."
+    careers_url: https://job-boards.greenhouse.io/datacor
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Dirac, Inc."
+    careers_url: https://job-boards.greenhouse.io/diracinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Duolingo"
+    careers_url: https://job-boards.greenhouse.io/duolingounirecruitment
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Efficient Computer"
+    careers_url: https://job-boards.greenhouse.io/efficientcomputer
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "EQT Corporation"
+    careers_url: https://job-boards.greenhouse.io/eqtcorporation
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Farther"
+    careers_url: https://job-boards.greenhouse.io/fartherfinance
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fay"
+    careers_url: https://job-boards.greenhouse.io/fay
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Fractile"
+    careers_url: https://job-boards.eu.greenhouse.io/fractile
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Garner Health"
+    careers_url: https://job-boards.greenhouse.io/garnerhealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gather AI"
+    careers_url: https://job-boards.greenhouse.io/gatherai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gelber Group"
+    careers_url: https://job-boards.greenhouse.io/gelbergroup
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "GOAT Group"
+    careers_url: https://job-boards.greenhouse.io/goatgroup
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gradial"
+    careers_url: https://job-boards.greenhouse.io/gradial
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hark"
+    careers_url: https://job-boards.greenhouse.io/hark
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright, nextplay
+  - name: "Harness"
+    careers_url: https://job-boards.greenhouse.io/harnessinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hasbro"
+    careers_url: https://job-boards.greenhouse.io/hasbro
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Honeycomb"
+    careers_url: https://job-boards.greenhouse.io/honeycombinsurance
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Island"
+    careers_url: https://job-boards.greenhouse.io/island
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Kargo"
+    careers_url: https://job-boards.greenhouse.io/kargo
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lightmatter"
+    careers_url: https://boards.greenhouse.io/lightmatter
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lila Sciences"
+    careers_url: https://job-boards.greenhouse.io/lilasciences
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lithic"
+    careers_url: https://job-boards.greenhouse.io/lithic
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Loop"
+    careers_url: https://job-boards.greenhouse.io/loop
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lucid Bots"
+    careers_url: https://job-boards.greenhouse.io/lucidbots
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "M0"
+    careers_url: https://job-boards.greenhouse.io/m0dbathenextthingltd
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Maven Robotics"
+    careers_url: https://job-boards.greenhouse.io/mavenrobotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "MEMX"
+    careers_url: https://job-boards.greenhouse.io/memx
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Mixpanel"
+    careers_url: https://job-boards.greenhouse.io/mixpanel
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nava"
+    careers_url: https://job-boards.greenhouse.io/navapbc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "NavVis"
+    careers_url: https://job-boards.eu.greenhouse.io/navvis
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Nex"
+    careers_url: https://job-boards.greenhouse.io/nex
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Novig"
+    careers_url: https://job-boards.greenhouse.io/novig
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Orkes"
+    careers_url: https://job-boards.greenhouse.io/orkes
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pacific Fusion"
+    careers_url: https://job-boards.greenhouse.io/pacificfusion
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Panthalassa"
+    careers_url: https://job-boards.greenhouse.io/panthalassa
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Parallel Systems"
+    careers_url: https://job-boards.greenhouse.io/parallel
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pave"
+    careers_url: https://job-boards.greenhouse.io/paveakatroveinformationtechnologies
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Perplexity"
+    careers_url: https://job-boards.greenhouse.io/perplexityai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Podium"
+    careers_url: https://job-boards.greenhouse.io/podium81
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Quince"
+    careers_url: https://job-boards.greenhouse.io/quince
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Relay"
+    careers_url: https://job-boards.greenhouse.io/relaypro
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Retool"
+    careers_url: https://job-boards.greenhouse.io/retool
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "RF-SMART"
+    careers_url: https://job-boards.greenhouse.io/rfsmart
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "River AI"
+    careers_url: https://job-boards.greenhouse.io/riverai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "RoboForce"
+    careers_url: https://job-boards.greenhouse.io/roboforce
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sage"
+    careers_url: https://job-boards.greenhouse.io/sage49
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "SambaNova"
+    careers_url: https://job-boards.greenhouse.io/sambanovasystems
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Skyryse"
+    careers_url: https://job-boards.greenhouse.io/skyryse
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Spade"
+    careers_url: https://job-boards.greenhouse.io/spade
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "State Affairs"
+    careers_url: https://job-boards.greenhouse.io/stateaffairs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pillar"
+    careers_url: https://job-boards.greenhouse.io/stratoslabsinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Suki"
+    careers_url: https://job-boards.greenhouse.io/suki
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Tia"
+    careers_url: https://job-boards.greenhouse.io/tia
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tines"
+    careers_url: https://job-boards.greenhouse.io/tines
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "True Anomaly"
+    careers_url: https://job-boards.greenhouse.io/trueanomalyinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Twin Health"
+    careers_url: https://job-boards.greenhouse.io/twinhealth
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Unframe AI"
+    careers_url: https://job-boards.eu.greenhouse.io/unframe
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vast"
+    careers_url: https://boards.greenhouse.io/vast
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, nextplay
+  - name: "Vestwell"
+    careers_url: https://job-boards.greenhouse.io/vestwell
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Visia"
+    careers_url: https://job-boards.greenhouse.io/visia
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Woolpert"
+    careers_url: https://job-boards.greenhouse.io/woolpert
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "World Labs"
+    careers_url: https://job-boards.greenhouse.io/worldlabs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "You.com"
+    careers_url: https://job-boards.greenhouse.io/youcom
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Acron Aviation"
+    careers_url: https://jobs.lever.co/acronaviation
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Airalo"
+    careers_url: https://jobs.lever.co/airalo
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Alice"
+    careers_url: https://jobs.lever.co/alice-bob
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Azul Systems"
+    careers_url: https://jobs.lever.co/azul
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Collate"
+    careers_url: https://jobs.lever.co/collate
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Finch"
+    careers_url: https://jobs.lever.co/finch
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hustle Fund"
+    careers_url: https://jobs.lever.co/funxyz
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Grand Games"
+    careers_url: https://jobs.lever.co/grand
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gravis Robotics"
+    careers_url: https://jobs.lever.co/gravisrobotics
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Hermeus"
+    careers_url: https://jobs.lever.co/hermeus
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Humble Robotics"
+    careers_url: https://jobs.lever.co/humble-robotics
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Pivotal Software"
+    careers_url: https://jobs.lever.co/ivo
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Layup Parts"
+    careers_url: https://jobs.lever.co/layup
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lumafield"
+    careers_url: https://jobs.lever.co/lumafield
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mythic"
+    careers_url: https://jobs.lever.co/mythic-ai.com
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Rylo Inc."
+    careers_url: https://jobs.lever.co/rylo
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Shield AI"
+    careers_url: https://jobs.lever.co/shieldai
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Superstate"
+    careers_url: https://jobs.lever.co/superstate
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "UNTIL"
+    careers_url: https://jobs.lever.co/until
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Valarian"
+    careers_url: https://jobs.lever.co/valarian
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "WHOOP"
+    careers_url: https://jobs.lever.co/whoop
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Yuno"
+    careers_url: https://jobs.lever.co/yuno
+    provider: lever
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Accenture"
+    careers_url: https://accenture.wd103.myworkdayjobs.com/accenturecareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Nissan"
+    careers_url: https://alliance.wd3.myworkdayjobs.com/nissanjobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Allstate"
+    careers_url: https://allstate.wd5.myworkdayjobs.com/allstate_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "American Family Insurance"
+    careers_url: https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Berkadia"
+    careers_url: https://berkadia.wd1.myworkdayjobs.com/berkadia
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Boeing"
+    careers_url: https://boeing.wd1.myworkdayjobs.com/external_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Boeing"
+    careers_url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Boston Dynamics"
+    careers_url: https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Marigold USA, Inc."
+    careers_url: https://campaignmonitor.wd5.myworkdayjobs.com/marigold
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Caterpillar Inc."
+    careers_url: https://cat.wd5.myworkdayjobs.com/caterpillarcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CME Group"
+    careers_url: https://cmegroup.wd1.myworkdayjobs.com/cme_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Comcast"
+    careers_url: https://comcast.wd115.myworkdayjobs.com/comcast_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "DTN"
+    careers_url: https://dtn.wd1.myworkdayjobs.com/dtn_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Duke Energy"
+    careers_url: https://dukeenergy.wd1.myworkdayjobs.com/search
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "eBay"
+    careers_url: https://ebay.wd5.myworkdayjobs.com/apply
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Equifax"
+    careers_url: https://equifax.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "General Dynamics Information Technology"
+    careers_url: https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GE Aerospace"
+    careers_url: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "General Motors"
+    careers_url: https://generalmotors.wd5.myworkdayjobs.com/careers_gm
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gordon Food Service"
+    careers_url: https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "RTX"
+    careers_url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Highmark Health"
+    careers_url: https://highmarkhealth.wd1.myworkdayjobs.com/highmark
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "HonorHealth"
+    careers_url: https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "IMEG"
+    careers_url: https://imeg.wd1.myworkdayjobs.com/imeg_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lanteris Space Systems"
+    careers_url: https://intuitivemachines.wd115.myworkdayjobs.com/lanterisspace
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Illinois Tool Works"
+    careers_url: https://itw.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Blue Yonder"
+    careers_url: https://jda.wd5.myworkdayjobs.com/jda_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Blue Yonder"
+    careers_url: https://jda.wd5.myworkdayjobs.com/university
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "JLL"
+    careers_url: https://jll.wd1.myworkdayjobs.com/jllcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Relativity"
+    careers_url: https://kcura.wd1.myworkdayjobs.com/external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "KION Group"
+    careers_url: https://kiongroup.wd3.myworkdayjobs.com/kiongroup
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "KLA Corporation"
+    careers_url: https://kla.wd1.myworkdayjobs.com/job
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "KLA Corporation"
+    careers_url: https://kla.wd1.myworkdayjobs.com/search
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Kohl's"
+    careers_url: https://kohls.wd504.myworkdayjobs.com/kohlscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Life Fitness"
+    careers_url: https://lifefitness.wd1.myworkdayjobs.com/searchlfn
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Eli Lilly and Company"
+    careers_url: https://lilly.wd115.myworkdayjobs.com/lly
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "McKesson Corporation"
+    careers_url: https://mckesson.wd3.myworkdayjobs.com/covermymeds_external_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Medtronic"
+    careers_url: https://medtronic.wd1.myworkdayjobs.com/medtroniccareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Moog"
+    careers_url: https://moog.wd5.myworkdayjobs.com/moog_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Motorola Solutions"
+    careers_url: https://motorolasolutions.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Nationwide"
+    careers_url: https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "NVIDIA"
+    careers_url: https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Parsons"
+    careers_url: https://parsons.wd5.myworkdayjobs.com/search
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Priority1"
+    careers_url: https://priorityoneinc.wd1.myworkdayjobs.com/priority1
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Prologis"
+    careers_url: https://prologis.wd5.myworkdayjobs.com/prologis_external_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "RELX"
+    careers_url: https://relx.wd3.myworkdayjobs.com/risksolutions
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rockwell Automation"
+    careers_url: https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ryan Companies"
+    careers_url: https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SchoolsFirst Federal Credit Union"
+    careers_url: https://schoolsfirstfcu.wd115.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Service Corporation International"
+    careers_url: https://sci.wd5.myworkdayjobs.com/sci
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Samsung Electronics"
+    careers_url: https://sec.wd3.myworkdayjobs.com/samsung_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Schweitzer Engineering Laboratories"
+    careers_url: https://selinc.wd1.myworkdayjobs.com/sel
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "State of Nebraska"
+    careers_url: https://son.wd108.myworkdayjobs.com/nebraskastatecareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "St. Jude Children's Research Hospital"
+    careers_url: https://stjude.wd1.myworkdayjobs.com/stjude
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stord"
+    careers_url: https://stord.wd503.myworkdayjobs.com/Stord_External_Career
+    provider: workday
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "SUSE"
+    careers_url: https://suse.wd3.myworkdayjobs.com/jobsatsuse
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tandem Diabetes Care"
+    careers_url: https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Callaway"
+    careers_url: https://tcbrands.wd1.myworkdayjobs.com/callaway-careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Thomson Reuters"
+    careers_url: https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Trane Technologies"
+    careers_url: https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Vanguard"
+    careers_url: https://vanguard.wd5.myworkdayjobs.com/vanguard_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Victaulic"
+    careers_url: https://victaulic.wd1.myworkdayjobs.com/victaulic_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Washington Post"
+    careers_url: https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Workiva"
+    careers_url: https://workiva.wd503.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Worldwide Clinical Trials"
+    careers_url: https://worldwide.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

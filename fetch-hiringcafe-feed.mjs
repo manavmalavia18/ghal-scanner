@@ -22,6 +22,11 @@ import hiringcafe, {
 import { fetchText, BROWSER_LIKE_USER_AGENT } from './providers/_http.mjs';
 import { canonicalGhalKey } from './lib/ghal-job-key.mjs';
 import { mergeDiscoveredJobs } from './lib/feed-discovery.mjs';
+import {
+  DEFAULT_HIRINGCAFE_QUERIES,
+  parseHiringCafeQueries,
+  acceptHiringCafeJob,
+} from './lib/hiringcafe-query.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(ROOT, 'data/hiringcafe-feed.json');
@@ -47,11 +52,10 @@ const HC_DAYS = Math.max(1, Math.min(7, Number(argVal('--days', '2')) || 2));
 const KEEP_HOURS = Math.max(1, Math.min(168, Number(argVal('--hours', String(HC_DAYS * 24))) || HC_DAYS * 24));
 const SLEEP_SEC = Math.max(60, Number(argVal('--sleep', '600')) || 600);
 
-/** One query — same as the hiringcafe.com URL. Extra queries change the result set. */
-const QUERIES = String(argVal('--query', 'software engineer'))
-  .split('|')
-  .map((s) => s.trim())
-  .filter(Boolean);
+const QUERIES = parseHiringCafeQueries(argVal(
+  '--query',
+  process.env.HC_QUERIES || DEFAULT_HIRINGCAFE_QUERIES.join('|'),
+));
 
 function jobKey(job) {
   return canonicalGhalKey(job.url) || String(job.url || '').toLowerCase();

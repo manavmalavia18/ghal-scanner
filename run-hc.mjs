@@ -9,7 +9,7 @@
 import { spawnSync } from 'child_process';
 
 const started = Date.now();
-const r = spawnSync(process.execPath, ['fetch-hiringcafe-feed.mjs'], { stdio: 'inherit' });
+const r = spawnSync(process.execPath, ['fetch-hiringcafe-feed.mjs', ...process.argv.slice(2)], { stdio: 'inherit' });
 const elapsed = ((Date.now() - started) / 1000).toFixed(1);
 console.log(`[${new Date().toISOString()}] ${r.status === 0 ? 'ok' : 'fail'} exit=${r.status} after ${elapsed}s`);
 process.exit(r.status ?? 1);
