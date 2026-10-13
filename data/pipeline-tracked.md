@@ -135,4 +135,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144 | Salesforce | Software Engineering PMTS | California - San Francisco | posted: 2026-10-13
 - [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000388155 | Caterpillar Inc. | Software Engineer | Chicago, Illinois | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | Boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Missouri---Springfield/Software-Development-Engineer-III_R-110564-1 | Expedia | Software Development Engineer III | USA - Missouri - Springfield | posted: 2026-10-13
+
 ## Processed
