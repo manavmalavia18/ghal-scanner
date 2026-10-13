@@ -16,6 +16,7 @@ import { writeFileSync, mkdirSync, existsSync, readFileSync, unlinkSync } from '
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { canonicalGhalKey } from './lib/ghal-job-key.mjs';
+import { mergeDiscoveredJobs } from './lib/feed-discovery.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(ROOT, 'data/nextplay-feed.json');
@@ -88,30 +89,17 @@ async function fetchPage(offset) {
   return res.json();
 }
 
-function loadPreviousJobs() {
-  if (!existsSync(OUT)) return [];
+function loadPreviousSnapshot() {
+  if (!existsSync(OUT)) return { jobs: [], fetchedAt: '' };
   try {
     const raw = JSON.parse(readFileSync(OUT, 'utf8'));
-    return Array.isArray(raw.jobs) ? raw.jobs : [];
+    return {
+      jobs: Array.isArray(raw.jobs) ? raw.jobs : [],
+      fetchedAt: raw.fetchedAt || '',
+    };
   } catch {
-    return [];
+    return { jobs: [], fetchedAt: '' };
   }
-}
-
-function mergeJobs(previous, incoming) {
-  const cutoff = Date.now() - KEEP_HOURS * 3600 * 1000;
-  const byKey = new Map();
-  for (const job of previous) {
-    if (job.postedAt && job.postedAt < cutoff) continue;
-    const k = jobKey(job);
-    if (k) byKey.set(k, job);
-  }
-  for (const job of incoming) {
-    const k = jobKey(job);
-    if (!k) continue;
-    byKey.set(k, job);
-  }
-  return [...byKey.values()].sort((a, b) => (b.postedAt || 0) - (a.postedAt || 0));
 }
 
 async function fetchFeed() {
@@ -143,7 +131,13 @@ async function fetchFeed() {
     await new Promise((r) => setTimeout(r, 150));
   }
 
-  const jobs = mergeJobs(loadPreviousJobs(), incoming);
+  const previous = loadPreviousSnapshot();
+  const jobs = mergeDiscoveredJobs(previous.jobs, incoming, {
+    keyOf: jobKey,
+    now: new Date().toISOString(),
+    keepHours: KEEP_HOURS,
+    legacyDiscoveredAt: previous.fetchedAt,
+  });
   mkdirSync(resolve(ROOT, 'data'), { recursive: true });
   const payload = {
     fetchedAt: new Date().toISOString(),
