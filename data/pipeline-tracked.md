@@ -130,4 +130,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/kraken.com/225dd840-3938-4fe4-84cd-cca280efafc2 | Payward, Inc. | Software Engineer II - Rust - Pro | Brazil · Peru · Sweden · Colombia · Argentina · Romania · Cyprus · Slovenia · Lithuania · South Africa · Czech Republic · Hungary · Mexico · Chile · Poland · Slovakia · Bulgaria · Remote | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/valinor/c9f43ce2-33a3-4d6a-aee8-6d71cc9b8458 | Valinor | Software Engineer, Backend (Platform) | New York, NY · Remote | posted: 2026-10-13
 
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R73434 | Blue Origin | Software Engineer | Greater Seattle Area | posted: 2026-10-13
+
 ## Processed
