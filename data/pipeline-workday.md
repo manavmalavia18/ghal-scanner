@@ -109,4 +109,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1 | boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | posted: 2026-10-13
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382 | boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | posted: 2026-10-13
 
+- [ ] https://taylor.wd1.myworkdayjobs.com/external/job/MN-Remote/Senior-RPG-Software-Engineer_R29538 | taylor | RPG Software Engineer | MN Remote | posted: 2026-10-13
+- [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---Texas-Remote/DevOps-Engineer--Technology-_R0481506 | davita | DevOps Engineer (Technology) | 01548 - Texas Remote | posted: 2026-10-13
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4728-1 | cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4729-1 | cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4732-2 | cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
+
 ## Processed
