@@ -6903,6 +6903,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Conner Strong & Buckelew"
+    careers_url: https://job-boards.greenhouse.io/csbinternship
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gallup"
+    careers_url: https://job-boards.greenhouse.io/gallup
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Nimble Robotics"
+    careers_url: https://job-boards.greenhouse.io/nimblerobotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lennar"
+    careers_url: https://lennar.wd1.myworkdayjobs.com/Early_Careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
