@@ -396,3 +396,5 @@
 
 - [ ] https://jobs.ashbyhq.com/allspice/6d5963b2-5c5e-4dec-a998-9e4b15b32195 | allspice | LLM Platform Engineer | Boston · San Francisco · United States | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62 | netic | Software Engineer – Gap Year | SF or NYC | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5 | arizent | Data & AI Engineer | NYC / Midtown Manhattan | posted: 2026-10-13
