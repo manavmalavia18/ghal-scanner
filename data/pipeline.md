@@ -398,3 +398,9 @@
 - [ ] https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62 | netic | Software Engineer – Gap Year | SF or NYC | posted: 2026-10-12
 
 - [ ] https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5 | arizent | Data & AI Engineer | NYC / Midtown Manhattan | posted: 2026-10-13
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402 | cloudflare | Software Engineer, AI Agents | In-Office · Remote India | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/alan/2dc99c53-9cc7-4c3f-a682-1f79bfa38ce6 | alan | Fullstack Software Engineer (x/f/m) -Automated Resolution | Anywhere in France, Belgium, Spain | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4743075005 | techholding | Software Engineer, Spec-Driven AI Development / Contract / Remote, MX | Mexico, Remote | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4743066005 | techholding | Machine Learning Engineer / Contract / Remote | USA, Remote | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4743067005 | techholding | Machine Learning Engineer / Contract / Remote, MX | Mexico, Remote | posted: 2026-10-12
