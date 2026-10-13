@@ -470,3 +470,8 @@
 - [ ] https://mark43.com/list-job/8221583?gh_jid=8221583 | mark43 | DevOps Engineer | Remote · Remote Office | posted: 2026-10-13
 
 - [ ] https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0 | column | Software Engineer (Travel Heavy) | San Francisco, CA | posted: 2026-10-13
+
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451688008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451673008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451672008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451669008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-13
