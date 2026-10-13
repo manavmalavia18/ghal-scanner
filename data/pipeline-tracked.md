@@ -132,4 +132,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R73434 | Blue Origin | Software Engineer | Greater Seattle Area | posted: 2026-10-13
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144 | Salesforce | Software Engineering PMTS | California - San Francisco | posted: 2026-10-13
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000388155 | Caterpillar Inc. | Software Engineer | Chicago, Illinois | posted: 2026-10-13
+
 ## Processed
