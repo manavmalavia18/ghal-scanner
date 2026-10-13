@@ -393,4 +393,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402 | cloudflare | Software Engineer, AI Agents | In-Office · Remote India | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/alan/2dc99c53-9cc7-4c3f-a682-1f79bfa38ce6 | alan | Fullstack Software Engineer (x/f/m) -Automated Resolution | Anywhere in France, Belgium, Spain | posted: 2026-10-13
 
+- [ ] https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8244284 | onetrust | Full Stack Web Developer | Atlanta, Georgia | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009 | nimblerobotics | Software Engineer III, Cloud | San Francisco, CA | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef | elevenlabs | Applied AI Engineer | Remote | posted: 2026-10-13
+- [ ] https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327 | enablecomp | AI Engineer (REMOTE) | Franklin, TN; United States - Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152 | elevenlabs | Full-Stack Engineer - ElevenAPI | United States · Dublin · Ireland · Bulgaria · Sofia · Germany · Portugal · Poland · Warsaw · Madrid · Spain · Amsterdam · Netherlands · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89 | elevenlabs | Full-Stack Engineer (Frontend-Leaning) - CreativeMusic | Remote · New York · New York City · United States · Poland · Warsaw · Sweden · Stockholm · United Kingdom · Netherlands · France | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e | elevenlabs | Full-Stack Engineer (Backend-Leaning) - CoreMusic | Remote · New York · New York City · United States · Brazil · Paris · Poland · London · United Kingdom · Amsterdam · Netherlands · Canada | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2 | elevenlabs | Full-Stack Engineer - Ads Engine | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2 | elevenlabs | Full-Stack Engineer - Enterprise | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5447961008 | robotsandpencils | AI Engineer | US Remote | posted: 2026-10-08
+
 ## Processed
