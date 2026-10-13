@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T18:07:11.505Z",
+  "fetchedAt": "2026-10-13T18:28:51.787Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 185,
+  "companyCount": 190,
   "companies": [
     {
       "company": "Accenture",
@@ -176,6 +176,13 @@
       "url": "https://berkadia.wd1.myworkdayjobs.com/berkadia"
     },
     {
+      "company": "Biodesix",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4448611009",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4448611009"
+    },
+    {
       "company": "Blend",
       "ats": "greenhouse",
       "board": "blend",
@@ -300,6 +307,13 @@
       "board": "comcast_careers",
       "key": "workday:comcast.wd115.myworkdayjobs.com/comcast_careers",
       "url": "https://comcast.wd115.myworkdayjobs.com/comcast_careers"
+    },
+    {
+      "company": "Conner Strong & Buckelew",
+      "ats": "greenhouse",
+      "board": "csbinternship",
+      "key": "greenhouse:csbinternship",
+      "url": "https://job-boards.greenhouse.io/csbinternship/jobs/4449867009"
     },
     {
       "company": "CoreWeave",
@@ -461,6 +475,13 @@
       "board": "futuresecureai",
       "key": "greenhouse:futuresecureai",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=futuresecureai&token=4001542201"
+    },
+    {
+      "company": "Gallup",
+      "ats": "greenhouse",
+      "board": "gallup",
+      "key": "greenhouse:gallup",
+      "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009"
     },
     {
       "company": "GE Aerospace",
@@ -647,16 +668,16 @@
     {
       "company": "KLA Corporation",
       "ats": "workday",
-      "board": "ur",
-      "key": "workday:kla.wd1.myworkdayjobs.com/ur",
-      "url": "https://kla.wd1.myworkdayjobs.com/ur"
+      "board": "search",
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "url": "https://kla.wd1.myworkdayjobs.com/search"
     },
     {
       "company": "KLA Corporation",
       "ats": "workday",
-      "board": "search",
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "url": "https://kla.wd1.myworkdayjobs.com/search"
+      "board": "ur",
+      "key": "workday:kla.wd1.myworkdayjobs.com/ur",
+      "url": "https://kla.wd1.myworkdayjobs.com/ur"
     },
     {
       "company": "Kohl's",
@@ -671,6 +692,13 @@
       "board": "lanterisspace",
       "key": "workday:intuitivemachines.wd115.myworkdayjobs.com/lanterisspace",
       "url": "https://intuitivemachines.wd115.myworkdayjobs.com/lanterisspace"
+    },
+    {
+      "company": "Lennar",
+      "ats": "workday",
+      "board": "Early_Careers",
+      "key": "workday:lennar.wd1.myworkdayjobs.com/Early_Careers",
+      "url": "https://lennar.wd1.myworkdayjobs.com/Early_Careers"
     },
     {
       "company": "Life Fitness",
@@ -825,6 +853,13 @@
       "board": "nice",
       "key": "greenhouse:nice",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=nice&token=4999222101"
+    },
+    {
+      "company": "Nimble Robotics",
+      "ats": "greenhouse",
+      "board": "nimblerobotics",
+      "key": "greenhouse:nimblerobotics",
+      "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009"
     },
     {
       "company": "Nissan",
