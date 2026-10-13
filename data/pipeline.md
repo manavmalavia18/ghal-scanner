@@ -445,3 +445,5 @@
 - [ ] https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5 | openai | Software Engineer, Cloud Computer | San Francisco | posted: 2026-10-13
 
 - [ ] https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c | braintrust | Software Engineer, Billing | San Francisco · New York City · United States · Seattle | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/laurel/ff5a33ce-c255-49ad-b926-9bcd1135d06d | laurel | Applied AI Engineer | Remote, US · Hybrid, San Francisco, Los Angeles, New York | posted: 2026-10-13
