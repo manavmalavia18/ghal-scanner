@@ -113,4 +113,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Denver/Space-Software-Engineer_R183095 | Parsons | Space Software Engineer | US CO Denver
 - [ ] https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Colorado-Springs/Software-Engineer-II_R182260 | Parsons | Enterprise Software Engineer | US CO Colorado Springs
 
+- [ ] https://jobs.smartrecruiters.com/LinkedIn3/744000155095579 | LinkedIn3 | Software Engineer - Applications | Mountain View, CA, United States | posted: 2026-10-12
+- [ ] https://investure.bamboohr.com/careers/82 | Investure | Software Engineer | Charlottesville, Virginia
+- [ ] https://jobs.smartrecruiters.com/sbtglobalinc/3743990016065036 | SBT Global | Jr. Front-End Developer(Korean Bilingual) | Remote | posted: 2026-10-12
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283 | RTX | Software Engineer I (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-13
+
 ## Processed
