@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T14:27:40.545Z",
+  "fetchedAt": "2026-10-13T14:49:18.697Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -13,9 +13,9 @@
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 647
+    "software engineer": 648
   },
-  "count": 483,
+  "count": 486,
   "jobs": [
     {
       "title": "Software Engineer",
@@ -1112,6 +1112,23 @@
         "Terraform"
       ],
       "company_tagline": "A global data and technology company helping operational leaders in energy, agriculture, and weather-driven industries make faster, smarter decisions.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "System Software Engineer - Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2027451",
+      "company": "NVIDIA",
+      "location": "Santa Clara or Austin or Hillsboro or Boulder or California or Redmond",
+      "postedAt": 1791849600000,
+      "salary": "$124k-$196k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "BS or MS in Computer Engineering, Computer Science or related; 2+ years computer architecture or software development experience; strong understanding of multicore hardware, OS design, concurrency, virtual memory, caching, interrupts, device drivers, real-time programming; performance analysis and optimization.",
+      "tools": [
+        "CUDA"
+      ],
+      "company_tagline": "A technology company that pioneered accelerated computing and powers global intelligence with AI infrastructure.",
       "ats_source": "workday"
     },
     {
@@ -2235,6 +2252,23 @@
       ],
       "company_tagline": "A company building tools for professional programmers through inventive research, design, and engineering.",
       "ats_source": "adhoc"
+    },
+    {
+      "title": "Software Engineer, RL Data",
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "company": "Cursor",
+      "location": "San Francisco, California, United States",
+      "postedAt": 1791838424567,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong software engineering fundamentals; built non-trivial systems in Python (data pipelines, test/eval infrastructure, sandboxes, backend services); careful and systematic; RL or ML experience a plus.",
+      "tools": [
+        "Python"
+      ],
+      "company_tagline": "A technology company focused on automating coding through research, design, and engineering.",
+      "ats_source": "ashby"
     },
     {
       "title": "Electrical Estimator",
@@ -6356,6 +6390,34 @@
       ],
       "company_tagline": "A pediatric hospital advancing precision medicine through genomics and clinical diagnostics.",
       "ats_source": "oraclepeoplesoft"
+    },
+    {
+      "title": "Software Developer - Cloud",
+      "url": "https://daimler.taleo.net/careersection/ex/jobdetail.ftl?job=MER00049EJ&lang=en",
+      "company": "Mercedes-Benz Group AG",
+      "location": "Fort Worth, Texas, United States",
+      "postedAt": 1791806400000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in computer/information science or engineering required; 3+ years IT experience; proficiency in Kubernetes, Docker, Chef, Puppet, PowerShell, Python, Ansible, Java, Spring Boot, and cloud deployment patterns; legal authorization to work in the U.S.",
+      "tools": [
+        "Kubernetes",
+        "Docker",
+        "Chef",
+        "Puppet",
+        "PowerShell",
+        "Python",
+        "Ansible",
+        "Java",
+        "Spring Boot",
+        "GitLab",
+        "GitHub",
+        "ELK stack"
+      ],
+      "company_tagline": "A captive financing and mobility solutions company for Mercedes-Benz vehicles.",
+      "ats_source": "taleo_careersection"
     },
     {
       "title": "Remote Go (Golang) Developer",
