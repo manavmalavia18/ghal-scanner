@@ -1,12 +1,12 @@
 {
-  "at": "2026-10-13T18:13:21.731Z",
+  "at": "2026-10-13T19:03:19.451Z",
   "exitCode": 0,
-  "elapsedSec": 41,
-  "newMatches": 516,
-  "advertised": 684,
-  "pagesFetched": 10,
+  "elapsedSec": 592,
+  "newMatches": 663,
+  "advertised": 739,
+  "pagesFetched": 24,
   "mode": "hiringcafe-saved-search",
-  "query": "software engineer",
+  "query": "software engineer | software developer | backend engineer | frontend engineer | full stack engineer | full stack developer | platform engineer | devops engineer | site reliability engineer | data engineer | machine learning engineer | mobile engineer | ios engineer | android engineer | qa automation engineer | security engineer",
   "hours": 48,
   "truncated": false,
   "transport": "patchright"
