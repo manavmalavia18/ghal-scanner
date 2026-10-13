@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T10:16:19.635Z",
+  "fetchedAt": "2026-10-13T10:38:39.245Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -9,11 +9,11 @@
     "software engineer"
   ],
   "days": 2,
-  "pagesFetched": 10,
+  "pagesFetched": 0,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 619
+    "software engineer": null
   },
   "count": 455,
   "jobs": [
