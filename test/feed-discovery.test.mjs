@@ -59,6 +59,23 @@ test('tracking parameters do not create a second discovery event', () => {
   assert.equal(jobs[0].discoveredAt, '2026-10-13T14:00:00.000Z');
 });
 
+test('an old employer posting seen again does not reset its discovery time', () => {
+  const previous = [{
+    url: 'https://jobs.example.com/old-but-open/1',
+    title: 'Software Engineer',
+    postedAt: Date.parse('2026-10-08T12:00:00Z'),
+    discoveredAt: '2026-10-09T14:00:00.000Z',
+    lastSeenAt: '2026-10-12T14:00:00.000Z',
+  }];
+  const incoming = [{ ...previous[0] }];
+
+  const jobs = mergeDiscoveredJobs(previous, incoming, { keyOf, now: NOW, keepHours: 72 });
+
+  assert.equal(jobs.length, 1);
+  assert.equal(jobs[0].discoveredAt, '2026-10-09T14:00:00.000Z');
+  assert.equal(jobs[0].lastSeenAt, NOW);
+});
+
 test('legacy snapshot rows inherit the snapshot fetchedAt instead of becoming new today', () => {
   const jobs = mergeDiscoveredJobs([{
     url: 'https://jobs.example.com/existing/1',
