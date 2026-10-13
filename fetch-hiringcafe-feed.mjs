@@ -29,10 +29,13 @@ import {
 } from './lib/hiringcafe-query.mjs';
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
-const OUT = resolve(ROOT, 'data/hiringcafe-feed.json');
-const HITS_TMP = resolve(ROOT, 'data/hc-hits.tmp.json');
-const HEARTBEAT = resolve(ROOT, 'data/scan-hc-heartbeat.json');
-const LOCK = resolve(ROOT, 'data/hc-feed.lock');
+// Overridable so the same script can run a second, independent feed (e.g.
+// the data-roles track for jobs-da.manavmalavia.org) without touching this
+// file — just point HC_OUT/HC_HEARTBEAT/HC_LOCK at different paths.
+const OUT = resolve(ROOT, process.env.HC_OUT || 'data/hiringcafe-feed.json');
+const HITS_TMP = resolve(ROOT, process.env.HC_HITS_TMP || 'data/hc-hits.tmp.json');
+const HEARTBEAT = resolve(ROOT, process.env.HC_HEARTBEAT || 'data/scan-hc-heartbeat.json');
+const LOCK = resolve(ROOT, process.env.HC_LOCK || 'data/hc-feed.lock');
 const PY = process.env.HC_PYTHON || 'python3';
 const SCRAPE = join(ROOT, 'scrape-hiringcafe.py');
 

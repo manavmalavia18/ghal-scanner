@@ -1,0 +1,80 @@
+name: HiringCafe feed — data roles (via Tailscale exit node)
+
+on:
+  schedule:
+    - cron: '6-59/15 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: hc-data-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 13
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Install patchright + Xvfb
+        run: |
+          pip install patchright
+          python3 -m patchright install chromium --with-deps
+          sudo apt-get update -y && sudo apt-get install -y xvfb
+
+      - name: Connect to Tailscale exit node
+        uses: tailscale/github-action@v3
+        with:
+          authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
+          args: "--exit-node=100.70.53.6 --exit-node-allow-lan-access=false"
+
+      - name: Run HiringCafe feed fetch for data roles (under Xvfb)
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs
+        env:
+          HC_PYTHON: python3
+          HC_OUT: data/hiringcafe-feed-data.json
+          HC_HITS_TMP: data/hc-hits-data.tmp.json
+          HC_HEARTBEAT: data/scan-hc-heartbeat-data.json
+          HC_LOCK: data/hc-feed-data.lock
+          # No hardcoded query list — inherits DEFAULT_DATA_QUERIES from
+          # lib/data-query.mjs once run-hc.mjs is pointed at it (see
+          # fetch-hiringcafe-feed.mjs's HC_QUERIES fallback). Until that
+          # wiring lands, this workflow sets the list explicitly so it
+          # doesn't silently fall back to the software-role defaults.
+          HC_QUERIES: "data engineer|data analyst|data scientist|etl developer|power bi developer|database administrator|business intelligence engineer|business intelligence analyst|analytics engineer|machine learning engineer|ai ml engineer|data warehouse engineer|product analyst"
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "hc-data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
+          fi
