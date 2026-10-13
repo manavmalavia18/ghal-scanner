@@ -438,3 +438,5 @@
 - [ ] https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097 | substack | Software Engineer - Payments | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/truelogic/05413be9-3da6-4146-82ca-4cfc1d4a047b | truelogic | Mid-level Platform Engineer - Media Production | Brazil · Remote | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/truelogic/cdd308fa-5cce-4cc8-9c2f-d178b3c52cb2 | truelogic | Mid-level Platform Engineer - Media Production | LatAm · Remote | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc | openai | Machine Learning Engineer, Implicit Signals | San Francisco | posted: 2026-10-13
