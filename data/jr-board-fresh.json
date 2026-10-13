@@ -1,14 +1,9 @@
 {
-  "fetchedAt": "2026-10-13T11:06:19.933Z",
+  "fetchedAt": "2026-10-13T14:18:19.850Z",
   "days": 2,
   "leadCount": 80,
-  "jobCount": 35,
+  "jobCount": 43,
   "boards": [
-    {
-      "key": "greenhouse:futuresecureai",
-      "fetched": 39,
-      "kept": 0
-    },
     {
       "key": "greenhouse:wehrtyou",
       "fetched": 90,
@@ -16,7 +11,7 @@
     },
     {
       "key": "greenhouse:asana",
-      "fetched": 102,
+      "fetched": 103,
       "kept": 0
     },
     {
@@ -25,8 +20,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 199,
+      "key": "greenhouse:futuresecureai",
+      "fetched": 39,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:optiverus",
+      "fetched": 160,
       "kept": 0
     },
     {
@@ -36,12 +36,12 @@
     },
     {
       "key": "greenhouse:gleanwork",
-      "fetched": 134,
+      "fetched": 135,
       "kept": 1
     },
     {
-      "key": "greenhouse:optiverus",
-      "fetched": 160,
+      "key": "greenhouse:affirm",
+      "fetched": 201,
       "kept": 0
     },
     {
@@ -50,23 +50,28 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:mesh",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:imaginepediatrics",
       "fetched": 18,
       "kept": 0
     },
     {
-      "key": "greenhouse:asteraearlycareer2027",
-      "fetched": 88,
+      "key": "greenhouse:mesh",
+      "fetched": 17,
       "kept": 0
     },
     {
-      "key": "greenhouse:nice",
-      "fetched": 176,
+      "key": "greenhouse:flexport",
+      "fetched": 207,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:chainguard",
+      "fetched": 77,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:mixpanel",
+      "fetched": 55,
       "kept": 0
     },
     {
@@ -75,14 +80,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:chainguard",
-      "fetched": 76,
+      "key": "greenhouse:asteraearlycareer2027",
+      "fetched": 88,
       "kept": 0
     },
     {
-      "key": "greenhouse:mixpanel",
-      "fetched": 55,
-      "kept": 0
+      "key": "greenhouse:asm",
+      "fetched": 486,
+      "kept": 1
     },
     {
       "key": "greenhouse:skyryse",
@@ -105,8 +110,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:flexport",
-      "fetched": 208,
+      "key": "greenhouse:nice",
+      "fetched": 178,
       "kept": 0
     },
     {
@@ -115,9 +120,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gelbergroup",
-      "fetched": 12,
-      "kept": 1
+      "key": "greenhouse:podium81",
+      "fetched": 60,
+      "kept": 0
     },
     {
       "key": "greenhouse:walkermillerenergy",
@@ -125,34 +130,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:esri",
-      "fetched": 464,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:goatgroup",
       "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 60,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:twinhealth",
-      "fetched": 43,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:coreweave",
-      "fetched": 309,
+      "fetched": 308,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
     },
     {
       "key": "greenhouse:duolingounirecruitment",
@@ -160,18 +145,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:gelbergroup",
+      "fetched": 12,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:twinhealth",
+      "fetched": 43,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:drivepoint",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:rfsmart",
-      "fetched": 24,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:hasbro",
-      "fetched": 113,
+      "key": "greenhouse:explore",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -180,13 +170,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:burnsengineeringinc",
+      "fetched": 34,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:hasbro",
+      "fetched": 111,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:li-thermal-works",
       "fetched": 21,
       "kept": 1
     },
     {
-      "key": "greenhouse:burnsengineeringinc",
-      "fetched": 34,
+      "key": "greenhouse:rfsmart",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -205,18 +205,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:elevenlabs",
-      "fetched": 135,
-      "kept": 1
+      "key": "ashby:rainmaker",
+      "fetched": 25,
+      "kept": 3
     },
     {
       "key": "ashby:aurora-operations-inc",
-      "fetched": 97,
-      "kept": 1
-    },
-    {
-      "key": "ashby:applied",
-      "fetched": 324,
+      "fetched": 98,
       "kept": 1
     },
     {
@@ -225,8 +220,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asm",
-      "fetched": 486,
+      "key": "ashby:elevenlabs",
+      "fetched": 140,
+      "kept": 8
+    },
+    {
+      "key": "ashby:applied",
+      "fetched": 326,
       "kept": 1
     },
     {
@@ -240,11 +240,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:rainmaker",
-      "fetched": 25,
-      "kept": 3
-    },
-    {
       "key": "ashby:hex",
       "fetched": 40,
       "kept": 0
@@ -255,18 +250,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:benchling",
-      "fetched": 59,
-      "kept": 1
-    },
-    {
       "key": "ashby:titan-msp",
       "fetched": 7,
       "kept": 1
     },
     {
-      "key": "ashby:flossy",
-      "fetched": 3,
+      "key": "ashby:benchling",
+      "fetched": 59,
       "kept": 1
     },
     {
@@ -275,9 +265,19 @@
       "kept": 1
     },
     {
-      "key": "ashby:matter-health",
-      "fetched": 17,
+      "key": "ashby:revel",
+      "fetched": 28,
       "kept": 0
+    },
+    {
+      "key": "ashby:flossy",
+      "fetched": 3,
+      "kept": 1
+    },
+    {
+      "key": "ashby:chaidiscovery",
+      "fetched": 21,
+      "kept": 2
     },
     {
       "key": "ashby:civilgrid",
@@ -285,8 +285,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:revel",
-      "fetched": 28,
+      "key": "ashby:matter-health",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -305,11 +305,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:chaidiscovery",
-      "fetched": 21,
-      "kept": 2
-    },
-    {
       "key": "ashby:quindar",
       "fetched": 20,
       "kept": 1
@@ -320,19 +315,19 @@
       "kept": 1
     },
     {
-      "key": "ashby:spoton",
-      "fetched": 74,
-      "kept": 0
-    },
-    {
       "key": "ashby:uforce",
       "fetched": 17,
       "kept": 0
     },
     {
-      "key": "lever:analyticpartners",
-      "fetched": 20,
+      "key": "ashby:spoton",
+      "fetched": 76,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:esri",
+      "fetched": 478,
+      "kept": 1
     },
     {
       "key": "lever:robust-ai",
@@ -345,19 +340,9 @@
       "kept": 0
     },
     {
-      "key": "lever:acronaviation",
-      "fetched": 52,
+      "key": "lever:analyticpartners",
+      "fetched": 20,
       "kept": 0
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 236,
-      "kept": 2
-    },
-    {
-      "key": "lever:palantir",
-      "fetched": 310,
-      "kept": 1
     },
     {
       "key": "lever:azul",
@@ -390,6 +375,11 @@
       "kept": 3
     },
     {
+      "key": "lever:zoox",
+      "fetched": 236,
+      "kept": 2
+    },
+    {
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
       "fetched": 80,
       "kept": 0
@@ -402,6 +392,16 @@
     {
       "key": "workday:usbank.wd1.myworkdayjobs.com/us_bank_careers",
       "fetched": 80,
+      "kept": 1
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 310,
+      "kept": 1
+    },
+    {
+      "key": "lever:acronaviation",
+      "fetched": 52,
       "kept": 0
     }
   ],
@@ -427,6 +427,16 @@
       "board": "datacor"
     },
     {
+      "title": "Field Software Engineer",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=4966075101",
+      "company": "ASM",
+      "location": "US > Arizona > Chandler",
+      "postedAt": "2026-10-12T21:14:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "asm"
+    },
+    {
       "title": "Software Engineer, ML Infrastructure",
       "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222681004",
       "company": "Arc Institute",
@@ -447,6 +457,16 @@
       "board": "arcinstitute"
     },
     {
+      "title": "Software and AI Engineer",
+      "url": "https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006",
+      "company": "CoreWeave",
+      "location": "Sunnyvale, CA / Bellevue, WA / Dallas, TX",
+      "postedAt": "2026-10-13T00:19:33.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "coreweave"
+    },
+    {
       "title": "Software Engineer- Equity Derivatives Trading Desk",
       "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006",
       "company": "Gelber Group",
@@ -457,16 +477,6 @@
       "board": "gelbergroup"
     },
     {
-      "title": "Software Development Engineer II - ArcGIS Enterprise ",
-      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
-      "company": "Esri",
-      "location": "Redlands, CA",
-      "postedAt": "2026-10-12T19:23:04.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "esri"
-    },
-    {
       "title": "Senior Platform Engineer, MarTech",
       "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004",
       "company": "Twin Health",
@@ -475,16 +485,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "twinhealth"
-    },
-    {
-      "title": "Software and AI Engineer",
-      "url": "https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006",
-      "company": "CoreWeave",
-      "location": "Sunnyvale, CA / Bellevue, WA / Dallas, TX",
-      "postedAt": "2026-10-13T00:19:33.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "coreweave"
     },
     {
       "title": "Platform Engineer (ServiceNow)",
@@ -505,66 +505,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "netic"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
-      "company": "ElevenLabs",
-      "location": "London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote",
-      "postedAt": "2026-10-13T09:53:19.313Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "ML Engineer, Behavior Planning",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
-      "company": "Aurora",
-      "location": "Mountain View, CA",
-      "postedAt": "2026-10-12T18:47:14.021Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "aurora-operations-inc"
-    },
-    {
-      "title": "Robotic Software Engineer - Aerial Autonomy",
-      "url": "https://jobs.ashbyhq.com/applied/20d44733-b53a-4f8f-a10f-a5dc24d1a6fc",
-      "company": "Applied Intuition",
-      "location": "Fort Walton Beach, FL",
-      "postedAt": "2026-10-12T13:41:05.458Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "applied"
-    },
-    {
-      "title": "Field Software Engineer",
-      "url": "https://www.asm.com/open-vacancies/?gh_jid=4966075101",
-      "company": "ASM",
-      "location": "US > Arizona > Chandler",
-      "postedAt": "2026-10-12T21:14:26.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "asm"
-    },
-    {
-      "title": "Simulation and Software Engineer",
-      "url": "https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d",
-      "company": "Root Access",
-      "location": "New York City",
-      "postedAt": "2026-10-12T23:07:20.860Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "root-access"
-    },
-    {
-      "title": "Machine Learning Engineer (Physics-based)",
-      "url": "https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce",
-      "company": "Root Access",
-      "location": "New York City",
-      "postedAt": "2026-10-12T22:45:26.297Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "root-access"
     },
     {
       "title": "Software Engineer, Product",
@@ -597,14 +537,124 @@
       "board": "rainmaker"
     },
     {
-      "title": "Software Engineer, Extensibility Platform",
-      "url": "https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
-      "company": "Benchling",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-10-12T21:48:59.616Z",
+      "title": "ML Engineer, Behavior Planning",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
+      "company": "Aurora",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T18:47:14.021Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "benchling"
+      "board": "aurora-operations-inc"
+    },
+    {
+      "title": "Full-Stack Engineer - ElevenMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "postedAt": "2026-10-13T14:11:23.984Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "postedAt": "2026-10-13T12:13:37.012Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "company": "ElevenLabs",
+      "location": "United States · Dublin · Ireland · Bulgaria · Sofia · Germany · Portugal · Poland · Warsaw · Madrid · Spain · Amsterdam · Netherlands · Remote",
+      "postedAt": "2026-10-13T11:50:44.243Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
+      "company": "ElevenLabs",
+      "location": "Remote · New York · New York City · United States · Poland · Warsaw · Sweden · Stockholm · United Kingdom · Netherlands · France",
+      "postedAt": "2026-10-13T11:44:40.668Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
+      "company": "ElevenLabs",
+      "location": "Remote · New York · New York City · United States · Brazil · Paris · Poland · London · United Kingdom · Amsterdam · Netherlands · Canada",
+      "postedAt": "2026-10-13T11:43:26.151Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
+      "company": "ElevenLabs",
+      "location": "London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote",
+      "postedAt": "2026-10-13T09:53:19.313Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - Ads Engine",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
+      "company": "ElevenLabs",
+      "location": "United Kingdom · United States · Poland · Bulgaria · Remote",
+      "postedAt": "2026-10-13T00:21:46.626Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - Enterprise",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2",
+      "company": "ElevenLabs",
+      "location": "United Kingdom · United States · Poland · Bulgaria · Remote",
+      "postedAt": "2026-10-12T13:51:55.749Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Robotic Software Engineer - Aerial Autonomy",
+      "url": "https://jobs.ashbyhq.com/applied/20d44733-b53a-4f8f-a10f-a5dc24d1a6fc",
+      "company": "Applied Intuition",
+      "location": "Fort Walton Beach, FL",
+      "postedAt": "2026-10-12T13:41:05.458Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "applied"
+    },
+    {
+      "title": "Simulation and Software Engineer",
+      "url": "https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d",
+      "company": "Root Access",
+      "location": "New York City",
+      "postedAt": "2026-10-12T23:07:20.860Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "root-access"
+    },
+    {
+      "title": "Machine Learning Engineer (Physics-based)",
+      "url": "https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce",
+      "company": "Root Access",
+      "location": "New York City",
+      "postedAt": "2026-10-12T22:45:26.297Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "root-access"
     },
     {
       "title": "Software Engineer - Applied AI",
@@ -617,14 +667,14 @@
       "board": "titan-msp"
     },
     {
-      "title": "Software Engineer, AI & Automation",
-      "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
-      "company": "Flossy",
-      "location": "United States · Remote",
-      "postedAt": "2026-10-12T20:10:27.748Z",
+      "title": "Software Engineer, Extensibility Platform",
+      "url": "https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
+      "company": "Benchling",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-10-12T21:48:59.616Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "flossy"
+      "board": "benchling"
     },
     {
       "title": "Robotics Software Engineer ",
@@ -635,6 +685,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "aureliussystems"
+    },
+    {
+      "title": "Software Engineer, AI & Automation",
+      "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
+      "company": "Flossy",
+      "location": "United States · Remote",
+      "postedAt": "2026-10-12T20:10:27.748Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "flossy"
     },
     {
       "title": "Software Engineer, AI Platform",
@@ -677,6 +737,60 @@
       "board": "joinpogo"
     },
     {
+      "title": "Software Development Engineer II - ArcGIS Enterprise ",
+      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "postedAt": "2026-10-12T19:23:04.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "esri"
+    },
+    {
+      "title": "Platform Engineer",
+      "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Platform-Engineer_R-003161-1",
+      "company": "DTN",
+      "location": "2 Locations",
+      "postedAt": "2026-10-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "dtn_careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Senior-Software-Development-Engineer_R-110444",
+      "company": "Expedia Group",
+      "location": "Austin Domain 11 - HomeAway",
+      "postedAt": "2026-10-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "search",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Development Engineer - GenAI",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Senior-Software-Development-Engineer---GenAI_R-109437-1",
+      "company": "Expedia Group",
+      "location": "USA - Illinois - Chicago",
+      "postedAt": "2026-10-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "search",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Software Development Engineer II",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110488",
+      "company": "Expedia Group",
+      "location": "Washington - Seattle Campus",
+      "postedAt": "2026-10-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "search",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
       "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
       "company": "Zoox",
@@ -697,6 +811,28 @@
       "board": "zoox"
     },
     {
+      "title": "Assoc IOPS AI Engineer",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/RENSS---GLOBAL-VIEW/Assoc-IOPS-AI-Engineer_R51390",
+      "company": "Regeneron",
+      "location": "RENSS - GLOBAL VIEW",
+      "postedAt": "2026-10-12T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Software Engineer 1- (Full Stack Developer)",
+      "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352",
+      "company": "U.S. Bank",
+      "location": "2 Locations",
+      "postedAt": "2026-10-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "us_bank_careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Forward Deployed Software Engineer - US Government",
       "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
       "company": "Palantir Technologies",
@@ -705,61 +841,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "palantir"
-    },
-    {
-      "title": "Platform Engineer",
-      "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Platform-Engineer_R-003161-1",
-      "company": "DTN",
-      "location": "2 Locations",
-      "postedAt": "2026-10-13T11:06:14.855Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "dtn_careers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Senior-Software-Development-Engineer_R-110444",
-      "company": "Expedia Group",
-      "location": "Austin Domain 11 - HomeAway",
-      "postedAt": "2026-10-12T11:06:16.616Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "search",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Development Engineer - GenAI",
-      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Senior-Software-Development-Engineer---GenAI_R-109437-1",
-      "company": "Expedia Group",
-      "location": "USA - Illinois - Chicago",
-      "postedAt": "2026-10-12T11:06:16.541Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "search",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Software Development Engineer II",
-      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110488",
-      "company": "Expedia Group",
-      "location": "Washington - Seattle Campus",
-      "postedAt": "2026-10-12T11:06:16.263Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "search",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Assoc IOPS AI Engineer",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/careers/job/RENSS---GLOBAL-VIEW/Assoc-IOPS-AI-Engineer_R51390",
-      "company": "Regeneron",
-      "location": "RENSS - GLOBAL VIEW",
-      "postedAt": "2026-10-12T11:06:18.774Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers",
-      "postedAtSource": "workday-detail"
     }
   ],
   "leadSources": [
