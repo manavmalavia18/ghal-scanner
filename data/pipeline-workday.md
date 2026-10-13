@@ -130,4 +130,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-292491 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-13
 - [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Manufacturing-Equipment-Technician-Metrology--Front-End-Days-_26-777 | cree | Manufacturing Equipment Technician Metrology (Front-End Days) | Marcy, New York | posted: 2026-10-13
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01882283 | globalhr | Software Engineer I (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-13
+- [ ] https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Software-Development-Engineer_32265 | csgi | Software Development Engineer | 2 Locations | posted: 2026-10-13
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/AI-Software-Engineer_R014320-1 | aveva | AI Software Engineer | Lake Forest, California, United States of America | posted: 2026-10-13
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Ireland/Software-Developer-III_R0017452-1 | astreya | Software Developer III | Remote, Ireland | posted: 2026-10-13
+
 ## Processed
