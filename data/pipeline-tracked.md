@@ -49,4 +49,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Burlington-Massachusetts/Sr-Software-Engineer-II---Java-Microservices--AVP_R-789109 | Statestreet | Sr. Software Engineer II - Java/Microservices, AVP | Burlington Massachusetts | posted: 2026-10-13
 - [ ] https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352 | U.S. Bank | Software Engineer 1- (Full Stack Developer) | 2 Locations | posted: 2026-10-13
 
+- [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4728-1 | Cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
+
 ## Processed
