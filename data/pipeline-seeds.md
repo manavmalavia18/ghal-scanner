@@ -375,4 +375,17 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/gomotive/jobs/8831546002 | gomotive | Security Software Engineer | Canada - Remote | posted: 2026-10-06
 - [ ] https://jobs.ashbyhq.com/candidhealth/a406ec65-85ac-4403-9943-1a9ce68d209f | candidhealth | AI/ML Engineer | San Francisco · New York City · United States | posted: 2026-10-06
 
+- [ ] https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5 | arizent | Data & AI Engineer | NYC / Midtown Manhattan | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/allspice/6d5963b2-5c5e-4dec-a998-9e4b15b32195 | allspice | LLM Platform Engineer | Boston · San Francisco · United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62 | netic | Software Engineer – Gap Year | SF or NYC | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d | root-access | Simulation and Software Engineer | New York City | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce | root-access | Machine Learning Engineer (Physics-based) | New York City | posted: 2026-10-12
+- [ ] https://job-boards.greenhouse.io/enformion/jobs/5263750007 | enformion | Site Reliability Engineer (SRE) | Remote · No Office | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0 | chaidiscovery | Software Engineer, AI Platform | San Francisco office | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64 | chaidiscovery | Software Engineer, Developer & Research Platform | San Francisco office | posted: 2026-10-12
+- [ ] https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f | zoox | Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA; Seattle, WA | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa | benchling | Software Engineer, Extensibility Platform | San Francisco, CA | posted: 2026-10-12
+- [ ] https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11 | titan-msp | Software Engineer - Applied AI | San Francisco · New York City · United States | posted: 2026-10-12
+- [ ] https://www.asm.com/open-vacancies/?gh_jid=4966075101 | asm | Field Software Engineer | US > Arizona > Chandler | posted: 2026-10-12
+
 ## Processed
