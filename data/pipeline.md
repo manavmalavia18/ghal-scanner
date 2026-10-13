@@ -393,3 +393,6 @@
 - [ ] https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0 | chaidiscovery | Software Engineer, AI Platform | San Francisco office | posted: 2026-10-12
 - [ ] https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64 | chaidiscovery | Software Engineer, Developer & Research Platform | San Francisco office | posted: 2026-10-12
 - [ ] https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f | zoox | Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA; Seattle, WA | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/allspice/6d5963b2-5c5e-4dec-a998-9e4b15b32195 | allspice | LLM Platform Engineer | Boston · San Francisco · United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62 | netic | Software Engineer – Gap Year | SF or NYC | posted: 2026-10-12
