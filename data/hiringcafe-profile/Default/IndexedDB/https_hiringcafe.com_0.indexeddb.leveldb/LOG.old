@@ -1,15 +1,14 @@
-2026/10/13-19:02:20.487 17b8 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/13-19:02:20.487 17b8 Recovering log #737
-2026/10/13-19:02:20.487 17b8 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/000737.log 
-2026/10/13-19:02:20.487 17b8 Delete type=2 #733
-2026/10/13-19:02:20.487 17b8 Delete type=2 #736
-2026/10/13-19:02:20.638 17ba Level-0 table #742: started
-2026/10/13-19:02:20.639 17ba Level-0 table #742: 972 bytes OK
-2026/10/13-19:02:20.648 17ba Delete type=0 #737
-2026/10/13-19:02:20.648 17b8 Manual compaction at level-0 from '\x00\xdb\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xdc\x00\x00\x00' @ 0 : 0; will stop at '\x00\xdb\x00\x00\x05' @ 7230 : 1
-2026/10/13-19:02:20.648 17b8 Compacting 1@0 + 1@1 files
-2026/10/13-19:02:20.650 17b8 Generated table #743@0: 1689 keys, 16952 bytes
-2026/10/13-19:02:20.650 17b8 Compacted 1@0 + 1@1 files => 16952 bytes
-2026/10/13-19:02:20.650 17b8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-19:02:20.650 17b8 Delete type=2 #742
-2026/10/13-19:02:20.650 17ba Manual compaction at level-0 from '\x00\xdb\x00\x00\x05' @ 7230 : 1 .. '\x00\xdc\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/13-19:25:08.159 19f3 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/13-19:25:08.160 19f3 Recovering log #843
+2026/10/13-19:25:08.160 19f3 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/000843.log 
+2026/10/13-19:25:08.160 19f3 Delete type=2 #841
+2026/10/13-19:25:08.205 19f7 Level-0 table #848: started
+2026/10/13-19:25:08.206 19f7 Level-0 table #848: 932 bytes OK
+2026/10/13-19:25:08.206 19f7 Delete type=0 #843
+2026/10/13-19:25:08.207 19f4 Manual compaction at level-0 from '\x00\xfa\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfb\x00\x00\x00' @ 0 : 0; will stop at '\x00\xfa\x00\x00\x05' @ 8251 : 1
+2026/10/13-19:25:08.207 19f4 Compacting 1@0 + 1@1 files
+2026/10/13-19:25:08.212 19f4 Generated table #849@0: 1759 keys, 17888 bytes
+2026/10/13-19:25:08.212 19f4 Compacted 1@0 + 1@1 files => 17888 bytes
+2026/10/13-19:25:08.212 19f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/13-19:25:08.212 19f4 Delete type=2 #848
+2026/10/13-19:25:08.212 19f7 Manual compaction at level-0 from '\x00\xfa\x00\x00\x05' @ 8251 : 1 .. '\x00\xfb\x00\x00\x00' @ 0 : 0; will stop at (end)

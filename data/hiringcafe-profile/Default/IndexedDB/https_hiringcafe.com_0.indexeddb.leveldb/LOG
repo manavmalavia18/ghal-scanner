@@ -1,25 +1,25 @@
-2026/10/13-19:02:26.467 1842 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/13-19:02:26.467 1842 Recovering log #741
-2026/10/13-19:02:26.467 1842 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/000741.log 
-2026/10/13-19:02:26.468 1842 Delete type=2 #739
-2026/10/13-19:02:26.580 1842 Level-0 table #746: started
-2026/10/13-19:02:26.581 1842 Level-0 table #746: 952 bytes OK
-2026/10/13-19:02:26.581 1842 Delete type=0 #741
-2026/10/13-19:02:26.582 1841 Manual compaction at level-0 from '\x00\xdc\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xdd\x00\x00\x00' @ 0 : 0; will stop at '\x00\xdc\x00\x00\x05' @ 7263 : 1
-2026/10/13-19:02:26.582 1841 Compacting 1@0 + 1@1 files
-2026/10/13-19:02:26.583 1841 Generated table #747@0: 1689 keys, 16871 bytes
-2026/10/13-19:02:26.583 1841 Compacted 1@0 + 1@1 files => 16871 bytes
-2026/10/13-19:02:26.583 1841 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-19:02:26.583 1841 Delete type=2 #746
-2026/10/13-19:02:26.585 1841 Manual compaction at level-0 from '\x00\xdc\x00\x00\x05' @ 7263 : 1 .. '\x00\xdd\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/10/13-19:02:29.712 1842 Level-0 table #749: started
-2026/10/13-19:02:29.712 1842 Level-0 table #749: 931 bytes OK
-2026/10/13-19:02:29.713 1842 Delete type=0 #745
-2026/10/13-19:02:29.713 1842 Delete type=2 #743
-2026/10/13-19:02:29.714 1844 Manual compaction at level-0 from '\x00\xdd\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xde\x00\x00\x00' @ 0 : 0; will stop at '\x00\xdd\x00\x00\x05' @ 7296 : 1
-2026/10/13-19:02:29.714 1844 Compacting 1@0 + 1@1 files
-2026/10/13-19:02:29.715 1844 Generated table #750@0: 1689 keys, 16868 bytes
-2026/10/13-19:02:29.715 1844 Compacted 1@0 + 1@1 files => 16868 bytes
-2026/10/13-19:02:29.716 1844 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-19:02:29.716 1844 Delete type=2 #749
-2026/10/13-19:02:29.716 1844 Manual compaction at level-0 from '\x00\xdd\x00\x00\x05' @ 7296 : 1 .. '\x00\xde\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/13-19:26:00.719 1ac7 Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/13-19:26:00.719 1ac7 Recovering log #847
+2026/10/13-19:26:00.719 1ac7 Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/000847.log 
+2026/10/13-19:26:00.719 1ac7 Delete type=2 #845
+2026/10/13-19:26:00.795 1ac8 Level-0 table #852: started
+2026/10/13-19:26:00.796 1ac8 Level-0 table #852: 983 bytes OK
+2026/10/13-19:26:00.797 1ac8 Delete type=0 #847
+2026/10/13-19:26:00.798 1ac7 Manual compaction at level-0 from '\x00\xfb\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfc\x00\x00\x00' @ 0 : 0; will stop at '\x00\xfb\x00\x00\x05' @ 8284 : 1
+2026/10/13-19:26:00.798 1ac7 Compacting 1@0 + 1@1 files
+2026/10/13-19:26:00.805 1ac7 Generated table #853@0: 1760 keys, 17662 bytes
+2026/10/13-19:26:00.805 1ac7 Compacted 1@0 + 1@1 files => 17662 bytes
+2026/10/13-19:26:00.806 1ac7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/13-19:26:00.806 1ac7 Delete type=2 #852
+2026/10/13-19:26:00.806 1ac6 Manual compaction at level-0 from '\x00\xfb\x00\x00\x05' @ 8284 : 1 .. '\x00\xfc\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/13-19:26:04.102 1ac6 Level-0 table #855: started
+2026/10/13-19:26:04.103 1ac6 Level-0 table #855: 867 bytes OK
+2026/10/13-19:26:04.103 1ac6 Delete type=0 #851
+2026/10/13-19:26:04.103 1ac6 Delete type=2 #849
+2026/10/13-19:26:04.103 1ac6 Manual compaction at level-0 from '\x00\xfc\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xfd\x00\x00\x00' @ 0 : 0; will stop at '\x00\xfc\x00\x00\x05' @ 8317 : 1
+2026/10/13-19:26:04.103 1ac6 Compacting 1@0 + 1@1 files
+2026/10/13-19:26:04.106 1ac6 Generated table #856@0: 1759 keys, 17891 bytes
+2026/10/13-19:26:04.106 1ac6 Compacted 1@0 + 1@1 files => 17891 bytes
+2026/10/13-19:26:04.107 1ac6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/13-19:26:04.107 1ac6 Delete type=2 #855
+2026/10/13-19:26:04.107 1ac6 Manual compaction at level-0 from '\x00\xfc\x00\x00\x05' @ 8317 : 1 .. '\x00\xfd\x00\x00\x00' @ 0 : 0; will stop at (end)
