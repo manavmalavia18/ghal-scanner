@@ -432,3 +432,5 @@
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8138486 | doordashusa | Software Engineer, Backend (All Teams) | San Francisco, CA; New York City, NY; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/minitab/jobs/8030958003 | minitab | DevOps Engineer | State College, Pennsylvania, United States | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | supabase | Platform Engineer - Compute | Remote, Global | posted: 2026-10-13
+
+- [ ] https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815 | justworks | Associate Software Engineer, Frontend | New York, New York | posted: 2026-10-13
