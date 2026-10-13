@@ -101,4 +101,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-3-or-4_R10242366 | ngc | DevOps Engineer – Level 3 or 4 AHT | 2 Locations | posted: 2026-10-13
 - [ ] https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-II_JR104774 | greenheckgroup | Application Developer II | Remote - Wisconsin | posted: 2026-10-13
 
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Small-Spindle-Polishing-Technician_J-00353420 | asml | Small Spindle Polishing Technician CWW Front End Days 6 am – 6pm (Sunday, Monday, Tuesday, alternate Wednesday) | Wilton, CT, USA | posted: 2026-10-13
+
 ## Processed
