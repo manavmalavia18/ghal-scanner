@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T03:06:19.196Z",
+  "fetchedAt": "2026-10-13T03:28:04.866Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -9,13 +9,13 @@
     "software engineer"
   ],
   "days": 2,
-  "pagesFetched": 8,
+  "pagesFetched": 9,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 514
+    "software engineer": 544
   },
-  "count": 357,
+  "count": 390,
   "jobs": [
     {
       "title": "Agentic Solutions Developer",
@@ -359,6 +359,31 @@
       "ats_source": "taleo_selectminds"
     },
     {
+      "title": "Software Engineer",
+      "url": "https://netapp.eightfold.ai/careers/job/44827225",
+      "company": "NetApp",
+      "location": "Research Triangle Park or San Jose",
+      "postedAt": 1791840459000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "4+ years software development, cloud engineering, DevOps, infrastructure automation, or SRE experience; Python and Golang; Linux automation; REST APIs; JSON/YAML; cloud services (Azure preferred); Docker/Kubernetes; Bachelor's in CS or related field or equivalent experience.",
+      "tools": [
+        "Python",
+        "Golang",
+        "Linux",
+        "REST APIs",
+        "JSON",
+        "YAML",
+        "Microsoft Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "company_tagline": "A leader in intelligent data infrastructure, delivering unified storage and integrated data services.",
+      "ats_source": "eightfold"
+    },
+    {
       "title": "Software Asset Management Analyst (Systems Engineer I)-61006508",
       "url": "https://www.governmentjobs.com/careers/sc/jobs/5502420",
       "company": "State of South Carolina",
@@ -593,6 +618,30 @@
       "ats_source": "oraclecloud"
     },
     {
+      "title": "Test Engineering Intern Tech III",
+      "url": "https://jobs.keysight.com/jobs/54786?lang=en-us",
+      "company": "Keysight Technologies",
+      "location": "Santa Clara, California, United States",
+      "postedAt": 1791837342000,
+      "salary": "$78k-$85k/yr",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Bachelor's degree in Computer Science, Software Engineering, Computer Engineering, or related field; proficiency in high-level languages (Python, C#, JavaScript) and low-level languages (Rust, C++); experience with production-quality code; understanding of hardware interaction.",
+      "tools": [
+        "Python",
+        "C#",
+        "JavaScript",
+        "Rust",
+        "C++",
+        "NI Lab-View",
+        "Keysight Vee",
+        "CNC"
+      ],
+      "company_tagline": "A technology company delivering breakthroughs in electronic design, simulation, prototyping, test, manufacturing, and optimization.",
+      "ats_source": "icims2"
+    },
+    {
       "title": "Software Engineer II (Backend) - Fulfillment Shopping",
       "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions/job/303402",
       "company": "Uber Technologies, Inc.",
@@ -717,6 +766,27 @@
       ],
       "company_tagline": "A cloud banking platform used by financial services firms to acquire customers and deliver digital experiences.",
       "ats_source": "grnhse"
+    },
+    {
+      "title": "Software Engineer, AI & Automation",
+      "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
+      "company": "Flossy",
+      "location": "United States",
+      "postedAt": 1791835827748,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Proven experience taking products from problem definition to launch; hands-on engineering with modern web apps, APIs, databases, cloud; practical experience with AI coding agents; strong product intuition and communication skills.",
+      "tools": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Google Cloud"
+      ],
+      "company_tagline": "A company building AI software for appointment-based practices to streamline administrative work and boost performance.",
+      "ats_source": "ashby"
     },
     {
       "title": "Software Engineer - Embedded  (Early-Mid Level)",
@@ -1041,6 +1111,25 @@
       "ats_source": "icims2"
     },
     {
+      "title": "Energy Engineer II",
+      "url": "https://wmenergy.com/careers/position/5263557007?gh_jid=5263557007",
+      "company": "Walker-Miller Energy Services",
+      "location": "Detroit, Michigan, United States",
+      "postedAt": 1791833468000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in engineering or related field with 3+ years experience, or associate's degree with 5+ years; ability to perform energy savings calculations, audits, and QA/QC; proficiency in Microsoft Office, advanced Excel, and energy analysis software.",
+      "tools": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "energy analysis software"
+      ],
+      "company_tagline": "A core-values driven company that creates and manages customized energy waste reduction programs for utilities.",
+      "ats_source": "grnhse"
+    },
+    {
       "title": "Optical Engineer",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4579568",
       "company": "RxSight",
@@ -1067,6 +1156,33 @@
       ],
       "company_tagline": "An ophthalmic medical technology company commercializing the first adjustable intraocular lens customized after cataract surgery.",
       "ats_source": "paylocity"
+    },
+    {
+      "title": "AthenaHealth Integration Engineer",
+      "url": "https://jobs.ashbyhq.com/matter-health/a3cfa46c-12e6-4876-9259-77336ecabb84",
+      "company": "Matter Health",
+      "location": "United States",
+      "postedAt": 1791833167992,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science, Health Informatics, or related field; 3-5 years athenahealth API development experience; proficiency in Python, JavaScript/Node.js, or Java; HL7 v2 and FHIR R4 knowledge; HIPAA understanding.",
+      "tools": [
+        "athenaOne",
+        "athenaClinicals",
+        "REST",
+        "FHIR",
+        "OAuth 2.0",
+        "Salesforce",
+        "Python",
+        "JavaScript",
+        "Node.js",
+        "Java",
+        "HL7"
+      ],
+      "company_tagline": "A healthcare provider delivering primary and preventive care to older adults in public housing communities.",
+      "ats_source": "ashby"
     },
     {
       "title": "Software Development Engineer II - ArcGIS Enterprise",
@@ -1894,6 +2010,27 @@
       "ats_source": "oraclecloud"
     },
     {
+      "title": "Solutions Engineer",
+      "url": "https://jobs.ashbyhq.com/august/99b98fc4-e925-4c36-8148-4716d7354703",
+      "company": "August",
+      "location": "New York City, New York, United States",
+      "postedAt": 1791828017372,
+      "salary": "$100k-$160k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "1-3 years in solutions engineering or similar technical role; strong technical problem-solving; experience with Python or JavaScript; familiarity with AI tools and workflow automation; in-person at NYC office.",
+      "tools": [
+        "Python",
+        "JavaScript",
+        "Zapier",
+        "Make",
+        "n8n"
+      ],
+      "company_tagline": "A company building AI agents to automate legal knowledge work and transform law firms.",
+      "ats_source": "ashby"
+    },
+    {
       "title": "PEC Consultant - Systemic Risk Develope",
       "url": "https://jobs.iadb.org/job/Washington-D_C_-PEC-Consultant-Systemic-Risk-Develope-DC-20577/1439063200/",
       "company": "Inter-American Development Bank",
@@ -2094,6 +2231,23 @@
       "tools": [],
       "company_tagline": "",
       "ats_source": "eightfold"
+    },
+    {
+      "title": "Technology & Engineering Internship",
+      "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/3022395",
+      "company": "ADT",
+      "location": "Boca Raton, Florida, United States",
+      "postedAt": 1791826902000,
+      "salary": "$50k-$58k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Internship · Full Time",
+      "yoe": "",
+      "summary": "Currently pursuing Bachelor's or Master's in CS, software engineering, information systems, data science, or related; graduating Dec 2027-May 2028; 2+ upper-level courses; GPA 3.2+; U.S. citizenship or permanent residency required; no sponsorship.",
+      "tools": [
+        "LinkedIn Learning"
+      ],
+      "company_tagline": "A security company protecting homes and businesses with smart home technology and connected monitoring.",
+      "ats_source": "oraclecloud"
     },
     {
       "title": "Technical Support Engineer",
@@ -4422,6 +4576,34 @@
       "ats_source": "jobvite"
     },
     {
+      "title": "Software Development Engineer in Test",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25632&siteid=5649&PageType=JobDetails&jobid=3766236",
+      "company": "Best Buy",
+      "location": "Minnesota, United States",
+      "postedAt": 1791806400000,
+      "salary": "$93k-$167k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years Test Automation/SDET experience with Java, C#, TypeScript, or Python; 3+ years Git and CI; 2+ years relational and non-relational databases (MongoDB, SQL Server); 1+ years automation frameworks (Playwright, Selenium, TestNG, pytest, NUnit, Kotlin); 1+ years tools like Postman, Appium, Robot.",
+      "tools": [
+        "Java",
+        "C#",
+        "TypeScript",
+        "Python",
+        "Git",
+        "MongoDB",
+        "SQL Server",
+        "Playwright",
+        "Selenium",
+        "TestNG",
+        "pytest",
+        "NUnit"
+      ],
+      "company_tagline": "A Best Buy sub-brand empowering people to age independently and safely through technology and human connection.",
+      "ats_source": "brassring"
+    },
+    {
       "title": "Remote Go (Golang) Developer",
       "url": "https://turing.betterteam.com/remote-go-%28golang%29-developer-65",
       "company": "Turing",
@@ -4805,6 +4987,27 @@
       "ats_source": "dayforce"
     },
     {
+      "title": "Associate AI Engineer",
+      "url": "https://jobs.dayforcehcm.com/en-GB/navex/jobopenings/jobs/7049",
+      "company": "NAVEX",
+      "location": "Houston, Texas, United States",
+      "postedAt": 1791788400000,
+      "salary": "$85k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's or master's in computer science, data science, statistics, engineering, or related field; foundational experience in software engineering, data engineering, machine learning, or statistical computing; Python and SQL proficiency; understanding of data structures and ML methods.",
+      "tools": [
+        "Python",
+        "SQL",
+        "pandas",
+        "NumPy",
+        "scikit-learn"
+      ],
+      "company_tagline": "A company that develops AI-enabled applications and services for governance, risk, and compliance.",
+      "ats_source": "dayforce"
+    },
+    {
       "title": "Senior ERP Specialist (177997)",
       "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=177997",
       "company": "HCLTech",
@@ -5129,6 +5332,28 @@
         "Microsoft Office"
       ],
       "company_tagline": "A global health organization working to save lives and reduce disease burden in low- and middle-income countries.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "URBN Software Engineer II",
+      "url": "https://homeoffice-na-urbn.icims.com/jobs/32288/urbn-software-engineer-ii/job?hub=15&in_iframe=1",
+      "company": "Urban Outfitters, Inc.",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "postedAt": 1791777600000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2-5 years professional software engineering experience; working proficiency in Python; exposure to event-driven systems or message queues; familiarity with cloud platforms (GCP preferred) and CI/CD; comfortable using agentic coding tools.",
+      "tools": [
+        "Kafka",
+        "Python",
+        "GCP",
+        "Claude Code",
+        "Codex",
+        "Cursor"
+      ],
+      "company_tagline": "A retail company operating lifestyle brands including Urban Outfitters, Anthropologie, Free People, and more.",
       "ats_source": "icims2"
     },
     {
@@ -7721,6 +7946,559 @@
       ],
       "company_tagline": "An electric cooperative that develops and maintains GIS mapping databases for its engineering department.",
       "ats_source": "applicantpool"
+    },
+    {
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01875919",
+      "company": "RTX",
+      "location": "Cedar Rapids, Iowa, United States",
+      "postedAt": 1791763200000,
+      "salary": "$57k-$109k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in Software Engineering or related STEM field; experience in C/C++/C#/Java/Python; Windows 11 and Linux experience; U.S. Person status required.",
+      "tools": [
+        "Python",
+        "C#",
+        "C",
+        "C++",
+        "Java",
+        "Robot Framework",
+        "Git",
+        "Jira",
+        "Artifactory",
+        "Jama",
+        "Grafana",
+        "Docker"
+      ],
+      "company_tagline": "An aerospace and defense company providing advanced systems and services for commercial, military, and government customers worldwide.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineer I (Onsite)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01873100",
+      "company": "RTX",
+      "location": "Cedar Rapids, Iowa, United States",
+      "postedAt": 1791763200000,
+      "salary": "$57k-$109k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in STEM, proficiency in C/C++/C#, Python, or Java, Linux and Windows 11 experience, U.S. Person status required.",
+      "tools": [
+        "Python",
+        "Java",
+        "C/C++",
+        "C#",
+        "Git",
+        "GitMR",
+        "Artifactory",
+        "Jama",
+        "Grafana",
+        "Docker",
+        "Linux",
+        "Microsoft Windows 11"
+      ],
+      "company_tagline": "An aerospace and defense company providing advanced systems and services for commercial, military, and government customers worldwide.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineering Co-op (Spring/Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01881902",
+      "company": "RTX",
+      "location": "Cedar Rapids, Iowa, United States",
+      "postedAt": 1791763200000,
+      "salary": "$37k-$82k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time · Internship",
+      "yoe": "",
+      "summary": "Must be pursuing a Bachelor's or advanced STEM degree, have 30+ credit hours, and experience with C, C++, ADA, or Python. Must be a U.S. Person.",
+      "tools": [
+        "C",
+        "C++",
+        "ADA",
+        "Python"
+      ],
+      "company_tagline": "An aerospace and defense company providing advanced systems and services worldwide.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineer- Full Stack",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-South-San-Francisco-Haskins/Software-Engineer--Full-Stack_R-113066",
+      "company": "Eli Lilly and Company",
+      "location": "South San Francisco, California, United States",
+      "postedAt": 1791763200000,
+      "salary": "$119k-$174k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in computer science or related field; 2+ years software engineering experience with full stack development; experience with TypeScript, Node.js or JVM languages, modern frameworks, cloud-native applications, and AI coding tools; authorized to work in the US without sponsorship.",
+      "tools": [
+        "AWS",
+        "Azure",
+        "Apache Kafka",
+        "TypeScript",
+        "Node.js",
+        "Kotlin",
+        "HTML",
+        "CSS",
+        "SASS",
+        "Python",
+        "React",
+        "Angular"
+      ],
+      "company_tagline": "A global healthcare company uniting caring with discovery to create medicines and improve patient outcomes.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineer- Full Stack",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Indianapolis-IN/Software-Engineer--Full-Stack_R-113065",
+      "company": "Eli Lilly and Company",
+      "location": "San Francisco, California, United States",
+      "postedAt": 1791763200000,
+      "salary": "$66k-$158k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in computer science or related field; 2+ years full stack development experience; proficiency in TypeScript, Node.js or JVM languages, modern frameworks, cloud-native AWS/Azure, and AI coding tools; U.S. work authorization without sponsorship.",
+      "tools": [
+        "AWS",
+        "Azure",
+        "Apache Kafka",
+        "TypeScript",
+        "Node.js",
+        "Kotlin",
+        "HTML",
+        "CSS",
+        "SASS",
+        "Python",
+        "React",
+        "Angular"
+      ],
+      "company_tagline": "A global healthcare company uniting caring with discovery to create medicines and improve patient outcomes.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://schoolsfirstfcu.wd115.myworkdayjobs.com/careers/job/Tustin-CA/Software-Developer_JR106353-1",
+      "company": "SchoolsFirst Federal Credit Union",
+      "location": "Tustin, California, United States",
+      "postedAt": 1791763200000,
+      "salary": "$78k-$118k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "High school diploma or GED required; bachelor's degree in related field or equivalent experience required; 1-3 years relevant experience; proficiency in .NET/C#, VB.NET, ASP.NET, Visual Studio, JavaScript, HTML5, SQL Server/TSQL, Agile/SCRUM, XML, Episys/Repgen/PowerOn, Web Services, Symitar.",
+      "tools": [
+        ".NET",
+        "C#",
+        "VB.NET",
+        "ASP.NET",
+        "Visual Studio",
+        "Visual SourceSafe",
+        "Team Foundation Server",
+        "JavaScript",
+        "HTML 5.0",
+        "SQL Server",
+        "TSQL",
+        "Agile Methodology"
+      ],
+      "company_tagline": "A credit union providing world-class personal service and financial security to its members.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software Engineer II - Lunar Permanence",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/Software-Engineer-II---Lunar-Permanence_R73427",
+      "company": "Blue Origin",
+      "location": "Denver or Littleton or Renton",
+      "postedAt": 1791763200000,
+      "salary": "$124k-$173k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in computer science or related field; 3+ years software development and production deployment; proficiency in Java or C++; strong CS fundamentals; experience with AI tools; U.S. citizenship or permanent residency required.",
+      "tools": [
+        "Java",
+        "JavaScript",
+        "React",
+        "AWS",
+        "DynamoDB",
+        "RDS",
+        "SQS",
+        "SNS",
+        "Claude",
+        "ChatGPT",
+        "C++",
+        "Python"
+      ],
+      "company_tagline": "A space company developing reusable launch vehicles and systems for human spaceflight.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Software/System Engineer (Autonomous Factory Systems)",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Cupertino-CA/Software-System-Engineer--Autonomous-Factory-Systems-_R74023",
+      "company": "Blue Origin",
+      "location": "Cupertino or Washington",
+      "postedAt": 1791763200000,
+      "salary": "$165k-$231k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's in Computer Science or related field; 3-5 years software development experience; proficiency with Python or similar; familiarity with APIs and system integration; U.S. citizenship, permanent residence, refugee or asylum status required.",
+      "tools": [
+        "Python"
+      ],
+      "company_tagline": "A spaceflight company developing reusable launch vehicles and systems to enable human spaceflight.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://healthpeak.applytojob.com/apply/JcxzlDrgWk/Forward-Deployed-Software-Engineer",
+      "company": "Healthpeak Properties",
+      "location": "New York City, New York, United States",
+      "postedAt": 1791763200000,
+      "salary": "$100k-$120k/yr",
+      "workplace": "Onsite",
+      "commitment": "Part Time",
+      "yoe": "",
+      "summary": "Proven programming expertise in Python, Java, C++, TypeScript/JavaScript; experience with AI agents like Claude Code; strong technical problem-solving; collaboration skills; self-directed learner.",
+      "tools": [
+        "Python",
+        "Java",
+        "C++",
+        "TypeScript",
+        "JavaScript",
+        "Claude Code"
+      ],
+      "company_tagline": "A fully integrated real estate investment trust specializing in healthcare real estate.",
+      "ats_source": "jazzhr"
+    },
+    {
+      "title": "Software Support Engineer",
+      "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Software-Support-Engineer_R12637",
+      "company": "Workiva",
+      "location": "United States or California",
+      "postedAt": 1791763200000,
+      "salary": "$78k-$125k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years experience in software, QA, support or IT; Bachelor's degree or equivalent; strong communication; ability to support APAC hours (3PM-12AM PT); minimal travel; rotating on-call; reliable internet; U.S. work authorization without sponsorship.",
+      "tools": [
+        "Microsoft Office",
+        "Google Suite",
+        "Splunk",
+        "Sumologic",
+        "New Relic",
+        "Datadog"
+      ],
+      "company_tagline": "A platform that unifies finance, risk, and sustainability for complex organizations.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+      "company": "NVIDIA",
+      "location": "Santa Clara or California",
+      "postedAt": 1791763200000,
+      "salary": "$124k-$242k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's, Master's, PhD or equivalent in CS/CE/EECS/AI; 2+ years software development; strong C++ and Python; experience with DL frameworks (PyTorch, JAX, TensorFlow, ONNX) and inference libraries (TensorRT, TensorRT-LLM, vLLM, SGLang, FlashInfer).",
+      "tools": [
+        "C++",
+        "Python",
+        "PyTorch",
+        "JAX",
+        "TensorFlow",
+        "ONNX",
+        "TensorRT",
+        "TensorRT-LLM",
+        "vLLM",
+        "SGLang",
+        "FlashInfer",
+        "CUDA"
+      ],
+      "company_tagline": "A pioneer in accelerated computing, powering global intelligence through AI infrastructure.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CO-Westminster/Applied-AI-Engineer_R187096",
+      "company": "Parsons",
+      "location": "Westminster, Colorado, United States",
+      "postedAt": 1791763200000,
+      "salary": "$75k-$131k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in Computer Science, Engineering, Robotics, Data Science or related field; 2+ years building production-grade software with Python; experience with PyTorch, APIs, SQL, Git, Linux, and CI/CD.",
+      "tools": [
+        "Python",
+        "FastAPI",
+        "PyTorch",
+        "ONNX",
+        "SQL",
+        "Git",
+        "Linux",
+        "Docker",
+        "TypeScript",
+        "React",
+        "ROS",
+        "ROS 2"
+      ],
+      "company_tagline": "A digitally enabled solutions provider focused on defense, intelligence, and critical infrastructure markets.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Service Delivery Center, Senior DevOps Engineer",
+      "url": "https://careers.ey.com/ey/job/Raleigh-Service-Delivery-Center%2C-Senior-DevOps-Engineer-NC-27612-2389/1446428033/",
+      "company": "EY",
+      "location": "Raleigh or Dallas or San Antonio",
+      "postedAt": 1791763200000,
+      "salary": "$67k-$137k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science, Engineering, Information Systems or related field; 3+ years DevOps/cloud infrastructure experience; AWS, Azure, Kubernetes, Terraform, Python, Shell, CI/CD, Jenkins, Artifactory, Datadog, Prometheus, Grafana, OpenTelemetry, Splunk; travel up to 30%.",
+      "tools": [
+        "AWS",
+        "Azure",
+        "Kubernetes",
+        "Terraform",
+        "ARM",
+        "CFT",
+        "CDK",
+        "Chef",
+        "Python",
+        "Shell",
+        "Jenkins",
+        "Artifactory"
+      ],
+      "company_tagline": "A global professional services firm providing assurance, tax, transaction, and advisory services.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Mobile Engineer III",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Mobile-Engineer-III_R-110446-1",
+      "company": "Expedia Group",
+      "location": "Seattle, Washington, United States",
+      "postedAt": 1791763200000,
+      "salary": "$146k-$205k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in Computer Science or related field or equivalent experience; experience developing production Android applications; proficiency in system design, API design, data modeling, testing, debugging, and performance optimization.",
+      "tools": [
+        "Android"
+      ],
+      "company_tagline": "A global travel marketplace connecting travelers, partners, and advertisers through leading technology and rich first-party data.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Platform Engineer — Aravo Integrations",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Platform-Engineer---Aravo-Integrations_REQ539477",
+      "company": "JLL",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1791763200000,
+      "salary": "$163k-$199k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience building system-to-system integrations (API, file-based, or middleware); working knowledge of Aravo, PeopleSoft, Yardi, or similar; familiarity with change management and SOC audits; strong stakeholder management; comfortable with AI tools; Microsoft Office proficiency; bachelor's degree in information syste",
+      "tools": [
+        "Aravo",
+        "PeopleSoft",
+        "Trustpair",
+        "Ingenious",
+        "Omnea",
+        "Yardi",
+        "Avetta",
+        "ISN",
+        "Corrigo",
+        "Microsoft Office",
+        "Microsoft Teams",
+        "Microsoft Visio"
+      ],
+      "company_tagline": "A global provider of real estate and investment management services, combining world-class services, advisory, and technology.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Associate Reliability Engineer (Remote)",
+      "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Associate-Reliability-Engineer--Remote-_R500170",
+      "company": "Kohl's",
+      "location": "United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in MIS, Computer Science or related field; programming in Java, Python, Go or Node.js; IBM Mainframe experience; basic systems architecture and network knowledge; on-call rotation participation.",
+      "tools": [
+        "Java",
+        "Python",
+        "Go",
+        "Node.js",
+        "IBM Mainframe",
+        "TSO/ISPF",
+        "JCL",
+        "CICS",
+        "RACF",
+        "GCP",
+        "AWS",
+        "Azure"
+      ],
+      "company_tagline": "A retail company caring for families through diverse shopping experiences.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Site Reliability Engineer 2 - Freewheel",
+      "url": "https://comcast.wd115.myworkdayjobs.com/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Site-Reliability-Engineer-2---Freewheel_R445421",
+      "company": "Comcast",
+      "location": "Reston or Chicago",
+      "postedAt": 1791763200000,
+      "salary": "$92k-$139k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Hands-on experience with cloud (AWS/OCI), languages (Python, Go, HTML, JavaScript), SDLC tools (Kubernetes, Docker, Salt, Ansible, Chef, Puppet, Jenkins, Git), Linux administration, and network security.",
+      "tools": [
+        "AWS",
+        "OCI",
+        "VPC",
+        "EC2",
+        "S3",
+        "IAM",
+        "Route 53",
+        "Lambda",
+        "Python",
+        "Go",
+        "HTML",
+        "JavaScript"
+      ],
+      "company_tagline": "A global media and technology company providing comprehensive ad platforms and connectivity solutions.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Engineering Technician - Wood Plant",
+      "url": "https://careers.haworth.com/job/Holland-Engineering-Technician-Wood-Plant-MI-49423/1439214800/",
+      "company": "Haworth",
+      "location": "Holland, Michigan, United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "High school diploma or equivalent; 1 year experience with CAD, nesting, routing, or related software; ability to work in Holland, MI without relocation; unrestricted right to work in the US; travel less than 5% for training.",
+      "tools": [
+        "CAD",
+        "CAM",
+        "CNC",
+        "3Tec",
+        "CutRite",
+        "AutoNEST",
+        "CIM-Tech"
+      ],
+      "company_tagline": "A global pioneer in workspace design and commercial furniture manufacturing.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "NBGCS Steel Detailer/BIM Modeler",
+      "url": "https://jobs.nucor.com/job/Xenia-NBGCS-Steel-DetailerBIM-Modeler-OH-45385/1439252100/",
+      "company": "Nucor",
+      "location": "Xenia, Ohio, United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "High school diploma or GED; workplace experience using 3D/BIM modeling software for structural applications; legally authorized to work in the US without sponsorship.",
+      "tools": [
+        "BIM software"
+      ],
+      "company_tagline": "An American steel manufacturer specializing in low-embodied carbon EAF steel products and capabilities that drive the circular economy.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Electrical Estimator",
+      "url": "https://espositoconstruction.bamboohr.com/careers/298",
+      "company": "Esposito Construction",
+      "location": "Colts Neck, New Jersey, United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years electrical estimating or related construction experience; ability to read electrical drawings and perform material takeoffs; proficiency with estimating software and Microsoft Excel; effective communication and analytical skills.",
+      "tools": [
+        "Microsoft Excel",
+        "estimating software",
+        "takeoff tools"
+      ],
+      "company_tagline": "A construction company providing electrical estimating and project management services.",
+      "ats_source": "bamboohr"
+    },
+    {
+      "title": "(USA) Systems Administrator, Technology Support",
+      "url": "https://careers.walmart.com/us/en/jobs/R-2633838",
+      "company": "Walmart",
+      "location": "Bentonville, Arkansas, United States",
+      "postedAt": 1791763200000,
+      "salary": "$50k-$95k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in computer science, IT, engineering, or related field, or 2 years' experience in production support, software support, or technical support.",
+      "tools": [
+        "Windows",
+        "macOS",
+        "Active Directory",
+        "VPN",
+        "firewalls",
+        "virtual machines"
+      ],
+      "company_tagline": "A multinational retail corporation offering a wide range of products and services.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "(USA) Systems Administrator, Technology Support",
+      "url": "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Systems-Administrator--Technology-Support_R-2633838-1",
+      "company": "Walmart",
+      "location": "Bentonville, Arkansas, United States",
+      "postedAt": 1791763200000,
+      "salary": "$50k-$95k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in computer science, IT, engineering, or related field, or 2 years' experience in production support, software support, or technical support.",
+      "tools": [
+        "Windows",
+        "macOS",
+        "Active Directory"
+      ],
+      "company_tagline": "A global retailer committed to helping customers save money and live better.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "Information Security Analyst Co-Op - Spring 2027 Indefinite Work Authorization Required",
+      "url": "https://us-careers.crown.com/job/New-Bremen-Information-Security-Analyst-Co-Op-Spring-2027-Indefinite-Work-Authorization-Required-OH-45869/1439241600/",
+      "company": "Crown Equipment Corporation",
+      "location": "New Bremen, Ohio, United States",
+      "postedAt": 1791763200000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Currently pursuing an undergraduate or graduate degree in compliance, IT, information security, computer science, software engineering, cyber security, risk management or related field; proficiency with MS Office; knowledge of security frameworks; legal authorization to work in the US without sponsorship.",
+      "tools": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint"
+      ],
+      "company_tagline": "A leading innovator in world-class forklift and material handling equipment and technology.",
+      "ats_source": "successfactors"
     },
     {
       "title": "Internship, Universal Creative – Facility Design (Summer 2027)",
