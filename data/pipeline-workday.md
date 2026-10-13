@@ -147,4 +147,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://rb.wd5.myworkdayjobs.com/frs/job/New-York-NY/Software-Developer--Java-Calypso-AWS_R-0000033674 | rb | Software Developer: Java/Calypso/AWS | New York, NY | posted: 2026-10-13
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/SW-Engineer--Software-Engineering---Specialist---Associate_REF088773W | visa | Software Engineer - SDET | US - Austin, TX | posted: 2026-10-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10253090-1 | ngc | Software Engineer - Integration and Test | United States-California-San Diego | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2 | boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
+- [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R73434 | blueorigin | Software Engineer | Greater Seattle Area | posted: 2026-10-13
+
 ## Processed
