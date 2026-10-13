@@ -465,3 +465,6 @@
 - [ ] https://jobs.ashbyhq.com/embedding-vc/9621e073-22b8-46c8-a834-77efed82868a | embedding-vc | Developer Platform Engineer | San Francisco Bay Area | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/embedding-vc/c7556b13-3332-4541-b0ec-42872eda7b51 | embedding-vc | Applied AI Engineer | San Francisco Bay Area | posted: 2026-10-13
+
+- [ ] https://jobs.lever.co/optionmetrics/683191d1-634f-44bc-a2a4-cb34a4487086 | optionmetrics | Cloud Infrastructure & DevOps Engineer | New York, NY | posted: 2026-10-13
+- [ ] https://mark43.com/list-job/8221583?gh_jid=8221583 | mark43 | DevOps Engineer | Remote · Remote Office | posted: 2026-10-13
