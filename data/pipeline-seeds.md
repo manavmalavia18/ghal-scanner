@@ -420,4 +420,20 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mapbox/2bf46c4a-088e-4433-93f5-a2c522cd5cfe | mapbox | Machine Learning Engineer III, Routing Cost | Mapbox Poland · Remote | posted: 2026-10-13
 - [ ] https://jobs.lever.co/crypto/104efd49-475b-4e42-8804-5d728db9fe74 | crypto | AI Engineer, Trading Ops & Management | New York | posted: 2026-10-09
 
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192116 | doordashusa | Software Engineer, Data Engineering | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192190 | doordashusa | Software Engineer, Spark Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8191886 | doordashusa | Software Engineer, Data Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192187 | doordashusa | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | posted: 2026-10-13
+- [ ] https://www.bridgewaybentech.com/job-posting?gh_jid=8886076002 | bridgeway | AI Engineer | Remote · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/valinor/c9f43ce2-33a3-4d6a-aee8-6d71cc9b8458 | valinor | Software Engineer, Backend (Platform) | New York, NY · Remote | posted: 2026-10-13
+- [ ] https://careers.gofasti.com/job-application/6223500004?gh_jid=6223500004 | gofasti | 1165 - Shopify Software Developer | Remote · FABR | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0 | adaptivesecurity | Founding Machine Learning Engineer | NYC | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3 | adaptivesecurity | Software Engineer, Product & Platform | NYC | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/laurel/ff5a33ce-c255-49ad-b926-9bcd1135d06d | laurel | Applied AI Engineer | Remote, US · Hybrid, San Francisco, Los Angeles, New York | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c | braintrust | Software Engineer, Billing | San Francisco · New York City · United States · Seattle | posted: 2026-10-13
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5264635007?gh_jid=5264635007 | andurilindustries | Robotics Software Engineer | Costa Mesa, California, United States | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/cayuse/jobs/8885769002 | cayuse | Associate Software Engineer, AI Solutions | Remote · Remote - US Based | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5 | openai | Software Engineer, Cloud Computer | San Francisco | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc | openai | Machine Learning Engineer, Implicit Signals | San Francisco | posted: 2026-10-13
+
 ## Processed
