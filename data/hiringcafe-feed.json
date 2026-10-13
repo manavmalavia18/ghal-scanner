@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T14:49:18.697Z",
+  "fetchedAt": "2026-10-13T15:11:20.455Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -15,7 +15,7 @@
   "hcTotals": {
     "software engineer": 648
   },
-  "count": 486,
+  "count": 487,
   "jobs": [
     {
       "title": "Software Engineer",
@@ -652,6 +652,24 @@
         "project management software"
       ],
       "company_tagline": "A consulting firm delivering roadway and bridge construction management services.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Civil EIT - Transportation/Traffic",
+      "url": "https://careers-kimley-horn.icims.com/jobs/27135/civil-eit---transportation-traffic/job?hub=7&in_iframe=1",
+      "company": "Kimley-Horn",
+      "location": "Jacksonville, Florida, United States",
+      "postedAt": 1791864000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years traffic engineering experience; Bachelor's or Master's in civil engineering from ABET-accredited university; EIT or Engineering Intern certification or ability to obtain within 12 months; experience with Synchro, VISSIM, or other traffic analysis software.",
+      "tools": [
+        "Synchro",
+        "VISSIM"
+      ],
+      "company_tagline": "A consulting firm providing engineering, planning, and design services.",
       "ats_source": "icims2"
     },
     {
@@ -2674,10 +2692,10 @@
         "R",
         "C#",
         "JavaScript",
-        "GeoAI"
+        "ArcGIS"
       ],
-      "company_tagline": "A global leader in GIS technology and spatial analysis software.",
-      "ats_source": "grnhse"
+      "company_tagline": "A global leader in GIS technology, creating positive change through mapping and spatial analysis.",
+      "ats_source": "adhoc"
     },
     {
       "title": "Platform & Data Engineer",
@@ -2961,23 +2979,23 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "2+ YOE",
-      "summary": "2+ years developing middleware with Java, JavaEE, JSP; cloud platforms AWS/Azure; relational databases; REST/SOAP; debugging tools; source control; Bachelor's in math, computer science, physics or related field.",
+      "summary": "2+ years experience developing middleware with Java, Servlets, JSP; knowledge of cloud platforms (AWS, Azure), relational databases, web services (REST, SOAP), debugging tools, and source control; Bachelor's degree in math, computer science, physics or related field.",
       "tools": [
         "Java",
         "JavaEE",
         "JSP",
+        "Servlets",
         "AWS",
         "Azure",
         "Amazon S3",
-        "SQS",
-        "EC2",
-        "Blob Service",
-        "Table Service",
-        "SQL Server",
-        "Oracle"
+        "Amazon SQS",
+        "Amazon EC2",
+        "Azure Blob Service",
+        "Azure Table Service",
+        "SQL Server"
       ],
-      "company_tagline": "A company delivering state-of-the-art mapping and analytics software to customers worldwide.",
-      "ats_source": "grnhse"
+      "company_tagline": "A global leader in GIS technology, providing mapping and analytics software to customers worldwide.",
+      "ats_source": "adhoc"
     },
     {
       "title": "Electrical Design Engineer, Excavators",
