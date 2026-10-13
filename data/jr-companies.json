@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T19:34:35.806Z",
+  "fetchedAt": "2026-10-13T19:56:38.851Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 239,
+  "companyCount": 241,
   "companies": [
     {
       "company": "7-Eleven",
@@ -365,6 +365,13 @@
       "url": "https://cimpress.ripplehire.com/candidate/?token=3ArGfLUKk7reQhXXUtTz&source=CAREERSITE#detail/job/906060"
     },
     {
+      "company": "Cintal",
+      "ats": "greenhouse",
+      "board": "cintal",
+      "key": "greenhouse:cintal",
+      "url": "https://ats.rippling.com/cintal/jobs/99650597-3def-40d1-b8e1-243ee99ff3da"
+    },
+    {
       "company": "Cirrus Logic",
       "ats": "lever",
       "board": "cirrus",
@@ -512,6 +519,13 @@
       "url": "https://ebay.wd5.myworkdayjobs.com/apply"
     },
     {
+      "company": "Eka Robotics",
+      "ats": "ashby",
+      "board": "ekarobotics",
+      "key": "ashby:ekarobotics",
+      "url": "https://jobs.ashbyhq.com/ekarobotics/d07ecc50-fdbd-4ddf-b4ab-037f6e076d11"
+    },
+    {
       "company": "Electra.aero",
       "ats": "greenhouse",
       "board": "electraaero",
@@ -523,7 +537,7 @@
       "ats": "ashby",
       "board": "elevenlabs",
       "key": "ashby:elevenlabs",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5"
+      "url": "https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651"
     },
     {
       "company": "Eli Lilly and Company",
@@ -985,7 +999,7 @@
       "ats": "ashby",
       "board": "mintmcp",
       "key": "ashby:mintmcp",
-      "url": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292"
+      "url": "https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5"
     },
     {
       "company": "Mixpanel",
