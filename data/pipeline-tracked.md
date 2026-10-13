@@ -42,4 +42,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-1 | Hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-1 | Hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402 | Cloudflare | Software Engineer, AI Agents | In-Office · Remote India | posted: 2026-10-13
+
 ## Processed
