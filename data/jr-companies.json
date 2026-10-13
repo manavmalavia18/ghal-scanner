@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T16:26:17.766Z",
+  "fetchedAt": "2026-10-13T16:48:17.746Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
@@ -666,13 +666,6 @@
       "url": "https://intuitivemachines.wd115.myworkdayjobs.com/lanterisspace"
     },
     {
-      "company": "Legora",
-      "ats": "ashby",
-      "board": "legora",
-      "key": "ashby:legora",
-      "url": "https://jobs.ashbyhq.com/legora/572044a8-d0c4-42b4-97d3-bde7cb5599d6"
-    },
-    {
       "company": "Life Fitness",
       "ats": "workday",
       "board": "searchlfn",
@@ -895,6 +888,13 @@
       "board": "perfect-venue",
       "key": "ashby:perfect-venue",
       "url": "https://jobs.ashbyhq.com/perfect-venue/4a2e290f-e855-4e69-8196-002dbbb0600b"
+    },
+    {
+      "company": "Pioneer Service",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:339880",
+      "url": "https://pioneerserviceinc.prevueaps.com/jobs/339880"
     },
     {
       "company": "Podium",

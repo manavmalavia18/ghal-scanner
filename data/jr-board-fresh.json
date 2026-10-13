@@ -1,17 +1,22 @@
 {
-  "fetchedAt": "2026-10-13T16:26:17.754Z",
+  "fetchedAt": "2026-10-13T16:48:17.729Z",
   "days": 2,
   "leadCount": 80,
-  "jobCount": 44,
+  "jobCount": 46,
   "boards": [
+    {
+      "key": "greenhouse:futuresecureai",
+      "fetched": 38,
+      "kept": 0
+    },
     {
       "key": "greenhouse:wehrtyou",
       "fetched": 90,
       "kept": 0
     },
     {
-      "key": "greenhouse:futuresecureai",
-      "fetched": 38,
+      "key": "greenhouse:asana",
+      "fetched": 103,
       "kept": 0
     },
     {
@@ -30,18 +35,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:optiverus",
-      "fetched": 160,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:flexe",
       "fetched": 4,
       "kept": 0
     },
     {
-      "key": "greenhouse:flexport",
-      "fetched": 205,
+      "key": "greenhouse:gleanwork",
+      "fetched": 134,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:optiverus",
+      "fetched": 160,
       "kept": 0
     },
     {
@@ -55,13 +60,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asana",
-      "fetched": 103,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:asteraearlycareer2027",
-      "fetched": 88,
+      "key": "greenhouse:nice",
+      "fetched": 178,
       "kept": 0
     },
     {
@@ -70,8 +70,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:mixpanel",
-      "fetched": 55,
+      "key": "greenhouse:datacor",
+      "fetched": 16,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:asteraearlycareer2027",
+      "fetched": 88,
       "kept": 0
     },
     {
@@ -80,13 +85,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:nice",
-      "fetched": 178,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:eqtcorporation",
-      "fetched": 53,
+      "key": "greenhouse:mixpanel",
+      "fetched": 55,
       "kept": 0
     },
     {
@@ -95,8 +95,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:memx",
-      "fetched": 11,
+      "key": "greenhouse:eqtcorporation",
+      "fetched": 52,
       "kept": 0
     },
     {
@@ -110,33 +110,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asm",
-      "fetched": 483,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:datacor",
-      "fetched": 16,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:gleanwork",
-      "fetched": 134,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:blend",
       "fetched": 15,
       "kept": 0
     },
     {
-      "key": "greenhouse:walkermillerenergy",
-      "fetched": 28,
+      "key": "greenhouse:flexport",
+      "fetched": 205,
       "kept": 0
     },
     {
-      "key": "greenhouse:podium81",
-      "fetched": 60,
+      "key": "greenhouse:memx",
+      "fetched": 11,
       "kept": 0
     },
     {
@@ -145,13 +130,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:twinhealth",
-      "fetched": 43,
-      "kept": 1
+      "key": "greenhouse:walkermillerenergy",
+      "fetched": 28,
+      "kept": 0
     },
     {
-      "key": "greenhouse:duolingounirecruitment",
-      "fetched": 2,
+      "key": "greenhouse:podium81",
+      "fetched": 58,
       "kept": 0
     },
     {
@@ -160,14 +145,29 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:tia",
-      "fetched": 35,
+      "key": "greenhouse:duolingounirecruitment",
+      "fetched": 2,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:twinhealth",
+      "fetched": 43,
+      "kept": 1
     },
     {
       "key": "greenhouse:drivepoint",
       "fetched": 0,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:tia",
+      "fetched": 35,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:esri",
+      "fetched": 487,
+      "kept": 1
     },
     {
       "key": "greenhouse:rfsmart",
@@ -185,28 +185,23 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:vast",
+      "fetched": 187,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:burnsengineeringinc",
       "fetched": 34,
       "kept": 0
     },
     {
+      "key": "greenhouse:asm",
+      "fetched": 483,
+      "kept": 1
+    },
+    {
       "key": "ashby:netic",
       "fetched": 29,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:esri",
-      "fetched": 487,
-      "kept": 1
-    },
-    {
-      "key": "ashby:aurora-operations-inc",
-      "fetched": 98,
-      "kept": 1
-    },
-    {
-      "key": "ashby:applied",
-      "fetched": 326,
       "kept": 1
     },
     {
@@ -215,23 +210,28 @@
       "kept": 0
     },
     {
-      "key": "ashby:snowflake",
-      "fetched": 354,
-      "kept": 0
-    },
-    {
       "key": "ashby:rainmaker",
       "fetched": 25,
       "kept": 3
     },
     {
-      "key": "ashby:elevenlabs",
-      "fetched": 141,
-      "kept": 8
+      "key": "ashby:applied",
+      "fetched": 326,
+      "kept": 1
     },
     {
       "key": "ashby:manifest-os",
       "fetched": 11,
+      "kept": 0
+    },
+    {
+      "key": "ashby:aurora-operations-inc",
+      "fetched": 97,
+      "kept": 1
+    },
+    {
+      "key": "ashby:autoscience",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -240,14 +240,9 @@
       "kept": 2
     },
     {
-      "key": "ashby:autoscience",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
-      "key": "ashby:hex",
-      "fetched": 40,
-      "kept": 0
+      "key": "ashby:elevenlabs",
+      "fetched": 141,
+      "kept": 8
     },
     {
       "key": "ashby:chaidiscovery",
@@ -260,6 +255,11 @@
       "kept": 1
     },
     {
+      "key": "ashby:hex",
+      "fetched": 40,
+      "kept": 0
+    },
+    {
       "key": "ashby:benchling",
       "fetched": 58,
       "kept": 1
@@ -270,18 +270,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:revel",
-      "fetched": 28,
-      "kept": 0
+      "key": "ashby:flossy",
+      "fetched": 3,
+      "kept": 1
     },
     {
       "key": "ashby:cursor",
       "fetched": 135,
-      "kept": 1
-    },
-    {
-      "key": "ashby:flossy",
-      "fetched": 3,
       "kept": 1
     },
     {
@@ -295,18 +290,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:tonicai",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
       "key": "ashby:novita-ai",
       "fetched": 5,
       "kept": 0
     },
     {
-      "key": "greenhouse:vast",
-      "fetched": 187,
+      "key": "ashby:tonicai",
+      "fetched": 2,
       "kept": 0
     },
     {
@@ -325,6 +315,16 @@
       "kept": 1
     },
     {
+      "key": "ashby:snowflake",
+      "fetched": 354,
+      "kept": 0
+    },
+    {
+      "key": "lever:analyticpartners",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "lever:robust-ai",
       "fetched": 5,
       "kept": 0
@@ -335,23 +335,28 @@
       "kept": 0
     },
     {
-      "key": "lever:azul",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "lever:analyticpartners",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:coreweave",
       "fetched": 308,
       "kept": 1
     },
     {
+      "key": "lever:azul",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
       "key": "workday:ncr.wd1.myworkdayjobs.com/ext_us",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:acronaviation",
+      "fetched": 52,
+      "kept": 0
+    },
+    {
+      "key": "ashby:revel",
+      "fetched": 28,
       "kept": 0
     },
     {
@@ -360,13 +365,13 @@
       "kept": 1
     },
     {
-      "key": "lever:acronaviation",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
       "key": "workday:kcura.wd1.myworkdayjobs.com/external_career_site",
       "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "workday:intel.wd1.myworkdayjobs.com/external",
+      "fetched": 19,
       "kept": 0
     },
     {
@@ -375,13 +380,8 @@
       "kept": 3
     },
     {
-      "key": "workday:intel.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
-      "fetched": 80,
+      "fetched": 78,
       "kept": 0
     },
     {
@@ -395,17 +395,37 @@
       "kept": 1
     },
     {
-      "key": "lever:palantir",
-      "fetched": 310,
-      "kept": 1
-    },
-    {
       "key": "workday:usbank.wd1.myworkdayjobs.com/us_bank_careers",
       "fetched": 80,
       "kept": 1
+    },
+    {
+      "key": "lever:palantir",
+      "fetched": 311,
+      "kept": 2
     }
   ],
   "jobs": [
+    {
+      "title": "Software Engineer, Agentic Runtime ",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
+      "company": "Glean",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T23:36:06.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "gleanwork"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
+      "company": "Datacor, Inc.",
+      "location": "Remote, US",
+      "postedAt": "2026-10-12T18:19:47.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "datacor"
+    },
     {
       "title": "Software Engineer, ML Infrastructure",
       "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222681004",
@@ -425,36 +445,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "arcinstitute"
-    },
-    {
-      "title": "Field Software Engineer",
-      "url": "https://www.asm.com/open-vacancies/?gh_jid=4966075101",
-      "company": "ASM",
-      "location": "US > Arizona > Chandler",
-      "postedAt": "2026-10-12T21:14:26.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "asm"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
-      "company": "Datacor, Inc.",
-      "location": "Remote, US",
-      "postedAt": "2026-10-12T18:19:47.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "datacor"
-    },
-    {
-      "title": "Software Engineer, Agentic Runtime ",
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
-      "company": "Glean",
-      "location": "Mountain View, CA",
-      "postedAt": "2026-10-12T23:36:06.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "gleanwork"
     },
     {
       "title": "Software Engineer- Equity Derivatives Trading Desk",
@@ -477,26 +467,6 @@
       "board": "twinhealth"
     },
     {
-      "title": "Platform Engineer (ServiceNow)",
-      "url": "https://job-boards.greenhouse.io/li-thermal-works/jobs/4448448009",
-      "company": "ThermalWorks",
-      "location": "Remote - US",
-      "postedAt": "2026-10-12T14:12:58.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "li-thermal-works"
-    },
-    {
-      "title": "Software Engineer – Gap Year",
-      "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62",
-      "company": "Netic",
-      "location": "SF or NYC",
-      "postedAt": "2026-10-12T23:34:52.931Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "netic"
-    },
-    {
       "title": "Software Development Engineer II - ArcGIS Enterprise ",
       "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
       "company": "Esri",
@@ -507,24 +477,34 @@
       "board": "esri"
     },
     {
-      "title": "ML Engineer, Behavior Planning",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
-      "company": "Aurora",
-      "location": "Mountain View, CA",
-      "postedAt": "2026-10-12T18:47:14.021Z",
+      "title": "Platform Engineer (ServiceNow)",
+      "url": "https://job-boards.greenhouse.io/li-thermal-works/jobs/4448448009",
+      "company": "ThermalWorks",
+      "location": "Remote - US",
+      "postedAt": "2026-10-12T14:12:58.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "aurora-operations-inc"
+      "ats": "Greenhouse",
+      "board": "li-thermal-works"
     },
     {
-      "title": "Robotic Software Engineer - Aerial Autonomy",
-      "url": "https://jobs.ashbyhq.com/applied/20d44733-b53a-4f8f-a10f-a5dc24d1a6fc",
-      "company": "Applied Intuition",
-      "location": "Fort Walton Beach, FL",
-      "postedAt": "2026-10-12T13:41:05.458Z",
+      "title": "Field Software Engineer",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=4966075101",
+      "company": "ASM",
+      "location": "US > Arizona > Chandler",
+      "postedAt": "2026-10-12T21:14:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "asm"
+    },
+    {
+      "title": "Software Engineer – Gap Year",
+      "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62",
+      "company": "Netic",
+      "location": "SF or NYC",
+      "postedAt": "2026-10-12T23:34:52.931Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "applied"
+      "board": "netic"
     },
     {
       "title": "Software Engineer, Product",
@@ -555,6 +535,46 @@
       "salary": "",
       "ats": "Ashby",
       "board": "rainmaker"
+    },
+    {
+      "title": "Robotic Software Engineer - Aerial Autonomy",
+      "url": "https://jobs.ashbyhq.com/applied/20d44733-b53a-4f8f-a10f-a5dc24d1a6fc",
+      "company": "Applied Intuition",
+      "location": "Fort Walton Beach, FL",
+      "postedAt": "2026-10-12T13:41:05.458Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "applied"
+    },
+    {
+      "title": "ML Engineer, Behavior Planning",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
+      "company": "Aurora",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T18:47:14.021Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aurora-operations-inc"
+    },
+    {
+      "title": "Simulation and Software Engineer",
+      "url": "https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d",
+      "company": "Root Access",
+      "location": "New York City",
+      "postedAt": "2026-10-12T23:07:20.860Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "root-access"
+    },
+    {
+      "title": "Machine Learning Engineer (Physics-based)",
+      "url": "https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce",
+      "company": "Root Access",
+      "location": "New York City",
+      "postedAt": "2026-10-12T22:45:26.297Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "root-access"
     },
     {
       "title": "Full-Stack Engineer - ElevenMusic",
@@ -637,26 +657,6 @@
       "board": "elevenlabs"
     },
     {
-      "title": "Simulation and Software Engineer",
-      "url": "https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d",
-      "company": "Root Access",
-      "location": "New York City",
-      "postedAt": "2026-10-12T23:07:20.860Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "root-access"
-    },
-    {
-      "title": "Machine Learning Engineer (Physics-based)",
-      "url": "https://jobs.ashbyhq.com/root-access/6ab61b1c-b92d-4189-86fc-9dc98d5a69ce",
-      "company": "Root Access",
-      "location": "New York City",
-      "postedAt": "2026-10-12T22:45:26.297Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "root-access"
-    },
-    {
       "title": "Software Engineer, AI Platform",
       "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
       "company": "Chai Discovery",
@@ -707,16 +707,6 @@
       "board": "aureliussystems"
     },
     {
-      "title": "Software Engineer, RL Data",
-      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-      "company": "Cursor",
-      "location": "San Francisco",
-      "postedAt": "2026-10-12T20:53:44.567Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cursor"
-    },
-    {
       "title": "Software Engineer, AI & Automation",
       "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
       "company": "Flossy",
@@ -725,6 +715,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "flossy"
+    },
+    {
+      "title": "Software Engineer, RL Data",
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "company": "Cursor",
+      "location": "San Francisco",
+      "postedAt": "2026-10-12T20:53:44.567Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cursor"
     },
     {
       "title": "Full Stack Engineer",
@@ -765,6 +765,17 @@
       "salary": "",
       "ats": "Workday",
       "board": "dtn_careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "url": "https://kcura.wd1.myworkdayjobs.com/external_career_site/job/Illinois/Staff-Software-Engineer_26-0458",
+      "company": "Relativity",
+      "location": "Illinois",
+      "postedAt": "2026-10-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
       "postedAtSource": "workday-detail"
     },
     {
@@ -832,16 +843,6 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Forward Deployed Software Engineer - US Government",
-      "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "company": "Palantir Technologies",
-      "location": "Norfolk, VA",
-      "postedAt": "2026-10-12T21:27:12.616Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "palantir"
-    },
-    {
       "title": "Software Engineer 1- (Full Stack Developer)",
       "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352",
       "company": "U.S. Bank",
@@ -851,6 +852,26 @@
       "ats": "Workday",
       "board": "us_bank_careers",
       "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Forward Deployed Software Engineer - US Government",
+      "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+      "company": "Palantir Technologies",
+      "location": "Laurel, MD",
+      "postedAt": "2026-10-13T16:40:52.753Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "palantir"
+    },
+    {
+      "title": "Forward Deployed Software Engineer - US Government",
+      "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+      "company": "Palantir Technologies",
+      "location": "Norfolk, VA",
+      "postedAt": "2026-10-12T21:27:12.616Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "palantir"
     }
   ],
   "leadSources": [
