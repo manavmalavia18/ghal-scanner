@@ -1,3 +1,14 @@
-2026/10/13-19:45:29.109 195c Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/Local Storage/leveldb/MANIFEST-000001
-2026/10/13-19:45:29.110 195c Recovering log #15
-2026/10/13-19:45:29.111 195c Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/Local Storage/leveldb/000015.log 
+2026/10/13-20:03:55.190 18bf Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/10/13-20:03:55.191 18bf Recovering log #20
+2026/10/13-20:03:55.191 18bf Level-0 table #22: started
+2026/10/13-20:03:55.193 18bf Level-0 table #22: 14412 bytes OK
+2026/10/13-20:03:55.194 18bf Delete type=0 #20
+2026/10/13-20:03:55.195 18c4 Compacting 4@0 + 1@1 files
+2026/10/13-20:03:55.197 18c4 Generated table #24@0: 14 keys, 3934 bytes
+2026/10/13-20:03:55.197 18c4 Compacted 4@0 + 1@1 files => 3934 bytes
+2026/10/13-20:03:55.197 18c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/13-20:03:55.198 18c4 Delete type=2 #20
+2026/10/13-20:03:55.199 18c4 Delete type=2 #22
+2026/10/13-20:03:55.199 18c4 Delete type=2 #15
+2026/10/13-20:03:55.199 18c4 Delete type=2 #17
+2026/10/13-20:03:55.199 18c4 Delete type=2 #13
