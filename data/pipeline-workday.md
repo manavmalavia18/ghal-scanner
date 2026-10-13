@@ -77,4 +77,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/AI-DevOps-Engineer---Level-4--AHT-_R10255138 | ngc | AI/DevOps Engineer - Level 4 (AHT) | United States-California-Redondo Beach | posted: 2026-10-12
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/HCM-Cloud-Platform---DevOps-Engineer_333467 | caci | HCM Cloud Platform & DevOps Engineer | Remote (Any State) | posted: 2026-10-12
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716 | hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829 | hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-2 | hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-2 | hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-1 | hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-1 | hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
+
 ## Processed
