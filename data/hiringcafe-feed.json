@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T16:16:59.094Z",
+  "fetchedAt": "2026-10-13T16:39:06.400Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -13,9 +13,9 @@
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 661
+    "software engineer": 668
   },
-  "count": 491,
+  "count": 497,
   "jobs": [
     {
       "title": "Senior Automation Tester",
@@ -276,6 +276,24 @@
       "ats_source": "eightfold"
     },
     {
+      "title": "Junior Software Developer",
+      "url": "https://careers.ecslimited.com/jobs/40195",
+      "company": "ECS Group of Companies",
+      "location": "Chantilly, Virginia, United States",
+      "postedAt": 1791893678000,
+      "salary": "$85k-$114k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "0+ YOE",
+      "summary": "Bachelor's degree in computer science or related field, or equivalent experience; 0-5 years with degree or 2-5 years without degree using Microsoft technology stack; certifications in Microsoft Development, Agile, and SQL Server preferred.",
+      "tools": [
+        "Microsoft SQL Server",
+        "Microsoft technology stack"
+      ],
+      "company_tagline": "An employee-owned engineering consulting firm providing geotechnical, construction materials, environmental, and building science services.",
+      "ats_source": "icims2"
+    },
+    {
       "title": "Software Development Engineer, Special Projects",
       "url": "https://www.amazon.jobs/en/jobs/10576928/software-development-engineer-special-projects",
       "company": "Amazon",
@@ -359,6 +377,77 @@
       "ats_source": "avature"
     },
     {
+      "title": "Manufacturing Engineer II",
+      "url": "https://pioneerserviceinc.prevueaps.com/jobs/339880",
+      "company": "Pioneer Service",
+      "location": "Hodgkins, Illinois, United States",
+      "postedAt": 1791892800000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Minimum 3 years hands-on CNC Swiss machining experience; Bachelor's in Mechanical/Manufacturing Engineering preferred; proficiency in CNC programming, G-code, CAM software; ability to read engineering drawings with GD&T; experience with quality management systems.",
+      "tools": [
+        "CNC",
+        "CAM",
+        "G-code",
+        "ESPRIT",
+        "SolidWorks",
+        "Microsoft Office",
+        "Global Shop Solutions ERP",
+        "MachineMetrics"
+      ],
+      "company_tagline": "An ITAR-registered precision contract manufacturer specializing in Swiss machining and centerless grinding.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "Structural Bridge EIT/Coordinator",
+      "url": "https://hdr.taleo.net/careersection/constructiondesignbuild/jobdetail.ftl?job=196987&lang=en",
+      "company": "HDR",
+      "location": "Rosemont, Illinois, United States",
+      "postedAt": 1791892800000,
+      "salary": "$63k-$112k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree required; familiarity with Bluebeam Revu and engineering software; strong computer skills for structural layout and design; good communication and teamwork; EIT certificate preferred.",
+      "tools": [
+        "Bluebeam Revu",
+        "LEAP Bridge Enterprise",
+        "FB-MultiPier",
+        "LPile",
+        "AASHTOWare BrR",
+        "midas Civil",
+        "CSiBridge",
+        "RM Bridge",
+        "spColumn",
+        "STLBridgeLRFD",
+        "STLBridge",
+        "Bentley OpenBridge Modeler"
+      ],
+      "company_tagline": "An employee-owned architecture, engineering, and consulting firm that designs bridges and structures.",
+      "ats_source": "taleo_careersection"
+    },
+    {
+      "title": "Structural BIM Specialist",
+      "url": "https://hdr.taleo.net/careersection/constructiondesignbuild/jobdetail.ftl?job=196993&lang=en",
+      "company": "HDR",
+      "location": "Rosemont or Indianapolis",
+      "postedAt": 1791892800000,
+      "salary": "$54k-$77k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Technical degree or 3+ years related industry experience; proficiency with 3D design software, document management, Microsoft Office, and 3D coordination tools; understanding of engineering or architectural concepts.",
+      "tools": [
+        "Microsoft Office",
+        "3D design software",
+        "3D coordination tools"
+      ],
+      "company_tagline": "An employee-owned engineering and design firm shaping transportation systems and infrastructure.",
+      "ats_source": "taleo_careersection"
+    },
+    {
       "title": "Mobile Engineer - ElevenMusic",
       "url": "https://jobs.ashbyhq.com/elevenlabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5",
       "company": "ElevenLabs",
@@ -433,6 +522,21 @@
       ],
       "company_tagline": "A manufacturer of premium refrigeration and ice products.",
       "ats_source": "paylocity"
+    },
+    {
+      "title": "Software Engineer II (200061549)",
+      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200061549",
+      "company": "Microsoft",
+      "location": "United States",
+      "postedAt": 1791887062000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "No specific requirements stated.",
+      "tools": [],
+      "company_tagline": "A technology company providing software, cloud, productivity, computing, gaming, and apps.",
+      "ats_source": "successfactors"
     },
     {
       "title": "Archer Developer L2",
@@ -548,6 +652,21 @@
       ],
       "company_tagline": "An AI research and product company building realistic voice technology and platforms.",
       "ats_source": "ashby"
+    },
+    {
+      "title": "Software Engineering IC2 (200061091)",
+      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200061091",
+      "company": "Microsoft",
+      "location": "United States",
+      "postedAt": 1791881140000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "No specific requirements stated.",
+      "tools": [],
+      "company_tagline": "A technology company providing software, cloud, and productivity solutions.",
+      "ats_source": "successfactors"
     },
     {
       "title": "Architect",
@@ -1313,6 +1432,34 @@
       ],
       "company_tagline": "A technology company that pioneered accelerated computing and powers global intelligence with AI infrastructure.",
       "ats_source": "workday"
+    },
+    {
+      "title": "Manufacturing Systems Developer",
+      "url": "https://careers.stratasys.com/job/Eden-Prairie-Manufacturing-Systems-Developer-MN-55343/1439402300/",
+      "company": "Stratasys",
+      "location": "Eden Prairie, Minnesota, United States",
+      "postedAt": 1791849600000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree in computer science, software engineering, information systems or related field; 2+ years experience with MES/ICS or manufacturing applications; SQL, C++, API integration experience.",
+      "tools": [
+        "MES",
+        "MCS",
+        "SQL",
+        "C++",
+        "OPC UA",
+        "MQTT",
+        "Modbus",
+        "Ethernet/IP",
+        "REST APIs",
+        "ERP",
+        "PLM",
+        "Siemens"
+      ],
+      "company_tagline": "A world leader in 3D printing, providing innovative additive manufacturing solutions across industries.",
+      "ats_source": "successfactors"
     },
     {
       "title": "Agentic Solutions Developer",
@@ -2857,10 +3004,10 @@
         "R",
         "C#",
         "JavaScript",
-        "ArcGIS"
+        "GeoAI"
       ],
-      "company_tagline": "A global leader in GIS technology, creating positive change through mapping and spatial analysis.",
-      "ats_source": "adhoc"
+      "company_tagline": "A global leader in GIS technology and spatial analysis software.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Platform & Data Engineer",
@@ -3144,23 +3291,23 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "2+ YOE",
-      "summary": "2+ years experience developing middleware with Java, Servlets, JSP; knowledge of cloud platforms (AWS, Azure), relational databases, web services (REST, SOAP), debugging tools, and source control; Bachelor's degree in math, computer science, physics or related field.",
+      "summary": "2+ years developing middleware with Java, JavaEE, JSP; cloud platforms AWS/Azure; relational databases; REST/SOAP; debugging tools; source control; Bachelor's in math, computer science, physics or related field.",
       "tools": [
         "Java",
         "JavaEE",
         "JSP",
-        "Servlets",
         "AWS",
         "Azure",
         "Amazon S3",
-        "Amazon SQS",
-        "Amazon EC2",
-        "Azure Blob Service",
-        "Azure Table Service",
-        "SQL Server"
+        "SQS",
+        "EC2",
+        "Blob Service",
+        "Table Service",
+        "SQL Server",
+        "Oracle"
       ],
-      "company_tagline": "A global leader in GIS technology, providing mapping and analytics software to customers worldwide.",
-      "ats_source": "adhoc"
+      "company_tagline": "A company delivering state-of-the-art mapping and analytics software to customers worldwide.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Electrical Design Engineer, Excavators",
@@ -11030,23 +11177,6 @@
       ],
       "company_tagline": "A leading insurance and financial services company committed to helping people and investing in communities.",
       "ats_source": "icims2"
-    },
-    {
-      "title": "Junior/Mid-level Forward Deployed Engineer",
-      "url": "https://jobs.ashbyhq.com/legora/572044a8-d0c4-42b4-97d3-bde7cb5599d6",
-      "company": "Legora",
-      "location": "New York City, New York, United States",
-      "postedAt": 1791736717571,
-      "salary": "$175k-$245k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-3+ years software engineering experience building and shipping production software; strong fundamentals; clear communication; ability to take projects from scoping to delivery; adaptability across technologies.",
-      "tools": [
-        "TypeScript"
-      ],
-      "company_tagline": "An AI-native workspace for legal professionals, enabling faster document analysis and end-to-end workflows.",
-      "ats_source": "ashby"
     }
   ]
 }
