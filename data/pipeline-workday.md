@@ -98,4 +98,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jj.wd5.myworkdayjobs.com/displacedemployees/job/Raritan-New-Jersey-United-States-of-America/Platform-Engineer---Marketing_R-096948-2 | jj | Platform Engineer - Marketing | 51 Locations | posted: 2026-10-13
 - [ ] https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Ohio/Software-Engineer_JR100384 | ambarella | Software Engineer | US Ohio | posted: 2026-10-13
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-3-or-4_R10242366 | ngc | DevOps Engineer – Level 3 or 4 AHT | 2 Locations | posted: 2026-10-13
+- [ ] https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-II_JR104774 | greenheckgroup | Application Developer II | Remote - Wisconsin | posted: 2026-10-13
+
 ## Processed
