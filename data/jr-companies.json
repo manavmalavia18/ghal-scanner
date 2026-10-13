@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T03:52:52.926Z",
-  "scrapedAt": "2026-10-12T18:03:04.378935+00:00",
+  "fetchedAt": "2026-10-13T10:22:41.593Z",
+  "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 190,
+  "companyCount": 181,
   "companies": [
     {
       "company": "Accenture",
@@ -29,6 +29,13 @@
       "url": "https://aderant.wd5.myworkdayjobs.com/aderant_external_careers"
     },
     {
+      "company": "Affirm",
+      "ats": "greenhouse",
+      "board": "affirm",
+      "key": "greenhouse:affirm",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=affirm&token=7822387003"
+    },
+    {
       "company": "Agiloft",
       "ats": "lever",
       "board": "agiloft",
@@ -41,13 +48,6 @@
       "board": "allstate_careers",
       "key": "workday:allstate.wd5.myworkdayjobs.com/allstate_careers",
       "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers"
-    },
-    {
-      "company": "Amentum",
-      "ats": "workday",
-      "board": "amentum_careers",
-      "key": "workday:pae.wd1.myworkdayjobs.com/amentum_careers",
-      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers"
     },
     {
       "company": "AMERICAN Cast Iron Pipe Company",
@@ -71,18 +71,18 @@
       "url": "https://amgen.wd1.myworkdayjobs.com/careers"
     },
     {
-      "company": "Anthropic",
-      "ats": "greenhouse",
-      "board": "anthropic",
-      "key": "greenhouse:anthropic",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=anthropic&token=5137183008"
+      "company": "Analytic Partners",
+      "ats": "lever",
+      "board": "analyticpartners",
+      "key": "lever:analyticpartners",
+      "url": "https://jobs.lever.co/analyticpartners/114c0c5a-591a-4fae-a9b0-82b79a71267f/apply"
     },
     {
-      "company": "Antithesis",
+      "company": "Applied Intuition",
       "ats": "ashby",
-      "board": "antithesis",
-      "key": "ashby:antithesis",
-      "url": "https://jobs.ashbyhq.com/antithesis/40832045-9804-41a9-a211-24bb5dddea68/application"
+      "board": "applied",
+      "key": "ashby:applied",
+      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application"
     },
     {
       "company": "Arc Institute",
@@ -96,7 +96,14 @@
       "ats": "greenhouse",
       "board": "asana",
       "key": "greenhouse:asana",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=asana&token=7962412"
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=asana&token=8227390"
+    },
+    {
+      "company": "ASM",
+      "ats": "greenhouse",
+      "board": "asm",
+      "key": "greenhouse:asm",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=asm&token=4966075101"
     },
     {
       "company": "ASM International",
@@ -104,6 +111,13 @@
       "board": "",
       "key": "greenhouse-id:4966075101",
       "url": "https://www.asm.com/open-vacancies/field-software-engineer-4966075101?gh_jid=4966075101"
+    },
+    {
+      "company": "Astera Labs",
+      "ats": "greenhouse",
+      "board": "asteraearlycareer2027",
+      "key": "greenhouse:asteraearlycareer2027",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=asteraearlycareer2027&token=4742217005"
     },
     {
       "company": "August",
@@ -120,18 +134,32 @@
       "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac"
     },
     {
-      "company": "Aurora Innovation, Inc.",
+      "company": "Aurora",
       "ats": "ashby",
       "board": "aurora-operations-inc",
       "key": "ashby:aurora-operations-inc",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb"
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb/application"
     },
     {
-      "company": "Azul",
+      "company": "Autoscience",
+      "ats": "ashby",
+      "board": "autoscience",
+      "key": "ashby:autoscience",
+      "url": "https://jobs.ashbyhq.com/autoscience/b6a5a7bf-9895-4fc5-9fa1-b049d595a344"
+    },
+    {
+      "company": "Azul Systems",
       "ats": "lever",
       "board": "azul",
       "key": "lever:azul",
-      "url": "https://jobs.lever.co/azul/391104c1-f03c-47f7-8ff0-473cefaa1d84/apply"
+      "url": "https://jobs.lever.co/azul/391104c1-f03c-47f7-8ff0-473cefaa1d84"
+    },
+    {
+      "company": "Benchling",
+      "ats": "ashby",
+      "board": "benchling",
+      "key": "ashby:benchling",
+      "url": "https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa"
     },
     {
       "company": "Berkadia",
@@ -139,13 +167,6 @@
       "board": "berkadia",
       "key": "workday:berkadia.wd1.myworkdayjobs.com/berkadia",
       "url": "https://berkadia.wd1.myworkdayjobs.com/berkadia"
-    },
-    {
-      "company": "Bespoke Technologies, Inc.",
-      "ats": "greenhouse",
-      "board": "bespoketechnologies",
-      "key": "greenhouse:bespoketechnologies",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=bespoketechnologies&token=4396941009"
     },
     {
       "company": "Blend",
@@ -190,6 +211,13 @@
       "url": "https://boeing.wd1.myworkdayjobs.com/external_careers"
     },
     {
+      "company": "Booz Allen Hamilton",
+      "ats": "workday",
+      "board": "bah_jobs",
+      "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs"
+    },
+    {
       "company": "Boston Dynamics",
       "ats": "workday",
       "board": "boston_dynamics",
@@ -211,13 +239,6 @@
       "url": "https://tcbrands.wd1.myworkdayjobs.com/callaway-careers"
     },
     {
-      "company": "Canonical",
-      "ats": "greenhouse",
-      "board": "canonical",
-      "key": "greenhouse:canonical",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=canonical&token=4647417"
-    },
-    {
       "company": "Caterpillar Inc.",
       "ats": "workday",
       "board": "caterpillarcareers",
@@ -232,18 +253,18 @@
       "url": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe"
     },
     {
+      "company": "Chai Discovery",
+      "ats": "ashby",
+      "board": "chaidiscovery",
+      "key": "ashby:chaidiscovery",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0"
+    },
+    {
       "company": "Chainguard",
       "ats": "greenhouse",
       "board": "chainguard",
       "key": "greenhouse:chainguard",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=chainguard&token=4714568006"
-    },
-    {
-      "company": "Chalk",
-      "ats": "ashby",
-      "board": "chalk",
-      "key": "ashby:chalk",
-      "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application"
     },
     {
       "company": "Cimpress",
@@ -281,11 +302,11 @@
       "url": "https://comcast.wd115.myworkdayjobs.com/comcast_careers"
     },
     {
-      "company": "COUNTRY Financial®",
-      "ats": "workday",
-      "board": "COUNTRYCorporateExternal",
-      "key": "workday:countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal",
-      "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal"
+      "company": "CoreWeave",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4720302006",
+      "url": "https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006"
     },
     {
       "company": "Curaleaf",
@@ -295,39 +316,11 @@
       "url": "https://job-boards.greenhouse.io/curaleaf/jobs/8883335002"
     },
     {
-      "company": "Datacor",
+      "company": "Datacor, Inc.",
       "ats": "greenhouse",
       "board": "datacor",
       "key": "greenhouse:datacor",
-      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007"
-    },
-    {
-      "company": "Datadog",
-      "ats": "greenhouse",
-      "board": "datadog",
-      "key": "greenhouse:datadog",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=datadog&token=7874990"
-    },
-    {
-      "company": "Decagon",
-      "ats": "ashby",
-      "board": "decagon",
-      "key": "ashby:decagon",
-      "url": "https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212/application"
-    },
-    {
-      "company": "Dematic",
-      "ats": "workday",
-      "board": "kion_scs",
-      "key": "workday:kiongroup.wd3.myworkdayjobs.com/kion_scs",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs"
-    },
-    {
-      "company": "DoorDash",
-      "ats": "greenhouse",
-      "board": "doordashusa",
-      "key": "greenhouse:doordashusa",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=doordashusa&token=8236946"
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=datacor&token=5257433007"
     },
     {
       "company": "Drivepoint",
@@ -337,11 +330,11 @@
       "url": "https://ats.rippling.com/drivepoint/jobs/4216382c-427f-4db7-beb0-120f9c3eafb2"
     },
     {
-      "company": "DRW",
-      "ats": "greenhouse",
-      "board": "drweng",
-      "key": "greenhouse:drweng",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=drweng&token=7921972"
+      "company": "DTN",
+      "ats": "workday",
+      "board": "dtn_careers",
+      "key": "workday:dtn.wd1.myworkdayjobs.com/dtn_careers",
+      "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers"
     },
     {
       "company": "Duke Energy",
@@ -376,7 +369,7 @@
       "ats": "ashby",
       "board": "elevenlabs",
       "key": "ashby:elevenlabs",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2"
     },
     {
       "company": "Eli Lilly and Company",
@@ -414,18 +407,11 @@
       "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007"
     },
     {
-      "company": "Exelixis",
+      "company": "ETAP Software",
       "ats": "workday",
-      "board": "exel",
-      "key": "workday:exelixis.wd1.myworkdayjobs.com/exel",
-      "url": "https://exelixis.wd1.myworkdayjobs.com/exel"
-    },
-    {
-      "company": "Exowatt",
-      "ats": "lever",
-      "board": "exowatt",
-      "key": "lever:exowatt",
-      "url": "https://jobs.lever.co/exowatt/171fe2e7-3f69-4e17-b619-9fbf9108103d/apply"
+      "board": "etap_careers",
+      "key": "workday:aveva.wd3.myworkdayjobs.com/etap_careers",
+      "url": "https://aveva.wd3.myworkdayjobs.com/etap_careers"
     },
     {
       "company": "Expedia Group",
@@ -435,25 +421,18 @@
       "url": "https://expedia.wd108.myworkdayjobs.com/search"
     },
     {
-      "company": "FICO",
-      "ats": "workday",
-      "board": "external",
-      "key": "workday:fico.wd1.myworkdayjobs.com/external",
-      "url": "https://fico.wd1.myworkdayjobs.com/external"
-    },
-    {
-      "company": "Figma",
+      "company": "Flexe",
       "ats": "greenhouse",
-      "board": "figma",
-      "key": "greenhouse:figma",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=figma&token=5691911004"
+      "board": "flexe",
+      "key": "greenhouse:flexe",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=flexe&token=4713328006"
     },
     {
-      "company": "First Financial Bank Texas",
-      "ats": "workday",
-      "board": "first_financial_bank",
-      "key": "workday:ffin.wd1.myworkdayjobs.com/first_financial_bank",
-      "url": "https://ffin.wd1.myworkdayjobs.com/first_financial_bank"
+      "company": "Flexport",
+      "ats": "greenhouse",
+      "board": "flexport",
+      "key": "greenhouse:flexport",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=flexport&token=8166040"
     },
     {
       "company": "Flossy",
@@ -461,6 +440,13 @@
       "board": "flossy",
       "key": "ashby:flossy",
       "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9"
+    },
+    {
+      "company": "Future Secure AI",
+      "ats": "greenhouse",
+      "board": "futuresecureai",
+      "key": "greenhouse:futuresecureai",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=futuresecureai&token=4001542201"
     },
     {
       "company": "GE Aerospace",
@@ -477,13 +463,6 @@
       "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006"
     },
     {
-      "company": "Generac",
-      "ats": "workday",
-      "board": "external",
-      "key": "workday:generac.wd5.myworkdayjobs.com/external",
-      "url": "https://generac.wd5.myworkdayjobs.com/external"
-    },
-    {
       "company": "General Dynamics Information Technology",
       "ats": "workday",
       "board": "gdit_earlytalent",
@@ -498,11 +477,18 @@
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm"
     },
     {
+      "company": "Giant Eagle, Inc.",
+      "ats": "workday",
+      "board": "geexternalcareers",
+      "key": "workday:gianteagle.wd503.myworkdayjobs.com/geexternalcareers",
+      "url": "https://gianteagle.wd503.myworkdayjobs.com/geexternalcareers"
+    },
+    {
       "company": "Glean",
       "ats": "greenhouse",
       "board": "gleanwork",
       "key": "greenhouse:gleanwork",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=gleanwork&token=4738120005"
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=gleanwork&token=4742953005"
     },
     {
       "company": "GOAT Group",
@@ -533,13 +519,6 @@
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs"
     },
     {
-      "company": "Guidehouse",
-      "ats": "workday",
-      "board": "external",
-      "key": "workday:guidehouse.wd1.myworkdayjobs.com/external",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external"
-    },
-    {
       "company": "H-E-B",
       "ats": "greenhouse",
       "board": "",
@@ -561,6 +540,20 @@
       "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009"
     },
     {
+      "company": "Hewlett Packard Enterprise",
+      "ats": "workday",
+      "board": "jobsathpe",
+      "key": "workday:hpe.wd5.myworkdayjobs.com/jobsathpe",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe"
+    },
+    {
+      "company": "Hex",
+      "ats": "ashby",
+      "board": "hex",
+      "key": "ashby:hex",
+      "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6"
+    },
+    {
       "company": "Highmark Health",
       "ats": "workday",
       "board": "highmark",
@@ -575,18 +568,11 @@
       "url": "https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers"
     },
     {
-      "company": "Howard Hughes Medical Institute (HHMI)",
-      "ats": "workday",
-      "board": "External",
-      "key": "workday:hhmi.wd1.myworkdayjobs.com/External",
-      "url": "https://hhmi.wd1.myworkdayjobs.com/External"
-    },
-    {
       "company": "Hudson River Trading",
       "ats": "greenhouse",
       "board": "wehrtyou",
       "key": "greenhouse:wehrtyou",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=wehrtyou&token=8046074"
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=wehrtyou&token=7353090"
     },
     {
       "company": "Illinois Tool Works",
@@ -596,11 +582,11 @@
       "url": "https://itw.wd5.myworkdayjobs.com/external"
     },
     {
-      "company": "IMC Trading",
+      "company": "Imagine Pediatrics",
       "ats": "greenhouse",
-      "board": "imc",
-      "key": "greenhouse:imc",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=imc&token=4908708101"
+      "board": "imaginepediatrics",
+      "key": "greenhouse:imaginepediatrics",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=imaginepediatrics&token=4531170005"
     },
     {
       "company": "IMEG",
@@ -624,13 +610,6 @@
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers"
     },
     {
-      "company": "Karman Industries",
-      "ats": "ashby",
-      "board": "karman%20industries",
-      "key": "ashby:karman%20industries",
-      "url": "https://jobs.ashbyhq.com/karman%20industries/4302ff00-c8da-497d-bfd9-e546384d8ede/application"
-    },
-    {
       "company": "KION Group",
       "ats": "workday",
       "board": "kiongroup",
@@ -638,25 +617,18 @@
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup"
     },
     {
-      "company": "KKR",
-      "ats": "greenhouse",
-      "board": "stage",
-      "key": "greenhouse:stage",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=stage&token=6211004004"
-    },
-    {
-      "company": "KLA",
-      "ats": "workday",
-      "board": "search",
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "url": "https://kla.wd1.myworkdayjobs.com/search"
-    },
-    {
-      "company": "KLA",
+      "company": "KLA Corporation",
       "ats": "workday",
       "board": "ur",
       "key": "workday:kla.wd1.myworkdayjobs.com/ur",
       "url": "https://kla.wd1.myworkdayjobs.com/ur"
+    },
+    {
+      "company": "KLA Corporation",
+      "ats": "workday",
+      "board": "search",
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "url": "https://kla.wd1.myworkdayjobs.com/search"
     },
     {
       "company": "Kohl's",
@@ -664,20 +636,6 @@
       "board": "kohlscareers",
       "key": "workday:kohls.wd504.myworkdayjobs.com/kohlscareers",
       "url": "https://kohls.wd504.myworkdayjobs.com/kohlscareers"
-    },
-    {
-      "company": "Laminar",
-      "ats": "lever",
-      "board": "runlaminar",
-      "key": "lever:runlaminar",
-      "url": "https://jobs.lever.co/runlaminar/1112d528-3de4-4be2-b889-faa7f80381b6/apply"
-    },
-    {
-      "company": "LangChain",
-      "ats": "ashby",
-      "board": "langchain",
-      "key": "ashby:langchain",
-      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6/application"
     },
     {
       "company": "Lanteris Space Systems",
@@ -701,25 +659,11 @@
       "url": "https://lifefitness.wd1.myworkdayjobs.com/searchlfn"
     },
     {
-      "company": "Liquid AI",
-      "ats": "ashby",
-      "board": "liquid-ai",
-      "key": "ashby:liquid-ai",
-      "url": "https://jobs.ashbyhq.com/liquid-ai/2bb55437-1799-4ea9-acc3-f5f86bb492e5/application"
-    },
-    {
       "company": "Lowe's",
       "ats": "workday",
       "board": "lws_external_cs",
       "key": "workday:lowes.wd5.myworkdayjobs.com/lws_external_cs",
       "url": "https://lowes.wd5.myworkdayjobs.com/lws_external_cs"
-    },
-    {
-      "company": "LTM",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:I0USbbqhYgK9ndSln3nb",
-      "url": "https://ltm.ripplehire.com/candidate/?token=I0USbbqhYgK9ndSln3nb&lang=en&source=jobright&ref=LI02#detail/job/900592"
     },
     {
       "company": "Mainstream Engineering",
@@ -729,7 +673,14 @@
       "url": "https://mainstreamengr.applicantpro.com/jobs/4240847"
     },
     {
-      "company": "Marigold USA, Inc.",
+      "company": "Manifest OS",
+      "ats": "ashby",
+      "board": "manifest-os",
+      "key": "ashby:manifest-os",
+      "url": "https://jobs.ashbyhq.com/manifest-os/9bca7707-d731-49d5-8176-4b42d04259b0"
+    },
+    {
+      "company": "Marigold",
       "ats": "workday",
       "board": "marigold",
       "key": "workday:campaignmonitor.wd5.myworkdayjobs.com/marigold",
@@ -771,11 +722,11 @@
       "url": "https://job-boards.greenhouse.io/memx/jobs/5450442008"
     },
     {
-      "company": "Meta",
+      "company": "Mesh",
       "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:2176819739360965",
-      "url": "https://www.metacareers.com/jobs/2176819739360965/?rx_campaign=jobright&rx_ch=connector&rx_group=126320&rx_id=21ebbf47-849b-11f1-944a-a55eebef4149&rx_job=a1KDp00000E1N1SMAV_1002&rx_medium=post&rx_r=none&rx_source=jobright&rx_vp=slots&utm_campaign=Job+board&utm_medium=jobs&utm_source=LIpaid"
+      "board": "mesh",
+      "key": "greenhouse:mesh",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=mesh&token=5308969008"
     },
     {
       "company": "Mind Moves",
@@ -796,7 +747,7 @@
       "ats": "greenhouse",
       "board": "mixpanel",
       "key": "greenhouse:mixpanel",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=mixpanel&token=8201470"
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=mixpanel&token=8162414"
     },
     {
       "company": "Moog",
@@ -804,13 +755,6 @@
       "board": "moog_external_career_site",
       "key": "workday:moog.wd5.myworkdayjobs.com/moog_external_career_site",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site"
-    },
-    {
-      "company": "Motional",
-      "ats": "greenhouse",
-      "board": "motional",
-      "key": "greenhouse:motional",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=motional&token=7994378003"
     },
     {
       "company": "Motorola Solutions",
@@ -834,6 +778,13 @@
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career"
     },
     {
+      "company": "NCR Voyix",
+      "ats": "workday",
+      "board": "ext_us",
+      "key": "workday:ncr.wd1.myworkdayjobs.com/ext_us",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us"
+    },
+    {
       "company": "Nestmed",
       "ats": "ashby",
       "board": "nestmed",
@@ -841,18 +792,25 @@
       "url": "https://jobs.ashbyhq.com/nestmed/3295edf1-a2d5-40f4-9edd-6fa68b1bca9d"
     },
     {
+      "company": "Netic",
+      "ats": "ashby",
+      "board": "netic",
+      "key": "ashby:netic",
+      "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application"
+    },
+    {
+      "company": "NiCE",
+      "ats": "greenhouse",
+      "board": "nice",
+      "key": "greenhouse:nice",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=nice&token=4999222101"
+    },
+    {
       "company": "Nissan",
       "ats": "workday",
       "board": "nissanjobs",
       "key": "workday:alliance.wd3.myworkdayjobs.com/nissanjobs",
       "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs"
-    },
-    {
-      "company": "Noble Machines",
-      "ats": "greenhouse",
-      "board": "undercontrolroboticsinc",
-      "key": "greenhouse:undercontrolroboticsinc",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=undercontrolroboticsinc&token=4163600009"
     },
     {
       "company": "Novita AI",
@@ -869,6 +827,13 @@
       "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc"
     },
     {
+      "company": "Nuro",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:7702403",
+      "url": "https://nuro.ai/careersitem?gh_jid=7702403"
+    },
+    {
       "company": "NVIDIA",
       "ats": "workday",
       "board": "nvidiaexternalcareersite",
@@ -876,28 +841,21 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite"
     },
     {
-      "company": "Orbis",
+      "company": "Optiver",
       "ats": "greenhouse",
-      "board": "orbisoperations",
-      "key": "greenhouse:orbisoperations",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=orbisoperations&token=4397489009"
+      "board": "optiverus",
+      "key": "greenhouse:optiverus",
+      "url": "https://job-boards.greenhouse.io/embed/job_app?for=optiverus&token=8802682002"
     },
     {
-      "company": "Panera Bread",
-      "ats": "workday",
-      "board": "panera_careers",
-      "key": "workday:panerabread.wd5.myworkdayjobs.com/panera_careers",
-      "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers"
+      "company": "Palantir Technologies",
+      "ats": "lever",
+      "board": "palantir",
+      "key": "lever:palantir",
+      "url": "https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c/apply"
     },
     {
-      "company": "Parker Hannifin",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:17254111",
-      "url": "https://parkercareers.ttcportals.com/jobs/17254111-applications-engineer"
-    },
-    {
-      "company": "Parsons Corporation",
+      "company": "Parsons",
       "ats": "workday",
       "board": "search",
       "key": "workday:parsons.wd5.myworkdayjobs.com/search",
@@ -916,13 +874,6 @@
       "board": "perfect-venue",
       "key": "ashby:perfect-venue",
       "url": "https://jobs.ashbyhq.com/perfect-venue/4a2e290f-e855-4e69-8196-002dbbb0600b"
-    },
-    {
-      "company": "Pindrop",
-      "ats": "greenhouse",
-      "board": "pindropsecurity",
-      "key": "greenhouse:pindropsecurity",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=pindropsecurity&token=8236612"
     },
     {
       "company": "Podium",
@@ -953,20 +904,6 @@
       "url": "https://prologis.wd5.myworkdayjobs.com/prologis_external_careers"
     },
     {
-      "company": "Pronto",
-      "ats": "greenhouse",
-      "board": "pronto",
-      "key": "greenhouse:pronto",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=pronto&token=8586715002"
-    },
-    {
-      "company": "Publicis Groupe",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:136365",
-      "url": "https://employees-publicisgroupe.icims.com/jobs/136365/agentic-solutions-developer/job?in_iframe=1"
-    },
-    {
       "company": "Publicis Groupe",
       "ats": "greenhouse",
       "board": "",
@@ -981,6 +918,13 @@
       "url": "https://employees-publicisgroupe.icims.com/jobs/174433/software-engineer/job?in_iframe=1"
     },
     {
+      "company": "Publicis Sapient",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:136365",
+      "url": "https://careers.publicisgroupe.com/jobs/136365"
+    },
+    {
       "company": "Quindar",
       "ats": "ashby",
       "board": "quindar",
@@ -988,18 +932,25 @@
       "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506"
     },
     {
-      "company": "Ramp",
+      "company": "Rainmaker Technology Corporation",
       "ats": "ashby",
-      "board": "ramp",
-      "key": "ashby:ramp",
-      "url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f/application"
+      "board": "rainmaker",
+      "key": "ashby:rainmaker",
+      "url": "https://jobs.ashbyhq.com/rainmaker/f8b481f8-35f7-486e-a7cf-fec7cbf41d0e"
     },
     {
-      "company": "Reflection",
-      "ats": "ashby",
-      "board": "reflectionai",
-      "key": "ashby:reflectionai",
-      "url": "https://jobs.ashbyhq.com/reflectionai/bf075674-ad6c-4ab6-aa30-f7c37c59e759/application"
+      "company": "Regeneron",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:regeneron.wd1.myworkdayjobs.com/careers",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/careers"
+    },
+    {
+      "company": "Relativity",
+      "ats": "workday",
+      "board": "external_career_site",
+      "key": "workday:kcura.wd1.myworkdayjobs.com/external_career_site",
+      "url": "https://kcura.wd1.myworkdayjobs.com/external_career_site"
     },
     {
       "company": "RELX",
@@ -1028,6 +979,20 @@
       "board": "robust-ai",
       "key": "lever:robust-ai",
       "url": "https://jobs.lever.co/robust-ai/7ebd6e84-e5fb-4677-91e2-423976f10d79/apply"
+    },
+    {
+      "company": "Rockwell Automation",
+      "ats": "workday",
+      "board": "external_rockwell_automation",
+      "key": "workday:rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation"
+    },
+    {
+      "company": "Root Access",
+      "ats": "ashby",
+      "board": "root-access",
+      "key": "ashby:root-access",
+      "url": "https://jobs.ashbyhq.com/root-access/a35e2e4e-1a13-48c7-8dd2-d4d80e5a722d"
     },
     {
       "company": "RTX",
@@ -1086,11 +1051,11 @@
       "url": "https://job-boards.greenhouse.io/skyryse/jobs/8275430"
     },
     {
-      "company": "SpaceXAI",
-      "ats": "greenhouse",
-      "board": "xai",
-      "key": "greenhouse:xai",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=xai&token=4803905007"
+      "company": "Snowflake",
+      "ats": "ashby",
+      "board": "snowflake",
+      "key": "ashby:snowflake",
+      "url": "https://jobs.ashbyhq.com/snowflake/88348d29-0ec4-475f-a54e-c6b247cbc6a8/application"
     },
     {
       "company": "SpotOn",
@@ -1121,13 +1086,6 @@
       "url": "https://www.governmentjobs.com/careers/sc/jobs/5502420"
     },
     {
-      "company": "Stripe",
-      "ats": "greenhouse",
-      "board": "stripe",
-      "key": "greenhouse:stripe",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=stripe&token=8224915"
-    },
-    {
       "company": "SUSE",
       "ats": "workday",
       "board": "jobsatsuse",
@@ -1142,13 +1100,6 @@
       "url": "https://tmobile.wd1.myworkdayjobs.com/External"
     },
     {
-      "company": "Tailscale",
-      "ats": "greenhouse",
-      "board": "tailscale",
-      "key": "greenhouse:tailscale",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=tailscale&token=4733183005"
-    },
-    {
       "company": "Tandem Diabetes Care",
       "ats": "workday",
       "board": "tandemdiabetes",
@@ -1161,13 +1112,6 @@
       "board": "taxo",
       "key": "ashby:taxo",
       "url": "https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d"
-    },
-    {
-      "company": "Tempus AI",
-      "ats": "workday",
-      "board": "tempus_careers",
-      "key": "workday:tempus.wd5.myworkdayjobs.com/tempus_careers",
-      "url": "https://tempus.wd5.myworkdayjobs.com/tempus_careers"
     },
     {
       "company": "The Washington Post",
@@ -1219,25 +1163,11 @@
       "url": "https://jobs.ashbyhq.com/tonicai/72dcd5fc-c6d5-4d2f-a2ba-6175aec66b51"
     },
     {
-      "company": "Trace3",
-      "ats": "greenhouse",
-      "board": "trace3",
-      "key": "greenhouse:trace3",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=trace3&token=596239"
-    },
-    {
       "company": "Trane Technologies",
       "ats": "workday",
       "board": "trane_technologies_careers",
       "key": "workday:tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers",
       "url": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers"
-    },
-    {
-      "company": "Travelers",
-      "ats": "workday",
-      "board": "external",
-      "key": "workday:travelers.wd5.myworkdayjobs.com/external",
-      "url": "https://travelers.wd5.myworkdayjobs.com/external"
     },
     {
       "company": "Twin Health",
@@ -1247,6 +1177,20 @@
       "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004"
     },
     {
+      "company": "U.S. Bank",
+      "ats": "workday",
+      "board": "us_bank_careers",
+      "key": "workday:usbank.wd1.myworkdayjobs.com/us_bank_careers",
+      "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers"
+    },
+    {
+      "company": "Uber",
+      "ats": "greenhouse",
+      "board": "en",
+      "key": "greenhouse:en",
+      "url": "https://jobs.uber.com/en/jobs/303284/"
+    },
+    {
       "company": "UFORCE",
       "ats": "ashby",
       "board": "uforce",
@@ -1254,18 +1198,11 @@
       "url": "https://jobs.ashbyhq.com/uforce/f20bb6b2-337f-4c21-b18c-799f2676d674"
     },
     {
-      "company": "University of Southern California",
-      "ats": "workday",
-      "board": "externalusccareers",
-      "key": "workday:usc.wd5.myworkdayjobs.com/externalusccareers",
-      "url": "https://usc.wd5.myworkdayjobs.com/externalusccareers"
-    },
-    {
-      "company": "Upstart",
+      "company": "Ulta Beauty",
       "ats": "greenhouse",
-      "board": "upstart",
-      "key": "greenhouse:upstart",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=upstart&token=7544233"
+      "board": "",
+      "key": "greenhouse-id:504048",
+      "url": "https://careers.ulta.com/jobs/504048"
     },
     {
       "company": "Vanguard",
@@ -1282,25 +1219,11 @@
       "url": "https://boards.greenhouse.io/vast/jobs/4718300006?gh_jid=4718300006"
     },
     {
-      "company": "Vectara",
-      "ats": "greenhouse",
-      "board": "vectara",
-      "key": "greenhouse:vectara",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=vectara&token=5165682008"
-    },
-    {
       "company": "Victaulic",
       "ats": "workday",
       "board": "victaulic_careers",
       "key": "workday:victaulic.wd1.myworkdayjobs.com/victaulic_careers",
       "url": "https://victaulic.wd1.myworkdayjobs.com/victaulic_careers"
-    },
-    {
-      "company": "Virtu Financial",
-      "ats": "greenhouse",
-      "board": "virtu",
-      "key": "greenhouse:virtu",
-      "url": "https://job-boards.greenhouse.io/embed/job_app?for=virtu&token=4261145002"
     },
     {
       "company": "Walker-Miller Energy Services",
@@ -1331,11 +1254,25 @@
       "url": "https://workiva.wd503.myworkdayjobs.com/careers"
     },
     {
+      "company": "Worldwide Clinical Trials",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:worldwide.wd1.myworkdayjobs.com/external",
+      "url": "https://worldwide.wd1.myworkdayjobs.com/external"
+    },
+    {
       "company": "Zoom",
       "ats": "greenhouse",
       "board": "explore",
       "key": "greenhouse:explore",
       "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519892109966400?domain=coloradowfx.gov"
+    },
+    {
+      "company": "Zoox",
+      "ats": "lever",
+      "board": "zoox",
+      "key": "lever:zoox",
+      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f/apply"
     }
   ]
 }
