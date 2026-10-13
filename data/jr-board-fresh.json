@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T03:31:07.598Z",
+  "fetchedAt": "2026-10-13T03:52:52.914Z",
   "days": 2,
   "leadCount": 79,
   "jobCount": 27,
@@ -40,13 +40,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:doordashusa",
+      "fetched": 463,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:gleanwork",
       "fetched": 134,
       "kept": 1
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 463,
+      "key": "greenhouse:stage",
+      "fetched": 130,
       "kept": 0
     },
     {
@@ -55,33 +60,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:trace3",
-      "fetched": 83,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:pronto",
       "fetched": 30,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:anthropic",
-      "fetched": 647,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:undercontrolroboticsinc",
-      "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:stage",
-      "fetched": 130,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:upstart",
-      "fetched": 87,
       "kept": 0
     },
     {
@@ -90,8 +70,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:pindropsecurity",
-      "fetched": 18,
+      "key": "greenhouse:trace3",
+      "fetched": 83,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:upstart",
+      "fetched": 87,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:undercontrolroboticsinc",
+      "fetched": 10,
       "kept": 0
     },
     {
@@ -100,13 +90,28 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:wehrtyou",
+      "fetched": 87,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:pindropsecurity",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:anthropic",
+      "fetched": 647,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:xai",
       "fetched": 307,
       "kept": 0
     },
     {
-      "key": "greenhouse:wehrtyou",
-      "fetched": 87,
+      "key": "greenhouse:drweng",
+      "fetched": 174,
       "kept": 0
     },
     {
@@ -115,23 +120,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:skyryse",
-      "fetched": 21,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:imc",
-      "fetched": 174,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:orbisoperations",
       "fetched": 17,
       "kept": 0
     },
     {
-      "key": "greenhouse:drweng",
-      "fetched": 174,
+      "key": "greenhouse:skyryse",
+      "fetched": 21,
       "kept": 0
     },
     {
@@ -150,8 +145,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:imc",
+      "fetched": 174,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:blend",
       "fetched": 15,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:podium81",
+      "fetched": 60,
       "kept": 0
     },
     {
@@ -165,23 +170,18 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:esri",
-      "fetched": 464,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:goatgroup",
       "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:asm",
-      "fetched": 479,
+      "key": "greenhouse:twinhealth",
+      "fetched": 43,
       "kept": 1
     },
     {
-      "key": "greenhouse:twinhealth",
-      "fetched": 43,
+      "key": "greenhouse:asm",
+      "fetched": 479,
       "kept": 1
     },
     {
@@ -195,23 +195,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stripe",
-      "fetched": 721,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:podium81",
-      "fetched": 60,
-      "kept": 0
+      "key": "greenhouse:esri",
+      "fetched": 464,
+      "kept": 1
     },
     {
       "key": "ashby:chalk",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:karman%20industries",
-      "fetched": 32,
       "kept": 0
     },
     {
@@ -220,8 +210,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:karman%20industries",
+      "fetched": 32,
+      "kept": 0
+    },
+    {
       "key": "ashby:reflectionai",
       "fetched": 46,
+      "kept": 0
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -230,33 +230,23 @@
       "kept": 1
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
-      "kept": 0
-    },
-    {
       "key": "ashby:decagon",
       "fetched": 141,
       "kept": 0
     },
     {
-      "key": "ashby:aureliussystems",
-      "fetched": 13,
-      "kept": 1
+      "key": "ashby:ramp",
+      "fetched": 166,
+      "kept": 0
+    },
+    {
+      "key": "ashby:liquid-ai",
+      "fetched": 22,
+      "kept": 0
     },
     {
       "key": "ashby:revel",
       "fetched": 28,
-      "kept": 0
-    },
-    {
-      "key": "ashby:ramp",
-      "fetched": 165,
-      "kept": 0
-    },
-    {
-      "key": "ashby:civilgrid",
-      "fetched": 6,
       "kept": 0
     },
     {
@@ -270,19 +260,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:novita-ai",
-      "fetched": 5,
+      "key": "ashby:tonicai",
+      "fetched": 2,
       "kept": 0
-    },
-    {
-      "key": "ashby:quindar",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "ashby:joinpogo",
-      "fetched": 11,
-      "kept": 1
     },
     {
       "key": "ashby:august",
@@ -290,33 +270,23 @@
       "kept": 0
     },
     {
-      "key": "ashby:spoton",
-      "fetched": 74,
+      "key": "ashby:novita-ai",
+      "fetched": 5,
       "kept": 0
     },
     {
-      "key": "ashby:tonicai",
-      "fetched": 2,
+      "key": "ashby:civilgrid",
+      "fetched": 6,
       "kept": 0
     },
     {
-      "key": "ashby:taxo",
-      "fetched": 8,
-      "kept": 3
-    },
-    {
-      "key": "ashby:mintmcp",
-      "fetched": 7,
+      "key": "ashby:aureliussystems",
+      "fetched": 13,
       "kept": 1
     },
     {
-      "key": "ashby:uforce",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:empirical-security",
-      "fetched": 8,
+      "key": "ashby:quindar",
+      "fetched": 20,
       "kept": 1
     },
     {
@@ -325,18 +295,43 @@
       "kept": 1
     },
     {
-      "key": "ashby:liquid-ai",
-      "fetched": 22,
+      "key": "ashby:joinpogo",
+      "fetched": 11,
+      "kept": 1
+    },
+    {
+      "key": "ashby:uforce",
+      "fetched": 17,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:stripe",
+      "fetched": 721,
+      "kept": 0
+    },
+    {
+      "key": "ashby:taxo",
+      "fetched": 8,
+      "kept": 3
+    },
+    {
+      "key": "ashby:spoton",
+      "fetched": 74,
+      "kept": 0
+    },
+    {
+      "key": "ashby:empirical-security",
+      "fetched": 8,
+      "kept": 1
+    },
+    {
+      "key": "ashby:mintmcp",
+      "fetched": 7,
+      "kept": 1
     },
     {
       "key": "lever:robust-ai",
       "fetched": 5,
-      "kept": 0
-    },
-    {
-      "key": "lever:agiloft",
-      "fetched": 16,
       "kept": 0
     },
     {
@@ -345,13 +340,18 @@
       "kept": 0
     },
     {
-      "key": "lever:exowatt",
-      "fetched": 14,
+      "key": "lever:runlaminar",
+      "fetched": 17,
       "kept": 0
     },
     {
-      "key": "lever:runlaminar",
-      "fetched": 17,
+      "key": "lever:agiloft",
+      "fetched": 16,
+      "kept": 0
+    },
+    {
+      "key": "lever:exowatt",
+      "fetched": 14,
       "kept": 0
     },
     {
@@ -375,14 +375,14 @@
       "kept": 0
     },
     {
-      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
       "key": "workday:countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateExternal",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
+      "fetched": 20,
+      "kept": 2
     },
     {
       "key": "workday:tempus.wd5.myworkdayjobs.com/tempus_careers",
@@ -442,14 +442,14 @@
       "board": "gelbergroup"
     },
     {
-      "title": "Software Development Engineer II - ArcGIS Enterprise ",
-      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
-      "company": "Esri",
-      "location": "Redlands, CA",
-      "postedAt": "2026-10-12T19:23:04.000Z",
+      "title": "Senior Platform Engineer, MarTech",
+      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004",
+      "company": "Twin Health",
+      "location": "Remote, USA",
+      "postedAt": "2026-10-12T18:57:52.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "esri"
+      "board": "twinhealth"
     },
     {
       "title": "Field Software Engineer",
@@ -462,16 +462,6 @@
       "board": "asm"
     },
     {
-      "title": "Senior Platform Engineer, MarTech",
-      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004",
-      "company": "Twin Health",
-      "location": "Remote, USA",
-      "postedAt": "2026-10-12T18:57:52.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "twinhealth"
-    },
-    {
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
       "company": "Datacor",
@@ -480,6 +470,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "datacor"
+    },
+    {
+      "title": "Software Development Engineer II - ArcGIS Enterprise ",
+      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "postedAt": "2026-10-12T19:23:04.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "esri"
     },
     {
       "title": "Software Engineer - Applied AI",
@@ -492,16 +492,6 @@
       "board": "titan-msp"
     },
     {
-      "title": "Robotics Software Engineer ",
-      "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac",
-      "company": "Aurelius Systems",
-      "location": "San Francisco · Detroit · United States",
-      "postedAt": "2026-10-12T20:31:01.404Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "aureliussystems"
-    },
-    {
       "title": "Software Engineer, AI & Automation",
       "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
       "company": "Flossy",
@@ -512,6 +502,16 @@
       "board": "flossy"
     },
     {
+      "title": "Robotics Software Engineer ",
+      "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac",
+      "company": "Aurelius Systems",
+      "location": "San Francisco · Detroit · United States",
+      "postedAt": "2026-10-12T20:31:01.404Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aureliussystems"
+    },
+    {
       "title": "Full Stack Engineer ",
       "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506",
       "company": "Quindar",
@@ -520,6 +520,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "quindar"
+    },
+    {
+      "title": "ML Engineer, Behavior Planning",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
+      "company": "Aurora Innovation, Inc.",
+      "location": "Mountain View, CA",
+      "postedAt": "2026-10-12T18:47:14.021Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "aurora-operations-inc"
     },
     {
       "title": "Full Stack Engineer",
@@ -563,16 +573,6 @@
     },
     {
       "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292",
-      "company": "MintMCP",
-      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
-      "postedAt": "2026-10-12T14:13:47.674Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mintmcp"
-    },
-    {
-      "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8",
       "company": "Empirical Security",
       "location": "Remote",
@@ -582,14 +582,14 @@
       "board": "empirical-security"
     },
     {
-      "title": "ML Engineer, Behavior Planning",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb",
-      "company": "Aurora Innovation, Inc.",
-      "location": "Mountain View, CA",
-      "postedAt": "2026-10-12T18:47:14.021Z",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292",
+      "company": "MintMCP",
+      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
+      "postedAt": "2026-10-12T14:13:47.674Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "aurora-operations-inc"
+      "board": "mintmcp"
     },
     {
       "title": "Senior Cloud Platform Engineer — Architecture Foundry",
