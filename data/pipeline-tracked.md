@@ -144,4 +144,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6 | fal | Software Engineer, Applied Machine Learning | San Francisco | posted: 2026-10-13
 
+- [ ] https://jobs.ashbyhq.com/clera/b73a1940-f763-42e8-9419-247f3a7028df | Clera | Founding Software Engineer | San Francisco | posted: 2026-10-13
+
 ## Processed
