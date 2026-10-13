@@ -1,11 +1,47 @@
 {
-  "fetchedAt": "2026-10-12T21:49:43.055Z",
+  "fetchedAt": "2026-10-13T03:02:19.574Z",
   "provider": "nextplay",
   "window": "72h",
   "pagesFetched": 15,
-  "total": 33061,
-  "count": 925,
+  "total": 33097,
+  "count": 927,
   "jobs": [
+    {
+      "url": "https://job-boards.greenhouse.io/suki/jobs/7846994003",
+      "company": "Suki",
+      "title": "Senior SDET (Full Stack)",
+      "location": "Bangalore",
+      "postedAt": 1791851266158,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "7",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Greenhouse"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/suki/jobs/7701264003",
+      "company": "Suki",
+      "title": "Senior Director, Platform Products",
+      "location": "Redwood City",
+      "postedAt": 1791851266131,
+      "salary": "USD300000–USD350000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "12",
+      "summary": "",
+      "tools": [
+        "product",
+        "leadership",
+        "strategy"
+      ],
+      "company_tagline": "",
+      "ats_source": "Greenhouse"
+    },
     {
       "url": "https://jobs.ashbyhq.com/volta/8fbcd6f0-3d6f-4035-88cd-217f19f0f1b9",
       "company": "Volta",
@@ -1797,7 +1833,7 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/doppel/1144603c-07da-48b9-b838-da27ebbd2f1b",
+      "url": "https://jobs.ashbyhq.com/Doppel/1144603c-07da-48b9-b838-da27ebbd2f1b",
       "company": "Doppel",
       "title": "Software Engineer, Email",
       "location": "San Francisco, New York or Toronto, ON",
@@ -3765,23 +3801,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836",
-      "company": "Relay",
-      "title": "Software Engineering Intern (Device Team)",
-      "location": "Raleigh",
-      "postedAt": 1791160059562,
-      "salary": "",
-      "workplace": "",
-      "commitment": "internship",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Greenhouse"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b",
       "company": "Pangram Labs",
       "title": "AI Research Intern",
@@ -3834,6 +3853,23 @@
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
+    },
+    {
+      "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836",
+      "company": "Relay",
+      "title": "Software Engineering Intern (Device Team)",
+      "location": "Raleigh",
+      "postedAt": 1791073897542,
+      "salary": "",
+      "workplace": "",
+      "commitment": "internship",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Greenhouse"
     },
     {
       "url": "https://jobs.ashbyhq.com/solstice/9a460a22-b57f-4dd2-be01-bdb4636a9cae",
