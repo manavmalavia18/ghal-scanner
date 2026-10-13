@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T21:02:22.632Z",
+  "fetchedAt": "2026-10-13T21:23:46.239Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 264,
+  "companyCount": 263,
   "companies": [
     {
       "company": "7-Eleven",
@@ -1217,13 +1217,6 @@
       "board": "novita-ai",
       "key": "ashby:novita-ai",
       "url": "https://jobs.ashbyhq.com/novita-ai/0d9d673e-0753-4a38-bbf2-4ec019a0b26e"
-    },
-    {
-      "company": "Nox Metals",
-      "ats": "ashby",
-      "board": "nox-metals",
-      "key": "ashby:nox-metals",
-      "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc"
     },
     {
       "company": "Nuro",
