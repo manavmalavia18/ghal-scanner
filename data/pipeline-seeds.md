@@ -405,4 +405,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2 | elevenlabs | Full-Stack Engineer - Enterprise | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-12
 - [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5447961008 | robotsandpencils | AI Engineer | US Remote | posted: 2026-10-08
 
+- [ ] https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097 | substack | Software Engineer - Payments | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/truelogic/05413be9-3da6-4146-82ca-4cfc1d4a047b | truelogic | Mid-level Platform Engineer - Media Production | Brazil · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/truelogic/cdd308fa-5cce-4cc8-9c2f-d178b3c52cb2 | truelogic | Mid-level Platform Engineer - Media Production | LatAm · Remote | posted: 2026-10-13
+- [ ] https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815 | justworks | Associate Software Engineer, Frontend | New York, New York | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8138486 | doordashusa | Software Engineer, Backend (All Teams) | San Francisco, CA; New York City, NY; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/minitab/jobs/8030958003 | minitab | DevOps Engineer | State College, Pennsylvania, United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | supabase | Platform Engineer - Compute | Remote, Global | posted: 2026-10-13
+- [ ] https://gruve.ai/careers/?gh_jid=5434249008 | gruve | Junior Full Stack Developer | USA (Remote) | posted: 2026-10-13
+- [ ] https://partnerize.com/company/jobs/?gh_jid=8014644003 | partnerize | Site Reliability Engineer - Fully Remote | Remote - Philadelphia, PA | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/openai/70042d81-4db6-4c5c-bdb2-76c133ee2917 | openai | Machine Learning Engineer, Growth | San Francisco | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651 | elevenlabs | Full-Stack Engineer - Productions | Remote · Dublin · Ireland · Denmark · United Kingdom · Stockholm · Sweden · London · Amsterdam · Netherlands · Berlin · Germany | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096 | elevenlabs | Full-Stack Engineer - ElevenMusic | Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/mapbox/2bf46c4a-088e-4433-93f5-a2c522cd5cfe | mapbox | Machine Learning Engineer III, Routing Cost | Mapbox Poland · Remote | posted: 2026-10-13
+- [ ] https://jobs.lever.co/crypto/104efd49-475b-4e42-8804-5d728db9fe74 | crypto | AI Engineer, Trading Ops & Management | New York | posted: 2026-10-09
+
 ## Processed
