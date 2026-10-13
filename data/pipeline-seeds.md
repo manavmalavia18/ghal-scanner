@@ -388,4 +388,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11 | titan-msp | Software Engineer - Applied AI | San Francisco · New York City · United States | posted: 2026-10-12
 - [ ] https://www.asm.com/open-vacancies/?gh_jid=4966075101 | asm | Field Software Engineer | US > Arizona > Chandler | posted: 2026-10-12
 
+- [ ] https://jobs.ashbyhq.com/pennylane/18f252a7-7b19-44b6-b175-6dfcaea8b2e8 | pennylane | Fullstack Software Engineer RoR/JS W/M | All France (remote) | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7 | elevenlabs | Site Reliability Engineer | London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote | posted: 2026-10-13
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8259402?gh_jid=8259402 | cloudflare | Software Engineer, AI Agents | In-Office · Remote India | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/alan/2dc99c53-9cc7-4c3f-a682-1f79bfa38ce6 | alan | Fullstack Software Engineer (x/f/m) -Automated Resolution | Anywhere in France, Belgium, Spain | posted: 2026-10-13
+
 ## Processed
