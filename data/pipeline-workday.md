@@ -84,4 +84,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-1 | hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-1 | hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
 
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-1_R22748 | wexinc | Software Development Engineer 1 | India - Remote | posted: 2026-10-13
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/India---Remote/Software-Development-Engineer-1_R22747-1 | wexinc | Software Development Engineer 1 | India - Remote | posted: 2026-10-13
+- [ ] https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Platform-Engineer_R-003161-1 | dtn | Platform Engineer | 2 Locations | posted: 2026-10-13
+- [ ] https://ameriprise.wd5.myworkdayjobs.com/ameriprise/job/Boston-Massachusetts/Sr-Software-Engineer_R26_3587 | ameriprise | Sr Software Engineer | Boston, Massachusetts | posted: 2026-10-13
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Azusa/Software-Engineer---Level-2--Active-SCI-_R10255704 | ngc | Software Engineer - Level 2 (Active SCI) | United States-California-Azusa | posted: 2026-10-12
+
 ## Processed
