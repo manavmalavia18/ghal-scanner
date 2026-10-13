@@ -416,3 +416,11 @@
 - [ ] https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e | elevenlabs | Full-Stack Engineer (Backend-Leaning) - CoreMusic | Remote · New York · New York City · United States · Brazil · Paris · Poland · London · United Kingdom · Amsterdam · Netherlands · Canada | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2 | elevenlabs | Full-Stack Engineer - Ads Engine | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2 | elevenlabs | Full-Stack Engineer - ElevenAPI | United Kingdom · United States · Poland · Bulgaria · Remote | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651 | elevenlabs | Full-Stack Engineer - Productions | Remote · Dublin · Ireland · Denmark · United Kingdom · Stockholm · Sweden · London · Amsterdam · Netherlands · Berlin · Germany | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096 | elevenlabs | Full-Stack Engineer - ElevenMusic | Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/mapbox/2bf46c4a-088e-4433-93f5-a2c522cd5cfe | mapbox | Machine Learning Engineer III, Routing Cost | Mapbox Poland · Remote | posted: 2026-10-13
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8245633 | toast | Software Engineer II, Developer Experience | Remote, US | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/onetrust/jobs/8244284 | onetrust | Full Stack Web Developer | Atlanta, Georgia | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009 | nimblerobotics | Software Engineer III, Cloud | San Francisco, CA | posted: 2026-10-13
