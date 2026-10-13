@@ -138,4 +138,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | Boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Missouri---Springfield/Software-Development-Engineer-III_R-110564-1 | Expedia | Software Development Engineer III | USA - Missouri - Springfield | posted: 2026-10-13
 
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947 | Aveva | Software Developer Graduate (AI Proficient) USA | 4 Locations | posted: 2026-10-13
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000155364528 | ServiceNow | Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0 | Column | Software Engineer (Travel Heavy) | San Francisco, CA | posted: 2026-10-13
+
 ## Processed
