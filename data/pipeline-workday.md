@@ -127,4 +127,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II---Full-Stack---AI_R-292355 | mastercard | Software Engineer II - Full Stack & AI | O'Fallon, Missouri | posted: 2026-10-13
 - [ ] https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Web-Developer--IT--Technology-Center_JR3827 | acs | Web Developer, IT, Technology Center | Atlanta, Georgia | posted: 2026-10-13
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-292491 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-13
+- [ ] https://cree.wd108.myworkdayjobs.com/ext/job/Marcy-New-York/Manufacturing-Equipment-Technician-Metrology--Front-End-Days-_26-777 | cree | Manufacturing Equipment Technician Metrology (Front-End Days) | Marcy, New York | posted: 2026-10-13
+
 ## Processed
