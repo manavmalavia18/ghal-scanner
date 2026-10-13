@@ -450,3 +450,5 @@
 
 - [ ] https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0 | adaptivesecurity | Founding Machine Learning Engineer | NYC | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3 | adaptivesecurity | Software Engineer, Product & Platform | NYC | posted: 2026-10-13
+
+- [ ] https://careers.gofasti.com/job-application/6223500004?gh_jid=6223500004 | gofasti | 1165 - Shopify Software Developer | Remote · FABR | posted: 2026-10-13
