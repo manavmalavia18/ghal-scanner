@@ -164,4 +164,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947 | aveva | Software Developer Graduate (AI Proficient) USA | 4 Locations | posted: 2026-10-13
 - [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer-III--Data-Platform-Operations---Remote_R8040 | aaaie | Software Engineer III, Data Platform Operations - Remote | Arizona - Home Teleworkers | posted: 2026-10-13
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Software-Developer_01880561 | globalhr | Software Developer | US-CT-REMOTE | posted: 2026-10-13
+
 ## Processed
