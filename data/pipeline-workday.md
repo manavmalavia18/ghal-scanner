@@ -145,4 +145,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Remote-USA/Software-Engineer-III_R-100604 | csiweb | Software Engineer III (C++) | Remote, USA | posted: 2026-10-13
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4_R1001442-1 | capitalone | AI Engineer 4 | 4 Locations | posted: 2026-10-13
 
+- [ ] https://rb.wd5.myworkdayjobs.com/frs/job/New-York-NY/Software-Developer--Java-Calypso-AWS_R-0000033674 | rb | Software Developer: Java/Calypso/AWS | New York, NY | posted: 2026-10-13
+
 ## Processed
