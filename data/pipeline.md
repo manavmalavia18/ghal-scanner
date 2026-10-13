@@ -434,3 +434,7 @@
 - [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | supabase | Platform Engineer - Compute | Remote, Global | posted: 2026-10-13
 
 - [ ] https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815 | justworks | Associate Software Engineer, Frontend | New York, New York | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097 | substack | Software Engineer - Payments | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/truelogic/05413be9-3da6-4146-82ca-4cfc1d4a047b | truelogic | Mid-level Platform Engineer - Media Production | Brazil · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/truelogic/cdd308fa-5cce-4cc8-9c2f-d178b3c52cb2 | truelogic | Mid-level Platform Engineer - Media Production | LatAm · Remote | posted: 2026-10-13
