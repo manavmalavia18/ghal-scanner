@@ -123,4 +123,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576-1 | Hpe | Software Engineer II - Network Test Engineer | Sunnyvale, California, United States of America | posted: 2026-10-13
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-1 | Boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8247182 | Twilio | Software Engineer (L2) Messaging Channels Team | Remote - US | posted: 2026-10-13
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1 | Entrust | Software Engineer II – Full Stack (Java & React) | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285 | Entrust | Software Developer II – Java | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
+
 ## Processed
