@@ -36,4 +36,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f | Zoox | Machine Learning Engineer - 3D Sensor Simulation | Foster City, CA; Seattle, WA | posted: 2026-10-12
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/HCM-Cloud-Platform---DevOps-Engineer_333467 | CACI | HCM Cloud Platform & DevOps Engineer | Remote (Any State) | posted: 2026-10-12
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-2 | Hewlett Packard Enterprise | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-2 | Hewlett Packard Enterprise | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110488 | Expedia | Software Development Engineer II | Washington - Seattle Campus | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-1 | Hpe | HPE Factory Build Process -DevID Software Engineer | All, Illinois, United States of America | posted: 2026-10-13
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-1 | Hpe | HPE Factory Build Process -DevID Software Engineer: Quality Analysis | Ft. Collins, Colorado, United States of America | posted: 2026-10-13
+
 ## Processed
