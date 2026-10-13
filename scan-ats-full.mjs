@@ -668,6 +668,10 @@ async function main() {
   // all, since its postings would all be dropped as undated below anyway.
   const ctx = { ...makeHttpCtx(), sinceMs: cutoff, includeUndated: opts.includeUndated };
   const date = new Date().toISOString().slice(0, 10);
+  // Precise timestamp for scan-history's first_seen column (see scan.mjs's
+  // nowIso for the full rationale) — `date` stays day-only for the log
+  // header and markdown digest filename below.
+  const nowIso = new Date().toISOString();
 
   // Same defensive default as completedSources/counters below: a version-1
   // checkpoint that lost its offers array would otherwise set this to undefined
@@ -1020,7 +1024,7 @@ async function main() {
       writeFileSync(PIPELINE_PATH, '# Pipeline\n\n## Pendientes\n', 'utf-8');
     }
     await appendToPipeline(offers);
-    appendToScanHistory(offers, date);
+    appendToScanHistory(offers, nowIso);
     saved = true;
     log(`\nResults saved to ${PIPELINE_PATH} and data/scan-history.tsv`);
 

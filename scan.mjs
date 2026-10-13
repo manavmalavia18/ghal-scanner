@@ -918,10 +918,16 @@ const PERMANENT_SCAN_HISTORY_STATUSES = new Set([
 ]);
 
 function daysBetweenIsoDates(start, end) {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(start) || !/^\d{4}-\d{2}-\d{2}$/.test(end)) return null;
-  const startDate = new Date(`${start}T00:00:00Z`);
-  const endDate = new Date(`${end}T00:00:00Z`);
-  if (startDate.toISOString().slice(0, 10) !== start || endDate.toISOString().slice(0, 10) !== end) return null;
+  // Accept either a plain YYYY-MM-DD (legacy scan-history rows) or a full
+  // ISO timestamp (precise first_seen written for discovery-ordering) by
+  // comparing on date-only granularity either way — age-based recheck never
+  // needed sub-day precision, only the display/sort layer does.
+  const startDateOnly = String(start || '').slice(0, 10);
+  const endDateOnly = String(end || '').slice(0, 10);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(startDateOnly) || !/^\d{4}-\d{2}-\d{2}$/.test(endDateOnly)) return null;
+  const startDate = new Date(`${startDateOnly}T00:00:00Z`);
+  const endDate = new Date(`${endDateOnly}T00:00:00Z`);
+  if (startDate.toISOString().slice(0, 10) !== startDateOnly || endDate.toISOString().slice(0, 10) !== endDateOnly) return null;
   return Math.floor((endDate - startDate) / (1000 * 60 * 60 * 24));
 }
 
@@ -2144,6 +2150,14 @@ async function main() {
 
   // 5. Fetch from each target
   const date = new Date().toISOString().slice(0, 10);
+  // Separate precise timestamp for scan-history's first_seen column — date
+  // alone (above) stays day-granularity for cooldown-window math, but a
+  // day-only first_seen made every job discovered the same day sort as
+  // "midnight today" regardless of actual discovery time, burying later
+  // same-day discoveries from hour-precision sources (HiringCafe/NextPlay)
+  // below earlier ones from this TSV pipeline even when this run found them
+  // more recently. See appendToScanHistory call sites below.
+  const nowIso = new Date().toISOString();
   const windows = loadReApplyWindows();
   const cooldownFilter = buildCooldownFilter(windows, date);
   let totalFilteredCooldown = 0;
@@ -2355,7 +2369,7 @@ async function main() {
   // 6. Write results
   if (!dryRun && verifiedOffers.length > 0) {
     await appendToPipeline(verifiedOffers);
-    appendToScanHistory(verifiedOffers, date);
+    appendToScanHistory(verifiedOffers, nowIso);
   }
   if (!dryRun && cooldownOffers.length > 0) {
     const cooldownGroups = {};
@@ -2366,7 +2380,7 @@ async function main() {
       cooldownGroups[item.status].push(item.job);
     }
     for (const [status, group] of Object.entries(cooldownGroups)) {
-      appendToScanHistory(group, date, status);
+      appendToScanHistory(group, nowIso, status);
     }
   }
   // Expired postings — plus the old URLs of migrated offers — are recorded as
@@ -2376,12 +2390,12 @@ async function main() {
     ...migratedOffers.map(o => ({ ...o, url: o.previousUrl })),
   ];
   if (!dryRun && expiredForHistory.length > 0) {
-    appendToScanHistory(expiredForHistory, date, 'skipped_expired');
+    appendToScanHistory(expiredForHistory, nowIso, 'skipped_expired');
   }
   // Pages that loaded but had no Apply control: record so we don't re-verify
   // them next scan, but never let them reach pipeline.md.
   if (!dryRun && droppedOffers.length > 0) {
-    appendToScanHistory(droppedOffers, date, 'skipped_no_apply_control');
+    appendToScanHistory(droppedOffers, nowIso, 'skipped_no_apply_control');
   }
   // Guard-rejected URLs (invalid / unsupported protocol / blocked host) are
   // recorded with a precise status so subsequent scans dedup-skip them via
@@ -2395,7 +2409,7 @@ async function main() {
       byStatus.get(status).push(o);
     }
     for (const [status, group] of byStatus) {
-      appendToScanHistory(group, date, status);
+      appendToScanHistory(group, nowIso, status);
     }
   }
 
