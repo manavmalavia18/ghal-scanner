@@ -106,4 +106,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Software-Engineer_44846 | guidehouse | Software Engineer | US - DC, Washington | posted: 2026-10-13
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1003498-1 | capitalone | AI Engineer 4 (Gen AI Platform Services) | 5 Locations | posted: 2026-10-13
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1 | boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382 | boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | posted: 2026-10-13
+
 ## Processed
