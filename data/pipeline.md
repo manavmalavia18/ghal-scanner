@@ -404,3 +404,5 @@
 - [ ] https://job-boards.greenhouse.io/techholding/jobs/4743075005 | techholding | Software Engineer, Spec-Driven AI Development / Contract / Remote, MX | Mexico, Remote | posted: 2026-10-13
 - [ ] https://job-boards.greenhouse.io/techholding/jobs/4743066005 | techholding | Machine Learning Engineer / Contract / Remote | USA, Remote | posted: 2026-10-12
 - [ ] https://job-boards.greenhouse.io/techholding/jobs/4743067005 | techholding | Machine Learning Engineer / Contract / Remote, MX | Mexico, Remote | posted: 2026-10-12
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7 | elevenlabs | Site Reliability Engineer | London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote | posted: 2026-10-13
