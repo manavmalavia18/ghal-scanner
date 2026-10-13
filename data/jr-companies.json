@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T19:12:30.557Z",
+  "fetchedAt": "2026-10-13T19:34:35.806Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 222,
+  "companyCount": 239,
   "companies": [
     {
       "company": "7-Eleven",
@@ -183,6 +183,13 @@
       "url": "https://jobs.lever.co/azul/391104c1-f03c-47f7-8ff0-473cefaa1d84"
     },
     {
+      "company": "Base Power Company",
+      "ats": "ashby",
+      "board": "base-power",
+      "key": "ashby:base-power",
+      "url": "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63"
+    },
+    {
       "company": "Benchling",
       "ats": "ashby",
       "board": "benchling",
@@ -195,6 +202,13 @@
       "board": "berkadia",
       "key": "workday:berkadia.wd1.myworkdayjobs.com/berkadia",
       "url": "https://berkadia.wd1.myworkdayjobs.com/berkadia"
+    },
+    {
+      "company": "Binance.US",
+      "ats": "ashby",
+      "board": "binance.us",
+      "key": "ashby:binance.us",
+      "url": "https://jobs.ashbyhq.com/binance.us/022510b5-3654-44c0-b573-e2c6209c778c"
     },
     {
       "company": "Biodesix",
@@ -288,6 +302,13 @@
       "url": "https://canvasinc.wd108.myworkdayjobs.com/canvas"
     },
     {
+      "company": "Capital One",
+      "ats": "workday",
+      "board": "capital_one",
+      "key": "workday:capitalone.wd12.myworkdayjobs.com/capital_one",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/capital_one"
+    },
+    {
       "company": "Caterpillar Inc.",
       "ats": "workday",
       "board": "caterpillarcareers",
@@ -300,6 +321,13 @@
       "board": "external_career_cboe",
       "key": "workday:cboe.wd1.myworkdayjobs.com/external_career_cboe",
       "url": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe"
+    },
+    {
+      "company": "Cencora",
+      "ats": "workday",
+      "board": "global",
+      "key": "workday:myhrabc.wd5.myworkdayjobs.com/global",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/global"
     },
     {
       "company": "Cenovus Energy",
@@ -386,6 +414,13 @@
       "url": "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers"
     },
     {
+      "company": "CoStar Group",
+      "ats": "workday",
+      "board": "costarcareers",
+      "key": "workday:costar.wd1.myworkdayjobs.com/costarcareers",
+      "url": "https://costar.wd1.myworkdayjobs.com/costarcareers"
+    },
+    {
       "company": "Curaleaf",
       "ats": "greenhouse",
       "board": "curaleaf",
@@ -400,11 +435,25 @@
       "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
     },
     {
+      "company": "Danaher Corporation",
+      "ats": "workday",
+      "board": "danaherjobs",
+      "key": "workday:danaher.wd1.myworkdayjobs.com/danaherjobs",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs"
+    },
+    {
       "company": "Datacor, Inc.",
       "ats": "greenhouse",
       "board": "datacor",
       "key": "greenhouse:datacor",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=datacor&token=5257433007"
+    },
+    {
+      "company": "DaVita",
+      "ats": "workday",
+      "board": "dkc_external",
+      "key": "workday:davita.wd1.myworkdayjobs.com/dkc_external",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external"
     },
     {
       "company": "DoorDash",
@@ -547,6 +596,13 @@
       "url": "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers"
     },
     {
+      "company": "Figma",
+      "ats": "greenhouse",
+      "board": "figma",
+      "key": "greenhouse:figma",
+      "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
+    },
+    {
       "company": "Flex",
       "ats": "workday",
       "board": "careers",
@@ -629,6 +685,13 @@
       "board": "gleanwork",
       "key": "greenhouse:gleanwork",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=gleanwork&token=4742953005"
+    },
+    {
+      "company": "Globus Medical",
+      "ats": "workday",
+      "board": "gmed_careers",
+      "key": "workday:globusmedical.wd5.myworkdayjobs.com/gmed_careers",
+      "url": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers"
     },
     {
       "company": "GOAT Group",
@@ -794,16 +857,16 @@
     {
       "company": "KLA Corporation",
       "ats": "workday",
-      "board": "ur",
-      "key": "workday:kla.wd1.myworkdayjobs.com/ur",
-      "url": "https://kla.wd1.myworkdayjobs.com/ur"
+      "board": "search",
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "url": "https://kla.wd1.myworkdayjobs.com/search"
     },
     {
       "company": "KLA Corporation",
       "ats": "workday",
-      "board": "search",
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
-      "url": "https://kla.wd1.myworkdayjobs.com/search"
+      "board": "ur",
+      "key": "workday:kla.wd1.myworkdayjobs.com/ur",
+      "url": "https://kla.wd1.myworkdayjobs.com/ur"
     },
     {
       "company": "Kohl's",
@@ -1051,6 +1114,13 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite"
     },
     {
+      "company": "OpenEye",
+      "ats": "greenhouse",
+      "board": "openeye",
+      "key": "greenhouse:openeye",
+      "url": "https://job-boards.greenhouse.io/openeye/jobs/8884038002"
+    },
+    {
       "company": "Optiver",
       "ats": "greenhouse",
       "board": "optiverus",
@@ -1135,6 +1205,13 @@
       "url": "https://priorityoneinc.wd1.myworkdayjobs.com/priority1"
     },
     {
+      "company": "Procter & Gamble",
+      "ats": "workday",
+      "board": "1000",
+      "key": "workday:pg.wd5.myworkdayjobs.com/1000",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000"
+    },
+    {
       "company": "Prologis",
       "ats": "workday",
       "board": "prologis_external_careers",
@@ -1182,6 +1259,13 @@
       "board": "rainmaker",
       "key": "ashby:rainmaker",
       "url": "https://jobs.ashbyhq.com/rainmaker/f8b481f8-35f7-486e-a7cf-fec7cbf41d0e"
+    },
+    {
+      "company": "Rainmaker Technology Corporation",
+      "ats": "lever",
+      "board": "make-rain",
+      "key": "lever:make-rain",
+      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521"
     },
     {
       "company": "Regeneron",
@@ -1359,6 +1443,13 @@
       "url": "https://www.governmentjobs.com/careers/sc/jobs/5502420"
     },
     {
+      "company": "State Street",
+      "ats": "workday",
+      "board": "global",
+      "key": "workday:statestreet.wd1.myworkdayjobs.com/global",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/global"
+    },
+    {
       "company": "Surescripts",
       "ats": "workday",
       "board": "surescriptscareers",
@@ -1392,6 +1483,20 @@
       "board": "taxo",
       "key": "ashby:taxo",
       "url": "https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d"
+    },
+    {
+      "company": "The Baldwin Group",
+      "ats": "workday",
+      "board": "baldwin",
+      "key": "workday:baldwin.wd1.myworkdayjobs.com/baldwin",
+      "url": "https://baldwin.wd1.myworkdayjobs.com/baldwin"
+    },
+    {
+      "company": "The Home Depot",
+      "ats": "workday",
+      "board": "careerdepot",
+      "key": "workday:homedepot.wd5.myworkdayjobs.com/careerdepot",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot"
     },
     {
       "company": "The Washington Post",
@@ -1492,6 +1597,13 @@
       "url": "https://careers.ulta.com/jobs/504048"
     },
     {
+      "company": "University of Arkansas System",
+      "ats": "workday",
+      "board": "uasys",
+      "key": "workday:uasys.wd5.myworkdayjobs.com/uasys",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uasys"
+    },
+    {
       "company": "Vanguard",
       "ats": "workday",
       "board": "vanguard_external",
@@ -1504,6 +1616,13 @@
       "board": "vast",
       "key": "greenhouse:vast",
       "url": "https://boards.greenhouse.io/vast/jobs/4718300006?gh_jid=4718300006"
+    },
+    {
+      "company": "Vestmark",
+      "ats": "greenhouse",
+      "board": "vestmark",
+      "key": "greenhouse:vestmark",
+      "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
     },
     {
       "company": "Victaulic",
