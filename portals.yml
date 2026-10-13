@@ -126,6 +126,8 @@ title_filter:
     - LLM
   negative:
     - Senior
+    - Sr.
+    - 'Sr '
     - Staff
     - Principal
     - Distinguished
