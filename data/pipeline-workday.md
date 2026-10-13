@@ -124,4 +124,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Engineer--Associate-or-Experienced-_JR2026523054 | boeing | Software Engineer (Associate or Experienced) | USA - Colorado Springs, CO | posted: 2026-10-13
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Systems-Software-Engineer--Associate-or-Experienced-_JR2026525892 | boeing | Systems Software Engineer (Associate or Experienced) | 3 Locations | posted: 2026-10-13
 
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II---Full-Stack---AI_R-292355 | mastercard | Software Engineer II - Full Stack & AI | O'Fallon, Missouri | posted: 2026-10-13
+- [ ] https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Web-Developer--IT--Technology-Center_JR3827 | acs | Web Developer, IT, Technology Center | Atlanta, Georgia | posted: 2026-10-13
+
 ## Processed
