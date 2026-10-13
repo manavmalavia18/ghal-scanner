@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T10:44:27.065Z",
+  "fetchedAt": "2026-10-13T11:06:19.957Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 181,
+  "companyCount": 182,
   "companies": [
     {
       "company": "Accenture",
@@ -545,6 +545,13 @@
       "board": "jobsathpe",
       "key": "workday:hpe.wd5.myworkdayjobs.com/jobsathpe",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "ats": "workday",
+      "board": "wfmathpe",
+      "key": "workday:hpe.wd5.myworkdayjobs.com/wfmathpe",
+      "url": "https://hpe.wd5.myworkdayjobs.com/wfmathpe"
     },
     {
       "company": "Hex",
