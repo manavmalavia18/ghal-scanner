@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T15:33:54.616Z",
+  "fetchedAt": "2026-10-13T15:55:12.409Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -9,11 +9,11 @@
     "software engineer"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 10,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": null
+    "software engineer": 648
   },
   "count": 487,
   "jobs": [
@@ -2692,10 +2692,10 @@
         "R",
         "C#",
         "JavaScript",
-        "ArcGIS"
+        "GeoAI"
       ],
-      "company_tagline": "A global leader in GIS technology, creating positive change through mapping and spatial analysis.",
-      "ats_source": "adhoc"
+      "company_tagline": "A global leader in GIS technology and spatial analysis software.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Platform & Data Engineer",
@@ -2979,23 +2979,23 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "2+ YOE",
-      "summary": "2+ years experience developing middleware with Java, Servlets, JSP; knowledge of cloud platforms (AWS, Azure), relational databases, web services (REST, SOAP), debugging tools, and source control; Bachelor's degree in math, computer science, physics or related field.",
+      "summary": "2+ years developing middleware with Java, JavaEE, JSP; cloud platforms AWS/Azure; relational databases; REST/SOAP; debugging tools; source control; Bachelor's in math, computer science, physics or related field.",
       "tools": [
         "Java",
         "JavaEE",
         "JSP",
-        "Servlets",
         "AWS",
         "Azure",
         "Amazon S3",
-        "Amazon SQS",
-        "Amazon EC2",
-        "Azure Blob Service",
-        "Azure Table Service",
-        "SQL Server"
+        "SQS",
+        "EC2",
+        "Blob Service",
+        "Table Service",
+        "SQL Server",
+        "Oracle"
       ],
-      "company_tagline": "A global leader in GIS technology, providing mapping and analytics software to customers worldwide.",
-      "ats_source": "adhoc"
+      "company_tagline": "A company delivering state-of-the-art mapping and analytics software to customers worldwide.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Electrical Design Engineer, Excavators",
