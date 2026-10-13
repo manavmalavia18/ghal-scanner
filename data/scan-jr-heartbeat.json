@@ -1,14 +1,14 @@
 {
-  "at": "2026-10-13T18:28:51.790Z",
+  "at": "2026-10-13T18:50:59.756Z",
   "exitCode": 0,
-  "elapsedSec": 35,
+  "elapsedSec": 43,
   "newMatches": 190,
   "loginWall": false,
   "paused": false,
   "apiErrors": [],
   "companyCount": 190,
   "boardLeadCount": 80,
-  "boardFreshCount": 47,
+  "boardFreshCount": 48,
   "leadSources": [
     "jobright-cache",
     "hiringcafe"
