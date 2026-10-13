@@ -428,3 +428,7 @@
 - [ ] https://gruve.ai/careers/?gh_jid=5434249008 | gruve | Junior Full Stack Developer | USA (Remote) | posted: 2026-10-13
 - [ ] https://partnerize.com/company/jobs/?gh_jid=8014644003 | partnerize | Site Reliability Engineer - Fully Remote | Remote - Philadelphia, PA | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/openai/70042d81-4db6-4c5c-bdb2-76c133ee2917 | openai | Machine Learning Engineer, Growth | San Francisco | posted: 2026-10-13
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8138486 | doordashusa | Software Engineer, Backend (All Teams) | San Francisco, CA; New York City, NY; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/minitab/jobs/8030958003 | minitab | DevOps Engineer | State College, Pennsylvania, United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757 | supabase | Platform Engineer - Compute | Remote, Global | posted: 2026-10-13
