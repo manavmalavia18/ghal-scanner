@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T14:39:52.097Z",
+  "fetchedAt": "2026-10-13T14:58:43.151Z",
   "scrapedAt": "2026-10-13T10:22:13.318233+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 183,
+  "companyCount": 184,
   "companies": [
     {
       "company": "Accenture",
@@ -314,6 +314,13 @@
       "board": "curaleaf",
       "key": "greenhouse:curaleaf",
       "url": "https://job-boards.greenhouse.io/curaleaf/jobs/8883335002"
+    },
+    {
+      "company": "Cursor",
+      "ats": "ashby",
+      "board": "cursor",
+      "key": "ashby:cursor",
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
     },
     {
       "company": "Datacor, Inc.",
