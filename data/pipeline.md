@@ -447,3 +447,6 @@
 - [ ] https://jobs.ashbyhq.com/braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c | braintrust | Software Engineer, Billing | San Francisco · New York City · United States · Seattle | posted: 2026-10-13
 
 - [ ] https://jobs.ashbyhq.com/laurel/ff5a33ce-c255-49ad-b926-9bcd1135d06d | laurel | Applied AI Engineer | Remote, US · Hybrid, San Francisco, Los Angeles, New York | posted: 2026-10-13
+
+- [ ] https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0 | adaptivesecurity | Founding Machine Learning Engineer | NYC | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3 | adaptivesecurity | Software Engineer, Product & Platform | NYC | posted: 2026-10-13
