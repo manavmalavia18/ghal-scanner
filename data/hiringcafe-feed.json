@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T15:55:12.409Z",
+  "fetchedAt": "2026-10-13T16:16:59.094Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -13,10 +13,175 @@
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 648
+    "software engineer": 661
   },
-  "count": 487,
+  "count": 491,
   "jobs": [
+    {
+      "title": "Senior Automation Tester",
+      "url": "https://careers.hcltech.com/job/Senior-Automation-Tester/1372473855/",
+      "company": "HCLTech",
+      "location": "Washington, United States",
+      "postedAt": 1791902595769,
+      "salary": "$59k-$99k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years release engineering/operations for consumer electronics or mobile; Android platform familiarity; CI/CD pipelines; Git/Mercurial; change management; SEV response; Python/shell scripting; strong communication.",
+      "tools": [
+        "Android",
+        "AOSP",
+        "Git",
+        "Mercurial",
+        "Python",
+        "Release Beast",
+        "Phabricator",
+        "Buck2",
+        "Scuba",
+        "ODS"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Senior Technical Lead",
+      "url": "https://careers.hcltech.com/job/Senior-Technical-Lead/1372401455/",
+      "company": "HCLTech",
+      "location": "United States or Canada",
+      "postedAt": 1791902594968,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years production ML experience; Bachelor's in CS, Data Science, Statistics or related; advanced Python, SQL; hands-on GenAI (prompt engineering/fine-tuning); GCP experience; MLOps tools like Vertex AI, CI/CD.",
+      "tools": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "Pandas",
+        "SQL",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "BigQuery",
+        "Google Cloud Storage",
+        "GKE",
+        "Gemini",
+        "CI/CD"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Senior ERP Specialist",
+      "url": "https://careers.hcltech.com/job/Senior-ERP-Specialist/1372401955/",
+      "company": "HCLTech",
+      "location": "United States or Canada",
+      "postedAt": 1791902594968,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years production ML experience; Bachelor's in CS, Data Science, Statistics or related; advanced Python, SQL; hands-on GenAI and LLM fine-tuning; GCP experience; MLOps knowledge.",
+      "tools": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "Pandas",
+        "SQL",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "BigQuery",
+        "Google Cloud Storage",
+        "GKE",
+        "Gemini"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Senior Support Lead",
+      "url": "https://careers.hcltech.com/job/Senior-Support-Lead/1371499155/",
+      "company": "HCLTech",
+      "location": "Dallas, Texas, United States",
+      "postedAt": 1791902592005,
+      "salary": "$94k-$139k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years SnapLogic development experience; strong Git, JSON, XML, REST/SOAP, SQL; Bachelor's in Computer Science, IT, or Engineering; experience with DevOps tools like Jenkins, Ansible, GitHub Actions, Azure DevOps.",
+      "tools": [
+        "SnapLogic",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket",
+        "Jenkins",
+        "Ansible",
+        "Python",
+        "JavaScript",
+        "JSON",
+        "XML",
+        "REST"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Associate, Software Engineering (46093)",
+      "url": "https://career-hcm20.ns2cloud.com/career?career_ns=job_listing&company=L3HHCM20&career_job_req_id=46093",
+      "company": "L3Harris Technologies",
+      "location": "Chantilly, Virginia, United States",
+      "postedAt": 1791901388000,
+      "salary": "$76k-$141k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in computer science, computer engineering, software engineering, electrical engineering, wireless engineering, information security, mathematics, digital arts & sciences or related field; recent graduate within 12 months.",
+      "tools": [
+        "C++",
+        "C#",
+        "C",
+        "Java",
+        "Ruby",
+        "HTML5",
+        "XML",
+        "SQL",
+        "Perl",
+        "Python",
+        "Ajax",
+        "Qt"
+      ],
+      "company_tagline": "A technology company developing software for advanced tactical radio equipment.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Associate, Software Engineering (46090)",
+      "url": "https://career-hcm20.ns2cloud.com/career?career_ns=job_listing&company=L3HHCM20&career_job_req_id=46090",
+      "company": "L3Harris Technologies",
+      "location": "Chantilly, Virginia, United States",
+      "postedAt": 1791901318000,
+      "salary": "$76k-$141k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Pursuing or completed Bachelor's in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering, Wireless Engineering, Information Security, Mathematics, Digital Arts & Sciences or related field within last 12 months.",
+      "tools": [
+        "C++",
+        "C#",
+        "C",
+        "Java",
+        "Ruby",
+        "HTML5",
+        "XML",
+        "SQL",
+        "Perl",
+        "Python",
+        "Ajax",
+        "Qt"
+      ],
+      "company_tagline": "A technology company developing software for advanced tactical radio equipment.",
+      "ats_source": "successfactors"
+    },
     {
       "title": "Software Engineer",
       "url": "https://careers.docusign.com/jobs/30535",
@@ -2692,10 +2857,10 @@
         "R",
         "C#",
         "JavaScript",
-        "GeoAI"
+        "ArcGIS"
       ],
-      "company_tagline": "A global leader in GIS technology and spatial analysis software.",
-      "ats_source": "grnhse"
+      "company_tagline": "A global leader in GIS technology, creating positive change through mapping and spatial analysis.",
+      "ats_source": "adhoc"
     },
     {
       "title": "Platform & Data Engineer",
@@ -2979,23 +3144,23 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "2+ YOE",
-      "summary": "2+ years developing middleware with Java, JavaEE, JSP; cloud platforms AWS/Azure; relational databases; REST/SOAP; debugging tools; source control; Bachelor's in math, computer science, physics or related field.",
+      "summary": "2+ years experience developing middleware with Java, Servlets, JSP; knowledge of cloud platforms (AWS, Azure), relational databases, web services (REST, SOAP), debugging tools, and source control; Bachelor's degree in math, computer science, physics or related field.",
       "tools": [
         "Java",
         "JavaEE",
         "JSP",
+        "Servlets",
         "AWS",
         "Azure",
         "Amazon S3",
-        "SQS",
-        "EC2",
-        "Blob Service",
-        "Table Service",
-        "SQL Server",
-        "Oracle"
+        "Amazon SQS",
+        "Amazon EC2",
+        "Azure Blob Service",
+        "Azure Table Service",
+        "SQL Server"
       ],
-      "company_tagline": "A company delivering state-of-the-art mapping and analytics software to customers worldwide.",
-      "ats_source": "grnhse"
+      "company_tagline": "A global leader in GIS technology, providing mapping and analytics software to customers worldwide.",
+      "ats_source": "adhoc"
     },
     {
       "title": "Electrical Design Engineer, Excavators",
@@ -10882,36 +11047,6 @@
       ],
       "company_tagline": "An AI-native workspace for legal professionals, enabling faster document analysis and end-to-end workflows.",
       "ats_source": "ashby"
-    },
-    {
-      "title": "Software Engineer II - WCX (200059046)",
-      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200059046",
-      "company": "Microsoft",
-      "location": "United States",
-      "postedAt": 1791734400000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "No specific requirements stated.",
-      "tools": [],
-      "company_tagline": "A technology company providing software, cloud, and productivity solutions.",
-      "ats_source": "successfactors"
-    },
-    {
-      "title": "Software Engineer II - Voice Agent (200059034)",
-      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200059034",
-      "company": "Microsoft",
-      "location": "United States",
-      "postedAt": 1791734400000,
-      "salary": "",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "No specific requirements stated.",
-      "tools": [],
-      "company_tagline": "A technology company providing software, cloud, and productivity solutions.",
-      "ats_source": "successfactors"
     }
   ]
 }
