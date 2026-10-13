@@ -115,4 +115,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4729-1 | cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
 - [ ] https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4732-2 | cboe | Software Engineer, Backend (Clearing) | Chicago, IL | posted: 2026-10-13
 
+- [ ] https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524 | generalmotors | Software Developer - Simulation Platform (Galileo) | 2 Locations | posted: 2026-10-13
+
 ## Processed
