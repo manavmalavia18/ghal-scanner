@@ -152,4 +152,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2 | boeing | Experienced Real-Time Software Engineer - Simulation | USA - Richardson, TX | posted: 2026-10-13
 - [ ] https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R73434 | blueorigin | Software Engineer | Greater Seattle Area | posted: 2026-10-13
 
+- [ ] https://silabs.wd1.myworkdayjobs.com/newcollegegraduates/job/Austin/Software-Engineer-I_21011 | silabs | Software Engineer I | Austin | posted: 2026-10-13
+- [ ] https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1 | silabs | Software Engineer I | Austin | posted: 2026-10-13
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144 | salesforce | Software Engineering PMTS | California - San Francisco | posted: 2026-10-13
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Wisconsin/Site-Reliability-Engineer_R-432522 | humana | Site Reliability Engineer | 25 Locations | posted: 2026-10-13
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1 | entrust | Software Engineer II – Full Stack (Java & React) | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285 | entrust | Software Developer II – Java | United States - Shakopee, MN (GHQ) | posted: 2026-10-13
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934 | dxctechnology | Analyst I Software Engineering | USA - CT - ANY CITY | posted: 2026-10-13
+- [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000388155 | cat | Software Engineer | Chicago, Illinois | posted: 2026-10-13
+
 ## Processed
