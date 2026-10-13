@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T10:38:39.245Z",
+  "fetchedAt": "2026-10-13T11:00:04.090Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -9,13 +9,13 @@
     "software engineer"
   ],
   "days": 2,
-  "pagesFetched": 0,
+  "pagesFetched": 10,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": null
+    "software engineer": 619
   },
-  "count": 455,
+  "count": 457,
   "jobs": [
     {
       "title": "Architect",
@@ -9968,6 +9968,53 @@
       ],
       "company_tagline": "North America's largest steel and steel products manufacturer, known for innovative sustainability practices and recycling.",
       "ats_source": "successfactors"
+    },
+    {
+      "title": "HPE Factory Build Process -DevID Software Engineer: Quality Analysis",
+      "url": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer--Quality-Analysis_1215829-1",
+      "company": "Hewlett Packard Enterprise",
+      "location": "Fort Collins, Colorado, United States",
+      "postedAt": 1791763200000,
+      "salary": "$69k-$130k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "1+ YOE",
+      "summary": "US citizenship or green card required; bachelor's degree in computer science or engineering; 1+ year technical experience in software QA, testing, coding, debugging, and HPE hardware setup; English mastery.",
+      "tools": [
+        "GitHub",
+        "Linux",
+        "Windows"
+      ],
+      "company_tagline": "A global edge-to-cloud company helping organizations connect, protect, analyze, and act on their data and applications.",
+      "ats_source": "workday"
+    },
+    {
+      "title": "HPE Factory Build Process -DevID Software Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/All-Illinois-United-States-of-America/HPE-Factory-Build-Process--DevID-Software-Engineer_1215716-1",
+      "company": "Hewlett Packard Enterprise",
+      "location": "Illinois, United States",
+      "postedAt": 1791763200000,
+      "salary": "$95k-$219k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "US citizenship or green card required; 2+ years Go, Java, C, cryptography, TPM, Linux, Docker, SQL, GitHub; bachelor's degree in computer science or equivalent; ability to work evenings and weekends as needed.",
+      "tools": [
+        "Go",
+        "Java",
+        "C",
+        "Docker",
+        "nginx",
+        "MariaDB",
+        "MS SQL Server",
+        "MongoDB",
+        "GitHub",
+        "GitHub Actions",
+        "go-tpm",
+        "PKCS#11"
+      ],
+      "company_tagline": "A global edge-to-cloud company helping organizations connect, protect, analyze, and act on their data and applications.",
+      "ats_source": "workday"
     },
     {
       "title": "Internship, Universal Creative – Facility Design (Summer 2027)",
