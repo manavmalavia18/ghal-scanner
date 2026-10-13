@@ -456,3 +456,8 @@
 - [ ] https://jobs.ashbyhq.com/valinor/c9f43ce2-33a3-4d6a-aee8-6d71cc9b8458 | valinor | Software Engineer, Backend (Platform) | New York, NY · Remote | posted: 2026-10-13
 
 - [ ] https://www.bridgewaybentech.com/job-posting?gh_jid=8886076002 | bridgeway | AI Engineer | Remote · Remote | posted: 2026-10-13
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192116 | doordashusa | Software Engineer, Data Engineering | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192190 | doordashusa | Software Engineer, Spark Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8191886 | doordashusa | Software Engineer, Data Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192187 | doordashusa | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | posted: 2026-10-13
