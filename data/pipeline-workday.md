@@ -161,4 +161,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934 | dxctechnology | Analyst I Software Engineering | USA - CT - ANY CITY | posted: 2026-10-13
 - [ ] https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Software-Engineer_R0000388155 | cat | Software Engineer | Chicago, Illinois | posted: 2026-10-13
 
+- [ ] https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947 | aveva | Software Developer Graduate (AI Proficient) USA | 4 Locations | posted: 2026-10-13
+- [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer-III--Data-Platform-Operations---Remote_R8040 | aaaie | Software Engineer III, Data Platform Operations - Remote | Arizona - Home Teleworkers | posted: 2026-10-13
+
 ## Processed
