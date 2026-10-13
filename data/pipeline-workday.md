@@ -119,4 +119,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://verily.wd1.myworkdayjobs.com/verily_careers/job/Boston-Massachusetts/Software-Engineer-III--Workspace-Foundations_REQ-980 | verily | Software Engineer III, Workspace Foundations | Boston, Massachusetts | posted: 2026-10-13
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Colorado-Springs-CO/Software-Engineer--Associate-or-Experienced-_JR2026523054-1 | boeing | Software Engineer (Associate or Experienced) | USA - Colorado Springs, CO | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Chantilly-VA/Systems-Software-Engineer--Associate-or-Experienced-_JR2026525892-1 | boeing | Systems Software Engineer (Associate or Experienced) | 3 Locations | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Engineer--Associate-or-Experienced-_JR2026523054 | boeing | Software Engineer (Associate or Experienced) | USA - Colorado Springs, CO | posted: 2026-10-13
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Systems-Software-Engineer--Associate-or-Experienced-_JR2026525892 | boeing | Systems Software Engineer (Associate or Experienced) | 3 Locations | posted: 2026-10-13
+
 ## Processed
