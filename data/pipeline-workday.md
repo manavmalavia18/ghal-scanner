@@ -166,4 +166,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Software-Developer_01880561 | globalhr | Software Developer | US-CT-REMOTE | posted: 2026-10-13
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928 | ngc | Associate Cloud Software Engineer (Level 1) | United States-California-Redondo Beach | posted: 2026-10-13
+
 ## Processed
