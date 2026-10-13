@@ -1,11 +1,334 @@
 {
-  "fetchedAt": "2026-10-13T11:08:32.475Z",
+  "fetchedAt": "2026-10-13T14:23:28.740Z",
   "provider": "nextplay",
   "window": "72h",
   "pagesFetched": 15,
-  "total": 33097,
-  "count": 927,
+  "total": 33067,
+  "count": 942,
   "jobs": [
+    {
+      "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
+      "company": "n8n",
+      "title": "Sr Product Security Engineer | Remote | Europe",
+      "location": "Berlin Office or Bosnia or Norway or Estonia or Latvia or Slovenia or Netherlands or Hungary or Moldova or Kosovo or Portugal or Poland or Serbia or Germany or Austria or Finland or Montenegro or Albania or Lithuania or Slovakia or Ireland or Bulgaria or Denmark or Belgium or Czech Republic or United Kingdom or Croatia or Spain or Greece",
+      "postedAt": 1791899301468,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+      "company": "ElevenLabs",
+      "title": "Applied AI Engineer",
+      "location": "Remote",
+      "postedAt": 1791893617012,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "company": "ElevenLabs",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "location": "United States or Dublin or Bulgaria or Sofia or Germany or Portugal or Poland or Madrid or Amsterdam",
+      "postedAt": 1791892244243,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
+      "location": "Korea",
+      "postedAt": 1791891489702,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/monumental/706a2266-f50f-4da6-97b3-0b8b89ba1011",
+      "company": "Monumental",
+      "title": "Software Engineer, Frontend",
+      "location": "Amsterdam",
+      "postedAt": 1791891226980,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/sereact/f585585b-9161-4586-95a6-0b72f052d944",
+      "company": "Sereact",
+      "title": "Member of Technical Staff (m/f/d)",
+      "location": "Zurich",
+      "postedAt": 1791886998433,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "hardware_engineering",
+        "science"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/pennylane/18f252a7-7b19-44b6-b175-6dfcaea8b2e8",
+      "company": "Pennylane",
+      "title": "Fullstack Software Engineer RoR/JS W/M",
+      "location": "All France (remote)",
+      "postedAt": 1791886797762,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "2",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "marketing"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/airwallex/ad805889-55be-4ee2-9e82-afc55440bd2b",
+      "company": "Airwallex",
+      "title": "Senior Software Engineer, Observability",
+      "location": "SG - Singapore or KR - Seoul",
+      "postedAt": 1791878930450,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "operations"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/lumilens/12f8ffb4-4583-42d3-9e86-9f04984b6b0a",
+      "company": "Lumilens",
+      "title": "Senior/Staff Process Engineer (Wafer Dicing & Back-grind)",
+      "location": "Singapore",
+      "postedAt": 1791877430092,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "6",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47",
+      "company": "Sarvam",
+      "title": "Software Engineer - Model API Platform",
+      "location": "Bengaluru",
+      "postedAt": 1791875573480,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "4",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/alan/2dc99c53-9cc7-4c3f-a682-1f79bfa38ce6",
+      "company": "Alan",
+      "title": "Fullstack Software Engineer (x/f/m) -Automated Resolution",
+      "location": "Anywhere in France, Belgium, Spain",
+      "postedAt": 1791875097539,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/decagon/52943ef2-e3ed-44d8-ab3f-17dd28d0376d",
+      "company": "Decagon",
+      "title": "Staff Software Engineer, Enterprise Product",
+      "location": "San Francisco",
+      "postedAt": 1791865021430,
+      "salary": "USD200000–USD400000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/Fieldguide/e35c9fec-e35f-4147-ba9e-7fef8a75cea4",
+      "company": "Fieldguide",
+      "title": "Senior Software Security Engineer",
+      "location": "San Francisco, CA or Remote (USA)",
+      "postedAt": 1791855395403,
+      "salary": "USD215000–USD230000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/Lightfield/913e3f3a-6c16-44a7-ba7f-09159f9df620",
+      "company": "Lightfield",
+      "title": "Staff Software Engineer, Agentic Pipeline Generation",
+      "location": "HQ: San Francisco",
+      "postedAt": 1791854133178,
+      "salary": "USD220000–USD300000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "7",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/Lightfield/f9597b40-e659-43d2-b4c5-da1b11d0f9fd",
+      "company": "Lightfield",
+      "title": "Staff Software Engineer, Product",
+      "location": "HQ: San Francisco",
+      "postedAt": 1791853460189,
+      "salary": "USD220000–USD300000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "7",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/poseidonaero/98e0ca35-d096-4568-9acd-1fe7e66f5c8e",
+      "company": "Poseidon Aerospace",
+      "title": "Senior Simulation, Test and Validation Engineer",
+      "location": "Alameda",
+      "postedAt": 1791852287019,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "software_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/poseidonaero/cffa416c-9287-46bc-a8e9-81a1aea03ad7",
+      "company": "Poseidon Aerospace",
+      "title": "Simulation, Test and Validation Engineer",
+      "location": "Alameda",
+      "postedAt": 1791852211265,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "2",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/poseidonaero/e1e9e587-9e98-4570-a9b5-bb57be8fe989",
+      "company": "Poseidon Aerospace",
+      "title": "Senior GNC Engineer",
+      "location": "Alameda",
+      "postedAt": 1791852157418,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "science",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
     {
       "url": "https://job-boards.greenhouse.io/suki/jobs/7846994003",
       "company": "Suki",
@@ -41,6 +364,691 @@
       ],
       "company_tagline": "",
       "ats_source": "Greenhouse"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/heidihealth.com.au/c23c5aee-0dcb-4487-afef-bb871880599c",
+      "company": "Heidi",
+      "title": "Senior Software Engineer - Fullstack",
+      "location": "Melbourne or Sydney",
+      "postedAt": 1791849564262,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "2",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62",
+      "company": "Netic",
+      "title": "Software Engineer – Gap Year",
+      "location": "SF or NYC",
+      "postedAt": 1791848092931,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/delos-data/90eb5c34-33ea-445a-a7a1-0bec19426c05",
+      "company": "Delos Data",
+      "title": "Forward Deployed Engineer",
+      "location": "Cambridge",
+      "postedAt": 1791845189325,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "hardware_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/nerdwallet/e1aedfa9-c1b6-4de3-81cf-98496fee3d52",
+      "company": "NerdWallet",
+      "title": "Staff Software Engineer, CKD",
+      "location": "NerdWallet US",
+      "postedAt": 1791844341019,
+      "salary": "USD152000–USD282000",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "8",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "leadership",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
+      "company": "Chai Discovery",
+      "title": "Software Engineer, AI Platform",
+      "location": "San Francisco office",
+      "postedAt": 1791843677000,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/9be875bd-46f0-4653-9851-88e2ce49eb64",
+      "company": "Chai Discovery",
+      "title": "Software Engineer, Developer & Research Platform",
+      "location": "San Francisco office",
+      "postedAt": 1791843590602,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/marianaminerals/f6cfb78e-353b-4d59-96d9-65ff688ca547",
+      "company": "Mariana Minerals",
+      "title": "Sr. Piping Designer",
+      "location": "Houston, TX",
+      "postedAt": 1791842029717,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "design",
+        "manufacturing",
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/hadrian-automation/53aa34e5-7a93-465f-a190-8129597dc39b",
+      "company": "Hadrian",
+      "title": "Polymer Manufacturing Engineer, Additive",
+      "location": "Texarkana, TX",
+      "postedAt": 1791841902101,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "manufacturing",
+        "hardware_engineering",
+        "operations"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11",
+      "company": "Titan",
+      "title": "Software Engineer - Applied AI",
+      "location": "San Francisco or New York City",
+      "postedAt": 1791839931268,
+      "salary": "USD180000–USD480000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "3",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "partnerships"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/f9b20a47-d4b7-48a2-96d6-4e65941fd873",
+      "company": "Bedrock Robotics",
+      "title": "Internship 2026 Hardware Engineer (Winter Term)",
+      "location": "San Francisco, CA",
+      "postedAt": 1791839435139,
+      "salary": "",
+      "workplace": "",
+      "commitment": "internship",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/titan-msp/e9bc8401-f5aa-4a26-b735-e5dd65d9fcb5",
+      "company": "Titan",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco or New York City",
+      "postedAt": 1791839192930,
+      "salary": "USD180000–USD480000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "3",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "customer_success"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/runpod/7f2abf99-3d3a-4836-acf2-9e5b0a64e0cf",
+      "company": "RunPod",
+      "title": "Finance Manager, Infrastructure & Capacity",
+      "location": "Remote - USA",
+      "postedAt": 1791838252314,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "4",
+      "summary": "",
+      "tools": [
+        "finance",
+        "business_operations",
+        "strategy"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/radiant-industries/42da83a2-9c06-4b55-aa7b-b804d7bccf4c",
+      "company": "Radiant",
+      "title": "Staff Fluid Systems Engineer",
+      "location": "El Segundo, CA",
+      "postedAt": 1791837916715,
+      "salary": "USD158000–USD219450",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "8",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "manufacturing"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/radiant-industries/285935eb-5fc6-46f3-b7cb-af51cd74470e",
+      "company": "Radiant",
+      "title": "Senior Fluid Systems Engineer",
+      "location": "El Segundo, CA",
+      "postedAt": 1791837873063,
+      "salary": "USD158000–USD219450",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "manufacturing"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/nectar-social/d97fb7f3-227a-4d0f-807e-8edfab627b10",
+      "company": "Nectar Social",
+      "title": "Founding Data Scientist",
+      "location": "Palo Alto, CA or New York City, NY",
+      "postedAt": 1791837269096,
+      "salary": "USD200000–USD250000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "4",
+      "summary": "",
+      "tools": [
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/reliable-robotics/b08fb8b1-1b51-46ed-9b5b-7e99e255a619",
+      "company": "Reliable Robotics",
+      "title": "Mission Performance Analyst",
+      "location": "Remote or Seattle, WA or San Diego, CA or Mountain View, CA",
+      "postedAt": 1791836359689,
+      "salary": "USD190000–USD300000",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "10",
+      "summary": "",
+      "tools": [
+        "science",
+        "hardware_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/encord/19de3b55-70ac-4960-afaf-f488d46acaef",
+      "company": "Encord",
+      "title": "Research Engineer",
+      "location": "London",
+      "postedAt": 1791833552022,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "science",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/civilgrid/092ae4ef-44c6-4c92-a8ea-c29bb73582d7",
+      "company": "CivilGrid",
+      "title": "GIS Developer",
+      "location": "Kansas City",
+      "postedAt": 1791832552246,
+      "salary": "USD100000–USD118000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "3",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "hardware_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/traba/027f1fbe-ba92-4895-85d0-66867a41386b",
+      "company": "Traba",
+      "title": "Senior Software Engineer (Applied AI)",
+      "location": "New York City, NY or San Francisco",
+      "postedAt": 1791832317744,
+      "salary": "USD200000–USD240000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/traba/12bd5b18-d1be-4869-ba97-2d696f3eeb21",
+      "company": "Traba",
+      "title": "Senior Software Engineer (AI Agents)",
+      "location": "New York City, NY or San Francisco",
+      "postedAt": 1791832269440,
+      "salary": "USD200000–USD240000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/coderabbit/a40336da-00c0-41a5-a545-187e006dd421",
+      "company": "CodeRabbit",
+      "title": "Staff GTM Systems Engineer",
+      "location": "San Francisco",
+      "postedAt": 1791830183690,
+      "salary": "USD210000–USD250000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "7",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "revenue_operations"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/antioch/4ceec2c1-c086-4bdc-898d-5c44a08de212",
+      "company": "Antioch",
+      "title": "Director of Engineering",
+      "location": "New York City",
+      "postedAt": 1791828308567,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "leadership",
+        "operations"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/radiant-industries/b3315e88-a945-467c-a8e8-7c4e5f67f2d7",
+      "company": "Radiant",
+      "title": "Lead Nuclear Materials Engineer",
+      "location": "El Segundo, CA",
+      "postedAt": 1791826141679,
+      "salary": "USD140500–USD202475",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "science",
+        "hardware_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/vanta/7b08b5e9-3285-4604-9d17-8541714674b0",
+      "company": "Vanta",
+      "title": "Engineering Manager, Vanta for Government",
+      "location": "Remote U.S.",
+      "postedAt": 1791825396341,
+      "salary": "USD224000–USD263000",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "3",
+      "summary": "",
+      "tools": [
+        "leadership",
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/Watershed/34c3b39c-980d-4acd-a08e-4cb1c012d2c7",
+      "company": "Watershed",
+      "title": "Software engineer, full-stack",
+      "location": "Mexico City",
+      "postedAt": 1791823593971,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "2",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/hadrian-automation/7b19a602-4fca-46c3-87f5-a9dd3c7c33e1",
+      "company": "Hadrian",
+      "title": "Architectural Engineer, Structural Systems",
+      "location": "Los Angeles, CA",
+      "postedAt": 1791823501322,
+      "salary": "USD106000–USD181000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "manufacturing",
+        "hardware_engineering",
+        "operations"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/claylabs/9f8067d1-61cf-42cd-aad7-0ac54de8b345",
+      "company": "Clay",
+      "title": "GTM Engineer - Marketing",
+      "location": "New York",
+      "postedAt": 1791823284505,
+      "salary": "USD150000–USD220000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "3",
+      "summary": "",
+      "tools": [
+        "marketing",
+        "revenue_operations",
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/kandou-ai/0819c8a1-de4c-4c15-926d-f6a23d1d0694",
+      "company": "Kandou AI",
+      "title": "Platform Validation Lead / Manager",
+      "location": "Hyderabad",
+      "postedAt": 1791822707365,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "10",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "software_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/kandou-ai/eb8ed0af-0d99-4131-9c27-1393a4bbf6da",
+      "company": "Kandou AI",
+      "title": "Embedded Software Technical Lead",
+      "location": "Hyderabad",
+      "postedAt": 1791822246075,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "10",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "hardware_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/kraken.com/3e3e2a44-5a96-4683-82d3-96162f312f78",
+      "company": "Payward, Inc.",
+      "title": "Software Engineer - Growth Foundations",
+      "location": "Poland or Brazil or Uruguay or Peru or Sweden or Greece or Colombia or Argentina or Romania or Cyprus or Malta or Slovenia or Lithuania or South Africa or Czech Republic or Estonia or Hungary or Mexico or Chile or Slovakia or Bulgaria",
+      "postedAt": 1791821983210,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "4",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "design",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/kandou-ai/24fb571d-f6e5-42ae-af96-c9d60d458847",
+      "company": "Kandou AI",
+      "title": "Characterization Lead",
+      "location": "Saint-Sulpice",
+      "postedAt": 1791821750501,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "14",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/harmattan-ai/3d14cb02-01a4-4ca2-9021-2eac2288fe63",
+      "company": "Harmattan AI",
+      "title": "Design Release Engineer -Airframe",
+      "location": "Lausanne",
+      "postedAt": 1791819541260,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "hardware_engineering",
+        "manufacturing",
+        "design"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/hcompany/db347b29-402d-4f99-839e-5ceb2b02658a",
+      "company": "H Company",
+      "title": "Infrastructure Engineer (ML Compute) - London",
+      "location": "Hybrid London or Hybrid Paris",
+      "postedAt": 1791816677639,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "hardware_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/hcompany/2c1e16a0-2fd0-4880-8aba-857456f0b2ed",
+      "company": "H Company",
+      "title": "Infrastructure Engineer (ML Compute) - Paris",
+      "location": "Hybrid Paris or Hybrid London",
+      "postedAt": 1791816639074,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "operations",
+        "hardware_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/empirical-security/1d3037a7-76df-4ebf-9a06-462902a9b8d8",
+      "company": "Empirical Security",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "postedAt": 1791813969002,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/neko-health/933929b8-4ad5-49fa-8a27-0a2dc157ea38",
+      "company": "Aineko",
+      "title": "Lead Corporate Engineer",
+      "location": "London",
+      "postedAt": 1791813308648,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "",
+      "summary": "",
+      "tools": [
+        "operations",
+        "software_engineering",
+        "leadership"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/coram-ai/2cc2d54e-69de-4dd3-a3ae-6bc7edd8682f",
+      "company": "Coram AI",
+      "title": "Member of Technical Staff, Security & Compliance Lead",
+      "location": "Sunnyvale",
+      "postedAt": 1791812273296,
+      "salary": "",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "8",
+      "summary": "",
+      "tools": [
+        "operations",
+        "software_engineering"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
     },
     {
       "url": "https://jobs.ashbyhq.com/volta/8fbcd6f0-3d6f-4035-88cd-217f19f0f1b9",
@@ -685,44 +1693,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/9e76c3d0-b5a6-49e8-91b5-73967708628d",
-      "company": "Hadrian",
-      "title": "Director, Forward Deployed Engineering",
-      "location": "Los Angeles, CA",
-      "postedAt": 1791585830828,
-      "salary": "USD300000–USD415000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product",
-        "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/hadrian-automation/801e864e-5fbb-493b-bc3a-9b5ff265fbaa",
-      "company": "Hadrian",
-      "title": "Sr. Director, Forward Deployed Engineering",
-      "location": "Los Angeles, CA",
-      "postedAt": 1791585825662,
-      "salary": "USD300000–USD415000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "product",
-        "software_engineering",
-        "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/PrimeIntellect/ae969ec1-0f44-4289-9797-a880b05db389",
       "company": "Prime Intellect",
       "title": "Member of Technical Staff - Production Engineering",
@@ -996,24 +1966,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/marianaminerals/def16159-79d5-45c3-99dc-ca6f7d189d4b",
-      "company": "Mariana Minerals",
-      "title": "Sr. Planner and Scheduler",
-      "location": "Houston, TX",
-      "postedAt": 1791575752465,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "operations",
-        "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/cowboyspace/c56cca8f-dc8e-4752-a804-f092e784e664",
       "company": "Cowboy Space Corporation",
       "title": "Controls Software Engineer, Pointing & Tracking",
@@ -1083,25 +2035,6 @@
         "software_engineering",
         "go_to_market",
         "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/etched/bf1601cc-f33a-408c-bff8-a64bab4fe3f2",
-      "company": "Etched",
-      "title": "SMT Line Lead",
-      "location": "San Jose",
-      "postedAt": 1791569285579,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "manufacturing",
-        "hardware_engineering",
-        "leadership"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -1214,24 +2147,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/ResolveAI/03b5e340-7673-4219-b684-4ec16d962430",
-      "company": "Resolve AI",
-      "title": "Deployment Engineer",
-      "location": "San Francisco or New York",
-      "postedAt": 1791566024557,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "customer_success"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/strava/8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
       "company": "Strava",
       "title": "Senior Engineer II, Privacy and Identity",
@@ -1264,24 +2179,6 @@
         "software_engineering",
         "product",
         "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/harvey/5fc18ede-0043-496c-a928-41acf9fedb51",
-      "company": "Harvey",
-      "title": "Incident Handler",
-      "location": "San Francisco",
-      "postedAt": 1791564278239,
-      "salary": "USD133600–USD200400",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "operations"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -1337,42 +2234,6 @@
       "tools": [
         "software_engineering",
         "legal"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/hcompany/c14ed750-6561-4daa-b75d-7a9bfb1d88f9",
-      "company": "H Company",
-      "title": "Senior Full Stack Engineer",
-      "location": "Hybrid London or Hybrid Paris",
-      "postedAt": 1791556394978,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/kraken.com/081e2fca-f1cf-4da0-abf1-45f15c5b63e7",
-      "company": "Payward, Inc.",
-      "title": "Senior Software Engineer - React Native - Consumer",
-      "location": "United States",
-      "postedAt": 1791556087408,
-      "salary": "USD110400–USD220800",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -1445,25 +2306,6 @@
       "tools": [
         "software_engineering",
         "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/iceye/5ff08d58-36d8-447a-9d52-2a29743e0fd7",
-      "company": "ICEYE",
-      "title": "IT Infrastructure Lead",
-      "location": "Espoo",
-      "postedAt": 1791546478187,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "operations",
-        "leadership",
-        "business_operations"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -1833,7 +2675,7 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/Doppel/1144603c-07da-48b9-b838-da27ebbd2f1b",
+      "url": "https://jobs.ashbyhq.com/doppel/1144603c-07da-48b9-b838-da27ebbd2f1b",
       "company": "Doppel",
       "title": "Software Engineer, Email",
       "location": "San Francisco, New York or Toronto, ON",
@@ -1901,24 +2743,6 @@
         "software_engineering",
         "leadership",
         "operations"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/poseidonaero/4b45d362-40bb-412d-a535-e20e2a3e5c37",
-      "company": "Poseidon Aerospace",
-      "title": "Avionics & Electrical Integration Technician",
-      "location": "Alameda",
-      "postedAt": 1791490385472,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "hardware_engineering",
-        "manufacturing"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -2049,24 +2873,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/marianaminerals/4fdfca83-0431-47cc-8c90-f806ea723092",
-      "company": "Mariana Minerals",
-      "title": "Controls Technician",
-      "location": "East Texas",
-      "postedAt": 1791482108318,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "hardware_engineering",
-        "manufacturing"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/vizcom/f5a3de83-74da-4758-a455-41f1643b589c",
       "company": "Vizcom",
       "title": "Senior Product Engineer",
@@ -2137,25 +2943,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima/18254b43-b27c-4ed5-9606-71acf3d76578",
-      "company": "Proxima",
-      "title": "Member of Technical Staff",
-      "location": "New York or Boston or Zurich or Remote",
-      "postedAt": 1791478457012,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "science",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/mirage/98bb152b-4d0a-4ef3-8754-54060c179523",
       "company": "Mirage",
       "title": "Software Engineer, iOS",
@@ -2208,24 +2995,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/robco/25af4e59-07c6-41ba-bff5-4298658d59bb",
-      "company": "RobCo",
-      "title": "Cloud Engineer",
-      "location": "Munich",
-      "postedAt": 1791474408957,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "operations"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/callosum/e33ede97-fee9-4c0a-8063-9944923fa36b",
       "company": "Callosum",
       "title": "Applied AI - Member of Technical Staff",
@@ -2256,24 +3025,6 @@
       "tools": [
         "hardware_engineering",
         "design"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/humanoid/72741997-0fbc-413c-88a8-a273272641d1",
-      "company": "Humanoid",
-      "title": "Internship - Spatial AI and Navigation",
-      "location": "UK, London",
-      "postedAt": 1791467126305,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "science"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -2453,24 +3204,6 @@
       "ats_source": "Greenhouse"
     },
     {
-      "url": "https://jobs.ashbyhq.com/radiant-industries/75159ba3-fa50-448f-92ea-54c260d44200",
-      "company": "Radiant",
-      "title": "Mechanisms Engineer",
-      "location": "El Segundo, CA",
-      "postedAt": 1791418881148,
-      "salary": "USD133500–USD184800",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "hardware_engineering",
-        "manufacturing"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/sesame/0124ec66-71c2-4e60-929a-5868f8b02bac",
       "company": "Sesame",
       "title": "Speaker Systems Engineer",
@@ -2596,25 +3329,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/lovable/bd6cb2a8-85c4-4650-94a6-94bf780713e8",
-      "company": "Lovable",
-      "title": "Growth Engineer",
-      "location": "London",
-      "postedAt": 1791409747382,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product",
-        "marketing"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/periodic-labs/1d57d49b-e538-4d9a-86d3-6be17339016f",
       "company": "Periodic",
       "title": "Process Safety Engineer",
@@ -2645,24 +3359,6 @@
       "summary": "",
       "tools": [
         "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/lumilens/ff1c4bac-e6e8-44df-8c11-c54152ccdbfd",
-      "company": "Lumilens",
-      "title": "Analog and Mixed Signal Layout Engineer",
-      "location": "Bengaluru, India",
-      "postedAt": 1791404499274,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "hardware_engineering",
-        "design"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -2723,24 +3419,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
-      "company": "Decagon",
-      "title": "Software Engineer, Enterprise Product",
-      "location": "San Francisco",
-      "postedAt": 1791396272837,
-      "salary": "USD250000–USD330000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/EliseAI/717fbb54-35f6-44df-88dc-d9e7669c9b93",
       "company": "EliseAI",
       "title": "Integrations Solutions Engineer",
@@ -2754,23 +3432,6 @@
       "tools": [
         "software_engineering",
         "partnerships"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/cowboyspace/af33e278-39ed-4864-9f81-395ae08c5484",
-      "company": "Cowboy Space Corporation",
-      "title": "Senior Compute Validation Engineer",
-      "location": "San Carlos, California",
-      "postedAt": 1791393636739,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -2947,23 +3608,6 @@
       "tools": [
         "software_engineering",
         "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/cowboyspace/007d329f-9a6c-49f0-a3a5-623dbff16f20",
-      "company": "Cowboy Space Corporation",
-      "title": "Software Engineer, Reliability (Avionics / Compute Systems)",
-      "location": "San Carlos, California",
-      "postedAt": 1791322177960,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "4",
-      "summary": "",
-      "tools": [
-        "software_engineering"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -3168,43 +3812,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/vocca/5e71cbb2-467f-4d0e-87a3-46a1a8b00244",
-      "company": "Vocca",
-      "title": "Software Engineer",
-      "location": "Paris",
-      "postedAt": 1791273191094,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product",
-        "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/vocca/a859eea9-acd0-4642-bbd8-58bd7c8712ec",
-      "company": "Vocca",
-      "title": "Software Engineer (TypeScript) - Platform",
-      "location": "Paris",
-      "postedAt": 1791273173438,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/vocca/7916fd2e-2b17-4a86-aede-206987f5c8ed",
       "company": "Vocca",
       "title": "Senior Product Engineer (TypeScript) - Platform",
@@ -3256,23 +3863,6 @@
         "hr",
         "product",
         "operations"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/sarvam/d71ec2a3-3de6-4380-95f6-41cfc2bbdbf2",
-      "company": "Sarvam",
-      "title": "Staff Engineer - Systems Engineering",
-      "location": "Bengaluru",
-      "postedAt": 1791266480525,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "8",
-      "summary": "",
-      "tools": [
-        "software_engineering"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -3421,23 +4011,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/runpod/475e7a21-59af-4ef4-b2a3-6a0e60fc1356",
-      "company": "RunPod",
-      "title": "Cloud Infrastructure Security Engineer (Systems/Kernel)",
-      "location": "Remote - USA",
-      "postedAt": 1791235686434,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/scribe/76d9cc12-7aa3-47f3-949b-cdc83e3e7b08",
       "company": "Scribe",
       "title": "Senior DevOps Engineer",
@@ -3461,24 +4034,6 @@
       "title": "ML Engineer - API Platform",
       "location": "San Francisco",
       "postedAt": 1791231538735,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c",
-      "company": "Physical Intelligence",
-      "title": "ML engineer - API Platform",
-      "location": "San Francisco",
-      "postedAt": 1791231137609,
       "salary": "",
       "workplace": "",
       "commitment": "full-time",
@@ -3759,25 +4314,6 @@
       "tools": [
         "software_engineering",
         "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/omni/40c5ad19-2fa1-4787-b654-4f274989aa77",
-      "company": "Omni",
-      "title": "Frontend Engineer, Data Visualization",
-      "location": "San Francisco, CA or Santa Cruz, CA or Denver, CO or Philadelphia, PA or Seattle, WA",
-      "postedAt": 1791174322378,
-      "salary": "USD160000–USD250000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "design",
-        "product"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -4266,43 +4802,6 @@
       "summary": "",
       "tools": [
         "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/lumilens/73a1f71c-72d6-4797-8e46-8377277f8d03",
-      "company": "Lumilens",
-      "title": "Staff Optical Manufacturing Test Engineer - Hardware Automation",
-      "location": "Singapore",
-      "postedAt": 1790947003674,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "12",
-      "summary": "",
-      "tools": [
-        "manufacturing",
-        "hardware_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/encord/5c718388-17a4-4839-9556-9b39206000cd",
-      "company": "Encord",
-      "title": "Lead Security Engineer",
-      "location": "London",
-      "postedAt": 1790943912492,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "7",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "operations",
-        "leadership"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -4837,24 +5336,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/reliable-robotics/c0bdeacc-20cd-40a4-8da0-0617c9252d59",
-      "company": "Reliable Robotics",
-      "title": "Software Engineer, Mission Systems",
-      "location": "Mountain View, CA or Remote",
-      "postedAt": 1790793161078,
-      "salary": "USD140000–USD200000",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "2",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "hardware_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/laurel/84f20daa-3507-4279-a65d-fef4730758e2",
       "company": "Laurel",
       "title": "Senior Developer Productivity Engineer",
@@ -5119,24 +5600,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
-      "company": "Clay",
-      "title": "Software Engineering Intern",
-      "location": "New York",
-      "postedAt": 1790696889752,
-      "salary": "",
-      "workplace": "",
-      "commitment": "internship",
-      "yoe": "",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/cloaked/4db556b5-330d-4fb0-a17d-d12e9417ead4",
       "company": "Cloaked",
       "title": "Technical Chief of Staff",
@@ -5276,24 +5739,6 @@
       "summary": "",
       "tools": [
         "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/spade/847519dc-6275-4a32-bb2b-787d95840b5d",
-      "company": "Spade",
-      "title": "Product Manager - Agent Platform",
-      "location": "New York, NY",
-      "postedAt": 1790614463923,
-      "salary": "USD185000–USD220000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "product",
-        "strategy"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -5517,24 +5962,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/chaidiscovery/d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
-      "company": "Chai Discovery",
-      "title": "Research Engineer - Auto Research",
-      "location": "San Francisco office",
-      "postedAt": 1790293879350,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "4",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "science"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/eventualcomputing/a9a91934-70eb-43b3-9008-e401ed96dd94",
       "company": "Eventual",
       "title": "Technical Lead, Multimodal Research",
@@ -5608,24 +6035,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/kandou-ai/e4dc93cf-ed44-45c8-a55c-fe836a0a3ca8",
-      "company": "Kandou AI",
-      "title": "Software Architect",
-      "location": "Hyderabad or Bangalore",
-      "postedAt": 1790265972639,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "8",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "hardware_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/persona.ai/3c16cbee-24a3-457b-b0bd-6bbfbd08252f",
       "company": "Persona AI",
       "title": "Senior Perception Engineer | Sensors, Firmware & Drivers",
@@ -5662,25 +6071,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/comfy-org/2bb20277-7e2a-43df-82f2-48bf77881c50",
-      "company": "Comfy Org",
-      "title": "Sr./Staff Product Designer, Developer Platform",
-      "location": "San Francisco",
-      "postedAt": 1790230397077,
-      "salary": "USD180000–USD240000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "6",
-      "summary": "",
-      "tools": [
-        "design",
-        "product",
-        "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://apply.workable.com/j/6DCC2A43E6",
       "company": "Caddi",
       "title": "Data Engineer - Analysis Platform",
@@ -5698,25 +6088,6 @@
       "ats_source": "adhoc"
     },
     {
-      "url": "https://jobs.ashbyhq.com/proxima/1eb735fc-40ee-443e-9adf-855463eea5e1",
-      "company": "Proxima",
-      "title": "Principal ML Performance Engineer (GPU Optimization)",
-      "location": "New York or Boston or Zurich or Remote",
-      "postedAt": 1790189783026,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "6",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "hardware_engineering",
-        "leadership"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/sunday/bd525705-1430-4f45-adb2-888165d45aa6",
       "company": "sunday",
       "title": "Robotics Systems Software Integration Engineer",
@@ -5731,24 +6102,6 @@
         "software_engineering",
         "hardware_engineering",
         "operations"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/delos-data/d2bf7cf1-382e-4073-935a-6c8037d37448",
-      "company": "Delos Data",
-      "title": "DFT Engineer",
-      "location": "Remote",
-      "postedAt": 1790188598840,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "hardware_engineering",
-        "software_engineering"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -6003,23 +6356,6 @@
       "tools": [
         "software_engineering",
         "product"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/venn/f3b981ee-a834-4da7-8db4-cb00778bd375",
-      "company": "Venn",
-      "title": "Senior Backend Engineer",
-      "location": "Poland",
-      "postedAt": 1790044874337,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "5",
-      "summary": "",
-      "tools": [
-        "software_engineering"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -7348,19 +7684,19 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
+      "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847",
       "company": "Lam Research",
-      "title": "Software Engineer | Early Careers, 2027 Start",
+      "title": "Operations Engineer | Early Careers, 2027 Start",
       "location": "New York City",
-      "postedAt": 1788361236023,
-      "salary": "USD100000–USD180000",
+      "postedAt": 1788360800735,
+      "salary": "USD70000–USD100000",
       "workplace": "",
       "commitment": "full-time",
       "yoe": "",
       "summary": "",
       "tools": [
         "software_engineering",
-        "product"
+        "operations"
       ],
       "company_tagline": "",
       "ats_source": "Ashby"
@@ -7985,23 +8321,6 @@
       "ats_source": "Ashby"
     },
     {
-      "url": "https://jobs.ashbyhq.com/titan-msp/dcf54db5-3066-45da-a68c-e11a55b2033f",
-      "company": "Titan",
-      "title": "Senior Network Engineer",
-      "location": "Philippines",
-      "postedAt": 1787334001841,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "7",
-      "summary": "",
-      "tools": [
-        "hardware_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/empirical-security/f7b15b05-aa9b-4c84-95c5-b5e5917983af",
       "company": "Empirical Security",
       "title": "Senior Data Scientist",
@@ -8166,6 +8485,25 @@
       ],
       "company_tagline": "",
       "ats_source": "adhoc"
+    },
+    {
+      "url": "https://jobs.ashbyhq.com/tacit/0526f3de-13df-498d-8b75-210d3af35ab7",
+      "company": "Tacit",
+      "title": "Frontend Product Engineer",
+      "location": "San Francisco",
+      "postedAt": 1787092507889,
+      "salary": "USD160000–USD210000",
+      "workplace": "",
+      "commitment": "full-time",
+      "yoe": "5",
+      "summary": "",
+      "tools": [
+        "software_engineering",
+        "product",
+        "design"
+      ],
+      "company_tagline": "",
+      "ats_source": "Ashby"
     },
     {
       "url": "https://jobs.ashbyhq.com/apron/dfabb0eb-c00f-4f3e-a162-c42b174e79bf",
@@ -9287,24 +9625,6 @@
       "ats_source": "adhoc"
     },
     {
-      "url": "https://jobs.ashbyhq.com/titan-msp/42d06769-1163-41d6-bb9b-433102a02c04",
-      "company": "Titan",
-      "title": "Solutions Architect",
-      "location": "New York City, San Francisco",
-      "postedAt": 1783634684030,
-      "salary": "",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "3",
-      "summary": "",
-      "tools": [
-        "software_engineering",
-        "go_to_market"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
-    },
-    {
       "url": "https://jobs.ashbyhq.com/sweatpals/65de64b3-7a62-4710-8829-60eeceac3ecd",
       "company": "SweatPals",
       "title": "Solutions Engineer",
@@ -10136,23 +10456,6 @@
       ],
       "company_tagline": "",
       "ats_source": "adhoc"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/Redesign%20Health/9bb877ae-ca4e-4d7e-8963-9f2cbec9cd3f",
-      "company": "Redesign Health",
-      "title": "Director of Engineering, Internal Technology & Infrastructure",
-      "location": "Bengaluru, India",
-      "postedAt": 1781205354068,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "full-time",
-      "yoe": "10",
-      "summary": "",
-      "tools": [
-        "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
     },
     {
       "url": "https://jobs.ashbyhq.com/Valon/7803a34d-471f-4935-bcea-f54b34a3ce95",
@@ -13833,23 +14136,6 @@
       ],
       "company_tagline": "",
       "ats_source": "adhoc"
-    },
-    {
-      "url": "https://jobs.ashbyhq.com/solidroad/983882bc-67e2-4fcf-8069-3cab721bd7e6",
-      "company": "Solidroad",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco",
-      "postedAt": 1768351361391,
-      "salary": "USD250000–USD300000",
-      "workplace": "",
-      "commitment": "full-time",
-      "yoe": "4",
-      "summary": "",
-      "tools": [
-        "software_engineering"
-      ],
-      "company_tagline": "",
-      "ats_source": "Ashby"
     },
     {
       "url": "https://studio.com/careers",
