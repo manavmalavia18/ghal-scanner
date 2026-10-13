@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-13T11:00:04.090Z",
+  "fetchedAt": "2026-10-13T14:27:40.545Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -13,10 +13,377 @@
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 619
+    "software engineer": 647
   },
-  "count": 457,
+  "count": 483,
   "jobs": [
+    {
+      "title": "Software Engineer",
+      "url": "https://careers.docusign.com/jobs/30535",
+      "company": "DocuSign",
+      "location": "Seattle, Washington, United States",
+      "postedAt": 1791898561000,
+      "salary": "$112k-$162k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years professional software development experience with a Bachelor's or Master's degree; experience with production software, data structures, algorithms, testing, version control, debugging, and relational or non-relational data stores.",
+      "tools": [
+        "Azure Data Lake Storage",
+        "Azure Databricks",
+        "Apache Spark",
+        "Delta Lake",
+        "Azure Data Factory",
+        "Python",
+        "Java",
+        "Scala",
+        "C#",
+        "SQL"
+      ],
+      "company_tagline": "A company that brings agreements to life with intelligent agreement management and e-signature solutions.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Applied AI Engineer (Summer Internship)",
+      "url": "https://bambusdev.my.site.com/s/details?jobReq=Applied-AI-Engineer--Summer-Internship-_REQ8693",
+      "company": "Balyasny Asset Management",
+      "location": "New York City, New York, United States",
+      "postedAt": 1791897760434,
+      "salary": "$147k/yr",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Bachelor's or Master's student graduating Dec 2027-May 2028 in CS, Math, Stats, Data Science or related quantitative field; strong programming in Python, NumPy, Pandas, scikit-learn, Matplotlib, SQL; ML concepts; ETL tools; GitHub; LLM fine-tuning; LangChain.",
+      "tools": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "Matplotlib",
+        "SQL",
+        "GitHub",
+        "LangChain",
+        "Vector Databases",
+        "OpenSearch",
+        "Apache Airflow",
+        "AWS"
+      ],
+      "company_tagline": "An investment firm leveraging AI to support investment teams across asset classes.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "Civil Construction Intern",
+      "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5450042008",
+      "company": "EQT Corporation",
+      "location": "Waynesburg, Pennsylvania, United States",
+      "postedAt": 1791896286000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Currently pursuing a bachelor's degree in Civil Engineering, Construction Management, or related field; basic knowledge of civil construction methods, surveying, or CAD software; strong communication and teamwork; willingness to work in office and field environments.",
+      "tools": [
+        "CAD"
+      ],
+      "company_tagline": "A leading natural gas producer focused on environmentally responsible, reliable, low-cost energy.",
+      "ats_source": "grnhse"
+    },
+    {
+      "title": "AI/ML Engineer - Consultant - Denver",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668671642?domain=coloradowfx.gov",
+      "company": "Slalom, LLC",
+      "location": "Denver, Colorado, United States",
+      "postedAt": 1791893853128,
+      "salary": "$120k-$145k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3-6 years implementing ML models in production, 1-3 years consulting experience, fluency in AI/ML and major cloud platforms, hands-on generative AI experience, strong Python skills, and ability to work onsite up to 3 days per week.",
+      "tools": [
+        "Python",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Databricks",
+        "Snowflake"
+      ],
+      "company_tagline": "",
+      "ats_source": "eightfold"
+    },
+    {
+      "title": "Software Development Engineer, Special Projects",
+      "url": "https://www.amazon.jobs/en/jobs/10576928/software-development-engineer-special-projects",
+      "company": "Amazon",
+      "location": "Seattle, Washington, United States",
+      "postedAt": 1791892800000,
+      "salary": "$144k-$194k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree or equivalent; 3+ years full software development life cycle experience; 3+ years programming in C++, C#, Java, Python, Golang, PowerShell, or Ruby; 3+ years AWS experience with Batch, S3, Lambda, CloudFormation, SQS.",
+      "tools": [
+        "C++",
+        "C#",
+        "Java",
+        "Python",
+        "Golang",
+        "PowerShell",
+        "Ruby",
+        "AWS",
+        "Batch",
+        "S3",
+        "Lambda",
+        "CloudFormation"
+      ],
+      "company_tagline": "A technology company building software and services for scientists and customers.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "Systems Development Engineer, Managed Operations (MO); AWS Operations Management (AWSOM) Team",
+      "url": "https://www.amazon.jobs/en/jobs/10576808/systems-development-engineer-managed-operations-mo-aws-operations-management-awsom-team",
+      "company": "Amazon",
+      "location": "Herndon, Virginia, United States",
+      "postedAt": 1791892800000,
+      "salary": "$129k-$175k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years administrative experience in networking, storage, operating systems, and hands-on systems engineering; programming in Python, Ruby, Golang, Java, C++, C#, or Rust; Linux/Unix; CI/CD pipelines, DevOps, and GenAI technologies.",
+      "tools": [
+        "Python",
+        "Ruby",
+        "Golang",
+        "Java",
+        "C++",
+        "C#",
+        "Rust",
+        "Linux",
+        "Unix",
+        "CI/CD",
+        "DevOps",
+        "Generative AI"
+      ],
+      "company_tagline": "A cloud platform provider offering a broad suite of products and services to power businesses.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "Lead Insight Specialist",
+      "url": "https://dth.avature.net/en_US/careers/JobDetail/Lead-Insights-Specialist/27647",
+      "company": "Delta Air Lines",
+      "location": "United States",
+      "postedAt": 1791892800000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Expertise in Adobe Experience Cloud, web development, data architecture, and customer experience platforms; hands-on development and implementation skills.",
+      "tools": [
+        "Adobe Analytics",
+        "Adobe Target",
+        "Adobe Experience Platform (AEP)",
+        "Adobe Tags (Launch)",
+        "Adobe Journey Optimizer (AJO)",
+        "Customer Journey Analytics (CJA)",
+        "Adobe Web SDK",
+        "Mobile SDK",
+        "Experience Edge Network",
+        "JavaScript",
+        "API"
+      ],
+      "company_tagline": "A global technology hub for Delta Air Lines, focusing on digital data collection, customer intelligence, and personalization.",
+      "ats_source": "avature"
+    },
+    {
+      "title": "Mobile Engineer - ElevenMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5",
+      "company": "ElevenLabs",
+      "location": "United States or Brazil or Denmark or Warsaw or United Kingdom or Netherlands or Canada or New York City",
+      "postedAt": 1791891964421,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Shipped a well-designed production mobile app; strong systems thinking across mobile and backend; framework-agnostic (React Native, Swift or Kotlin); exceptional product taste; highly self-directed; ability to work in GMT-5 to GMT+1 timezones.",
+      "tools": [
+        "React Native",
+        "Swift",
+        "Kotlin"
+      ],
+      "company_tagline": "An AI research and product company building realistic voice and audio generation technology.",
+      "ats_source": "ashby"
+    },
+    {
+      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
+      "company": "ElevenLabs",
+      "location": "Europe or New York City or Warsaw or Stockholm or United Kingdom or Netherlands or France",
+      "postedAt": 1791891880668,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong frontend experience with React/TypeScript, ability to own ambiguous zero-to-one product work, experience with Figma and cross-functional collaboration, and ability to work in Central European timezones.",
+      "tools": [
+        "React",
+        "TypeScript",
+        "Figma"
+      ],
+      "company_tagline": "An AI research and product company building the most realistic AI voice platform.",
+      "ats_source": "ashby"
+    },
+    {
+      "title": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
+      "company": "ElevenLabs",
+      "location": "Europe or New York or Brazil or Paris or Poland or London or Amsterdam or Canada",
+      "postedAt": 1791891806151,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong full-stack engineer with backend lean; shipped production APIs and backend systems; product decomposition mindset; proactive ownership; comfortable across research, legal, safety, growth, design, enterprise; excited about music and AI; bonus music/audio or ML production experience.",
+      "tools": [],
+      "company_tagline": "An AI research and product company building realistic voice and audio models.",
+      "ats_source": "ashby"
+    },
+    {
+      "title": "Fabrication & Stamping Engineer",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4580840",
+      "company": "Marvel Refrigeration",
+      "location": "Greenville, Michigan, United States",
+      "postedAt": 1791891207000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in mechanical, manufacturing, or industrial engineering; 3-7 years manufacturing engineering experience in metal stamping and fabrication; CAD software proficiency; ERP/MRP and Excel skills; ability to lift 35 lbs and wear PPE.",
+      "tools": [
+        "SolidWorks",
+        "AutoCAD",
+        "Inventor",
+        "Creo",
+        "Microsoft Excel",
+        "ERP",
+        "MRP"
+      ],
+      "company_tagline": "A manufacturer of premium refrigeration and ice products.",
+      "ats_source": "paylocity"
+    },
+    {
+      "title": "Archer Developer L2",
+      "url": "https://careers.hcltech.com/job/Archer-Developer-L2/177289-en_US/",
+      "company": "HCLTech",
+      "location": "Dallas, Texas, United States",
+      "postedAt": 1791886751319,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Strong Archer administration and configuration experience; expertise in workflows, data feeds, and integrations; SQL Server, IIS, JavaScript, XML, HTML; GRC domain knowledge; ability to work independently.",
+      "tools": [
+        "Archer",
+        "SQL Server",
+        "IIS",
+        "JavaScript",
+        "XML",
+        "HTML"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Senior Technical Lead",
+      "url": "https://careers.hcltech.com/job/Senior-Technical-Lead/177995-en_US/",
+      "company": "HCLTech",
+      "location": "United States or Canada",
+      "postedAt": 1791886748213,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years production ML experience; Bachelor's in CS, Data Science, Statistics or related; advanced Python, SQL; hands-on GenAI (prompt engineering/fine-tuning); GCP experience; MLOps tools like Vertex AI, CI/CD.",
+      "tools": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "Pandas",
+        "SQL",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "BigQuery",
+        "Google Cloud Storage",
+        "GKE",
+        "Gemini",
+        "CI/CD"
+      ],
+      "company_tagline": "A global technology company delivering industry-leading capabilities in digital, engineering, cloud, and AI.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Senior ERP Specialist",
+      "url": "https://careers.hcltech.com/job/Senior-ERP-Specialist/177997-en_US/",
+      "company": "HCLTech",
+      "location": "United States or Canada",
+      "postedAt": 1791886748213,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years production ML experience; Bachelor's in CS, Data Science, Statistics or related; advanced Python, SQL; hands-on GenAI and LLM fine-tuning; GCP experience; MLOps tools like Vertex AI and CI/CD.",
+      "tools": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "Pandas",
+        "SQL",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "BigQuery",
+        "Google Cloud Storage",
+        "GKE",
+        "Gemini",
+        "CI/CD"
+      ],
+      "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
+      "ats_source": "successfactors"
+    },
+    {
+      "title": "Software Engineer III, Feed Recommendation Infrastructure",
+      "url": "https://careers.google.com/jobs/results/103782360897462982-software-engineer-iii/",
+      "company": "Google",
+      "location": "Mountain View, California, United States",
+      "postedAt": 1791886118135,
+      "salary": "$147k-$210k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Bachelor's degree or equivalent practical experience; 2+ years software development; 2+ years large-scale infrastructure, distributed systems, networks, compute, storage, or hardware architecture; experience integrating generative AI tools or LLM interfaces.",
+      "tools": [
+        "generative AI tools",
+        "LLM interfaces"
+      ],
+      "company_tagline": "A technology company developing next-generation products and services that connect billions of users.",
+      "ats_source": "google"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
+      "company": "ElevenLabs",
+      "location": "London or Dublin or New York City or Sofia or Switzerland or Poland or United States",
+      "postedAt": 1791885199313,
+      "salary": "",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Hands-on experience running production systems at scale as an SRE or similar, strong backend development background, experience with incident response and on-call, observability and alerting, SLO/SLA definition, Kubernetes and cloud infrastructure (GCP/AWS preferred).",
+      "tools": [
+        "Kubernetes",
+        "GCP",
+        "AWS"
+      ],
+      "company_tagline": "An AI research and product company building realistic voice technology and platforms.",
+      "ats_source": "ashby"
+    },
     {
       "title": "Architect",
       "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00070792391&lang=en",
@@ -97,6 +464,41 @@
       "ats_source": "taleo_careersection"
     },
     {
+      "title": "Principal Controls Engineer",
+      "url": "https://jobs.ashbyhq.com/aim/1e62a759-619f-468a-b8fd-2cbd71b6c5a2",
+      "company": "AIM Intelligent Machines Inc.",
+      "location": "Seattle, Washington, United States",
+      "postedAt": 1791876420346,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's or Master's in engineering or related field; experience designing and tuning controllers on physical systems; strong feedback control fundamentals; C++ proficiency; Python or MATLAB; ability to diagnose problems across software, sensors, actuators, and mechanical systems.",
+      "tools": [
+        "C++",
+        "Python",
+        "MATLAB",
+        "CAN"
+      ],
+      "company_tagline": "A company building autonomy for real-world robots that move heavy equipment.",
+      "ats_source": "ashby"
+    },
+    {
+      "title": "Software Engineer (200053267)",
+      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200053267",
+      "company": "Microsoft",
+      "location": "United States",
+      "postedAt": 1791876277000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "No specific requirements stated.",
+      "tools": [],
+      "company_tagline": "A global technology company developing software, services, and devices.",
+      "ats_source": "successfactors"
+    },
+    {
       "title": "Software Engineer - O365",
       "url": "https://jobs.jobvite.com/varonis/job/oykWAfw8?nl=1&fr=true",
       "company": "Varonis",
@@ -114,6 +516,21 @@
       ],
       "company_tagline": "A cybersecurity company providing an autonomous data security platform to protect data from the inside out.",
       "ats_source": "jobvite"
+    },
+    {
+      "title": "Software Engineer (200060878)",
+      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=microsoftAP1&career_job_req_id=200060878",
+      "company": "Microsoft",
+      "location": "United States",
+      "postedAt": 1791875123000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "No specific requirements stated.",
+      "tools": [],
+      "company_tagline": "A global technology company developing software, services, and devices.",
+      "ats_source": "successfactors"
     },
     {
       "title": "Electrical Engineer",
@@ -134,6 +551,108 @@
       ],
       "company_tagline": "A global leader in packaging and protective solutions, developing innovative products that protect the world.",
       "ats_source": "dayforce"
+    },
+    {
+      "title": "Bridge Engineer",
+      "url": "https://careers-kimley-horn.icims.com/jobs/27133/bridge-engineer/job?hub=7&in_iframe=1",
+      "company": "Kimley-Horn",
+      "location": "Jacksonville, Florida, United States",
+      "postedAt": 1791864000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "4+ years of relevant engineering design experience; Professional Engineering (P.E.) license or ability to obtain within 12 months; proficiency in Bentley OpenBridge Modeler, Microstation, and structural analysis software.",
+      "tools": [
+        "Bentley OpenBridge Modeler",
+        "Bentley Microstation",
+        "MathCAD Prime",
+        "LARSA",
+        "STAAD.Pro",
+        "MDX",
+        "FB-MultiPier",
+        "LPILE",
+        "LEAP Bridge Concrete",
+        "LEAP Bridge Steel"
+      ],
+      "company_tagline": "A consulting firm providing engineering design and planning services.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Civil Engineer",
+      "url": "https://careers-kimley-horn.icims.com/jobs/27138/civil-engineer/job?hub=7&in_iframe=1",
+      "company": "Kimley-Horn",
+      "location": "Orlando, Florida, United States",
+      "postedAt": 1791864000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "4+ years engineering design experience; Professional Engineering license or ability to obtain within 12 months; experience with site civil design, permitting, AutoCAD, Civil 3D, hydrology and storm drainage software.",
+      "tools": [
+        "AutoCAD",
+        "Civil 3D",
+        "hydrology modeling program",
+        "storm drainage program"
+      ],
+      "company_tagline": "An engineering consulting firm known for land development and design services.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Civil Engineer - Land Development",
+      "url": "https://careers-kimley-horn.icims.com/jobs/27137/civil-engineer---land-development/job?hub=7&in_iframe=1",
+      "company": "Kimley-Horn",
+      "location": "Miami, Florida, United States",
+      "postedAt": 1791864000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "4+ YOE",
+      "summary": "4+ years of relevant engineering design experience; Professional Engineering (P.E.) license or ability to obtain within 12 months; experience with site civil design, permitting, AutoCAD, Civil 3D, and hydrology/storm drainage software.",
+      "tools": [
+        "AutoCAD",
+        "Civil 3D",
+        "hydrology modeling program",
+        "storm drainage programs"
+      ],
+      "company_tagline": "An engineering consulting firm known for land development and design services.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Civil EIT - Transportation",
+      "url": "https://careers-kimley-horn.icims.com/jobs/27132/civil-eit---transportation/job?hub=7&in_iframe=1",
+      "company": "Kimley-Horn",
+      "location": "Gainesville, Florida, United States",
+      "postedAt": 1791864000000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2+ years traffic engineering experience; Bachelor's or Master's in civil engineering from ABET-accredited university; EIT or Engineering Intern certification or ability to obtain within 12 months; experience with Synchro, VISSIM, or other traffic analysis software.",
+      "tools": [
+        "Synchro",
+        "VISSIM"
+      ],
+      "company_tagline": "An engineering consulting firm providing transportation planning, traffic engineering, and infrastructure design services.",
+      "ats_source": "icims2"
+    },
+    {
+      "title": "Construction Office Engineer - CA",
+      "url": "https://intranet-challp.icims.com/jobs/7836/construction-office-engineer---ca/job?in_iframe=1",
+      "company": "CHA Consulting",
+      "location": "Riverside or Indio or Temecula",
+      "postedAt": 1791864000000,
+      "salary": "$125k-$141k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "Associate's degree in Construction Management, Business Administration, or related field required; Bachelor's preferred. 2+ years project administration or coordination experience required. Proficiency with Microsoft Office Suite and project management software.",
+      "tools": [
+        "Microsoft Office Suite",
+        "project management software"
+      ],
+      "company_tagline": "A consulting firm delivering roadway and bridge construction management services.",
+      "ats_source": "icims2"
     },
     {
       "title": "Remote Software Engineer",
@@ -509,6 +1028,93 @@
       "ats_source": "oraclepeoplesoft"
     },
     {
+      "title": "Engineer, Software",
+      "url": "https://jobs.deere.com/eightfold/job/Waterloo-Engineer%2C-Software-Iowa-50613-8000/1439446600/",
+      "company": "John Deere",
+      "location": "Waterloo, Iowa, United States",
+      "postedAt": 1791849600000,
+      "salary": "$75k-$112k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in software engineering, computer engineering, computer science, electrical engineering, or mechanical engineering; experience with MATLAB Simulink and C; troubleshooting control systems; 18+ years old; no visa sponsorship.",
+      "tools": [
+        "MATLAB Simulink",
+        "C",
+        "HIL",
+        "SIL",
+        "VIL",
+        "CAN",
+        "LIN",
+        "Ethernet"
+      ],
+      "company_tagline": "A global manufacturer of agricultural machinery and technology.",
+      "ats_source": "adhoc"
+    },
+    {
+      "title": "System Software Engineer - Performance",
+      "url": "https://nvidia.eightfold.ai/careers/job/893398135729",
+      "company": "NVIDIA",
+      "location": "Santa Clara or Austin or Hillsboro or California or Boulder or Redmond",
+      "postedAt": 1791849600000,
+      "salary": "$124k-$196k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "BS or MS in Computer Engineering, Computer Science or related; 2+ years computer architecture or SW development experience; strong understanding of multicore hardware, OS design, concurrency, virtual memory, caching, interrupts, device drivers, real-time programming; performance analysis and optimization.",
+      "tools": [
+        "CUDA"
+      ],
+      "company_tagline": "A technology company transforming computer graphics, PC gaming, and accelerated computing with AI.",
+      "ats_source": "eightfold"
+    },
+    {
+      "title": "Project Engineer",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=227586&clientkey=921A8CAE26EA48232E4467BA07F7C1DA",
+      "company": "TNT Crane & Rigging",
+      "location": "Norco or St. James",
+      "postedAt": 1791849600000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor of Science in Engineering, Construction Management, Design Drafting or related; 3 years crane/rigging planning preferred; Microsoft Office and AutoCAD or equivalent software experience.",
+      "tools": [
+        "Microsoft Office",
+        "AutoCAD"
+      ],
+      "company_tagline": "A crane and rigging company providing lift planning and engineering services.",
+      "ats_source": "paycom"
+    },
+    {
+      "title": "Platform Engineer",
+      "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Platform-Engineer_R-003161-1",
+      "company": "DTN",
+      "location": "Remote or United States",
+      "postedAt": 1791849600000,
+      "salary": "$85k-$113k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "2+ YOE",
+      "summary": "2-5 years professional software engineering experience; Bachelor's in Computer Science or equivalent; TypeScript/Node.js; AWS, Terraform, REST APIs, Git; SQL; AI-assisted development tools; on-call rotation.",
+      "tools": [
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Angular",
+        "Vue",
+        "Python",
+        "REST",
+        "GraphQL",
+        "JSON",
+        "Git",
+        "AWS",
+        "Terraform"
+      ],
+      "company_tagline": "A global data and technology company helping operational leaders in energy, agriculture, and weather-driven industries make faster, smarter decisions.",
+      "ats_source": "workday"
+    },
+    {
       "title": "Agentic Solutions Developer",
       "url": "https://employees-publicisgroupe.icims.com/jobs/136365/agentic-solutions-developer/job?in_iframe=1",
       "company": "Publicis Groupe",
@@ -648,6 +1254,34 @@
       ],
       "company_tagline": "A leading provider of software solutions for design, simulation, and manufacture across many industries.",
       "ats_source": "avature"
+    },
+    {
+      "title": "Agentic Solutions Developer",
+      "url": "https://careers.publicisgroupe.com/jobs/136365?lang=en-us",
+      "company": "Publicis Groupe",
+      "location": "El Segundo, California, United States",
+      "postedAt": 1791847467000,
+      "salary": "$97k-$149k/yr",
+      "workplace": "Hybrid",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3-5 years building production solutions on Microsoft stack; shipped Power Platform solutions in governed tenant; Dataverse, custom connectors, Azure Functions, Entra identity; fluent Python; Git; security review experience; minimal supervision.",
+      "tools": [
+        "Microsoft Power Platform",
+        "Power Automate",
+        "Copilot Studio",
+        "Dataverse",
+        "Azure Functions",
+        "Azure Storage",
+        "Microsoft Entra",
+        "Python",
+        "JSON",
+        "YAML",
+        "Git",
+        "Microsoft 365 Copilot"
+      ],
+      "company_tagline": "A creative agency that believes in creating ideas that can live anywhere and values close collaboration.",
+      "ats_source": "icims2"
     },
     {
       "title": "Genomics Software Engineer Professional",
@@ -1839,6 +2473,34 @@
       "ats_source": "grnhse"
     },
     {
+      "title": "Full Stack Developer",
+      "url": "https://ice.jibeapply.com/jobs/13899",
+      "company": "Intercontinental Exchange",
+      "location": "Jacksonville, Florida, United States",
+      "postedAt": 1791836041000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "Bachelor's degree in Computer Science or related field (or equivalent experience); 3+ years professional software development; proficiency in Java, Spring Boot, React, JavaScript, TypeScript, SQL, PostgreSQL; Git; Agile; AI tool usage.",
+      "tools": [
+        "React",
+        "Java",
+        "Spring Boot",
+        "C#",
+        ".NET",
+        "MS SQL",
+        "PostgreSQL",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "Git",
+        "Azure DevOps"
+      ],
+      "company_tagline": "A technology company developing platforms that power the mortgage lifecycle.",
+      "ats_source": "icims2"
+    },
+    {
       "title": "Software Engineer, AI & Automation",
       "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9",
       "company": "Flossy",
@@ -1978,10 +2640,10 @@
         "R",
         "C#",
         "JavaScript",
-        "ArcGIS"
+        "GeoAI"
       ],
-      "company_tagline": "A global leader in GIS technology, creating positive change through mapping and spatial analysis.",
-      "ats_source": "adhoc"
+      "company_tagline": "A global leader in GIS technology and spatial analysis software.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Platform & Data Engineer",
@@ -2265,23 +2927,23 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "2+ YOE",
-      "summary": "2+ years experience developing middleware with Java, Servlets, JSP; knowledge of cloud platforms (AWS, Azure), relational databases, web services (REST, SOAP), debugging tools, and source control; Bachelor's degree in math, computer science, physics or related field.",
+      "summary": "2+ years developing middleware with Java, JavaEE, JSP; cloud platforms AWS/Azure; relational databases; REST/SOAP; debugging tools; source control; Bachelor's in math, computer science, physics or related field.",
       "tools": [
         "Java",
         "JavaEE",
         "JSP",
-        "Servlets",
         "AWS",
         "Azure",
         "Amazon S3",
-        "Amazon SQS",
-        "Amazon EC2",
-        "Azure Blob Service",
-        "Azure Table Service",
-        "SQL Server"
+        "SQS",
+        "EC2",
+        "Blob Service",
+        "Table Service",
+        "SQL Server",
+        "Oracle"
       ],
-      "company_tagline": "A global leader in GIS technology, providing mapping and analytics software to customers worldwide.",
-      "ats_source": "adhoc"
+      "company_tagline": "A company delivering state-of-the-art mapping and analytics software to customers worldwide.",
+      "ats_source": "grnhse"
     },
     {
       "title": "Electrical Design Engineer, Excavators",
@@ -3660,7 +4322,7 @@
       "workplace": "Onsite",
       "commitment": "Full Time",
       "yoe": "",
-      "summary": "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Machine Learning or related field; strong Python and ML framework skills; experience with RL, inference, and distributed systems; collaboration skills.",
+      "summary": "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Machine Learning, or related field; strong Python and ML framework skills; experience with ML systems, RL infrastructure, inference services, or distributed experimentation.",
       "tools": [
         "Python",
         "PyTorch",
@@ -10170,92 +10832,6 @@
       "tools": [],
       "company_tagline": "A technology company providing software, cloud, and productivity solutions.",
       "ats_source": "successfactors"
-    },
-    {
-      "title": "eCW Software Training Specialist",
-      "url": "https://recruiting.ultipro.com/ecl1001ecwks/JobBoard/98b4068c-44c0-41c9-b7ef-58c0807d959f/OpportunityDetail?opportunityId=cb83f18d-4278-4a46-90c5-9d5ebc166e88",
-      "company": "eClinicalWorks",
-      "location": "Massachusetts, United States",
-      "postedAt": 1791728245812,
-      "salary": "$60k-$70k/yr",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree in engineering, computer science, or information systems; 2-5 years healthcare industry experience; valid driver's license; willingness to travel 50-75% within the US; must become eCW Certified Professional.",
-      "tools": [
-        "eCW",
-        "MySQL",
-        "Microsoft Office"
-      ],
-      "company_tagline": "A privately held leader in healthcare IT providing cloud-based EHR/PRM solutions to medical professionals.",
-      "ats_source": "ultipro"
-    },
-    {
-      "title": "Junior Forward Deployed Engineer",
-      "url": "https://jobs.ashbyhq.com/clark/e39423ba-10f6-44bb-a20f-5ccd33d53c52",
-      "company": "CLARK",
-      "location": "New York City, New York, United States",
-      "postedAt": 1791727637981,
-      "salary": "$100k-$130k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "0+ YOE",
-      "summary": "0-3 years software engineering or technical experience; comfortable coding in Python, JavaScript, TypeScript or similar; strong communication and problem-solving skills; ability to work in fast-paced startup environment.",
-      "tools": [
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "APIs",
-        "SQL"
-      ],
-      "company_tagline": "A company building trust infrastructure for the AI economy, helping accounting and audit firms adopt AI safely.",
-      "ats_source": "ashby"
-    },
-    {
-      "title": "GTM Engineer",
-      "url": "https://jobs.ashbyhq.com/joinpogo/72c39b0c-40d7-4ee8-99ed-83854e5c108e",
-      "company": "Pogo Technologies",
-      "location": "United States or Canada",
-      "postedAt": 1791723902299,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-5 years software engineering experience, some in GTM/growth/revenue systems; heavy use of AI tools like Claude Code, Cursor, Codex; experience with LLMs and AI agents; hands-on with modern GTM stack (Clay, HubSpot, Salesforce, Apollo, Cargo, Gong, Outreach/Instantly); strong product and design taste; production syste",
-      "tools": [
-        "Claude Code",
-        "Cursor",
-        "Codex",
-        "Clay",
-        "HubSpot",
-        "Salesforce",
-        "Apollo",
-        "Cargo",
-        "Gong",
-        "Outreach",
-        "Instantly"
-      ],
-      "company_tagline": "A technology company building AI-powered systems for enterprise revenue growth.",
-      "ats_source": "ashby"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "url": "https://jobs.ashbyhq.com/joinpogo/013e5e97-cf1f-49a8-950e-e568ab07bb64",
-      "company": "Pogo Technologies",
-      "location": "United States or Canada",
-      "postedAt": 1791723862267,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "2-4 years professional full-stack development experience; heavy user of AI tools like Claude Code, Cursor or Codex; experience building and maintaining production systems; strong product and design taste; ability to work across frontend and backend.",
-      "tools": [
-        "Claude Code",
-        "Cursor",
-        "Codex"
-      ],
-      "company_tagline": "A technology company building enterprise AI SaaS products.",
-      "ats_source": "ashby"
     }
   ]
 }
