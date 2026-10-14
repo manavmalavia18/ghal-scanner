@@ -534,3 +534,5 @@
 - [ ] https://jobs.ashbyhq.com/sardine/a29f881e-0256-4b63-91b8-ef7c9260255e | sardine | Fullstack Engineer, Investigator Tools | Ireland · Remote | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/sardine/5f63898a-6d71-4d60-815d-5ae7b9d2437d | sardine | Fullstack Engineer, Investigator Tools | Europe · Remote | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/sardine/8e9d4ba5-92f9-48f4-925d-090fd5d6e303 | sardine | Fullstack Engineer, Investigator Tools | United Kingdom / Europe · Remote | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8890041002 | aquaticcapitalmanagement | Software Engineer, Core Data | Chicago | posted: 2026-10-14
