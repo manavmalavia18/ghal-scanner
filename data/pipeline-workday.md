@@ -170,4 +170,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---WA---BELLEVUE/DevOps-Engineer_51590689 | dxctechnology | DevOps Engineer | 9 Locations | posted: 2026-10-14
 
+- [ ] https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/ML-Engineer--Agentic-Systems_JR101529-1 | cgg | ML Engineer, Agentic Systems | Houston, United States of America | posted: 2026-10-14
+
 ## Processed
