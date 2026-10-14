@@ -1,23 +1,26 @@
 #!/usr/bin/env node
 /**
- * Scrapes /api/metrics (Prometheus text format) once and remote_writes the
- * samples to Grafana Cloud. Run on a GitHub Actions cron — no long-running
- * Prometheus/Alloy server needed anywhere; this script IS the scrape+push
- * cycle, invoked periodically.
+ * Scrapes /api/metrics (Prometheus text format) once and pushes the samples
+ * to Grafana Cloud via its OTLP/HTTP metrics gateway. Run on a GitHub
+ * Actions cron — no long-running Prometheus/Alloy server needed anywhere;
+ * this script IS the scrape+push cycle, invoked periodically.
+ *
+ * Uses OTLP (not classic Prometheus remote_write) because that's what this
+ * Grafana Cloud stack's "Send Metrics over HTTP" setup wizard provisions —
+ * plain JSON over HTTP, no protobuf/snappy encoding needed.
  *
  * Required env:
- *   METRICS_URL                e.g. https://jobs.manavmalavia.org/api/metrics
- *   METRICS_SECRET             shared secret, sent as x-metrics-secret
- *   GRAFANA_REMOTE_WRITE_URL   from Grafana Cloud -> Send Metrics -> Prometheus
- *   GRAFANA_INSTANCE_ID        Basic auth username
- *   GRAFANA_API_TOKEN          Basic auth password (metrics:write scope)
+ *   METRICS_URL          e.g. https://jobs.manavmalavia.org/api/metrics
+ *   METRICS_SECRET       shared secret, sent as x-metrics-secret
+ *   GRAFANA_OTLP_URL     e.g. https://otlp-gateway-prod-us-east-3.grafana.net/otlp/v1/metrics
+ *   GRAFANA_INSTANCE_ID  Basic auth username
+ *   GRAFANA_API_TOKEN    Basic auth password (metrics:write scope)
  */
-import { pushTimeseries } from 'prometheus-remote-write';
 import { pathToFileURL } from 'url';
 
 const METRICS_URL = process.env.METRICS_URL;
 const METRICS_SECRET = process.env.METRICS_SECRET;
-const REMOTE_WRITE_URL = process.env.GRAFANA_REMOTE_WRITE_URL;
+const OTLP_URL = process.env.GRAFANA_OTLP_URL;
 const INSTANCE_ID = process.env.GRAFANA_INSTANCE_ID;
 const API_TOKEN = process.env.GRAFANA_API_TOKEN;
 
@@ -43,8 +46,36 @@ export function parsePrometheusText(text) {
   return out;
 }
 
+/** Builds an OTLP /v1/metrics JSON payload (gauges) from parsed samples. */
+export function buildOtlpPayload(samples, nowNs) {
+  const metrics = samples.map((s) => ({
+    name: s.name,
+    unit: '1',
+    description: '',
+    gauge: {
+      dataPoints: [{
+        asDouble: s.value,
+        timeUnixNano: nowNs.toString(),
+        attributes: Object.entries(s.labels || {}).map(([key, v]) => ({
+          key,
+          value: { stringValue: String(v) },
+        })),
+      }],
+    },
+  }));
+
+  return {
+    resourceMetrics: [{
+      resource: {
+        attributes: [{ key: 'service.name', value: { stringValue: 'scoutgrid-dashboard' } }],
+      },
+      scopeMetrics: [{ metrics }],
+    }],
+  };
+}
+
 async function main() {
-  for (const [name, val] of Object.entries({ METRICS_URL, REMOTE_WRITE_URL, INSTANCE_ID, API_TOKEN })) {
+  for (const [name, val] of Object.entries({ METRICS_URL, OTLP_URL, INSTANCE_ID, API_TOKEN })) {
     if (!val) {
       console.error(`missing required env: ${name}`);
       process.exit(1);
@@ -64,18 +95,25 @@ async function main() {
     return;
   }
 
-  const now = Date.now();
-  const timeseries = samples.map((s) => ({
-    labels: { __name__: s.name, job: 'scoutgrid-dashboard', ...s.labels },
-    samples: [{ value: s.value, timestamp: now }],
-  }));
+  const nowNs = BigInt(Date.now()) * 1_000_000n;
+  const payload = buildOtlpPayload(samples, nowNs);
+  const auth = Buffer.from(`${INSTANCE_ID}:${API_TOKEN}`).toString('base64');
 
-  await pushTimeseries(timeseries, {
-    url: REMOTE_WRITE_URL,
-    auth: { username: INSTANCE_ID, password: API_TOKEN },
+  const pushRes = await fetch(OTLP_URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      authorization: `Basic ${auth}`,
+    },
+    body: JSON.stringify(payload),
   });
 
-  console.log(`pushed ${timeseries.length} samples to Grafana Cloud`);
+  if (!pushRes.ok) {
+    const body = await pushRes.text().catch(() => '');
+    throw new Error(`OTLP push -> ${pushRes.status}: ${body.slice(0, 400)}`);
+  }
+
+  console.log(`pushed ${samples.length} samples to Grafana Cloud (OTLP)`);
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {

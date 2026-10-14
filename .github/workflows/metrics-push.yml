@@ -24,6 +24,6 @@ jobs:
         env:
           METRICS_URL: https://jobs.manavmalavia.org/api/metrics
           METRICS_SECRET: ${{ secrets.METRICS_SECRET }}
-          GRAFANA_REMOTE_WRITE_URL: ${{ secrets.GRAFANA_REMOTE_WRITE_URL }}
+          GRAFANA_OTLP_URL: ${{ secrets.GRAFANA_OTLP_URL }}
           GRAFANA_INSTANCE_ID: ${{ secrets.GRAFANA_INSTANCE_ID }}
           GRAFANA_API_TOKEN: ${{ secrets.GRAFANA_API_TOKEN }}

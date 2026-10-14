@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { parsePrometheusText } from '../scripts/push-metrics.mjs';
+import { parsePrometheusText, buildOtlpPayload } from '../scripts/push-metrics.mjs';
 
 test('parses gauges without labels', () => {
   const samples = parsePrometheusText('scoutgrid_users_total 12\n');
@@ -26,4 +26,26 @@ test('ignores HELP/TYPE comment lines and blank lines', () => {
 test('skips unparseable lines instead of throwing', () => {
   const samples = parsePrometheusText('not a valid metric line\nscoutgrid_users_total 3\n');
   assert.deepEqual(samples, [{ name: 'scoutgrid_users_total', labels: {}, value: 3 }]);
+});
+
+test('builds a valid OTLP resourceMetrics payload from samples', () => {
+  const samples = [
+    { name: 'scoutgrid_users_total', labels: {}, value: 12 },
+    { name: 'scoutgrid_jobs_total', labels: { track: 'software' }, value: 724 },
+  ];
+  const nowNs = 1791991711331000000n;
+  const payload = buildOtlpPayload(samples, nowNs);
+
+  const metrics = payload.resourceMetrics[0].scopeMetrics[0].metrics;
+  assert.equal(metrics.length, 2);
+
+  assert.equal(metrics[0].name, 'scoutgrid_users_total');
+  assert.equal(metrics[0].gauge.dataPoints[0].asDouble, 12);
+  assert.equal(metrics[0].gauge.dataPoints[0].timeUnixNano, nowNs.toString());
+  assert.deepEqual(metrics[0].gauge.dataPoints[0].attributes, []);
+
+  assert.equal(metrics[1].name, 'scoutgrid_jobs_total');
+  assert.deepEqual(metrics[1].gauge.dataPoints[0].attributes, [
+    { key: 'track', value: { stringValue: 'software' } },
+  ]);
 });
