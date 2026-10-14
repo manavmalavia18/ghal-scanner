@@ -7243,6 +7243,16 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Wayve"
+    careers_url: https://jobs.ashbyhq.com/wayve
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Micron Technology"
+    careers_url: https://micron.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
