@@ -163,4 +163,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://surescripts.wd503.myworkdayjobs.com/surescriptscareers/job/United-States/Software-Engineer_REQ3203-1 | Surescripts | Software Engineer | United States | posted: 2026-10-14
 - [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---Texas-Remote/DevOps-Engineer--Technology-_R0481506 | DaVita | DevOps Engineer (Technology) | 01548 - Texas Remote | posted: 2026-10-14
 
+- [ ] https://jobs.ashbyhq.com/clera/272f82c7-60dc-447e-8615-e9a99cd7caff | Clera | Mid-Level Platform Engineer, Biotech | San Francisco | posted: 2026-10-14
+
 ## Processed
