@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T16:52:35.896Z",
+  "fetchedAt": "2026-10-14T17:15:22.710Z",
   "days": 2,
   "leadCount": 87,
-  "jobCount": 74,
+  "jobCount": 73,
   "boards": [
     {
       "key": "greenhouse:candidate",
@@ -30,9 +30,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 205,
-      "kept": 0
+      "key": "greenhouse:waymo",
+      "fetched": 367,
+      "kept": 4
     },
     {
       "key": "greenhouse:asana",
@@ -40,13 +40,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 367,
-      "kept": 4
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 204,
+      "kept": 0
     },
     {
-      "key": "greenhouse:rzr",
-      "fetched": 52,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
       "kept": 0
     },
     {
@@ -60,12 +60,12 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:nflcareers",
-      "fetched": 34,
+      "key": "greenhouse:rzr",
+      "fetched": 52,
       "kept": 0
     },
     {
-      "key": "greenhouse:taketwo",
+      "key": "greenhouse:nflcareers",
       "fetched": 34,
       "kept": 0
     },
@@ -75,13 +75,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:ketch",
-      "fetched": 8,
+      "key": "greenhouse:en",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:en",
-      "fetched": 0,
+      "key": "greenhouse:lilasciences",
+      "fetched": 108,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:ketch",
+      "fetched": 8,
       "kept": 0
     },
     {
@@ -90,8 +95,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:lilasciences",
-      "fetched": 108,
+      "key": "greenhouse:harbingermotors",
+      "fetched": 91,
       "kept": 0
     },
     {
@@ -105,7 +110,7 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:malibucity",
+      "key": "greenhouse:explore",
       "fetched": 0,
       "kept": 0
     },
@@ -115,18 +120,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:explore",
+      "key": "greenhouse:malibucity",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:harbingermotors",
-      "fetched": 91,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 461,
+      "kept": 18
     },
     {
-      "key": "greenhouse:ridgeline",
-      "fetched": 29,
+      "key": "greenhouse:albert-invent-corp",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -140,8 +145,23 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:ridgeline",
+      "fetched": 29,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:iowa",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:nyulhcareers",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:ionq",
+      "fetched": 131,
       "kept": 0
     },
     {
@@ -150,13 +170,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:ionq",
-      "fetched": 131,
+      "key": "greenhouse:njjudiciary",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:njjudiciary",
-      "fetched": 0,
+      "key": "greenhouse:interstates",
+      "fetched": 202,
       "kept": 0
     },
     {
@@ -165,14 +185,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 459,
-      "kept": 18
-    },
-    {
-      "key": "greenhouse:interstates",
-      "fetched": 202,
-      "kept": 0
+      "key": "greenhouse:cloudflare",
+      "fetched": 446,
+      "kept": 1
     },
     {
       "key": "greenhouse:bridgeway",
@@ -180,28 +195,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:carbonrobotics",
-      "fetched": 11,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:guidepointsecurity",
-      "fetched": 69,
+      "fetched": 68,
       "kept": 0
     },
     {
       "key": "greenhouse:spacex",
-      "fetched": 2744,
+      "fetched": 2741,
       "kept": 3
     },
     {
-      "key": "greenhouse:twilio",
-      "fetched": 143,
-      "kept": 1
-    },
-    {
-      "key": "ashby:fluidstack",
-      "fetched": 248,
+      "key": "ashby:reflectionai",
+      "fetched": 47,
       "kept": 0
     },
     {
@@ -210,13 +215,8 @@
       "kept": 2
     },
     {
-      "key": "ashby:reflectionai",
-      "fetched": 47,
-      "kept": 0
-    },
-    {
-      "key": "ashby:openart",
-      "fetched": 27,
+      "key": "ashby:fluidstack",
+      "fetched": 248,
       "kept": 0
     },
     {
@@ -230,6 +230,11 @@
       "kept": 1
     },
     {
+      "key": "ashby:ema",
+      "fetched": 37,
+      "kept": 0
+    },
+    {
       "key": "ashby:chainalysis-careers",
       "fetched": 51,
       "kept": 1
@@ -240,14 +245,14 @@
       "kept": 1
     },
     {
-      "key": "ashby:cohere",
-      "fetched": 117,
-      "kept": 1
+      "key": "ashby:elevenlabs",
+      "fetched": 146,
+      "kept": 9
     },
     {
-      "key": "ashby:ema",
-      "fetched": 37,
-      "kept": 0
+      "key": "ashby:latent",
+      "fetched": 26,
+      "kept": 1
     },
     {
       "key": "ashby:anysignal",
@@ -255,8 +260,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:recall",
-      "fetched": 5,
+      "key": "ashby:cohere",
+      "fetched": 117,
+      "kept": 1
+    },
+    {
+      "key": "ashby:openart",
+      "fetched": 27,
       "kept": 0
     },
     {
@@ -265,18 +275,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:elevenlabs",
-      "fetched": 146,
-      "kept": 9
-    },
-    {
-      "key": "greenhouse:cloudflare",
-      "fetched": 446,
-      "kept": 1
-    },
-    {
-      "key": "ashby:armadin",
-      "fetched": 23,
+      "key": "ashby:sideshift",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -285,9 +285,19 @@
       "kept": 1
     },
     {
+      "key": "ashby:recall",
+      "fetched": 5,
+      "kept": 0
+    },
+    {
       "key": "ashby:snowflake",
-      "fetched": 356,
+      "fetched": 355,
       "kept": 2
+    },
+    {
+      "key": "ashby:widgetfactory",
+      "fetched": 3,
+      "kept": 0
     },
     {
       "key": "ashby:latchbio",
@@ -295,28 +305,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:par%20technology",
-      "fetched": 33,
-      "kept": 1
-    },
-    {
-      "key": "ashby:zefr",
-      "fetched": 5,
-      "kept": 1
-    },
-    {
-      "key": "ashby:pramaana-labs",
-      "fetched": 4,
-      "kept": 0
-    },
-    {
-      "key": "ashby:whoop",
-      "fetched": 170,
-      "kept": 0
-    },
-    {
-      "key": "ashby:ntt-data-aivista",
-      "fetched": 5,
+      "key": "ashby:armadin",
+      "fetched": 23,
       "kept": 0
     },
     {
@@ -325,13 +315,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:skydio",
-      "fetched": 155,
+      "key": "ashby:peec",
+      "fetched": 40,
       "kept": 0
     },
     {
-      "key": "lever:reply",
-      "fetched": 44,
+      "key": "ashby:par%20technology",
+      "fetched": 33,
+      "kept": 1
+    },
+    {
+      "key": "ashby:whoop",
+      "fetched": 170,
       "kept": 0
     },
     {
@@ -345,24 +340,14 @@
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 238,
-      "kept": 3
+      "key": "lever:acceldata",
+      "fetched": 39,
+      "kept": 0
     },
     {
       "key": "lever:rhombus-systems",
       "fetched": 7,
       "kept": 0
-    },
-    {
-      "key": "lever:enablecomp",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "lever:crowdhealth",
-      "fetched": 5,
-      "kept": 1
     },
     {
       "key": "lever:thea.energy",
@@ -375,9 +360,14 @@
       "kept": 0
     },
     {
-      "key": "lever:cirrus",
-      "fetched": 0,
-      "kept": 0
+      "key": "lever:enablecomp",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "lever:veeva",
+      "fetched": 949,
+      "kept": 3
     },
     {
       "key": "lever:make-rain",
@@ -410,18 +400,8 @@
       "kept": 0
     },
     {
-      "key": "lever:acceldata",
-      "fetched": 39,
-      "kept": 0
-    },
-    {
       "key": "workday:zebra.wd501.myworkdayjobs.com/zebra_careers",
       "fetched": 40,
-      "kept": 0
-    },
-    {
-      "key": "workday:kissusa.wd12.myworkdayjobs.com/kiss_careers_external",
-      "fetched": 20,
       "kept": 0
     },
     {
@@ -430,13 +410,33 @@
       "kept": 0
     },
     {
+      "key": "workday:kissusa.wd12.myworkdayjobs.com/kiss_careers_external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:crowdhealth",
+      "fetched": 5,
+      "kept": 1
+    },
+    {
       "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
       "fetched": 80,
       "kept": 7
     },
     {
-      "key": "lever:veeva",
-      "fetched": 947,
+      "key": "lever:cirrus",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:reply",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 238,
       "kept": 3
     }
   ],
@@ -530,36 +530,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "orenda"
-    },
-    {
-      "title": "Director of Software Engineering, Analytics",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
-      "company": "Planet Labs",
-      "location": "Arlington, VA; Denver, CO",
-      "postedAt": "2026-10-13T23:27:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "planetlabs"
-    },
-    {
-      "title": "Staff Fullstack Engineer",
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
-      "company": "Alpaca",
-      "location": "Remote - Americas or EU",
-      "postedAt": "2026-10-13T22:59:54.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "alpaca"
-    },
-    {
-      "title": "Senior Software Development Engineer in Test - AI",
-      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845737002",
-      "company": "Anaplan",
-      "location": "North Carolina-Remote",
-      "postedAt": "2026-10-13T22:07:55.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "anaplan"
     },
     {
       "title": "Senior Software Engineer, Data Engineering",
@@ -742,6 +712,46 @@
       "board": "doordashusa"
     },
     {
+      "title": "Director of Software Engineering, Analytics",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
+      "company": "Planet Labs",
+      "location": "Arlington, VA; Denver, CO",
+      "postedAt": "2026-10-13T23:27:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "planetlabs"
+    },
+    {
+      "title": "Staff Fullstack Engineer",
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+      "company": "Alpaca",
+      "location": "Remote - Americas or EU",
+      "postedAt": "2026-10-13T22:59:54.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "alpaca"
+    },
+    {
+      "title": "Senior Software Development Engineer in Test - AI",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845737002",
+      "company": "Anaplan",
+      "location": "North Carolina-Remote",
+      "postedAt": "2026-10-13T22:07:55.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "anaplan"
+    },
+    {
+      "title": "Senior Software Engineer, Distributed Databases",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
+      "company": "Cloudflare",
+      "location": "In-Office · Austin, TX · London, United Kingdom · Seattle, WA",
+      "postedAt": "2026-10-13T22:19:07.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
+    },
+    {
       "title": "Sr. Software Engineer, Network Observability (Starlink)",
       "url": "https://boards.greenhouse.io/spacex/jobs/8871849002?gh_jid=8871849002",
       "company": "SpaceX",
@@ -770,16 +780,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "spacex"
-    },
-    {
-      "title": "Software Engineer (L2) Messaging Channels Team ",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "postedAt": "2026-10-13T19:12:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "twilio"
     },
     {
       "title": "Software Engineer, Simulation",
@@ -830,36 +830,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "langchain"
-    },
-    {
-      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-      "company": "Cohere",
-      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
-      "postedAt": "2026-10-13T23:49:23.157Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cohere"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
-      "company": "AnySignal",
-      "location": "Los Angeles, CA",
-      "postedAt": "2026-10-14T00:19:04.536Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "anysignal"
-    },
-    {
-      "title": "Software Engineer, Applied Machine Learning",
-      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
-      "company": "fal",
-      "location": "San Francisco",
-      "postedAt": "2026-10-13T21:14:59.835Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "fal-ai"
     },
     {
       "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
@@ -952,14 +922,44 @@
       "board": "elevenlabs"
     },
     {
-      "title": "Senior Software Engineer, Distributed Databases",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
-      "company": "Cloudflare",
-      "location": "In-Office · Austin, TX · London, United Kingdom · Seattle, WA",
-      "postedAt": "2026-10-13T22:19:07.000Z",
+      "title": "Head of Applied AI",
+      "url": "https://jobs.ashbyhq.com/latent/135e2c49-440b-496d-92aa-541143b252f3",
+      "company": "Latent Health",
+      "location": "San Francisco",
+      "postedAt": "2026-10-12T22:12:35.772Z",
       "salary": "",
-      "ats": "Greenhouse",
-      "board": "cloudflare"
+      "ats": "Ashby",
+      "board": "latent"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
+      "company": "AnySignal",
+      "location": "Los Angeles, CA",
+      "postedAt": "2026-10-14T00:19:04.536Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "anysignal"
+    },
+    {
+      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
+      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
+      "company": "Cohere",
+      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
+      "postedAt": "2026-10-13T23:49:23.157Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cohere"
+    },
+    {
+      "title": "Software Engineer, Applied Machine Learning",
+      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
+      "company": "fal",
+      "location": "San Francisco",
+      "postedAt": "2026-10-13T21:14:59.835Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "fal-ai"
     },
     {
       "title": "Software Engineer (Travel Heavy)",
@@ -1012,46 +1012,6 @@
       "board": "par%20technology"
     },
     {
-      "title": "Software Development Engineer in Test (SDET)",
-      "url": "https://jobs.ashbyhq.com/zefr/2e63eeac-1d66-4cd2-b3c5-a40aaaf5e844",
-      "company": "Zefr",
-      "location": "Marina del Rey, CA",
-      "postedAt": "2026-10-13T17:50:15.792Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "zefr"
-    },
-    {
-      "title": "Software Development Engineer in Test",
-      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-10-13T18:42:25.783Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
-      "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
-      "company": "Zoox",
-      "location": "Foster City, CA; Seattle, WA",
-      "postedAt": "2026-10-12T22:06:04.512Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Machine Learning Engineer - 3D Sensor Simulation",
-      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "company": "Zoox",
-      "location": "Foster City, CA; Seattle, WA",
-      "postedAt": "2026-10-12T21:59:45.194Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
       "title": "AI Engineer (REMOTE)",
       "url": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
       "company": "EnableComp",
@@ -1060,6 +1020,46 @@
       "salary": "",
       "ats": "Lever",
       "board": "enablecomp"
+    },
+    {
+      "title": "Associate DevOps Engineer",
+      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-13T18:10:04.637Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "url": "https://jobs.lever.co/veeva/3957164e-e2ec-402a-b3b8-c5225eb9b0fa",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-12T21:04:17.114Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "url": "https://jobs.lever.co/veeva/17af8079-4844-4b36-b898-ae488e638108",
+      "company": "Veeva Systems",
+      "location": "Missouri - Kansas City",
+      "postedAt": "2026-10-12T21:03:19.507Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
+      "company": "Rainmaker Technology Corporation",
+      "location": "El Segundo, CA",
+      "postedAt": "2026-10-13T00:52:59.631Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "make-rain"
     },
     {
       "title": "Software Engineer, AI & Data",
@@ -1072,14 +1072,15 @@
       "board": "crowdhealth"
     },
     {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
-      "company": "Rainmaker Technology Corporation",
-      "location": "El Segundo, CA",
-      "postedAt": "2026-10-13T00:52:59.631Z",
+      "title": "Senior Software Engineer",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202622383",
+      "company": "General Motors",
+      "location": "Milford, Michigan, United States of America",
+      "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
-      "ats": "Lever",
-      "board": "make-rain"
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Senior Software Engineer",
@@ -1126,17 +1127,6 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Senior Software Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202622383",
-      "company": "General Motors",
-      "location": "Milford, Michigan, United States of America",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Software Developer - Simulation Platform (Galileo)",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524",
       "company": "General Motors",
@@ -1159,34 +1149,34 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Associate DevOps Engineer",
-      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
-      "company": "Veeva Systems",
-      "location": "Massachusetts - Boston",
-      "postedAt": "2026-10-13T18:10:04.637Z",
+      "title": "Software Development Engineer in Test",
+      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-10-13T18:42:25.783Z",
       "salary": "",
       "ats": "Lever",
-      "board": "veeva"
+      "board": "zoox"
     },
     {
-      "title": "Senior Software Engineer - Full Stack",
-      "url": "https://jobs.lever.co/veeva/3957164e-e2ec-402a-b3b8-c5225eb9b0fa",
-      "company": "Veeva Systems",
-      "location": "Massachusetts - Boston",
-      "postedAt": "2026-10-12T21:04:17.114Z",
+      "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
+      "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
+      "company": "Zoox",
+      "location": "Foster City, CA; Seattle, WA",
+      "postedAt": "2026-10-12T22:06:04.512Z",
       "salary": "",
       "ats": "Lever",
-      "board": "veeva"
+      "board": "zoox"
     },
     {
-      "title": "Senior Software Engineer - Full Stack",
-      "url": "https://jobs.lever.co/veeva/17af8079-4844-4b36-b898-ae488e638108",
-      "company": "Veeva Systems",
-      "location": "Missouri - Kansas City",
-      "postedAt": "2026-10-12T21:03:19.507Z",
+      "title": "Machine Learning Engineer - 3D Sensor Simulation",
+      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "company": "Zoox",
+      "location": "Foster City, CA; Seattle, WA",
+      "postedAt": "2026-10-12T21:59:45.194Z",
       "salary": "",
       "ats": "Lever",
-      "board": "veeva"
+      "board": "zoox"
     }
   ],
   "leadSources": [
