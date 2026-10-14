@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T17:32:06.131Z",
+  "generatedAt": "2026-10-14T18:01:58.260Z",
   "boardCount": 734,
-  "candidateCount": 86,
-  "acceptedCount": 648,
-  "alreadyTrackedCount": 714,
+  "candidateCount": 66,
+  "acceptedCount": 668,
+  "alreadyTrackedCount": 734,
   "boards": [
     {
       "key": "ashby:8090 solutions inc",
@@ -91,11 +91,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/aim/1e62a759-619f-468a-b8fd-2cbd71b6c5a2",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -331,17 +331,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -505,7 +505,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "nextplay",
@@ -515,7 +515,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -861,7 +861,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "nextplay",
@@ -871,7 +871,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -1089,11 +1089,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/binance.us/022510b5-3654-44c0-b573-e2c6209c778c",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -1413,17 +1413,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -1689,13 +1689,13 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/cohere/eef82766-7e31-430f-a102-bc33a5022597",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         },
         {
           "source": "nextplay",
@@ -1705,7 +1705,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -1726,13 +1726,13 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         },
         {
           "source": "nextplay",
@@ -1742,7 +1742,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -2440,11 +2440,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/ekarobotics/d07ecc50-fdbd-4ddf-b4ab-037f6e076d11",
           "firstSeenAt": "2026-10-13T19:47:07.498Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:47:07.498Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -2464,13 +2464,13 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/elevenlabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
           "firstSeenAt": "2026-10-13T17:47:17.433Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         },
         {
           "source": "nextplay",
@@ -2480,7 +2480,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -2794,13 +2794,13 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         },
         {
           "source": "nextplay",
@@ -2810,7 +2810,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -4302,11 +4302,11 @@
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
           "firstSeenAt": "2026-10-14T15:46:13.411Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T15:46:13.411Z",
-      "lastSeenAt": "2026-10-14T17:15:22.710Z",
+      "lastSeenAt": "2026-10-14T17:36:33.758Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -4326,17 +4326,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/latchbio/9251b764-4341-460b-8961-4407b7612733",
           "firstSeenAt": "2026-10-13T20:04:14.794Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/latchbio/57fcf84e-36c3-4684-9a80-9d96661b096e",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T20:04:14.794Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -4362,13 +4362,13 @@
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/latent/135e2c49-440b-496d-92aa-541143b252f3",
           "firstSeenAt": "2026-10-14T17:15:22.710Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
-      "lastSeenAt": "2026-10-14T17:15:22.710Z",
+      "lastSeenAt": "2026-10-14T17:36:33.758Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -5010,17 +5010,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/mintmcp/8dae46f3-0194-4f8e-b79b-986385589292",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -5708,11 +5708,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -5828,7 +5828,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -5844,7 +5844,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -5984,11 +5984,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/outset/18583f35-f1d5-41ad-9924-2bda6f5435ad",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -6032,17 +6032,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -6188,7 +6188,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -6596,11 +6596,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/pramaana-labs/6b6893c8-3d96-401f-a90f-e30261bec259",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -6890,7 +6890,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/rainmaker/f8b481f8-35f7-486e-a7cf-fec7cbf41d0e",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -6900,7 +6900,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -6968,11 +6968,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -7852,7 +7852,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -7942,11 +7942,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -7990,17 +7990,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -8284,11 +8284,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -9547,17 +9547,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
           "firstSeenAt": "2026-10-14T12:19:33.607Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T12:19:33.607Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -9577,11 +9577,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/weave/60c0b7e6-5702-4e16-ad34-cbd2773f752d",
           "firstSeenAt": "2026-10-14T16:23:06.482Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T16:23:06.482Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -9649,11 +9649,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/whoop/422da18d-adfc-41d7-ad01-d3e001250e86",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -9703,7 +9703,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -9889,7 +9889,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.ashbyhq.com/zefr/2e63eeac-1d66-4cd2-b3c5-a40aaaf5e844",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -9899,7 +9899,7 @@
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -9967,11 +9967,11 @@
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T21:23:46.216Z",
-      "lastSeenAt": "2026-10-14T17:15:22.710Z",
+      "lastSeenAt": "2026-10-14T17:36:33.758Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10039,13 +10039,13 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/alpaca/jobs/6207262004",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         },
         {
           "source": "nextplay",
@@ -10055,7 +10055,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -10075,17 +10075,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/anaplan/jobs/8845838002",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/anaplan/jobs/8845737002",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10105,7 +10105,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5262503007?gh_jid=5262503007",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -10115,7 +10115,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10243,7 +10243,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -10333,11 +10333,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/careersday/jobs/8279026?gh_jid=8279026",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10381,11 +10381,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/cayuse/jobs/8885769002",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10435,7 +10435,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -10549,17 +10549,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
           "firstSeenAt": "2026-10-14T12:19:33.607Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T12:19:33.607Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -10603,11 +10603,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/csbinternship/jobs/4449867009",
           "firstSeenAt": "2026-10-13T18:13:21.720Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T18:13:21.720Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10754,17 +10754,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8138486",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8192152",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10880,11 +10880,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/elementbiosciences/jobs/6221722004",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -10928,11 +10928,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5450042008",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11000,11 +11000,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11072,11 +11072,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
           "firstSeenAt": "2026-10-13T18:13:21.720Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T18:13:21.720Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11480,7 +11480,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -11490,7 +11490,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11750,7 +11750,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/minitab/jobs/8030958003",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -11760,7 +11760,7 @@
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11924,7 +11924,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009",
           "firstSeenAt": "2026-10-13T18:13:21.720Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -11934,7 +11934,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T18:13:21.720Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -11978,7 +11978,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/openeye/jobs/8884038002",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -11988,7 +11988,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12008,17 +12008,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/orenda/jobs/8031471003",
           "firstSeenAt": "2026-10-14T16:44:39.245Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/orenda/jobs/8031471003",
           "firstSeenAt": "2026-10-14T17:15:22.710Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12206,17 +12206,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/planetlabs/jobs/8221849",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12428,11 +12428,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/ridgeline/jobs/8031874003?gh_jid=8031874003",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12572,17 +12572,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/spacex/jobs/8864584002?gh_jid=8864584002",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
           "firstSeenAt": "2026-10-14T14:17:45.131Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -12698,11 +12698,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
           "firstSeenAt": "2026-10-14T14:32:23.170Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:32:23.170Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12818,7 +12818,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -12828,7 +12828,7 @@
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -12926,7 +12926,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boards.greenhouse.io/vast/jobs/4718300006?gh_jid=4718300006",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "nextplay",
@@ -12936,7 +12936,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:35:02.078Z",
-      "lastSeenAt": "2026-10-14T17:28:23.989Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -12956,11 +12956,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8204509",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13268,17 +13268,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
           "firstSeenAt": "2026-10-14T16:44:39.245Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
           "firstSeenAt": "2026-10-14T17:15:22.710Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13298,17 +13298,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
           "firstSeenAt": "2026-10-13T20:04:14.794Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T20:04:14.794Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13550,11 +13550,11 @@
           "source": "jobright",
           "sampleJobUrl": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
           "firstSeenAt": "2026-10-13T21:23:46.216Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:15:22.710Z",
+      "lastSeenAt": "2026-10-14T17:36:33.758Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13598,11 +13598,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/primee/ae034c23-f0ca-490d-8c6d-da7aac856835",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13622,11 +13622,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/reply/d24a1372-b895-4835-80ab-3ca3ef6c97e6",
           "firstSeenAt": "2026-10-14T16:44:39.245Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13646,11 +13646,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13742,11 +13742,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/thea.energy/4b6afe2c-103a-41db-abdd-a3080c958f92",
           "firstSeenAt": "2026-10-13T20:04:14.794Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T20:04:14.794Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13814,17 +13814,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
           "firstSeenAt": "2026-10-14T16:44:39.245Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
           "firstSeenAt": "2026-10-14T17:15:22.710Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -13946,17 +13946,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
           "firstSeenAt": "2026-10-13T17:47:17.433Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -13976,11 +13976,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer-III--Data-Platform-Operations---Remote_R8040",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14000,11 +14000,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/North-Vernon-IN/Manufacturing-Engineer_JREQ-225778",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14024,11 +14024,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/Chicago-Accenture-Tower-Corp/OneStream-Developer_R00363949",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14054,7 +14054,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14072,11 +14072,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://aes.wd1.myworkdayjobs.com/aes_clean_energy/job/US-Louisville-CO/Generator-Modeling-Engineer_R1065219",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14096,11 +14096,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://alkegen.wd5.myworkdayjobs.com/alkegen/job/Buffalo-NY/Laboratory-Services-Engineer_R12689",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14192,11 +14192,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Ohio/Software-Engineer_JR100384",
           "firstSeenAt": "2026-10-13T20:04:14.794Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T20:04:14.794Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14288,11 +14288,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://aveva.wd3.myworkdayjobs.com/aveva_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -14342,7 +14342,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14408,11 +14408,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R73434",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -14480,11 +14480,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -14534,7 +14534,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14552,11 +14552,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/US---Fremont-CA/Software-Engineer_R7769",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14600,11 +14600,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://canvasinc.wd108.myworkdayjobs.com/canvas/job/Robins-AFB-GA/XMLNAME-10070---Software-Engineer-II_JR100872",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14624,11 +14624,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Plano-TX/Data-Engineer-3_R1003347-1",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14720,11 +14720,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://cgb.wd5.myworkdayjobs.com/cgb_careers/job/Mandeville-LA/Senior-Net-Developer_R0007234",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14744,11 +14744,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://cgg.wd103.myworkdayjobs.com/viridiengraduate/job/Houston-United-States-of-America/ML-Engineer--Agentic-Systems_JR101529-3",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14774,7 +14774,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14792,11 +14792,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Senior-Production-Support-Engineer_2620964",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14816,11 +14816,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/QA-Software-Engineer-NC-Hybrid_2023070",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -14840,11 +14840,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://citjpl.wd5.myworkdayjobs.com/jobs/job/JPL-Campus/Scientific-Applications-Software-Engineering-I_R6139",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14912,11 +14912,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Richmond---CoStar-Tower/Software-Engineer-II---Sales-Development_R40090",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -14936,11 +14936,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Muskegon-Michigan-United-States/Maintenance-Engineer_R1318180",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14960,11 +14960,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---Texas-Remote/DevOps-Engineer--Technology-_R0481506",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -14984,7 +14984,7 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Remote-TX/Platform-Engineer_R-003161-1",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
@@ -14994,7 +14994,7 @@
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15068,7 +15068,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15110,11 +15110,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Software-Engineer--Internal-Applications_R-82305",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15134,11 +15134,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers/job/Reston-VA/Jr-Cloud-Automation-Engineer_JR2956",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15182,11 +15182,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -15236,7 +15236,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15254,11 +15254,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Software-Engineer_2132158-1",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15284,7 +15284,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15302,11 +15302,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--SW-DEV-_RQ230270",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15350,17 +15350,17 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202622222",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         },
         {
           "source": "jobright",
           "sampleJobUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Staff-Engineer--Site-Reliability-Engineering_JR-202621675",
           "firstSeenAt": "2026-10-14T12:19:33.607Z",
-          "lastSeenAt": "2026-10-14T17:15:22.710Z"
+          "lastSeenAt": "2026-10-14T17:36:33.758Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15386,7 +15386,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15428,11 +15428,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15452,11 +15452,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/XMLNAME-2027-Co-Op---Internship--Project-Engineer_JR108109",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15500,11 +15500,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://greyco.wd108.myworkdayjobs.com/gti/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15572,11 +15572,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Developer--Online_Req194858",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15644,11 +15644,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineer-II---Network-Test-Engineer_1214576-2",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -15692,11 +15692,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Wisconsin/Site-Reliability-Engineer_R-432522",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15716,11 +15716,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://imeg.wd1.myworkdayjobs.com/imeg_careers/job/San-Francisco-CA/Structural-Engineering-New-Graduate---San-Francisco--CA_R-16731",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15770,7 +15770,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15836,11 +15836,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -15860,11 +15860,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://jainglobal.wd5.myworkdayjobs.com/linkedincareersite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608-2",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:02:51.606Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:02:51.606Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16052,11 +16052,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16076,11 +16076,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16100,11 +16100,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16148,11 +16148,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16172,11 +16172,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://lennar.wd1.myworkdayjobs.com/Early_Careers/job/Miami-FL-Job-Posting-Location/Future-Builder---Growth-Specialist_R26_0000004516",
           "firstSeenAt": "2026-10-13T18:13:21.720Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T18:13:21.720Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16274,7 +16274,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -16490,11 +16490,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/Software-Test-Engineer_R69645",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16514,11 +16514,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Software-Engineer-Intern_R26_6029-1",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -16562,11 +16562,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://myhrabc.wd5.myworkdayjobs.com/global/job/Conshohocken-PA/Full-Stack-Engineer-II_R2612984",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16586,11 +16586,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://nationalindemnity.wd5.myworkdayjobs.com/nico/job/Omaha-NE/Senior-Software-Engineer--Guidewire-_R14809-3",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16634,11 +16634,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance_JR2027451",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16658,11 +16658,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://onehealthineers.wd3.myworkdayjobs.com/ijmhrms/job/PAO-H-3120/Microwave-and-Linac-Scientist_R-29376",
           "firstSeenAt": "2026-10-14T14:32:23.170Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:32:23.170Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16706,11 +16706,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Applications-Developer-2_R160696-1",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16730,11 +16730,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://papedawson.wd12.myworkdayjobs.com/pde/job/Plano-TX/Engineer-III---Stormwater_JR101712",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16802,11 +16802,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/IOWA-CITY-PLANT/Technical-Readiness-Leader--Iowa-City-Beauty-Care-Plant_R000152427",
           "firstSeenAt": "2026-10-13T19:26:51.098Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16946,11 +16946,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://pwc.wd3.myworkdayjobs.com/us_experienced_careers/job/FL-Tampa/US-Tech---AI-Engineer--Senior-Associate_767689WD",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -16970,11 +16970,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://rakuten.wd1.myworkdayjobs.com/rakutenrewards/job/San-Mateo-California/QA-Automation-Engineer_1038634-1",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17042,11 +17042,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://ritehite.wd12.myworkdayjobs.com/rhh/job/USA-IA-Dubuque-Headquarters/Design-Engineer_JR102532",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17144,7 +17144,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17162,11 +17162,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://schnucks.wd5.myworkdayjobs.com/schnuckscareers/job/Schnucks-Store-Support-Center-Corporate-Office/Industrial-Engineer_R-0044613",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17234,11 +17234,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/1530-FM-973-Taylor-TX-USA/Experienced-Photo-Process-Engineer_R120825",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17258,11 +17258,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Software-Engineer--Go--Typescript--C-_2026-23482",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17288,7 +17288,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17426,11 +17426,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Staff-Software-Design-Quality-Engineer_R575020",
           "firstSeenAt": "2026-10-14T13:42:55.063Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17450,11 +17450,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://surescripts.wd503.myworkdayjobs.com/surescriptscareers/job/United-States/Software-Engineer_REQ3203-1",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17498,11 +17498,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Research-Developer_R-2026-73737",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17522,11 +17522,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers1/job/AND---Jacksonville-FL/Software-Engineer-II_R54689",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17618,11 +17618,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://thales.wd3.myworkdayjobs.com/careers/job/Orlando/AI-Engineer---Graduate_R0341851-1",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17786,11 +17786,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://trinitylifesciences.wd108.myworkdayjobs.com/trinity/job/New-York-NY/AI-Summer-Intern---Data-Science---AI-_JR100856",
           "firstSeenAt": "2026-10-13T19:03:19.441Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17840,7 +17840,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17858,11 +17858,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-2---Java--Generative-AI--RAG---Cloud-Engineering_2026-0032050",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "candidate",
       "alreadyTracked": true,
       "verification": {
@@ -17906,11 +17906,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://victaulic.wd1.myworkdayjobs.com/victaulic_careers/job/Remote---USA/Software-Developer_R0005984",
           "firstSeenAt": "2026-10-13T16:39:06.400Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -17960,7 +17960,7 @@
       "firstSeenAt": "2026-10-14T17:02:51.606Z",
       "lastSeenAt": "2026-10-14T17:02:51.606Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17978,11 +17978,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis/job/Home-Office-Colorado-United-States/IT-Intern--CA--CO--MI--OR--TX--WA-_R1881",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
@@ -18002,11 +18002,11 @@
           "source": "hiringcafe",
           "sampleJobUrl": "https://wonder.wd1.myworkdayjobs.com/wg/job/Spyce/Software-Engineer--Back-End-_JR101409",
           "firstSeenAt": "2026-10-14T14:07:08.825Z",
-          "lastSeenAt": "2026-10-14T17:27:55.575Z"
+          "lastSeenAt": "2026-10-14T17:44:46.937Z"
         }
       ],
       "firstSeenAt": "2026-10-14T14:07:08.825Z",
-      "lastSeenAt": "2026-10-14T17:27:55.575Z",
+      "lastSeenAt": "2026-10-14T17:44:46.937Z",
       "state": "accepted",
       "alreadyTracked": true,
       "verification": {
