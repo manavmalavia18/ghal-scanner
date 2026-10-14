@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T20:14:21.989Z",
+  "fetchedAt": "2026-10-14T20:35:47.437Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 317,
+  "companyCount": 316,
   "companies": [
     {
       "company": "7-Eleven",
@@ -176,13 +176,6 @@
       "url": "https://athene.wd5.myworkdayjobs.com/athene_careers"
     },
     {
-      "company": "Aurelius Systems",
-      "ats": "ashby",
-      "board": "aureliussystems",
-      "key": "ashby:aureliussystems",
-      "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac"
-    },
-    {
       "company": "AutoNation",
       "ats": "workday",
       "board": "careers",
@@ -244,13 +237,6 @@
       "board": "",
       "key": "greenhouse-id:4448611009",
       "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4448611009"
-    },
-    {
-      "company": "Blend",
-      "ats": "greenhouse",
-      "board": "blend",
-      "key": "greenhouse:blend",
-      "url": "https://job-boards.greenhouse.io/blend/jobs/6222384004"
     },
     {
       "company": "Blue Origin",
@@ -351,6 +337,13 @@
       "url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006"
     },
     {
+      "company": "CarGurus",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8243216",
+      "url": "https://careers.cargurus.com/us/en/job/8243216?gh_jid=8243216"
+    },
+    {
       "company": "Cayuse",
       "ats": "greenhouse",
       "board": "cayuse",
@@ -407,18 +400,18 @@
       "url": "https://ats.rippling.com/cintal/jobs/99650597-3def-40d1-b8e1-243ee99ff3da"
     },
     {
-      "company": "Cirrus Logic",
-      "ats": "lever",
-      "board": "cirrus",
-      "key": "lever:cirrus",
-      "url": "https://jobs.eu.lever.co/cirrus/bf690fb8-373c-461d-8c2c-014f8b7b5c8f"
-    },
-    {
       "company": "Cisco",
       "ats": "workday",
       "board": "cisco_careers",
       "key": "workday:cisco.wd5.myworkdayjobs.com/cisco_careers",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers"
+    },
+    {
+      "company": "Citi",
+      "ats": "workday",
+      "board": "2",
+      "key": "workday:citi.wd5.myworkdayjobs.com/2",
+      "url": "https://citi.wd5.myworkdayjobs.com/2"
     },
     {
       "company": "City of Baltimore",
@@ -440,6 +433,20 @@
       "board": "minneapolismn",
       "key": "greenhouse:minneapolismn",
       "url": "https://www.governmentjobs.com/careers/minneapolismn/jobs/5501791-0"
+    },
+    {
+      "company": "City Storage Systems",
+      "ats": "greenhouse",
+      "board": "cssmerge",
+      "key": "greenhouse:cssmerge",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
+    },
+    {
+      "company": "CLEAR",
+      "ats": "greenhouse",
+      "board": "clear",
+      "key": "greenhouse:clear",
+      "url": "https://job-boards.greenhouse.io/clear/jobs/8241829"
     },
     {
       "company": "Cloudflare",
@@ -582,6 +589,13 @@
       "url": "https://mydpr.wd5.myworkdayjobs.com/11212017"
     },
     {
+      "company": "DRW",
+      "ats": "greenhouse",
+      "board": "drweng",
+      "key": "greenhouse:drweng",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8281342"
+    },
+    {
       "company": "DTN",
       "ats": "workday",
       "board": "dtn_careers",
@@ -670,14 +684,7 @@
       "ats": "greenhouse",
       "board": "eqtcorporation",
       "key": "greenhouse:eqtcorporation",
-      "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5450042008"
-    },
-    {
-      "company": "Esri",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:5220093007",
-      "url": "https://www.esri.com/careers/5220093007?gh_jid=5220093007"
+      "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5450028008"
     },
     {
       "company": "Everpure",
@@ -741,13 +748,6 @@
       "board": "careers",
       "key": "workday:flextronics.wd1.myworkdayjobs.com/careers",
       "url": "https://flextronics.wd1.myworkdayjobs.com/careers"
-    },
-    {
-      "company": "Flossy",
-      "ats": "ashby",
-      "board": "flossy",
-      "key": "ashby:flossy",
-      "url": "https://jobs.ashbyhq.com/flossy/48317c2e-5e2c-4731-9200-6aa76076c5d9"
     },
     {
       "company": "Fluidstack",
@@ -820,13 +820,6 @@
       "url": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers"
     },
     {
-      "company": "GoEngineer",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:718535",
-      "url": "https://careers.goengineer.com/jobs/718535-mes-solutions-applications-engineers"
-    },
-    {
       "company": "Granite Construction Incorporated",
       "ats": "workday",
       "board": "careers",
@@ -853,6 +846,13 @@
       "board": "guidepointsecurity",
       "key": "greenhouse:guidepointsecurity",
       "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6223478004?gh_jid=6223478004"
+    },
+    {
+      "company": "Gundersen Health System",
+      "ats": "workday",
+      "board": "Gundersen",
+      "key": "workday:gundersenhealth.wd5.myworkdayjobs.com/Gundersen",
+      "url": "https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen"
     },
     {
       "company": "Harbinger",
@@ -902,6 +902,13 @@
       "board": "careers",
       "key": "workday:hoganas.wd3.myworkdayjobs.com/careers",
       "url": "https://hoganas.wd3.myworkdayjobs.com/careers"
+    },
+    {
+      "company": "Horace Mann Educators Corporation",
+      "ats": "greenhouse",
+      "board": "horacemannservicecorporation",
+      "key": "greenhouse:horacemannservicecorporation",
+      "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6223146004"
     },
     {
       "company": "Humana",
@@ -1534,13 +1541,6 @@
       "url": "https://jobs.lever.co/reply/d24a1372-b895-4835-80ab-3ca3ef6c97e6"
     },
     {
-      "company": "Revel",
-      "ats": "ashby",
-      "board": "revel",
-      "key": "ashby:revel",
-      "url": "https://jobs.ashbyhq.com/revel/d5850db2-139c-4ca9-bb2a-7dbe745ecbc0"
-    },
-    {
       "company": "Revionics, an Aptos Company",
       "ats": "workday",
       "board": "revionics",
@@ -1758,13 +1758,6 @@
       "url": "https://www.governmentjobs.com/careers/iowa/jobs/5515165-0"
     },
     {
-      "company": "State of Louisiana",
-      "ats": "greenhouse",
-      "board": "louisiana",
-      "key": "greenhouse:louisiana",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5512490"
-    },
-    {
       "company": "State of Maine",
       "ats": "workday",
       "board": "executive",
@@ -1961,6 +1954,13 @@
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182"
     },
     {
+      "company": "Twitch Interactive",
+      "ats": "greenhouse",
+      "board": "twitch",
+      "key": "greenhouse:twitch",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+    },
+    {
       "company": "U.S. Bank",
       "ats": "workday",
       "board": "us_bank_careers",
@@ -2015,13 +2015,6 @@
       "board": "venusaero",
       "key": "lever:venusaero",
       "url": "https://jobs.lever.co/venusaero/5eb4e7ae-d634-4475-99b2-48a96d3adda7"
-    },
-    {
-      "company": "Very Good Security",
-      "ats": "lever",
-      "board": "verygoodsecurity",
-      "key": "lever:verygoodsecurity",
-      "url": "https://jobs.lever.co/verygoodsecurity/c9dd48c1-c6f9-47b2-b622-c9259b4a1ef6"
     },
     {
       "company": "Vestmark",
