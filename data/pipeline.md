@@ -536,3 +536,10 @@
 - [ ] https://jobs.ashbyhq.com/sardine/8e9d4ba5-92f9-48f4-925d-090fd5d6e303 | sardine | Fullstack Engineer, Investigator Tools | United Kingdom / Europe · Remote | posted: 2026-10-14
 
 - [ ] https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8890041002 | aquaticcapitalmanagement | Software Engineer, Core Data | Chicago | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593 | base-power | Software Engineer, Algorithms & Infrastructure | Austin, TX | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/astranis/jobs/4721733006 | astranis | Software Engineer (Mission Applications) | San Francisco | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/b726150a-c173-4638-a4bf-189e4965366f | apex-technology-inc | Software Engineer, DevSecOps | Los Angeles | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8889193002 | gitlab | Cloud Platform Engineer | Remote, Canada; Remote, United States | posted: 2026-10-14
+- [ ] https://careers.gofasti.com/job-application/6224954004?gh_jid=6224954004 | gofasti | 1166 - Jr. Web Developer | Remote · BAC | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/extend/jobs/6224705004 | extend | Software Engineer II - Fulfillments Team | Remote · Remote, US | posted: 2026-10-14
