@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T14:17:45.156Z",
+  "fetchedAt": "2026-10-14T14:40:06.691Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 302,
+  "companyCount": 303,
   "companies": [
     {
       "company": "7-Eleven",
@@ -1620,6 +1620,13 @@
     {
       "company": "Siemens Healthineers",
       "ats": "workday",
+      "board": "ijmhrms",
+      "key": "workday:onehealthineers.wd3.myworkdayjobs.com/ijmhrms",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/ijmhrms"
+    },
+    {
+      "company": "Siemens Healthineers",
+      "ats": "workday",
       "board": "shsjb",
       "key": "workday:onehealthineers.wd3.myworkdayjobs.com/shsjb",
       "url": "https://onehealthineers.wd3.myworkdayjobs.com/shsjb"
@@ -1786,6 +1793,13 @@
       "url": "https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d"
     },
     {
+      "company": "Tenstorrent",
+      "ats": "greenhouse",
+      "board": "tenstorrentuniversity",
+      "key": "greenhouse:tenstorrentuniversity",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"
+    },
+    {
       "company": "Thales",
       "ats": "workday",
       "board": "careers",
@@ -1833,13 +1847,6 @@
       "board": "thea.energy",
       "key": "lever:thea.energy",
       "url": "https://jobs.lever.co/thea.energy/4b6afe2c-103a-41db-abdd-a3080c958f92"
-    },
-    {
-      "company": "ThermalWorks",
-      "ats": "greenhouse",
-      "board": "li-thermal-works",
-      "key": "greenhouse:li-thermal-works",
-      "url": "https://job-boards.greenhouse.io/li-thermal-works/jobs/4448448009"
     },
     {
       "company": "Tia",
