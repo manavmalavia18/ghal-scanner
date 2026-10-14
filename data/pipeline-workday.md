@@ -208,4 +208,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Software-Engineer_REF088720W | visa | Software Engineer - SDET | US - Austin, TX | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/wmb/job/USA---Daytona-Beach-FL/Experienced-Software-Engineer---DevSecOps_JR2026516821-3 | boeing | Experienced Software Engineer – DevSecOps | USA - Daytona Beach, FL | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740-2 | boeing | Experienced Software Engineer–Systems (Systems) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/AI-Cloud-Platform-Engineer_R35902 | allstate | AI Cloud Platform Engineer | USA - TX (Remote) | posted: 2026-10-14
+
 ## Processed
