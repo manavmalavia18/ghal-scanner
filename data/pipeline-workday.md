@@ -183,4 +183,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineer_R2853 | sonos | Software Engineer | Boston, MA | posted: 2026-10-14
 
+- [ ] https://wexinc.wd5.myworkdayjobs.com/wexinc/job/Washington-State/Software-Engineer-Mgmt-5_R23226 | wexinc | Software Engineer Mgmt 5 | Washington State | posted: 2026-10-14
+- [ ] https://jci.wd5.myworkdayjobs.com/jci/job/Irving-Texas-United-States-of-America/AI-Platform-Engineer_WD30280830 | jci | AI Platform Engineer | 2 Locations | posted: 2026-10-14
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296 | globalhr | Platform Engineer (Remote) | US-CT-REMOTE | posted: 2026-10-14
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Platform-Engineer_J00178864 | equifax | Platform Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-14
+
 ## Processed
