@@ -7838,6 +7838,96 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "AeroVironment"
+    careers_url: https://avav.wd1.myworkdayjobs.com/avav
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bright Horizons"
+    careers_url: https://brighthorizons.wd5.myworkdayjobs.com/external-northamerica
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Business Integra"
+    careers_url: https://btisolutions.wd12.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Caris Life Sciences"
+    careers_url: https://carislifesciences.wd12.myworkdayjobs.com/cls
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Clark Construction"
+    careers_url: https://clark.wd503.myworkdayjobs.com/clarkexternal
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Copart"
+    careers_url: https://copart.wd12.myworkdayjobs.com/copart
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Covestro"
+    careers_url: https://covestro.wd3.myworkdayjobs.com/cov_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GE HealthCare"
+    careers_url: https://gehc.wd5.myworkdayjobs.com/gehc_externalsite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bank of America"
+    careers_url: https://ghr.wd1.myworkdayjobs.com/lateral-us
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Hunt Electric"
+    careers_url: https://huntelec.wd501.myworkdayjobs.com/huntelectric_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "KION Group"
+    careers_url: https://kiongroup.wd3.myworkdayjobs.com/kion_scs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Microchip Technology"
+    careers_url: https://microchiphr.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "M&T Bank"
+    careers_url: https://mtb.wd5.myworkdayjobs.com/mtb
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Panera Bread"
+    careers_url: https://panerabread.wd5.myworkdayjobs.com/panera_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sonos"
+    careers_url: https://sonos.wd1.myworkdayjobs.com/sonos
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The University of Texas at Austin"
+    careers_url: https://utaustin.wd1.myworkdayjobs.com/utstaff
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Weitz Company"
+    careers_url: https://weitz.wd504.myworkdayjobs.com/weitzcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Yale University"
+    careers_url: https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
