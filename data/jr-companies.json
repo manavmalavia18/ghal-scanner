@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T17:15:22.734Z",
+  "fetchedAt": "2026-10-14T17:36:33.772Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 337,
+  "companyCount": 335,
   "companies": [
     {
       "company": "7-Eleven",
@@ -932,13 +932,6 @@
       "url": "https://harriscomputer.wd3.myworkdayjobs.com/1"
     },
     {
-      "company": "Hasbro",
-      "ats": "greenhouse",
-      "board": "hasbro",
-      "key": "greenhouse:hasbro",
-      "url": "https://job-boards.greenhouse.io/hasbro/jobs/4439483009"
-    },
-    {
       "company": "Hewlett Packard Enterprise",
       "ats": "workday",
       "board": "jobsathpe",
@@ -986,13 +979,6 @@
       "board": "",
       "key": "greenhouse-id:8032070003",
       "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/8032070003?gh_jid=8032070003"
-    },
-    {
-      "company": "Hyliion",
-      "ats": "greenhouse",
-      "board": "hyliion",
-      "key": "greenhouse:hyliion",
-      "url": "https://job-boards.greenhouse.io/hyliion/jobs/6222519004"
     },
     {
       "company": "IMC",

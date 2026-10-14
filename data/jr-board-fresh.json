@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T17:15:22.710Z",
+  "fetchedAt": "2026-10-14T17:36:33.758Z",
   "days": 2,
   "leadCount": 87,
   "jobCount": 73,
@@ -25,8 +25,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:stackadapt",
-      "fetched": 76,
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 204,
       "kept": 0
     },
     {
@@ -40,13 +40,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 204,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:stackadapt",
+      "fetched": 76,
       "kept": 0
     },
     {
@@ -55,18 +50,18 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:quantifind",
-      "fetched": 19,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:rzr",
       "fetched": 52,
       "kept": 0
     },
     {
-      "key": "greenhouse:nflcareers",
+      "key": "greenhouse:taketwo",
       "fetched": 34,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:quantifind",
+      "fetched": 19,
       "kept": 0
     },
     {
@@ -85,18 +80,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:nflcareers",
+      "fetched": 34,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:ketch",
       "fetched": 8,
       "kept": 0
     },
     {
-      "key": "greenhouse:groma",
-      "fetched": 7,
+      "key": "greenhouse:harbingermotors",
+      "fetched": 91,
       "kept": 0
     },
     {
-      "key": "greenhouse:harbingermotors",
-      "fetched": 91,
+      "key": "greenhouse:groma",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -110,7 +110,7 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:explore",
+      "key": "greenhouse:malibucity",
       "fetched": 0,
       "kept": 0
     },
@@ -120,7 +120,7 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:malibucity",
+      "key": "greenhouse:albert-invent-corp",
       "fetched": 0,
       "kept": 0
     },
@@ -130,18 +130,13 @@
       "kept": 18
     },
     {
-      "key": "greenhouse:albert-invent-corp",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:alpaca",
+      "fetched": 76,
+      "kept": 1
     },
     {
       "key": "greenhouse:planetlabs",
       "fetched": 121,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:alpaca",
-      "fetched": 76,
       "kept": 1
     },
     {
@@ -155,19 +150,24 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:anaplan",
+      "fetched": 135,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:nyulhcareers",
       "fetched": 0,
       "kept": 0
     },
     {
+      "key": "greenhouse:cloudflare",
+      "fetched": 446,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:ionq",
       "fetched": 131,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:anaplan",
-      "fetched": 135,
-      "kept": 1
     },
     {
       "key": "greenhouse:njjudiciary",
@@ -185,18 +185,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 446,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:bridgeway",
       "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:guidepointsecurity",
-      "fetched": 68,
       "kept": 0
     },
     {
@@ -205,8 +195,28 @@
       "kept": 3
     },
     {
+      "key": "greenhouse:guidepointsecurity",
+      "fetched": 68,
+      "kept": 0
+    },
+    {
+      "key": "ashby:fluidstack",
+      "fetched": 248,
+      "kept": 0
+    },
+    {
       "key": "ashby:reflectionai",
       "fetched": 47,
+      "kept": 0
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 102,
+      "kept": 1
+    },
+    {
+      "key": "ashby:openart",
+      "fetched": 27,
       "kept": 0
     },
     {
@@ -215,13 +225,13 @@
       "kept": 2
     },
     {
-      "key": "ashby:fluidstack",
-      "fetched": 248,
+      "key": "ashby:weave",
+      "fetched": 27,
       "kept": 0
     },
     {
-      "key": "ashby:weave",
-      "fetched": 27,
+      "key": "ashby:ema",
+      "fetched": 37,
       "kept": 0
     },
     {
@@ -230,33 +240,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:ema",
-      "fetched": 37,
-      "kept": 0
-    },
-    {
       "key": "ashby:chainalysis-careers",
       "fetched": 51,
-      "kept": 1
-    },
-    {
-      "key": "ashby:langchain",
-      "fetched": 102,
-      "kept": 1
-    },
-    {
-      "key": "ashby:elevenlabs",
-      "fetched": 146,
-      "kept": 9
-    },
-    {
-      "key": "ashby:latent",
-      "fetched": 26,
-      "kept": 1
-    },
-    {
-      "key": "ashby:anysignal",
-      "fetched": 22,
       "kept": 1
     },
     {
@@ -265,8 +250,23 @@
       "kept": 1
     },
     {
-      "key": "ashby:openart",
-      "fetched": 27,
+      "key": "ashby:latent",
+      "fetched": 26,
+      "kept": 1
+    },
+    {
+      "key": "ashby:elevenlabs",
+      "fetched": 146,
+      "kept": 9
+    },
+    {
+      "key": "ashby:anysignal",
+      "fetched": 22,
+      "kept": 1
+    },
+    {
+      "key": "ashby:recall",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -285,19 +285,19 @@
       "kept": 1
     },
     {
-      "key": "ashby:recall",
-      "fetched": 5,
+      "key": "ashby:widgetfactory",
+      "fetched": 3,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:explore",
+      "fetched": 0,
       "kept": 0
     },
     {
       "key": "ashby:snowflake",
       "fetched": 355,
       "kept": 2
-    },
-    {
-      "key": "ashby:widgetfactory",
-      "fetched": 3,
-      "kept": 0
     },
     {
       "key": "ashby:latchbio",
@@ -310,8 +310,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:par%20technology",
+      "fetched": 33,
+      "kept": 1
+    },
+    {
       "key": "ashby:whop",
       "fetched": 36,
+      "kept": 0
+    },
+    {
+      "key": "ashby:whoop",
+      "fetched": 170,
       "kept": 0
     },
     {
@@ -320,18 +330,28 @@
       "kept": 0
     },
     {
-      "key": "ashby:par%20technology",
-      "fetched": 33,
+      "key": "lever:crowdhealth",
+      "fetched": 5,
       "kept": 1
-    },
-    {
-      "key": "ashby:whoop",
-      "fetched": 170,
-      "kept": 0
     },
     {
       "key": "lever:crypto",
       "fetched": 87,
+      "kept": 0
+    },
+    {
+      "key": "lever:reply",
+      "fetched": 44,
+      "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 238,
+      "kept": 3
+    },
+    {
+      "key": "lever:rhombus-systems",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -340,23 +360,13 @@
       "kept": 0
     },
     {
-      "key": "lever:acceldata",
-      "fetched": 39,
-      "kept": 0
-    },
-    {
-      "key": "lever:rhombus-systems",
-      "fetched": 7,
-      "kept": 0
+      "key": "lever:make-rain",
+      "fetched": 25,
+      "kept": 1
     },
     {
       "key": "lever:thea.energy",
       "fetched": 52,
-      "kept": 0
-    },
-    {
-      "key": "lever:venusaero",
-      "fetched": 32,
       "kept": 0
     },
     {
@@ -365,18 +375,18 @@
       "kept": 1
     },
     {
-      "key": "lever:veeva",
-      "fetched": 949,
-      "kept": 3
-    },
-    {
-      "key": "lever:make-rain",
-      "fetched": 25,
-      "kept": 1
+      "key": "lever:cirrus",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "workday:micron.wd1.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:venusaero",
+      "fetched": 32,
       "kept": 0
     },
     {
@@ -385,12 +395,12 @@
       "kept": 0
     },
     {
-      "key": "workday:hoganas.wd3.myworkdayjobs.com/careers",
+      "key": "workday:intel.wd1.myworkdayjobs.com/external",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "workday:intel.wd1.myworkdayjobs.com/external",
+      "key": "workday:hoganas.wd3.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
     },
@@ -405,19 +415,19 @@
       "kept": 0
     },
     {
-      "key": "workday:spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "key": "workday:kissusa.wd12.myworkdayjobs.com/kiss_careers_external",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "lever:crowdhealth",
-      "fetched": 5,
-      "kept": 1
+      "key": "workday:spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:veeva",
+      "fetched": 949,
+      "kept": 3
     },
     {
       "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
@@ -425,19 +435,9 @@
       "kept": 7
     },
     {
-      "key": "lever:cirrus",
-      "fetched": 0,
+      "key": "lever:acceldata",
+      "fetched": 39,
       "kept": 0
-    },
-    {
-      "key": "lever:reply",
-      "fetched": 44,
-      "kept": 0
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 238,
-      "kept": 3
     }
   ],
   "jobs": [
@@ -712,16 +712,6 @@
       "board": "doordashusa"
     },
     {
-      "title": "Director of Software Engineering, Analytics",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
-      "company": "Planet Labs",
-      "location": "Arlington, VA; Denver, CO",
-      "postedAt": "2026-10-13T23:27:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "planetlabs"
-    },
-    {
       "title": "Staff Fullstack Engineer",
       "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
       "company": "Alpaca",
@@ -730,6 +720,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "alpaca"
+    },
+    {
+      "title": "Director of Software Engineering, Analytics",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
+      "company": "Planet Labs",
+      "location": "Arlington, VA; Denver, CO",
+      "postedAt": "2026-10-13T23:27:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "planetlabs"
     },
     {
       "title": "Senior Software Development Engineer in Test - AI",
@@ -782,6 +782,16 @@
       "board": "spacex"
     },
     {
+      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
+      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "company": "LangChain",
+      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
+      "postedAt": "2026-10-14T15:18:56.705Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "langchain"
+    },
+    {
       "title": "Software Engineer, Simulation",
       "url": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
       "company": "Wayve",
@@ -822,14 +832,24 @@
       "board": "chainalysis-careers"
     },
     {
-      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
-      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "company": "LangChain",
-      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
-      "postedAt": "2026-10-14T15:18:56.705Z",
+      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
+      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
+      "company": "Cohere",
+      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
+      "postedAt": "2026-10-13T23:49:23.157Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "langchain"
+      "board": "cohere"
+    },
+    {
+      "title": "Head of Applied AI",
+      "url": "https://jobs.ashbyhq.com/latent/135e2c49-440b-496d-92aa-541143b252f3",
+      "company": "Latent Health",
+      "location": "San Francisco",
+      "postedAt": "2026-10-12T22:12:35.772Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "latent"
     },
     {
       "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
@@ -922,16 +942,6 @@
       "board": "elevenlabs"
     },
     {
-      "title": "Head of Applied AI",
-      "url": "https://jobs.ashbyhq.com/latent/135e2c49-440b-496d-92aa-541143b252f3",
-      "company": "Latent Health",
-      "location": "San Francisco",
-      "postedAt": "2026-10-12T22:12:35.772Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "latent"
-    },
-    {
       "title": "Embedded Software Engineer",
       "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
       "company": "AnySignal",
@@ -940,16 +950,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "anysignal"
-    },
-    {
-      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-      "company": "Cohere",
-      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
-      "postedAt": "2026-10-13T23:49:23.157Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cohere"
     },
     {
       "title": "Software Engineer, Applied Machine Learning",
@@ -1012,6 +1012,56 @@
       "board": "par%20technology"
     },
     {
+      "title": "Software Engineer, AI & Data",
+      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
+      "company": "CrowdHealth",
+      "location": "United States",
+      "postedAt": "2026-10-14T15:23:08.248Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "crowdhealth"
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-10-13T18:42:25.783Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
+      "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
+      "company": "Zoox",
+      "location": "Foster City, CA; Seattle, WA",
+      "postedAt": "2026-10-12T22:06:04.512Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Machine Learning Engineer - 3D Sensor Simulation",
+      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "company": "Zoox",
+      "location": "Foster City, CA; Seattle, WA",
+      "postedAt": "2026-10-12T21:59:45.194Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
+      "company": "Rainmaker Technology Corporation",
+      "location": "El Segundo, CA",
+      "postedAt": "2026-10-13T00:52:59.631Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "make-rain"
+    },
+    {
       "title": "AI Engineer (REMOTE)",
       "url": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
       "company": "EnableComp",
@@ -1050,26 +1100,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "veeva"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
-      "company": "Rainmaker Technology Corporation",
-      "location": "El Segundo, CA",
-      "postedAt": "2026-10-13T00:52:59.631Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "make-rain"
-    },
-    {
-      "title": "Software Engineer, AI & Data",
-      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
-      "company": "CrowdHealth",
-      "location": "United States",
-      "postedAt": "2026-10-14T15:23:08.248Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "crowdhealth"
     },
     {
       "title": "Senior Software Engineer",
@@ -1127,17 +1157,6 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Software Developer - Simulation Platform (Galileo)",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524",
-      "company": "General Motors",
-      "location": "2 Locations",
-      "postedAt": "2026-10-13T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Senior Software Engineer – Manufacturing Digital Operations",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Senior-Software-Engineer---Manufacturing-Digital-Operations_JR-202617678",
       "company": "General Motors",
@@ -1149,34 +1168,15 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Software Development Engineer in Test",
-      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-10-13T18:42:25.783Z",
+      "title": "Software Developer - Simulation Platform (Galileo)",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524",
+      "company": "General Motors",
+      "location": "2 Locations",
+      "postedAt": "2026-10-13T12:00:00.000Z",
       "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Senior / Staff Machine Learning Engineer - 3D Sensor Simulation",
-      "url": "https://jobs.lever.co/zoox/d6748d5e-b0ee-424b-b303-c5688713662a",
-      "company": "Zoox",
-      "location": "Foster City, CA; Seattle, WA",
-      "postedAt": "2026-10-12T22:06:04.512Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Machine Learning Engineer - 3D Sensor Simulation",
-      "url": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
-      "company": "Zoox",
-      "location": "Foster City, CA; Seattle, WA",
-      "postedAt": "2026-10-12T21:59:45.194Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
     }
   ],
   "leadSources": [
