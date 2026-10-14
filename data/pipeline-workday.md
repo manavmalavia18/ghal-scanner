@@ -239,4 +239,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://harriscomputer.wd3.myworkdayjobs.com/gbs/job/Remote---Costa-Rica/AI-Engineer_R0046936-1 | harriscomputer | AI Engineer | Remote - Costa Rica | posted: 2026-10-14
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546 | asml | Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM | Wilton, CT, USA | posted: 2026-10-14
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681 | salesforce | GovCloud Software Engineer | 3 Locations | posted: 2026-10-14
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Platform---Software-Engineer_RQ229857-1 | gdit | Platform / Software Engineer | USA FL MacDill AFB | posted: 2026-10-14
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49703 | chrobinson | Software Engineer III | Minnesota Remote | posted: 2026-10-14
+
 ## Processed
