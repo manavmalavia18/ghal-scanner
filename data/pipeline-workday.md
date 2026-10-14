@@ -226,4 +226,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA---Promontory-D/Platform-Engineer---VCF-Networking_R027365 | broadcom | Platform Engineer – VCF Networking | USA-CA - Promontory D | posted: 2026-10-14
 - [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Austin-TX/Software-Engineer-II_R023181 | barrywehmiller | Software Engineer II | Austin, TX | posted: 2026-10-14
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-2--Active-Secret-_R10256102 | ngc | Flight Software Engineer - Level 2 (Active Secret) | United States-California-Redondo Beach | posted: 2026-10-14
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1 | etsy | Software Engineer II, Observability | Brooklyn, New York | posted: 2026-10-14
+
 ## Processed
