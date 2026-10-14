@@ -492,3 +492,5 @@
 - [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | veeva | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
 
 - [ ] https://careers.cargurus.com/us/en/job/8243216?gh_jid=8243216 | cargurus | Software Development Engineer II | Boston, Massachusetts, United States | posted: 2026-10-14
+
+- [ ] https://jobs.lever.co/drivetrain/66195a65-cbef-4f2e-b893-1bb58c001d23 | drivetrain | Site Reliability Engineer - SRE | United States | posted: 2026-10-14
