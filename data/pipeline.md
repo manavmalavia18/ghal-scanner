@@ -519,3 +519,6 @@
 - [ ] https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8034005003 | blackcanyonconsulting | Account Backend Engineer | Bethesda, Maryland | posted: 2026-10-14
 
 - [ ] https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3 | harvey | Software Engineer | San Francisco | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/schoolhouse-world/cad94a4e-630d-4acd-b7fe-1172b242fcdb | schoolhouse-world | Mid-level Software Engineer | Remote | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440026008 | backblaze | Site Reliability Engineer I | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-14
