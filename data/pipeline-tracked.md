@@ -165,4 +165,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clera/272f82c7-60dc-447e-8615-e9a99cd7caff | Clera | Mid-Level Platform Engineer, Biotech | San Francisco | posted: 2026-10-14
 
+- [ ] https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5 | Wayve | Software Engineer, Simulation | Sunnyvale, California USA | posted: 2026-10-14
+
 ## Processed
