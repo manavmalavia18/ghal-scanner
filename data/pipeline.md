@@ -504,3 +504,5 @@
 - [ ] https://jobs.ashbyhq.com/convey/836bb067-8911-4bb2-bdb5-45313ce25747 | convey | Site Reliability Engineer | Philippines · Remote | posted: 2026-10-14
 
 - [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | chaosindustries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95 | elevenlabs | Safety Engineer (Back-End Leaning) | United Kingdom · Dublin · Ireland · Tokyo · Japan · United States · New York · New York City · Los Angeles · Poland · Warsaw · London · Boston · San Francisco · Washington, D.C. · Remote | posted: 2026-10-14
