@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T20:35:47.437Z",
+  "fetchedAt": "2026-10-14T20:57:44.495Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 316,
+  "companyCount": 326,
   "companies": [
     {
       "company": "7-Eleven",
@@ -162,6 +162,13 @@
       "url": "https://assuranceamerica.wd12.myworkdayjobs.com/assuranceamerica"
     },
     {
+      "company": "Assurant",
+      "ats": "workday",
+      "board": "assurant_careers",
+      "key": "workday:assurant.wd1.myworkdayjobs.com/assurant_careers",
+      "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers"
+    },
+    {
       "company": "Astera Labs",
       "ats": "greenhouse",
       "board": "asteraearlycareer2027",
@@ -209,6 +216,13 @@
       "board": "avidxchangeinc",
       "key": "greenhouse:avidxchangeinc",
       "url": "https://job-boards.greenhouse.io/avidxchangeinc/jobs/5256942007"
+    },
+    {
+      "company": "Backblaze",
+      "ats": "greenhouse",
+      "board": "backblaze",
+      "key": "greenhouse:backblaze",
+      "url": "https://job-boards.greenhouse.io/backblaze/jobs/5440026008"
     },
     {
       "company": "Base Power Company",
@@ -524,13 +538,6 @@
       "board": "csaacareers",
       "key": "workday:aaaie.wd1.myworkdayjobs.com/csaacareers",
       "url": "https://aaaie.wd1.myworkdayjobs.com/csaacareers"
-    },
-    {
-      "company": "Cursor",
-      "ats": "ashby",
-      "board": "cursor",
-      "key": "ashby:cursor",
-      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
     },
     {
       "company": "Danaher Corporation",
@@ -932,6 +939,13 @@
       "url": "https://www.imc.com/us/careers/jobs/5001089101"
     },
     {
+      "company": "IMC",
+      "ats": "greenhouse",
+      "board": "imc",
+      "key": "greenhouse:imc",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5001089101"
+    },
+    {
       "company": "IMEG",
       "ats": "workday",
       "board": "imeg_careers",
@@ -1135,11 +1149,25 @@
       "url": "https://careers.goloadup.com/jobs/719512-financial-systems-engineer"
     },
     {
+      "company": "London Stock Exchange Group",
+      "ats": "workday",
+      "board": "graduate_careers",
+      "key": "workday:lseg.wd3.myworkdayjobs.com/graduate_careers",
+      "url": "https://lseg.wd3.myworkdayjobs.com/graduate_careers"
+    },
+    {
       "company": "LTM",
       "ats": "greenhouse",
       "board": "",
       "key": "greenhouse-id:l7DEoga74sTfHfSm25CV",
       "url": "https://ltm.ripplehire.com/candidate?token=l7DEoga74sTfHfSm25CV#list#detail/job/883800"
+    },
+    {
+      "company": "Lyric",
+      "ats": "workday",
+      "board": "c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab",
+      "key": "workday:tbc.wd12.myworkdayjobs.com/c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab",
+      "url": "https://tbc.wd12.myworkdayjobs.com/c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab"
     },
     {
       "company": "Manifest OS",
@@ -1359,6 +1387,13 @@
       "url": "https://jobs.ashbyhq.com/outset/18583f35-f1d5-41ad-9924-2bda6f5435ad"
     },
     {
+      "company": "PacificSource",
+      "ats": "workday",
+      "board": "pacificsource",
+      "key": "workday:pacificsource.wd5.myworkdayjobs.com/pacificsource",
+      "url": "https://pacificsource.wd5.myworkdayjobs.com/pacificsource"
+    },
+    {
       "company": "Pape-Dawson Engineers",
       "ats": "workday",
       "board": "pde",
@@ -1422,6 +1457,13 @@
       "url": "https://jobs.ashbyhq.com/poesis/d5e7c3aa-ae58-4cea-8735-23368cf6e9ec"
     },
     {
+      "company": "Point72 Asset Management",
+      "ats": "greenhouse",
+      "board": "point72",
+      "key": "greenhouse:point72",
+      "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
+    },
+    {
       "company": "Poseidon Aerospace",
       "ats": "ashby",
       "board": "poseidonaero",
@@ -1455,6 +1497,20 @@
       "board": "promach",
       "key": "workday:promachbuilt.wd108.myworkdayjobs.com/promach",
       "url": "https://promachbuilt.wd108.myworkdayjobs.com/promach"
+    },
+    {
+      "company": "ProPetro Services",
+      "ats": "workday",
+      "board": "propwr_careers",
+      "key": "workday:propetroservices.wd5.myworkdayjobs.com/propwr_careers",
+      "url": "https://propetroservices.wd5.myworkdayjobs.com/propwr_careers"
+    },
+    {
+      "company": "ProPetro Services",
+      "ats": "workday",
+      "board": "propetro_careers",
+      "key": "workday:propetroservices.wd5.myworkdayjobs.com/propetro_careers",
+      "url": "https://propetroservices.wd5.myworkdayjobs.com/propetro_careers"
     },
     {
       "company": "Publicis Groupe",
@@ -1695,6 +1751,13 @@
       "url": "https://onehealthineers.wd3.myworkdayjobs.com/shsjb"
     },
     {
+      "company": "Simpson Gumpertz & Heger",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8888115002",
+      "url": "https://www.sgh.com/careers/job-openings/view-job/8888115002?gh_jid=8888115002"
+    },
+    {
       "company": "Skydio",
       "ats": "ashby",
       "board": "skydio",
@@ -1875,6 +1938,13 @@
       "board": "chemours",
       "key": "workday:chemours.wd103.myworkdayjobs.com/chemours",
       "url": "https://chemours.wd103.myworkdayjobs.com/chemours"
+    },
+    {
+      "company": "The Farmer's Dog",
+      "ats": "greenhouse",
+      "board": "thefarmersdog",
+      "key": "greenhouse:thefarmersdog",
+      "url": "https://job-boards.greenhouse.io/thefarmersdog/jobs/8887933002"
     },
     {
       "company": "The Home Depot",
