@@ -195,4 +195,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/convey/836bb067-8911-4bb2-bdb5-45313ce25747 | Convey | Site Reliability Engineer | Philippines · Remote | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/salmon-group/a0305773-44bb-4896-af0b-20137c915ca4 | Salmon | Software Developer (Kotlin/Java), Payment Platform | European Union · Remote | posted: 2026-10-14
 
+- [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Agentic-AI-Engineer_R-1102074-1 | Verizon | Agentic AI Engineer | Irving, Texas | posted: 2026-10-14
+
 ## Processed
