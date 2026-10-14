@@ -497,3 +497,6 @@
 
 - [ ] https://job-boards.greenhouse.io/clear/jobs/8241829 | clear | Software Development Engineer I | Austin, Texas | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/clear/jobs/8237847 | clear | Software Development Engineer II | Austin, Texas | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/scotch/jobs/5452504008 | scotch | Software Engineer | Remote · HQ | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | langchain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York | posted: 2026-10-14
