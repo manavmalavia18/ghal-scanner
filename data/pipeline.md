@@ -486,3 +486,5 @@
 
 - [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6223981004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/exadelinc/jobs/6219221004 | exadelinc | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Ukraine, Uzbekistan | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-14
