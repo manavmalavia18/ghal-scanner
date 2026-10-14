@@ -1,14 +1,14 @@
-2026/10/13-21:13:20.198 174b Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/13-21:13:20.199 174b Recovering log #1356
-2026/10/13-21:13:20.199 174b Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/001356.log 
-2026/10/13-21:13:20.199 174b Delete type=2 #1355
-2026/10/13-21:13:20.239 1755 Level-0 table #1361: started
-2026/10/13-21:13:20.240 1755 Level-0 table #1361: 949 bytes OK
-2026/10/13-21:13:20.241 1755 Delete type=0 #1356
-2026/10/13-21:13:20.242 174b Manual compaction at level-0 from ' \x8f\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x90\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x8f\x01\x00\x00\x05' @ 13170 : 1
-2026/10/13-21:13:20.242 174b Compacting 1@0 + 1@1 files
-2026/10/13-21:13:20.250 174b Generated table #1362@0: 1918 keys, 19092 bytes
-2026/10/13-21:13:20.250 174b Compacted 1@0 + 1@1 files => 19092 bytes
-2026/10/13-21:13:20.250 174b compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/13-21:13:20.250 174b Delete type=2 #1361
-2026/10/13-21:13:20.251 174b Manual compaction at level-0 from ' \x8f\x01\x00\x00\x05' @ 13170 : 1 .. ' \x90\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/14-13:13:40.930 13cb Reusing MANIFEST /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/14-13:13:40.930 13cb Recovering log #1396
+2026/10/14-13:13:40.930 13cb Reusing old log /home/runner/work/scoutgrid/scoutgrid/data/hiringcafe-profile/Default/IndexedDB/https_hiringcafe.com_0.indexeddb.leveldb/001396.log 
+2026/10/14-13:13:40.930 13cb Delete type=2 #1394
+2026/10/14-13:13:40.984 13ca Level-0 table #1401: started
+2026/10/14-13:13:40.985 13ca Level-0 table #1401: 906 bytes OK
+2026/10/14-13:13:40.986 13ca Delete type=0 #1396
+2026/10/14-13:13:40.986 13cb Manual compaction at level-0 from ' \x9a\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x9b\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x9a\x01\x00\x00\x05' @ 13547 : 1
+2026/10/14-13:13:40.986 13cb Compacting 1@0 + 1@1 files
+2026/10/14-13:13:40.991 13cb Generated table #1402@0: 1917 keys, 19128 bytes
+2026/10/14-13:13:40.991 13cb Compacted 1@0 + 1@1 files => 19128 bytes
+2026/10/14-13:13:40.992 13cb compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/14-13:13:40.992 13cb Delete type=2 #1401
+2026/10/14-13:13:40.992 13ca Manual compaction at level-0 from ' \x9a\x01\x00\x00\x05' @ 13547 : 1 .. ' \x9b\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
