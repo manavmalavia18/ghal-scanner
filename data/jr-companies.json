@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T19:29:49.842Z",
+  "fetchedAt": "2026-10-14T19:51:50.507Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 320,
+  "companyCount": 317,
   "companies": [
     {
       "company": "7-Eleven",
@@ -1254,13 +1254,6 @@
       "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62"
     },
     {
-      "company": "Neuralink",
-      "ats": "greenhouse",
-      "board": "neuralink",
-      "key": "greenhouse:neuralink",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/8027924003?gh_jid=8027924003"
-    },
-    {
       "company": "New Jersey Judiciary",
       "ats": "greenhouse",
       "board": "njjudiciary",
@@ -1413,13 +1406,6 @@
       "board": "planetlabs",
       "key": "greenhouse:planetlabs",
       "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8221849"
-    },
-    {
-      "company": "Podium",
-      "ats": "greenhouse",
-      "board": "podium81",
-      "key": "greenhouse:podium81",
-      "url": "https://job-boards.greenhouse.io/podium81/jobs/8261515"
     },
     {
       "company": "Poesis",
@@ -2085,13 +2071,6 @@
       "board": "voloridgeinvestmentmanagement",
       "key": "greenhouse:voloridgeinvestmentmanagement",
       "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4449124009"
-    },
-    {
-      "company": "Walker-Miller Energy Services",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:5263557007",
-      "url": "https://wmenergy.com/careers/position/5263557007?gh_jid=5263557007"
     },
     {
       "company": "WaterBridge",
