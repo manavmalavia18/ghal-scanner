@@ -200,4 +200,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Surface---Mechanical-Inspector--CWWFront-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00353223 | asml | Optical Surface & Mechanical Inspector- CWWFront End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-10-14
 - [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604 | asml | Optical Fabrication Technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-10-14
 
+- [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1 | nike | Machine Learning Engineer I | Beaverton, Oregon | posted: 2026-10-14
+- [ ] https://nb.wd1.myworkdayjobs.com/nbcareers/job/New-York-NY/Observability-Engineer_R0011838 | nb | Observability Platform Engineer (Datadog) | New York, NY | posted: 2026-10-14
+
 ## Processed
