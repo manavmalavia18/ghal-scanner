@@ -1,0 +1,71 @@
+{
+  "title": "Scoutgrid — Usage Analytics",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "5m",
+  "time": { "from": "now-7d", "to": "now" },
+  "panels": [
+    {
+      "id": 1, "title": "Total Users", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 0, "y": 0 },
+      "targets": [{ "expr": "scoutgrid_users_total", "legendFormat": "users" }]
+    },
+    {
+      "id": 2, "title": "Active Users (24h)", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 6, "y": 0 },
+      "targets": [{ "expr": "scoutgrid_active_users{window=\"24h\"}", "legendFormat": "24h" }]
+    },
+    {
+      "id": 3, "title": "Active Users (7d)", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 12, "y": 0 },
+      "targets": [{ "expr": "scoutgrid_active_users{window=\"7d\"}", "legendFormat": "7d" }]
+    },
+    {
+      "id": 4, "title": "Logins (24h)", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 18, "y": 0 },
+      "targets": [{ "expr": "scoutgrid_logins{window=\"24h\"}", "legendFormat": "logins" }]
+    },
+    {
+      "id": 5, "title": "Active Users Over Time", "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 4 },
+      "targets": [
+        { "expr": "scoutgrid_active_users{window=\"24h\"}", "legendFormat": "24h window" },
+        { "expr": "scoutgrid_active_users{window=\"7d\"}", "legendFormat": "7d window" }
+      ]
+    },
+    {
+      "id": 6, "title": "Logins & Page Views Over Time", "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 4 },
+      "targets": [
+        { "expr": "scoutgrid_logins{window=\"24h\"}", "legendFormat": "logins (24h)" },
+        { "expr": "scoutgrid_page_views{window=\"24h\"}", "legendFormat": "page views (24h)" }
+      ]
+    },
+    {
+      "id": 7, "title": "Jobs by Track", "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 12 },
+      "targets": [
+        { "expr": "scoutgrid_jobs_total{track=\"software\"}", "legendFormat": "software" },
+        { "expr": "scoutgrid_jobs_total{track=\"data\"}", "legendFormat": "data" }
+      ]
+    },
+    {
+      "id": 8, "title": "Track Switches (24h)", "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 12 },
+      "targets": [
+        { "expr": "scoutgrid_track_switches{window=\"24h\",track=\"software\"}", "legendFormat": "-> software" },
+        { "expr": "scoutgrid_track_switches{window=\"24h\",track=\"data\"}", "legendFormat": "-> data" }
+      ]
+    },
+    {
+      "id": 9, "title": "Jobs Applied (total)", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 0, "y": 20 },
+      "targets": [{ "expr": "scoutgrid_jobs_applied_total", "legendFormat": "applied" }]
+    },
+    {
+      "id": 10, "title": "Jobs Hidden (total)", "type": "stat",
+      "gridPos": { "h": 4, "w": 6, "x": 6, "y": 20 },
+      "targets": [{ "expr": "scoutgrid_jobs_hidden_total", "legendFormat": "hidden" }]
+    }
+  ]
+}
