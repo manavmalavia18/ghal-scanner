@@ -465,4 +465,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-14
 - [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | veeva | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | chaosindustries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/convey/836bb067-8911-4bb2-bdb5-45313ce25747 | convey | Site Reliability Engineer | Philippines · Remote | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/scotch/jobs/5452504008 | scotch | Software Engineer | Remote · HQ | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | langchain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/clear/jobs/8241829 | clear | Software Development Engineer I | Austin, Texas | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/clear/jobs/8237847 | clear | Software Development Engineer II | Austin, Texas | posted: 2026-10-14
+- [ ] https://jobs.lever.co/drivetrain/66195a65-cbef-4f2e-b893-1bb58c001d23 | drivetrain | Site Reliability Engineer - SRE | United States | posted: 2026-10-14
+- [ ] https://careers.cargurus.com/us/en/job/8243216?gh_jid=8243216 | cargurus | Software Development Engineer II | Boston, Massachusetts, United States | posted: 2026-10-14
+
 ## Processed
