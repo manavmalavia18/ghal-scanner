@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T19:07:57.606Z",
+  "fetchedAt": "2026-10-14T19:29:49.842Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 325,
+  "companyCount": 320,
   "companies": [
     {
       "company": "7-Eleven",
@@ -442,13 +442,6 @@
       "url": "https://www.governmentjobs.com/careers/minneapolismn/jobs/5501791-0"
     },
     {
-      "company": "CivilGrid",
-      "ats": "ashby",
-      "board": "civilgrid",
-      "key": "ashby:civilgrid",
-      "url": "https://jobs.ashbyhq.com/civilgrid/092ae4ef-44c6-4c92-a8ea-c29bb73582d7"
-    },
-    {
       "company": "Cloudflare",
       "ats": "greenhouse",
       "board": "cloudflare",
@@ -687,13 +680,6 @@
       "url": "https://www.esri.com/careers/5220093007?gh_jid=5220093007"
     },
     {
-      "company": "Esri",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:5261447007",
-      "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007"
-    },
-    {
       "company": "Everpure",
       "ats": "greenhouse",
       "board": "purestorage",
@@ -806,13 +792,6 @@
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite"
     },
     {
-      "company": "Gelber Group",
-      "ats": "greenhouse",
-      "board": "gelbergroup",
-      "key": "greenhouse:gelbergroup",
-      "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4721140006"
-    },
-    {
       "company": "General Dynamics Information Technology",
       "ats": "workday",
       "board": "gdit_earlytalent",
@@ -839,13 +818,6 @@
       "board": "gmed_careers",
       "key": "workday:globusmedical.wd5.myworkdayjobs.com/gmed_careers",
       "url": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers"
-    },
-    {
-      "company": "GOAT Group",
-      "ats": "greenhouse",
-      "board": "goatgroup",
-      "key": "greenhouse:goatgroup",
-      "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4741495005"
     },
     {
       "company": "GoEngineer",
@@ -1168,13 +1140,6 @@
       "board": "manifest-os",
       "key": "ashby:manifest-os",
       "url": "https://jobs.ashbyhq.com/manifest-os/9bca7707-d731-49d5-8176-4b42d04259b0"
-    },
-    {
-      "company": "Matter Health",
-      "ats": "ashby",
-      "board": "matter-health",
-      "key": "ashby:matter-health",
-      "url": "https://jobs.ashbyhq.com/matter-health/a3cfa46c-12e6-4876-9259-77336ecabb84"
     },
     {
       "company": "McKesson Corporation",
