@@ -197,4 +197,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Agentic-AI-Engineer_R-1102074-1 | Verizon | Agentic AI Engineer | Irving, Texas | posted: 2026-10-14
 
+- [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1 | Nike | Machine Learning Engineer I | Beaverton, Oregon | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/orenda/jobs/8031471003 | Orenda | Machine Learning Engineer | New York, New York, United States | posted: 2026-10-14
+- [ ] https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5 | CrowdHealth | Software Engineer, AI & Data | United States | posted: 2026-10-14
+- [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | Veeva Systems | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
+
 ## Processed
