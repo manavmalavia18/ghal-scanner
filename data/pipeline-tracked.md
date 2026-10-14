@@ -183,4 +183,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/clear/jobs/8241829 | Clear | Software Development Engineer I | Austin, Texas | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/clear/jobs/8237847 | Clear | Software Development Engineer II | Austin, Texas | posted: 2026-10-14
 
+- [ ] https://job-boards.greenhouse.io/scotch/jobs/5452504008 | Scotch | Software Engineer | Remote · HQ | posted: 2026-10-14
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Platform-Engineer_J00178864 | Equifax | Platform Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-14
+- [ ] https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Applied-AI-Engineer--Clinical-Informatics_R-105948 | Eli Lilly and Company | Applied AI Engineer, Clinical Informatics | 2 Locations | posted: 2026-10-14
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296 | RTX | Platform Engineer (Remote) | US-CT-REMOTE | posted: 2026-10-14
+
 ## Processed
