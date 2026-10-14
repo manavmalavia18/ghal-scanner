@@ -227,4 +227,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--GUI_R-103326-1 | Jj | Software Engineer, GUI | Santa Clara, California, United States of America | posted: 2026-10-14
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690-1 | Expedia | Software Development Engineer III - InsurTech - Full Stack | Washington - Seattle Campus | posted: 2026-10-14
+
 ## Processed
