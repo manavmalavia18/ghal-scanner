@@ -483,3 +483,6 @@
 - [ ] https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d | chainalysis-careers | Software Engineer II, Compliance Core | New York Office | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote · Ireland · Europe · European Union · United States · Poland · Warsaw · United Kingdom | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote · Ireland · Europe · European Union · United States · Poland · United Kingdom | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6223981004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/exadelinc/jobs/6219221004 | exadelinc | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Ukraine, Uzbekistan | posted: 2026-10-14
