@@ -188,4 +188,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Applied-AI-Engineer--Clinical-Informatics_R-105948 | Eli Lilly and Company | Applied AI Engineer, Clinical Informatics | 2 Locations | posted: 2026-10-14
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296 | RTX | Platform Engineer (Remote) | US-CT-REMOTE | posted: 2026-10-14
 
+- [ ] https://towerloan.wd12.myworkdayjobs.com/tower_loan_careers/job/Flowood-MS-Remote/Software-Engineer_JR2027 | Towerloan | Software Engineer | Flowood MS (Remote) | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764 | Boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236 | NVIDIA | Systems Software Engineer, Kubernetes Scale - DGX Cloud | 3 Locations | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/Braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c | Braintrust | Software Engineer, Billing | San Francisco · New York City · United States · Seattle | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/convey/836bb067-8911-4bb2-bdb5-45313ce25747 | Convey | Site Reliability Engineer | Philippines · Remote | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/salmon-group/a0305773-44bb-4896-af0b-20137c915ca4 | Salmon | Software Developer (Kotlin/Java), Payment Platform | European Union · Remote | posted: 2026-10-14
+
 ## Processed
