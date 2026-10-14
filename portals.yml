@@ -7273,6 +7273,251 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "AnySignal"
+    careers_url: https://jobs.ashbyhq.com/anysignal
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Chainalysis"
+    careers_url: https://jobs.ashbyhq.com/chainalysis-careers
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "NTT DATA AIVista"
+    careers_url: https://jobs.ashbyhq.com/ntt-data-aivista
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Outset"
+    careers_url: https://jobs.ashbyhq.com/outset
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PAR Technology"
+    careers_url: https://jobs.ashbyhq.com/par%20technology
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Poesis"
+    careers_url: https://jobs.ashbyhq.com/poesis
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pramaana Labs"
+    careers_url: https://jobs.ashbyhq.com/pramaana-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Recall.ai"
+    careers_url: https://jobs.ashbyhq.com/recall
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Substack"
+    careers_url: https://jobs.ashbyhq.com/substack
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Whop"
+    careers_url: https://jobs.ashbyhq.com/whop
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Zefr"
+    careers_url: https://jobs.ashbyhq.com/zefr
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Anaplan"
+    careers_url: https://job-boards.greenhouse.io/anaplan
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Cloudflare"
+    careers_url: https://boards.greenhouse.io/careersday
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cayuse"
+    careers_url: https://job-boards.greenhouse.io/cayuse
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Element Biosciences"
+    careers_url: https://job-boards.greenhouse.io/elementbiosciences
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Minitab"
+    careers_url: https://job-boards.greenhouse.io/minitab
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Planet Labs"
+    careers_url: https://job-boards.greenhouse.io/planetlabs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Ridgeline"
+    careers_url: https://boards.greenhouse.io/ridgeline
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tenstorrent"
+    careers_url: https://job-boards.greenhouse.io/tenstorrentuniversity
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Prime Electric"
+    careers_url: https://jobs.lever.co/primee
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rhombus"
+    careers_url: https://jobs.lever.co/rhombus-systems
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CSAA Insurance Group"
+    careers_url: https://aaaie.wd1.myworkdayjobs.com/csaacareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Dauch Corporation"
+    careers_url: https://aampower.wd1.myworkdayjobs.com/aam-career-site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The AES Corporation"
+    careers_url: https://aes.wd1.myworkdayjobs.com/aes_clean_energy
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Alkegen"
+    careers_url: https://alkegen.wd5.myworkdayjobs.com/alkegen
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Viridien"
+    careers_url: https://cgg.wd103.myworkdayjobs.com/viridiengraduate
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CIBC"
+    careers_url: https://cibc.wd3.myworkdayjobs.com/search
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jet Propulsion Laboratory"
+    careers_url: https://citjpl.wd5.myworkdayjobs.com/jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Extra Space Storage"
+    careers_url: https://extraspace.wd5.myworkdayjobs.com/ess_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fidelity Investments"
+    careers_url: https://fmr.wd1.myworkdayjobs.com/targeted
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Granite Construction Incorporated"
+    careers_url: https://granite.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Greystone Asset Management"
+    careers_url: https://greyco.wd108.myworkdayjobs.com/gti
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jain Global"
+    careers_url: https://jainglobal.wd5.myworkdayjobs.com/linkedincareersite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "KLA Corporation"
+    careers_url: https://kla.wd1.myworkdayjobs.com/annarbor
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Kyndryl"
+    careers_url: https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Siemens Healthineers"
+    careers_url: https://onehealthineers.wd3.myworkdayjobs.com/ijmhrms
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Ohio State University"
+    careers_url: https://osu.wd1.myworkdayjobs.com/osucareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pape-Dawson Engineers"
+    careers_url: https://papedawson.wd12.myworkdayjobs.com/pde
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GBH"
+    careers_url: https://publicmedia.wd1.myworkdayjobs.com/interns
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PwC"
+    careers_url: https://pwc.wd3.myworkdayjobs.com/us_experienced_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rakuten Group"
+    careers_url: https://rakuten.wd1.myworkdayjobs.com/rakutenrewards
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rite-Hite"
+    careers_url: https://ritehite.wd12.myworkdayjobs.com/rhh
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rolls-Royce"
+    careers_url: https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Schnuck Markets"
+    careers_url: https://schnucks.wd5.myworkdayjobs.com/schnuckscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Southwest Airlines"
+    careers_url: https://swa.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Thales"
+    careers_url: https://thales.wd3.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Thales"
+    careers_url: https://thales.wd3.myworkdayjobs.com/equest
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wilbur-Ellis"
+    careers_url: https://wilburellis.wd12.myworkdayjobs.com/wilbur-ellis
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wonder"
+    careers_url: https://wonder.wd1.myworkdayjobs.com/job
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
