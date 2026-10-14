@@ -229,4 +229,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Flight-Software-Engineer---Level-2--Active-Secret-_R10256102 | ngc | Flight Software Engineer - Level 2 (Active Secret) | United States-California-Redondo Beach | posted: 2026-10-14
 - [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1 | etsy | Software Engineer II, Observability | Brooklyn, New York | posted: 2026-10-14
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/AI-Engineer_JR-0110881 | workday | AI Engineer | USA, CA, Pleasanton | posted: 2026-10-14
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR363394 | salesforce | Software Engineering LMTS | California - San Francisco | posted: 2026-10-14
+- [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26100290-1 | manulife | Full-Stack Software Engineer | 2 Locations | posted: 2026-10-14
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/DevOps-Engineer_3169187 | hp | DevOps Engineer | Vancouver, Washington, United States of America | posted: 2026-10-14
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/DevOps-Engineer_3169187-1 | hp | DevOps Engineer | Vancouver, Washington, United States of America | posted: 2026-10-14
+- [ ] https://generac.wd5.myworkdayjobs.com/external/job/Holdrege-NE---USA/Software-Engineer-II_JR17101 | generac | Software Engineer II | Holdrege, NE - USA | posted: 2026-10-14
+
 ## Processed
