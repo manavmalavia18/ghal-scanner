@@ -7663,6 +7663,106 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Latent Health"
+    careers_url: https://jobs.ashbyhq.com/latent
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Peec AI"
+    careers_url: https://jobs.ashbyhq.com/peec
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SideShift"
+    careers_url: https://jobs.ashbyhq.com/sideshift
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Widget Factory"
+    careers_url: https://jobs.ashbyhq.com/widgetfactory
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AvidXchange"
+    careers_url: https://job-boards.greenhouse.io/avidxchangeinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CHAOS Industries"
+    careers_url: https://job-boards.greenhouse.io/chaosindustries
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "American Cancer Society"
+    careers_url: https://acs.wd5.myworkdayjobs.com/acscareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "City of Baltimore"
+    careers_url: https://baltimorecity.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "BP"
+    careers_url: https://bpinternational.wd3.myworkdayjobs.com/bpcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Chemours Company"
+    careers_url: https://chemours.wd103.myworkdayjobs.com/chemours
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Enbridge"
+    careers_url: https://enbridge.wd3.myworkdayjobs.com/enbridge_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Teledyne Technologies"
+    careers_url: https://flir.wd1.myworkdayjobs.com/flircareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Freddie Mac"
+    careers_url: https://freddiemac.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GE Vernova"
+    careers_url: https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Inspire Brands"
+    careers_url: https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "State of Maine"
+    careers_url: https://maine.wd5.myworkdayjobs.com/executive
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ryder"
+    careers_url: https://ryder.wd5.myworkdayjobs.com/rydercareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SHI International"
+    careers_url: https://shi.wd12.myworkdayjobs.com/shicareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "University Medical Center"
+    careers_url: https://umchealthsystem.wd1.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "WaterBridge"
+    careers_url: https://waterbridge.wd5.myworkdayjobs.com/waterbridgecareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

@@ -1,48 +1,108 @@
 {
-  "at": "2026-10-14T16:47:57.896Z",
-  "leadsScanned": 1907,
-  "totalBoardsKnown": 713,
-  "alreadyTracked": 705,
-  "newlyPromoted": 8,
+  "at": "2026-10-14T17:32:06.172Z",
+  "leadsScanned": 2015,
+  "totalBoardsKnown": 734,
+  "alreadyTracked": 714,
+  "newlyPromoted": 20,
   "newBoards": [
     {
-      "name": "Weave",
-      "careers_url": "https://jobs.ashbyhq.com/weave",
+      "name": "Latent Health",
+      "careers_url": "https://jobs.ashbyhq.com/latent",
       "provider": "ashby"
     },
     {
-      "name": "GuidePoint Security",
-      "careers_url": "https://boards.greenhouse.io/guidepointsecurity",
+      "name": "Peec AI",
+      "careers_url": "https://jobs.ashbyhq.com/peec",
+      "provider": "ashby"
+    },
+    {
+      "name": "SideShift",
+      "careers_url": "https://jobs.ashbyhq.com/sideshift",
+      "provider": "ashby"
+    },
+    {
+      "name": "Widget Factory",
+      "careers_url": "https://jobs.ashbyhq.com/widgetfactory",
+      "provider": "ashby"
+    },
+    {
+      "name": "AvidXchange",
+      "careers_url": "https://job-boards.greenhouse.io/avidxchangeinc",
       "provider": "greenhouse"
     },
     {
-      "name": "Orenda",
-      "careers_url": "https://job-boards.greenhouse.io/orenda",
+      "name": "CHAOS Industries",
+      "careers_url": "https://job-boards.greenhouse.io/chaosindustries",
       "provider": "greenhouse"
     },
     {
-      "name": "Everpure",
-      "careers_url": "https://job-boards.greenhouse.io/purestorage",
-      "provider": "greenhouse"
+      "name": "American Cancer Society",
+      "careers_url": "https://acs.wd5.myworkdayjobs.com/acscareers",
+      "provider": "workday"
     },
     {
-      "name": "CrowdHealth",
-      "careers_url": "https://jobs.lever.co/crowdhealth",
-      "provider": "lever"
+      "name": "City of Baltimore",
+      "careers_url": "https://baltimorecity.wd1.myworkdayjobs.com/external",
+      "provider": "workday"
     },
     {
-      "name": "Reply S.p.A.",
-      "careers_url": "https://jobs.lever.co/reply",
-      "provider": "lever"
+      "name": "BP",
+      "careers_url": "https://bpinternational.wd3.myworkdayjobs.com/bpcareers",
+      "provider": "workday"
     },
     {
-      "name": "Veeva Systems",
-      "careers_url": "https://jobs.lever.co/veeva",
-      "provider": "lever"
+      "name": "The Chemours Company",
+      "careers_url": "https://chemours.wd103.myworkdayjobs.com/chemours",
+      "provider": "workday"
     },
     {
-      "name": "Jurgensen Companies",
-      "careers_url": "https://jrjnet.wd5.myworkdayjobs.com/job",
+      "name": "Enbridge",
+      "careers_url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Teledyne Technologies",
+      "careers_url": "https://flir.wd1.myworkdayjobs.com/flircareers",
+      "provider": "workday"
+    },
+    {
+      "name": "Freddie Mac",
+      "careers_url": "https://freddiemac.wd5.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "GE Vernova",
+      "careers_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite",
+      "provider": "workday"
+    },
+    {
+      "name": "Inspire Brands",
+      "careers_url": "https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers",
+      "provider": "workday"
+    },
+    {
+      "name": "State of Maine",
+      "careers_url": "https://maine.wd5.myworkdayjobs.com/executive",
+      "provider": "workday"
+    },
+    {
+      "name": "Ryder",
+      "careers_url": "https://ryder.wd5.myworkdayjobs.com/rydercareers",
+      "provider": "workday"
+    },
+    {
+      "name": "SHI International",
+      "careers_url": "https://shi.wd12.myworkdayjobs.com/shicareers",
+      "provider": "workday"
+    },
+    {
+      "name": "University Medical Center",
+      "careers_url": "https://umchealthsystem.wd1.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "WaterBridge",
+      "careers_url": "https://waterbridge.wd5.myworkdayjobs.com/waterbridgecareers",
       "provider": "workday"
     }
   ]
