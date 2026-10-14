@@ -490,3 +490,5 @@
 - [ ] https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-14
 
 - [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | veeva | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
+
+- [ ] https://careers.cargurus.com/us/en/job/8243216?gh_jid=8243216 | cargurus | Software Development Engineer II | Boston, Massachusetts, United States | posted: 2026-10-14
