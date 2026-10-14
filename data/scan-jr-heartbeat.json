@@ -1,12 +1,17 @@
 {
-  "at": "2026-10-14T12:19:33.623Z",
+  "at": "2026-10-14T12:59:28.675Z",
   "exitCode": 0,
-  "elapsedSec": 63,
+  "elapsedSec": 48,
   "newMatches": 296,
+  "loginWall": false,
+  "paused": false,
+  "apiErrors": [],
   "companyCount": 296,
   "boardLeadCount": 84,
-  "boardFreshCount": 74,
-  "loginWall": false,
-  "apiErrors": [],
-  "mode": "jr-companies"
+  "boardFreshCount": 75,
+  "leadSources": [
+    "jobright-cache",
+    "hiringcafe"
+  ],
+  "mode": "ats-boards-only"
 }
