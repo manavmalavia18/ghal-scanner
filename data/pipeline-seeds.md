@@ -436,4 +436,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5 | openai | Software Engineer, Cloud Computer | San Francisco | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc | openai | Machine Learning Engineer, Implicit Signals | San Francisco | posted: 2026-10-13
 
+- [ ] https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479 | coinbase | Software Engineer, Enterprise Apps | Remote - Brazil | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451688008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451673008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451672008 | lightfeatheriollc | DevOps Engineer | United States | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451669008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/column/5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0 | column | Software Engineer (Travel Heavy) | San Francisco, CA | posted: 2026-10-13
+- [ ] https://jobs.lever.co/optionmetrics/683191d1-634f-44bc-a2a4-cb34a4487086 | optionmetrics | Cloud Infrastructure & DevOps Engineer | New York, NY | posted: 2026-10-13
+- [ ] https://mark43.com/list-job/8221583?gh_jid=8221583 | mark43 | DevOps Engineer | Remote · Remote Office | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/embedding-vc/9621e073-22b8-46c8-a834-77efed82868a | embedding-vc | Developer Platform Engineer | San Francisco Bay Area | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/embedding-vc/c7556b13-3332-4541-b0ec-42872eda7b51 | embedding-vc | Applied AI Engineer | San Francisco Bay Area | posted: 2026-10-13
+
 ## Processed
