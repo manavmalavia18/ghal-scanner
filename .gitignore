@@ -1,3 +1,9 @@
 node_modules/
 *.log
 .DS_Store
+
+# Chrome/patchright scraper profiles — binary, high-churn, and committing
+# them caused merge conflicts between overlapping GitHub Actions runs that
+# blocked real job-data pushes (the whole commit, data included, failed).
+data/hiringcafe-profile/
+data/jobright-profile/
