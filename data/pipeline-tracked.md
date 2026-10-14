@@ -212,4 +212,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.smartrecruiters.com/ServiceNow/744000155582891 | ServiceNow | Data Platform Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-14
 - [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/AI-Cloud-Platform-Engineer_R35902 | Allstate | AI Cloud Platform Engineer | USA - TX (Remote) | posted: 2026-10-14
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740 | Boeing | Experienced Software Engineer–Systems (Systems) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155 | Boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/avidxchangeinc/jobs/5265815007 | AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | posted: 2026-10-14
+
 ## Processed
