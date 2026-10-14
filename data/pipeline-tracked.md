@@ -173,4 +173,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Site-Reliability-Engineer_R0117833-1 | Truist | Site Reliability Engineer | 3 Locations | posted: 2026-10-14
 
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4--Global-Payment-Network-_R1003455-1 | Capital One | Full-stack Engineer 4 (Global Payment Network) | 3 Locations | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d | Chainalysis | Software Engineer II, Compliance Core | New York Office | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56 | PAR Technology | Software Developer | Remote - Illinois · Remote - Colorado · United States · Remote - Georgia · Remote - North Carolina · Remote - Minnesota · Remote - Pennsylvania · Remote - New York · Remote - Texas | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097 | Substack | Full Stack Software Engineer - Payments | San Francisco (HQ) · New York · New York City · United States · Remote · San Francisco | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/minitab/jobs/8030958003 | Minitab | DevOps Engineer | State College, Pennsylvania, United States | posted: 2026-10-13
+- [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer-III--Data-Platform-Operations---Remote_R8040 | CSAA Insurance Group | Software Engineer III, Data Platform Operations - Remote | Arizona - Home Teleworkers | posted: 2026-10-13
+
 ## Processed
