@@ -203,4 +203,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Machine-Learning-Engineer-I_R-92370-1 | nike | Machine Learning Engineer I | Beaverton, Oregon | posted: 2026-10-14
 - [ ] https://nb.wd1.myworkdayjobs.com/nbcareers/job/New-York-NY/Observability-Engineer_R0011838 | nb | Observability Platform Engineer (Datadog) | New York, NY | posted: 2026-10-14
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1 | salesforce | Software Engineering AMTS (College Grad) | 6 Locations | posted: 2026-10-14
+- [ ] https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400 | salesforce | Software Engineering AMTS (College Grad) | 6 Locations | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
+
 ## Processed
