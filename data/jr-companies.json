@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T18:24:03.611Z",
+  "fetchedAt": "2026-10-14T18:46:42.879Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 335,
+  "companyCount": 330,
   "companies": [
     {
       "company": "7-Eleven",
@@ -174,13 +174,6 @@
       "board": "athene_careers",
       "key": "workday:athene.wd5.myworkdayjobs.com/athene_careers",
       "url": "https://athene.wd5.myworkdayjobs.com/athene_careers"
-    },
-    {
-      "company": "August",
-      "ats": "ashby",
-      "board": "august",
-      "key": "ashby:august",
-      "url": "https://jobs.ashbyhq.com/august/99b98fc4-e925-4c36-8148-4716d7354703"
     },
     {
       "company": "Aurelius Systems",
@@ -561,13 +554,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002"
     },
     {
-      "company": "Datacor",
-      "ats": "greenhouse",
-      "board": "datacor",
-      "key": "greenhouse:datacor",
-      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007"
-    },
-    {
       "company": "Dauch Corporation",
       "ats": "workday",
       "board": "aam-career-site",
@@ -615,13 +601,6 @@
       "board": "dtn_careers",
       "key": "workday:dtn.wd1.myworkdayjobs.com/dtn_careers",
       "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers"
-    },
-    {
-      "company": "Duolingo",
-      "ats": "greenhouse",
-      "board": "duolingounirecruitment",
-      "key": "greenhouse:duolingounirecruitment",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002"
     },
     {
       "company": "DV Trading",
@@ -1548,13 +1527,6 @@
       "url": "https://employees-publicisgroupe.icims.com/jobs/136365/agentic-solutions-developer/job?in_iframe=1"
     },
     {
-      "company": "Publicis Groupe",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:176310",
-      "url": "https://employees-publicisgroupe.icims.com/jobs/176310/software-engineer-2%2c-digital-marketing/job?in_iframe=1"
-    },
-    {
       "company": "PwC",
       "ats": "workday",
       "board": "us_experienced_careers",
@@ -2029,13 +2001,6 @@
       "board": "titan-msp",
       "key": "ashby:titan-msp",
       "url": "https://jobs.ashbyhq.com/titan-msp/1cb431df-d44a-4407-a173-5338dc11de11"
-    },
-    {
-      "company": "Tonic.ai",
-      "ats": "ashby",
-      "board": "tonicai",
-      "key": "ashby:tonicai",
-      "url": "https://jobs.ashbyhq.com/tonicai/72dcd5fc-c6d5-4d2f-a2ba-6175aec66b51"
     },
     {
       "company": "Tower Loan",
