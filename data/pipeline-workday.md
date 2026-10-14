@@ -196,4 +196,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Austin---River-Place-B7/Infrastructure-AI-ML-Engineer-for-Memory-Design--Characterization--and-Yield-Optimization_R027297 | broadcom | Infrastructure AI/ML Engineer for Memory Design, Characterization, and Yield Optimization | 4 Locations | posted: 2026-10-14
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Surface---Mechanical-Inspector--CWWFront-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00353223 | asml | Optical Surface & Mechanical Inspector- CWWFront End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-10-14
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Optical-Fabrication-Technician--CWW-Front-End-Nights--6-00-PM---6-00-AM--Sunday--Monday--Tuesday--and-every-other-Saturday-_J-00352604 | asml | Optical Fabrication Technician- CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) | Wilton, CT, USA | posted: 2026-10-14
+
 ## Processed
