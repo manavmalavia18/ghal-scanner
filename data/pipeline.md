@@ -528,3 +528,5 @@
 - [ ] https://job-boards.greenhouse.io/trace3/jobs/8282501 | trace3 | DevOps Engineer, TKG Platform Integrator | Colorado Springs, CO | posted: 2026-10-14
 
 - [ ] https://boards.greenhouse.io/tomorrow/jobs/8027758003?gh_jid=8027758003 | tomorrow | Software Engineer | Golden, Colorado, United States | posted: 2026-10-14
+
+- [ ] https://www.asana.com/jobs/apply/8194522?gh_jid=8194522 | asana | Software Engineer | San Francisco | posted: 2026-10-14
