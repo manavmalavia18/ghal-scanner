@@ -181,4 +181,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821 | workday | Software Development Engineer--Pipedream Connect | 2 Locations | posted: 2026-10-14
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4--Global-Payment-Network-_R1003455-1 | capitalone | Full-stack Engineer 4 (Global Payment Network) | 3 Locations | posted: 2026-10-14
 
+- [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineer_R2853 | sonos | Software Engineer | Boston, MA | posted: 2026-10-14
+
 ## Processed
