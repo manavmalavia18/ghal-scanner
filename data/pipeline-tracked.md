@@ -216,4 +216,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155 | Boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/avidxchangeinc/jobs/5265815007 | AvidXchange | Software Engineer II (Multiple Positions) | Charlotte, North Carolina, United States | posted: 2026-10-14
 
+- [ ] https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1 | Everfox | Software Engineer I | USA_TX_Richardson | posted: 2026-10-14
+
 ## Processed
