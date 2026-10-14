@@ -172,4 +172,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/ML-Engineer--Agentic-Systems_JR101529-1 | cgg | ML Engineer, Agentic Systems | Houston, United States of America | posted: 2026-10-14
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953-1 | globalhr | Software Engineer I (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-14
+- [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Advisor--Hybrid_26012682 | cigna | Software Engineering Advisor- Hybrid | Austin, TX | posted: 2026-10-14
+
 ## Processed
