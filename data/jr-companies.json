@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T20:57:44.495Z",
+  "fetchedAt": "2026-10-14T21:25:59.079Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
@@ -307,6 +307,13 @@
       "board": "brooks_external_site",
       "key": "workday:brooksauto.wd1.myworkdayjobs.com/brooks_external_site",
       "url": "https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site"
+    },
+    {
+      "company": "Business Integra",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:btisolutions.wd12.myworkdayjobs.com/external",
+      "url": "https://btisolutions.wd12.myworkdayjobs.com/external"
     },
     {
       "company": "Canvas, Inc.",
@@ -1875,13 +1882,6 @@
       "board": "surescriptscareers",
       "key": "workday:surescripts.wd503.myworkdayjobs.com/surescriptscareers",
       "url": "https://surescripts.wd503.myworkdayjobs.com/surescriptscareers"
-    },
-    {
-      "company": "T-Mobile",
-      "ats": "workday",
-      "board": "External",
-      "key": "workday:tmobile.wd1.myworkdayjobs.com/External",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External"
     },
     {
       "company": "Take-Two Interactive",
