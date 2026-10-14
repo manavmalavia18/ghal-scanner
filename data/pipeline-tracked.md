@@ -171,4 +171,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Wisconsin/Site-Reliability-Engineer_R-432522 | Humana | Site Reliability Engineer | 25 Locations | posted: 2026-10-13
 
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Site-Reliability-Engineer_R0117833-1 | Truist | Site Reliability Engineer | 3 Locations | posted: 2026-10-14
+
 ## Processed
