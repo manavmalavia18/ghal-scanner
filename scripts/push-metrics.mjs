@@ -50,7 +50,11 @@ export function parsePrometheusText(text) {
 export function buildOtlpPayload(samples, nowNs) {
   const metrics = samples.map((s) => ({
     name: s.name,
-    unit: '1',
+    // Deliberately NOT "1" — Grafana Cloud's OTLP->Prometheus bridge reads
+    // unit:"1" as OpenTelemetry's "dimensionless ratio" convention and
+    // appends "_ratio" to the resulting Prometheus metric name, silently
+    // breaking every dashboard query written against the plain name.
+    unit: '',
     description: '',
     gauge: {
       dataPoints: [{

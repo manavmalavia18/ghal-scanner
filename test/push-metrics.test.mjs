@@ -49,3 +49,13 @@ test('builds a valid OTLP resourceMetrics payload from samples', () => {
     { key: 'track', value: { stringValue: 'software' } },
   ]);
 });
+
+test('unit is left empty so Grafana\'s OTLP->Prometheus bridge does not append a "_ratio" suffix', () => {
+  // unit: "1" is OpenTelemetry's "dimensionless ratio" convention — Grafana
+  // Cloud's bridge renames e.g. scoutgrid_users_total to
+  // scoutgrid_users_total_ratio when it sees that unit, silently breaking
+  // every dashboard query written against the original metric name.
+  // Confirmed live: all 9 pushed metrics landed suffixed before this fix.
+  const payload = buildOtlpPayload([{ name: 'scoutgrid_users_total', labels: {}, value: 1 }], 1n);
+  assert.equal(payload.resourceMetrics[0].scopeMetrics[0].metrics[0].unit, '');
+});
