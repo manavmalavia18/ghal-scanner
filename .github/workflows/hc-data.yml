@@ -37,7 +37,7 @@ jobs:
         uses: tailscale/github-action@v3
         with:
           authkey: ${{ secrets.TAILSCALE_AUTHKEY }}
-          args: "--exit-node=100.70.53.6 --exit-node-allow-lan-access=false"
+          args: "--exit-node=100.108.228.9 --exit-node-allow-lan-access=false"
 
       - name: Run HiringCafe feed fetch for data roles (under Xvfb)
         run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" node run-hc.mjs
