@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T14:40:06.691Z",
+  "fetchedAt": "2026-10-14T15:02:04.543Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 303,
+  "companyCount": 299,
   "companies": [
     {
       "company": "7-Eleven",
@@ -204,13 +204,6 @@
       "url": "https://aveva.wd3.myworkdayjobs.com/aveva_careers"
     },
     {
-      "company": "Azul Systems",
-      "ats": "lever",
-      "board": "azul",
-      "key": "lever:azul",
-      "url": "https://jobs.lever.co/azul/391104c1-f03c-47f7-8ff0-473cefaa1d84"
-    },
-    {
       "company": "Base Power Company",
       "ats": "ashby",
       "board": "base-power",
@@ -293,13 +286,6 @@
       "board": "brooks_external_site",
       "key": "workday:brooksauto.wd1.myworkdayjobs.com/brooks_external_site",
       "url": "https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site"
-    },
-    {
-      "company": "Burns Engineering",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4448512009",
-      "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4448512009"
     },
     {
       "company": "Canvas, Inc.",
@@ -1688,13 +1674,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8864584002?gh_jid=8864584002"
     },
     {
-      "company": "SpotOn",
-      "ats": "ashby",
-      "board": "spoton",
-      "key": "ashby:spoton",
-      "url": "https://jobs.ashbyhq.com/spoton/cdd0a5c0-4e1f-462d-b92c-ab9e3fe1208d"
-    },
-    {
       "company": "StackAdapt",
       "ats": "greenhouse",
       "board": "stackadapt",
@@ -1784,13 +1763,6 @@
       "board": "candidate",
       "key": "greenhouse:candidate",
       "url": "https://ibegin.tcsapps.com/candidate/jobs/433574J"
-    },
-    {
-      "company": "Taxo",
-      "ats": "ashby",
-      "board": "taxo",
-      "key": "ashby:taxo",
-      "url": "https://jobs.ashbyhq.com/taxo/bd011487-1c7b-4065-ab28-a355fb01c43d"
     },
     {
       "company": "Tenstorrent",
