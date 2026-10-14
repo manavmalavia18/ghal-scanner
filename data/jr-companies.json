@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T16:08:17.925Z",
+  "fetchedAt": "2026-10-14T16:30:25.542Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 297,
+  "companyCount": 300,
   "companies": [
     {
       "company": "7-Eleven",
@@ -582,13 +582,6 @@
       "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002"
     },
     {
-      "company": "Duolingo",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8881612002",
-      "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002"
-    },
-    {
       "company": "DV Trading",
       "ats": "greenhouse",
       "board": "dvtrading",
@@ -664,6 +657,13 @@
       "board": "",
       "key": "greenhouse-id:5261447007",
       "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007"
+    },
+    {
+      "company": "Everpure",
+      "ats": "greenhouse",
+      "board": "purestorage",
+      "key": "greenhouse:purestorage",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582"
     },
     {
       "company": "Extra Space Storage",
@@ -820,11 +820,11 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=groma&token=4743496005"
     },
     {
-      "company": "H-E-B",
+      "company": "GuidePoint Security",
       "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:244408",
-      "url": "https://careers.heb.com/jobs/244408"
+      "board": "guidepointsecurity",
+      "key": "greenhouse:guidepointsecurity",
+      "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6223478004?gh_jid=6223478004"
     },
     {
       "company": "Harbinger",
@@ -993,6 +993,13 @@
       "board": "jllcareers",
       "key": "workday:jll.wd1.myworkdayjobs.com/jllcareers",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers"
+    },
+    {
+      "company": "Jurgensen Companies",
+      "ats": "workday",
+      "board": "jc",
+      "key": "workday:jrjnet.wd5.myworkdayjobs.com/jc",
+      "url": "https://jrjnet.wd5.myworkdayjobs.com/jc"
     },
     {
       "company": "Justworks",
@@ -1462,6 +1469,13 @@
       "board": "",
       "key": "greenhouse-id:8274586",
       "url": "https://www.redventures.com/careers/positions/open?gh_jid=8274586"
+    },
+    {
+      "company": "Redwood Materials",
+      "ats": "greenhouse",
+      "board": "redwoodmaterials",
+      "key": "greenhouse:redwoodmaterials",
+      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219767004?gh_jid=6219767004"
     },
     {
       "company": "Reflection",
@@ -1994,6 +2008,13 @@
       "board": "wayve",
       "key": "ashby:wayve",
       "url": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5/application"
+    },
+    {
+      "company": "Weave",
+      "ats": "ashby",
+      "board": "weave",
+      "key": "ashby:weave",
+      "url": "https://jobs.ashbyhq.com/weave/60c0b7e6-5702-4e16-ad34-cbd2773f752d"
     },
     {
       "company": "WHOOP",
