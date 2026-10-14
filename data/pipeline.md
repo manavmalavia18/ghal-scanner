@@ -515,3 +515,5 @@
 - [ ] https://jobs.ashbyhq.com/obvio/b2fe3c1c-bf76-416d-9a86-fbfbf83122e1 | obvio | Software Engineer, Annotation Systems | Remote | posted: 2026-10-14
 
 - [ ] https://jobs.ashbyhq.com/second-front-systems/2171c580-fc91-4c66-b39c-542219248bd0 | second-front-systems | Platform Engineer | Remote | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8034005003 | blackcanyonconsulting | Account Backend Engineer | Bethesda, Maryland | posted: 2026-10-14
