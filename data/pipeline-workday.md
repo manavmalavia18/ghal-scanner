@@ -178,4 +178,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1 | signetjewelers | Software Engineer I (Remote) | Support Center - Akron, OH | posted: 2026-10-14
 - [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49493 | chrobinson | Software Engineer III | 2 Locations | posted: 2026-10-14
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-San-Francisco/Software-Development-Engineer--Pipedream-Connect_JR-0107821 | workday | Software Development Engineer--Pipedream Connect | 2 Locations | posted: 2026-10-14
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-stack-Engineer-4--Global-Payment-Network-_R1003455-1 | capitalone | Full-stack Engineer 4 (Global Payment Network) | 3 Locations | posted: 2026-10-14
+
 ## Processed
