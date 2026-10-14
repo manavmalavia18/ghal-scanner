@@ -180,4 +180,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/minitab/jobs/8030958003 | Minitab | DevOps Engineer | State College, Pennsylvania, United States | posted: 2026-10-13
 - [ ] https://aaaie.wd1.myworkdayjobs.com/csaacareers/job/Arizona---Home-Teleworkers/Software-Engineer-III--Data-Platform-Operations---Remote_R8040 | CSAA Insurance Group | Software Engineer III, Data Platform Operations - Remote | Arizona - Home Teleworkers | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/clear/jobs/8241829 | Clear | Software Development Engineer I | Austin, Texas | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/clear/jobs/8237847 | Clear | Software Development Engineer II | Austin, Texas | posted: 2026-10-14
+
 ## Processed
