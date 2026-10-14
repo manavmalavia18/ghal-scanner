@@ -225,4 +225,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/4154a8b2-7088-4007-b746-7ee8ad0f856a | Clera | Founding Backend Engineer | San Francisco | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/clera/3e502a77-eea5-4eaf-b318-12ef9d2fb655 | Clera | Founding DevOps Engineer | San Francisco | posted: 2026-10-14
 
+- [ ] https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--GUI_R-103326-1 | Jj | Software Engineer, GUI | Santa Clara, California, United States of America | posted: 2026-10-14
+
 ## Processed
