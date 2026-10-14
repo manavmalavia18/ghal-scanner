@@ -517,3 +517,5 @@
 - [ ] https://jobs.ashbyhq.com/second-front-systems/2171c580-fc91-4c66-b39c-542219248bd0 | second-front-systems | Platform Engineer | Remote | posted: 2026-10-14
 
 - [ ] https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8034005003 | blackcanyonconsulting | Account Backend Engineer | Bethesda, Maryland | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3 | harvey | Software Engineer | San Francisco | posted: 2026-10-14
