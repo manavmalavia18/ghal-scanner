@@ -222,4 +222,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740 | boeing | Experienced Software Engineer–Systems (Systems) | USA - Tinker AFB, OK | posted: 2026-10-14
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155 | boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | posted: 2026-10-14
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1 | salesforce | Software Engineering AMTS (College Grad) | 7 Locations | posted: 2026-10-14
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA---Promontory-D/Platform-Engineer---VCF-Networking_R027365 | broadcom | Platform Engineer – VCF Networking | USA-CA - Promontory D | posted: 2026-10-14
+- [ ] https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Austin-TX/Software-Engineer-II_R023181 | barrywehmiller | Software Engineer II | Austin, TX | posted: 2026-10-14
+
 ## Processed
