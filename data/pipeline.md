@@ -506,3 +506,7 @@
 - [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | chaosindustries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
 
 - [ ] https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95 | elevenlabs | Safety Engineer (Back-End Leaning) | United Kingdom · Dublin · Ireland · Tokyo · Japan · United States · New York · New York City · Los Angeles · Poland · Warsaw · London · Boston · San Francisco · Washington, D.C. · Remote | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/sardine/2524d206-42cb-4202-8d85-59e47c72d704 | sardine | Software Engineer - Backend | India · Remote | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4721997006?gh_jid=4721997006 | accenturefederalservices | Azure Infrastructure & DevOps Engineer | Washington, DC | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8881645002 | smartasset | Software Engineer | Remote, Contiguous United States | posted: 2026-10-14
