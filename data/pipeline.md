@@ -502,3 +502,5 @@
 - [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | langchain | FullStack Engineer, AI Observability & Evals Platform (LangSmith) | San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York | posted: 2026-10-14
 
 - [ ] https://jobs.ashbyhq.com/convey/836bb067-8911-4bb2-bdb5-45313ce25747 | convey | Site Reliability Engineer | Philippines · Remote | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | chaosindustries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
