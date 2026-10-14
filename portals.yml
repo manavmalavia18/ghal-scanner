@@ -7518,6 +7518,111 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Airbound"
+    careers_url: https://jobs.ashbyhq.com/airbound
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Alta Ares"
+    careers_url: https://jobs.ashbyhq.com/alta-ares
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Atira"
+    careers_url: https://jobs.ashbyhq.com/atira
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Braintrust"
+    careers_url: https://jobs.ashbyhq.com/Braintrust
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Commure"
+    careers_url: https://jobs.ashbyhq.com/Commure
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Convey"
+    careers_url: https://jobs.ashbyhq.com/convey
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Eight Sleep"
+    careers_url: https://jobs.ashbyhq.com/eightsleep
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Gimlet Labs, Inc."
+    careers_url: https://jobs.ashbyhq.com/gimlet
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Horizon3.ai"
+    careers_url: https://jobs.ashbyhq.com/horizon3ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "MERCOR"
+    careers_url: https://jobs.ashbyhq.com/mercor
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Morpho"
+    careers_url: https://jobs.ashbyhq.com/morpho
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Partly"
+    careers_url: https://jobs.ashbyhq.com/partly.com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Salmon"
+    careers_url: https://jobs.ashbyhq.com/salmon-group
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Sandbar"
+    careers_url: https://jobs.ashbyhq.com/sandbar
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Saronic Technologies"
+    careers_url: https://jobs.ashbyhq.com/saronic
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Simile"
+    careers_url: https://jobs.ashbyhq.com/simile
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Standard Bots"
+    careers_url: https://jobs.ashbyhq.com/StandardBots
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "TensorWave"
+    careers_url: https://jobs.ashbyhq.com/tensorwave
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Terra AI"
+    careers_url: https://jobs.ashbyhq.com/terraai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Vega"
+    careers_url: https://jobs.ashbyhq.com/vega
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "AutoNation"
+    careers_url: https://autonation.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

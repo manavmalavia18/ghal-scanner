@@ -1,8 +1,114 @@
 {
-  "at": "2026-10-14T15:19:39.559Z",
-  "leadsScanned": 1859,
-  "totalBoardsKnown": 683,
+  "at": "2026-10-14T16:03:50.805Z",
+  "leadsScanned": 1876,
+  "totalBoardsKnown": 704,
   "alreadyTracked": 683,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "newlyPromoted": 21,
+  "newBoards": [
+    {
+      "name": "Airbound",
+      "careers_url": "https://jobs.ashbyhq.com/airbound",
+      "provider": "ashby"
+    },
+    {
+      "name": "Alta Ares",
+      "careers_url": "https://jobs.ashbyhq.com/alta-ares",
+      "provider": "ashby"
+    },
+    {
+      "name": "Atira",
+      "careers_url": "https://jobs.ashbyhq.com/atira",
+      "provider": "ashby"
+    },
+    {
+      "name": "Braintrust",
+      "careers_url": "https://jobs.ashbyhq.com/Braintrust",
+      "provider": "ashby"
+    },
+    {
+      "name": "Commure",
+      "careers_url": "https://jobs.ashbyhq.com/Commure",
+      "provider": "ashby"
+    },
+    {
+      "name": "Convey",
+      "careers_url": "https://jobs.ashbyhq.com/convey",
+      "provider": "ashby"
+    },
+    {
+      "name": "Eight Sleep",
+      "careers_url": "https://jobs.ashbyhq.com/eightsleep",
+      "provider": "ashby"
+    },
+    {
+      "name": "Gimlet Labs, Inc.",
+      "careers_url": "https://jobs.ashbyhq.com/gimlet",
+      "provider": "ashby"
+    },
+    {
+      "name": "Horizon3.ai",
+      "careers_url": "https://jobs.ashbyhq.com/horizon3ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "MERCOR",
+      "careers_url": "https://jobs.ashbyhq.com/mercor",
+      "provider": "ashby"
+    },
+    {
+      "name": "Morpho",
+      "careers_url": "https://jobs.ashbyhq.com/morpho",
+      "provider": "ashby"
+    },
+    {
+      "name": "Partly",
+      "careers_url": "https://jobs.ashbyhq.com/partly.com",
+      "provider": "ashby"
+    },
+    {
+      "name": "Salmon",
+      "careers_url": "https://jobs.ashbyhq.com/salmon-group",
+      "provider": "ashby"
+    },
+    {
+      "name": "Sandbar",
+      "careers_url": "https://jobs.ashbyhq.com/sandbar",
+      "provider": "ashby"
+    },
+    {
+      "name": "Saronic Technologies",
+      "careers_url": "https://jobs.ashbyhq.com/saronic",
+      "provider": "ashby"
+    },
+    {
+      "name": "Simile",
+      "careers_url": "https://jobs.ashbyhq.com/simile",
+      "provider": "ashby"
+    },
+    {
+      "name": "Standard Bots",
+      "careers_url": "https://jobs.ashbyhq.com/StandardBots",
+      "provider": "ashby"
+    },
+    {
+      "name": "TensorWave",
+      "careers_url": "https://jobs.ashbyhq.com/tensorwave",
+      "provider": "ashby"
+    },
+    {
+      "name": "Terra AI",
+      "careers_url": "https://jobs.ashbyhq.com/terraai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Vega",
+      "careers_url": "https://jobs.ashbyhq.com/vega",
+      "provider": "ashby"
+    },
+    {
+      "name": "AutoNation",
+      "careers_url": "https://autonation.wd5.myworkdayjobs.com/careers",
+      "provider": "workday"
+    }
+  ]
 }
