@@ -448,4 +448,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/boxinc/jobs/8258849 | boxinc | Software Engineer III, Content Storage Gateway | Redwood City, CA, United States | posted: 2026-10-13
 - [ ] https://jobs.ashbyhq.com/embedding-vc/c7556b13-3332-4541-b0ec-42872eda7b51 | embedding-vc | Applied AI Engineer | San Francisco Bay Area | posted: 2026-10-13
 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007 | andurilindustries | Software Engineer, Interfaces | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6207262004 | alpaca | Software Engineer, Securities Finance | Remote - Americas | posted: 2026-10-14
+- [ ] https://jobs.lever.co/brillio-2/d7723e9e-43cb-4faf-85c0-e6edbad992d8 | brillio-2 | Frontline AI Engineer II - R01572473 | Davie, Florida, US | posted: 2026-10-08
+
 ## Processed
