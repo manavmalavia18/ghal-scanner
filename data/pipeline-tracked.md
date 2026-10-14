@@ -205,4 +205,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/d5f4cea8-7503-4095-a71b-90abe4d083ea | Clera | Associate Fullstack Engineer | San Francisco | posted: 2026-10-14
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1 | Salesforce | Software Engineering AMTS (College Grad) | 6 Locations | posted: 2026-10-14
 
+- [ ] https://jobs.ashbyhq.com/clera/955d26da-f204-4255-bfd8-676d6d1b6c41 | Clera | Founding Engineer (Full Stack) | San Francisco | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | CHAOS Industries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
+- [ ] https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Web-Developer--IT--Technology-Center_JR3827 | American Cancer Society | Web Developer, IT, Technology Center | Atlanta, Georgia | posted: 2026-10-13
+
 ## Processed
