@@ -7623,6 +7623,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Weave"
+    careers_url: https://jobs.ashbyhq.com/weave
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "GuidePoint Security"
+    careers_url: https://boards.greenhouse.io/guidepointsecurity
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Orenda"
+    careers_url: https://job-boards.greenhouse.io/orenda
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Everpure"
+    careers_url: https://job-boards.greenhouse.io/purestorage
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CrowdHealth"
+    careers_url: https://jobs.lever.co/crowdhealth
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Reply S.p.A."
+    careers_url: https://jobs.lever.co/reply
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Veeva Systems"
+    careers_url: https://jobs.lever.co/veeva
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jurgensen Companies"
+    careers_url: https://jrjnet.wd5.myworkdayjobs.com/job
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
