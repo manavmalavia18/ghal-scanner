@@ -522,3 +522,5 @@
 
 - [ ] https://jobs.ashbyhq.com/schoolhouse-world/cad94a4e-630d-4acd-b7fe-1172b242fcdb | schoolhouse-world | Mid-level Software Engineer | Remote | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440026008 | backblaze | Site Reliability Engineer I | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8282468 | trace3 | Software Developer, Java & Platform Integration | Colorado Springs, CO | posted: 2026-10-14
