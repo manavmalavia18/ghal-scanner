@@ -218,4 +218,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1 | Everfox | Software Engineer I | USA_TX_Richardson | posted: 2026-10-14
 
+- [ ] https://cgg.wd103.myworkdayjobs.com/viridiengraduate/job/Houston-United-States-of-America/ML-Engineer--Agentic-Systems_JR101529-3 | Viridien | ML Engineer, Agentic Systems | Houston, United States of America | posted: 2026-10-14
+
 ## Processed
