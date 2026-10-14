@@ -202,4 +202,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5 | CrowdHealth | Software Engineer, AI & Data | United States | posted: 2026-10-14
 - [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | Veeva Systems | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
 
+- [ ] https://jobs.ashbyhq.com/clera/d5f4cea8-7503-4095-a71b-90abe4d083ea | Clera | Associate Fullstack Engineer | San Francisco | posted: 2026-10-14
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1 | Salesforce | Software Engineering AMTS (College Grad) | 6 Locations | posted: 2026-10-14
+
 ## Processed
