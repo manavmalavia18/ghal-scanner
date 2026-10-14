@@ -229,4 +229,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690-1 | Expedia | Software Development Engineer III - InsurTech - Full Stack | Washington - Seattle Campus | posted: 2026-10-14
 
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440026008 | Backblaze | Site Reliability Engineer I | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/twitch/jobs/8887222002 | Twitch Interactive | Software Engineer I | San Francisco, CA | posted: 2026-10-14
+- [ ] https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen/job/Wisconsin/Artificial-Intelligence-Software-Engineer_JR-32902 | Gundersen Health System | Artificial Intelligence Software Engineer | Wisconsin
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Full-Stack-Software-Engineer-Analyst_26999335 | Citi | Full Stack Software Engineer Analyst | Irving Texas United States | posted: 2026-10-14
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/AI-Engineer---Startups---Partnerships_261001616 | Citi | AI Engineer – Startups & Partnerships | Jersey City New Jersey United States | posted: 2026-10-13
+- [ ] https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_261001276 | Citi | Java Software Engineer, Data Platform | Jersey City New Jersey United States | posted: 2026-10-13
+
 ## Processed
