@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T16:30:25.542Z",
+  "fetchedAt": "2026-10-14T16:52:35.924Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 300,
+  "companyCount": 305,
   "companies": [
     {
       "company": "7-Eleven",
@@ -27,13 +27,6 @@
       "board": "accenturecareers",
       "key": "workday:accenture.wd103.myworkdayjobs.com/accenturecareers",
       "url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers"
-    },
-    {
-      "company": "Acron Aviation",
-      "ats": "lever",
-      "board": "acronaviation",
-      "key": "lever:acronaviation",
-      "url": "https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a"
     },
     {
       "company": "Affirm",
@@ -484,6 +477,13 @@
       "url": "https://costar.wd1.myworkdayjobs.com/costarcareers"
     },
     {
+      "company": "CrowdHealth",
+      "ats": "lever",
+      "board": "crowdhealth",
+      "key": "lever:crowdhealth",
+      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5"
+    },
+    {
       "company": "Crypto.com",
       "ats": "lever",
       "board": "crypto",
@@ -587,6 +587,20 @@
       "board": "dvtrading",
       "key": "greenhouse:dvtrading",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005"
+    },
+    {
+      "company": "E Tech Group",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:6222812004",
+      "url": "https://etechgroup.com/careers-list?gh_jid=6222812004"
+    },
+    {
+      "company": "E Tech Group",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:6222814004",
+      "url": "https://etechgroup.com/careers-list?gh_jid=6222814004"
     },
     {
       "company": "Eka Robotics",
@@ -876,13 +890,6 @@
       "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6"
     },
     {
-      "company": "Highmark Health",
-      "ats": "workday",
-      "board": "highmark",
-      "key": "workday:highmarkhealth.wd1.myworkdayjobs.com/highmark",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark"
-    },
-    {
       "company": "Höganäs AB",
       "ats": "workday",
       "board": "careers",
@@ -1146,7 +1153,7 @@
       "ats": "ashby",
       "board": "mintmcp",
       "key": "ashby:mintmcp",
-      "url": "https://jobs.ashbyhq.com/mintmcp/15ecdd98-1171-4e5d-8abb-b8ebe107ddd5"
+      "url": "https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362"
     },
     {
       "company": "Morris Group, Inc.",
@@ -1301,6 +1308,13 @@
       "board": "openeye",
       "key": "greenhouse:openeye",
       "url": "https://job-boards.greenhouse.io/openeye/jobs/8884038002"
+    },
+    {
+      "company": "Orenda",
+      "ats": "greenhouse",
+      "board": "orenda",
+      "key": "greenhouse:orenda",
+      "url": "https://job-boards.greenhouse.io/orenda/jobs/8031471003"
     },
     {
       "company": "Outset",
@@ -1483,6 +1497,13 @@
       "board": "reflectionai",
       "key": "ashby:reflectionai",
       "url": "https://jobs.ashbyhq.com/reflectionai/13e02dca-e042-4ad0-bbbe-be6b09a98211/application"
+    },
+    {
+      "company": "Reply S.p.A.",
+      "ats": "lever",
+      "board": "reply",
+      "key": "lever:reply",
+      "url": "https://jobs.lever.co/reply/d24a1372-b895-4835-80ab-3ca3ef6c97e6"
     },
     {
       "company": "Revel",
@@ -1828,6 +1849,13 @@
       "url": "https://job-boards.greenhouse.io/tia/jobs/8027897003"
     },
     {
+      "company": "Tindell's Building Materials",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4243134",
+      "url": "https://tindells.applicantpro.com/jobs/4243134"
+    },
+    {
       "company": "Titan",
       "ats": "ashby",
       "board": "titan-msp",
@@ -1917,6 +1945,13 @@
       "board": "vaticlabs",
       "key": "greenhouse:vaticlabs",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=vaticlabs&token=7269020"
+    },
+    {
+      "company": "Veeva Systems",
+      "ats": "lever",
+      "board": "veeva",
+      "key": "lever:veeva",
+      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2"
     },
     {
       "company": "Venus Aerospace",

@@ -1,12 +1,17 @@
 {
-  "fetchedAt": "2026-10-14T16:30:25.514Z",
+  "fetchedAt": "2026-10-14T16:52:35.896Z",
   "days": 2,
-  "leadCount": 85,
-  "jobCount": 68,
+  "leadCount": 87,
+  "jobCount": 74,
   "boards": [
     {
       "key": "greenhouse:candidate",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:eonio",
+      "fetched": 36,
       "kept": 0
     },
     {
@@ -20,8 +25,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:eonio",
-      "fetched": 36,
+      "key": "greenhouse:stackadapt",
+      "fetched": 76,
       "kept": 0
     },
     {
@@ -30,68 +35,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:rzr",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:asana",
       "fetched": 104,
       "kept": 0
     },
     {
-      "key": "greenhouse:stackadapt",
-      "fetched": 76,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:nflcareers",
-      "fetched": 34,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:waymo",
-      "fetched": 368,
+      "fetched": 367,
       "kept": 4
     },
     {
-      "key": "greenhouse:vaticlabs",
-      "fetched": 7,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:en",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:lilasciences",
-      "fetched": 107,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:groma",
-      "fetched": 7,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:virtu",
-      "fetched": 48,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:harbingermotors",
-      "fetched": 91,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:tenstorrentuniversity",
-      "fetched": 12,
+      "key": "greenhouse:rzr",
+      "fetched": 52,
       "kept": 0
     },
     {
@@ -100,33 +55,53 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 447,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:quantifind",
       "fetched": 19,
       "kept": 0
     },
     {
-      "key": "greenhouse:planetlabs",
-      "fetched": 121,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:ridgeline",
-      "fetched": 29,
+      "key": "greenhouse:nflcareers",
+      "fetched": 34,
       "kept": 0
     },
     {
-      "key": "greenhouse:alpaca",
-      "fetched": 76,
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:vaticlabs",
+      "fetched": 7,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:ketch",
+      "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:en",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:groma",
+      "fetched": 7,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:lilasciences",
+      "fetched": 108,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:virtu",
+      "fetched": 48,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:orenda",
+      "fetched": 16,
       "kept": 1
     },
     {
@@ -135,33 +110,38 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:ionq",
-      "fetched": 131,
+      "key": "greenhouse:tenstorrentuniversity",
+      "fetched": 12,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:explore",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:harbingermotors",
+      "fetched": 91,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:ridgeline",
+      "fetched": 29,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:planetlabs",
+      "fetched": 121,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:alpaca",
+      "fetched": 76,
+      "kept": 1
     },
     {
       "key": "greenhouse:iowa",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:njjudiciary",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:interstates",
-      "fetched": 202,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:minneapolismn",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:bridgeway",
-      "fetched": 10,
       "kept": 0
     },
     {
@@ -170,13 +150,43 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:twilio",
-      "fetched": 143,
-      "kept": 1
+      "key": "greenhouse:ionq",
+      "fetched": 131,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:njjudiciary",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:minneapolismn",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 459,
+      "kept": 18
+    },
+    {
+      "key": "greenhouse:interstates",
+      "fetched": 202,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:bridgeway",
+      "fetched": 10,
+      "kept": 0
     },
     {
       "key": "greenhouse:carbonrobotics",
       "fetched": 11,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:guidepointsecurity",
+      "fetched": 69,
       "kept": 0
     },
     {
@@ -185,19 +195,9 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:redwoodmaterials",
+      "key": "greenhouse:twilio",
       "fetched": 143,
-      "kept": 0
-    },
-    {
-      "key": "ashby:reflectionai",
-      "fetched": 47,
-      "kept": 0
-    },
-    {
-      "key": "ashby:wayve",
-      "fetched": 164,
-      "kept": 2
+      "kept": 1
     },
     {
       "key": "ashby:fluidstack",
@@ -205,13 +205,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 101,
-      "kept": 1
+      "key": "ashby:wayve",
+      "fetched": 165,
+      "kept": 2
     },
     {
-      "key": "ashby:ema",
-      "fetched": 37,
+      "key": "ashby:reflectionai",
+      "fetched": 47,
       "kept": 0
     },
     {
@@ -225,8 +225,43 @@
       "kept": 0
     },
     {
+      "key": "ashby:mintmcp",
+      "fetched": 7,
+      "kept": 1
+    },
+    {
       "key": "ashby:chainalysis-careers",
-      "fetched": 52,
+      "fetched": 51,
+      "kept": 1
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 102,
+      "kept": 1
+    },
+    {
+      "key": "ashby:cohere",
+      "fetched": 117,
+      "kept": 1
+    },
+    {
+      "key": "ashby:ema",
+      "fetched": 37,
+      "kept": 0
+    },
+    {
+      "key": "ashby:anysignal",
+      "fetched": 22,
+      "kept": 1
+    },
+    {
+      "key": "ashby:recall",
+      "fetched": 5,
+      "kept": 0
+    },
+    {
+      "key": "ashby:fal-ai",
+      "fetched": 44,
       "kept": 1
     },
     {
@@ -235,19 +270,14 @@
       "kept": 9
     },
     {
-      "key": "ashby:cohere",
-      "fetched": 117,
+      "key": "greenhouse:cloudflare",
+      "fetched": 446,
       "kept": 1
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 459,
-      "kept": 18
-    },
-    {
-      "key": "ashby:anysignal",
-      "fetched": 22,
-      "kept": 1
+      "key": "ashby:armadin",
+      "fetched": 23,
+      "kept": 0
     },
     {
       "key": "ashby:column",
@@ -265,26 +295,6 @@
       "kept": 1
     },
     {
-      "key": "ashby:whoop",
-      "fetched": 170,
-      "kept": 0
-    },
-    {
-      "key": "ashby:armadin",
-      "fetched": 23,
-      "kept": 0
-    },
-    {
-      "key": "ashby:fal-ai",
-      "fetched": 44,
-      "kept": 1
-    },
-    {
-      "key": "ashby:whop",
-      "fetched": 36,
-      "kept": 0
-    },
-    {
       "key": "ashby:par%20technology",
       "fetched": 33,
       "kept": 1
@@ -295,18 +305,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:recall",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
       "key": "ashby:pramaana-labs",
       "fetched": 4,
       "kept": 0
     },
     {
-      "key": "ashby:skydio",
-      "fetched": 155,
+      "key": "ashby:whoop",
+      "fetched": 170,
       "kept": 0
     },
     {
@@ -315,23 +320,23 @@
       "kept": 0
     },
     {
-      "key": "ashby:outset",
-      "fetched": 19,
+      "key": "ashby:whop",
+      "fetched": 36,
       "kept": 0
     },
     {
-      "key": "greenhouse:guidepointsecurity",
-      "fetched": 69,
+      "key": "ashby:skydio",
+      "fetched": 155,
       "kept": 0
     },
     {
-      "key": "greenhouse:ketch",
-      "fetched": 8,
+      "key": "lever:reply",
+      "fetched": 44,
       "kept": 0
     },
     {
-      "key": "lever:acceldata",
-      "fetched": 39,
+      "key": "lever:crypto",
+      "fetched": 87,
       "kept": 0
     },
     {
@@ -340,48 +345,13 @@
       "kept": 0
     },
     {
-      "key": "lever:rhombus-systems",
-      "fetched": 7,
-      "kept": 0
-    },
-    {
-      "key": "lever:make-rain",
-      "fetched": 25,
-      "kept": 1
-    },
-    {
-      "key": "lever:crypto",
-      "fetched": 87,
-      "kept": 0
-    },
-    {
-      "key": "lever:cirrus",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "lever:venusaero",
-      "fetched": 32,
-      "kept": 0
-    },
-    {
       "key": "lever:zoox",
-      "fetched": 237,
+      "fetched": 238,
       "kept": 3
     },
     {
-      "key": "lever:thea.energy",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
-      "key": "lever:acronaviation",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
-      "key": "workday:micron.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
+      "key": "lever:rhombus-systems",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -390,13 +360,48 @@
       "kept": 1
     },
     {
+      "key": "lever:crowdhealth",
+      "fetched": 5,
+      "kept": 1
+    },
+    {
+      "key": "lever:thea.energy",
+      "fetched": 52,
+      "kept": 0
+    },
+    {
+      "key": "lever:venusaero",
+      "fetched": 32,
+      "kept": 0
+    },
+    {
+      "key": "lever:cirrus",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "lever:make-rain",
+      "fetched": 25,
+      "kept": 1
+    },
+    {
+      "key": "workday:micron.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:verygoodsecurity",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:hoganas.wd3.myworkdayjobs.com/careers",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "workday:zebra.wd501.myworkdayjobs.com/zebra_careers",
-      "fetched": 40,
+      "key": "workday:intel.wd1.myworkdayjobs.com/external",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -405,8 +410,13 @@
       "kept": 0
     },
     {
-      "key": "workday:intel.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
+      "key": "lever:acceldata",
+      "fetched": 39,
+      "kept": 0
+    },
+    {
+      "key": "workday:zebra.wd501.myworkdayjobs.com/zebra_careers",
+      "fetched": 40,
       "kept": 0
     },
     {
@@ -425,9 +435,9 @@
       "kept": 7
     },
     {
-      "key": "lever:verygoodsecurity",
-      "fetched": 20,
-      "kept": 0
+      "key": "lever:veeva",
+      "fetched": 947,
+      "kept": 3
     }
   ],
   "jobs": [
@@ -512,14 +522,14 @@
       "board": "affirm"
     },
     {
-      "title": "Senior Software Engineer, Distributed Databases",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
-      "company": "Cloudflare",
-      "location": "In-Office · Austin, TX · London, United Kingdom · Seattle, WA",
-      "postedAt": "2026-10-13T22:19:07.000Z",
+      "title": "Machine Learning Engineer",
+      "url": "https://job-boards.greenhouse.io/orenda/jobs/8031471003",
+      "company": "Orenda",
+      "location": "New York, New York, United States",
+      "postedAt": "2026-10-14T14:34:27.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "cloudflare"
+      "board": "orenda"
     },
     {
       "title": "Director of Software Engineering, Analytics",
@@ -550,186 +560,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "anaplan"
-    },
-    {
-      "title": "Software Engineer (L2) Messaging Channels Team ",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
-      "company": "Twilio",
-      "location": "Remote - US",
-      "postedAt": "2026-10-13T19:12:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "twilio"
-    },
-    {
-      "title": "Sr. Software Engineer, Network Observability (Starlink)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8871849002?gh_jid=8871849002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-10-14T15:38:51.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Manager, Software Engineering, People (Application Software)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-10-13T18:38:45.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": " Manager, Software Engineering, Finance (Application Software)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-10-13T18:37:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": "Software Engineer, Simulation",
-      "url": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
-      "company": "Wayve",
-      "location": "Sunnyvale, California USA",
-      "postedAt": "2026-10-14T08:45:34.614Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "wayve"
-    },
-    {
-      "title": "Staff Software Engineer, AI Libraries ",
-      "url": "https://jobs.ashbyhq.com/wayve/000a7973-cec6-401c-818a-06781f1f6644",
-      "company": "Wayve",
-      "location": "Sunnyvale, California USA",
-      "postedAt": "2026-10-14T05:52:12.272Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "wayve"
-    },
-    {
-      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
-      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "company": "LangChain",
-      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
-      "postedAt": "2026-10-14T15:18:56.705Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "langchain"
-    },
-    {
-      "title": "Software Engineer II, Compliance Core",
-      "url": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
-      "company": "Chainalysis",
-      "location": "New York Office",
-      "postedAt": "2026-10-14T10:34:30.967Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "chainalysis-careers"
-    },
-    {
-      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
-      "company": "ElevenLabs",
-      "location": "Remote · Ireland · Europe · European Union · United States · Poland · Warsaw · United Kingdom",
-      "postedAt": "2026-10-14T10:04:28.961Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
-      "company": "ElevenLabs",
-      "location": "Remote · Ireland · Europe · European Union · United States · Poland · United Kingdom",
-      "postedAt": "2026-10-14T10:03:44.600Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Forward Deployed Engineer - Software Engineer - USA",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
-      "company": "ElevenLabs",
-      "location": "San Francisco · United States · New York · New York City · Remote",
-      "postedAt": "2026-10-14T01:20:28.144Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer - ElevenMusic",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "postedAt": "2026-10-13T14:11:23.984Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer - ElevenAPI",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
-      "company": "ElevenLabs",
-      "location": "United States · Dublin · Ireland · Bulgaria · Sofia · Germany · Portugal · Poland · Warsaw · Madrid · Spain · Amsterdam · Netherlands · Remote",
-      "postedAt": "2026-10-13T11:50:44.243Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
-      "company": "ElevenLabs",
-      "location": "Remote · New York · New York City · United States · Poland · Warsaw · Sweden · Stockholm · United Kingdom · Netherlands · France",
-      "postedAt": "2026-10-13T11:44:40.668Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer (Backend Leaning) - CoreMusic",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
-      "company": "ElevenLabs",
-      "location": "Remote · New York · New York City · United States · Brazil · Paris · Poland · London · United Kingdom · Amsterdam · Netherlands · Canada",
-      "postedAt": "2026-10-13T11:43:26.151Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
-      "company": "ElevenLabs",
-      "location": "London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote",
-      "postedAt": "2026-10-13T09:53:19.313Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Full-Stack Engineer - Ads Engine",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
-      "company": "ElevenLabs",
-      "location": "United Kingdom · United States · Poland · Bulgaria · Remote",
-      "postedAt": "2026-10-13T00:21:46.626Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "elevenlabs"
-    },
-    {
-      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-      "company": "Cohere",
-      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
-      "postedAt": "2026-10-13T23:49:23.157Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cohere"
     },
     {
       "title": "Senior Software Engineer, Data Engineering",
@@ -912,6 +742,106 @@
       "board": "doordashusa"
     },
     {
+      "title": "Sr. Software Engineer, Network Observability (Starlink)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8871849002?gh_jid=8871849002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-10-14T15:38:51.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Manager, Software Engineering, People (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-10-13T18:38:45.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": " Manager, Software Engineering, Finance (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-10-13T18:37:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Software Engineer (L2) Messaging Channels Team ",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+      "company": "Twilio",
+      "location": "Remote - US",
+      "postedAt": "2026-10-13T19:12:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "twilio"
+    },
+    {
+      "title": "Software Engineer, Simulation",
+      "url": "https://jobs.ashbyhq.com/wayve/90866bb9-017d-45a4-ba18-d9b7fc46a6e5",
+      "company": "Wayve",
+      "location": "Sunnyvale, California USA",
+      "postedAt": "2026-10-14T08:45:34.614Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "wayve"
+    },
+    {
+      "title": "Staff Software Engineer, AI Libraries ",
+      "url": "https://jobs.ashbyhq.com/wayve/000a7973-cec6-401c-818a-06781f1f6644",
+      "company": "Wayve",
+      "location": "Sunnyvale, California USA",
+      "postedAt": "2026-10-14T05:52:12.272Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "wayve"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362",
+      "company": "MintMCP",
+      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
+      "postedAt": "2026-10-14T13:25:27.386Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mintmcp"
+    },
+    {
+      "title": "Software Engineer II, Compliance Core",
+      "url": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
+      "company": "Chainalysis",
+      "location": "New York Office",
+      "postedAt": "2026-10-14T10:34:30.967Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "chainalysis-careers"
+    },
+    {
+      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
+      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "company": "LangChain",
+      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
+      "postedAt": "2026-10-14T15:18:56.705Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "langchain"
+    },
+    {
+      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
+      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
+      "company": "Cohere",
+      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
+      "postedAt": "2026-10-13T23:49:23.157Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cohere"
+    },
+    {
       "title": "Embedded Software Engineer",
       "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
       "company": "AnySignal",
@@ -920,6 +850,116 @@
       "salary": "",
       "ats": "Ashby",
       "board": "anysignal"
+    },
+    {
+      "title": "Software Engineer, Applied Machine Learning",
+      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
+      "company": "fal",
+      "location": "San Francisco",
+      "postedAt": "2026-10-13T21:14:59.835Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "fal-ai"
+    },
+    {
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "company": "ElevenLabs",
+      "location": "Remote · Ireland · Europe · European Union · United States · Poland · Warsaw · United Kingdom",
+      "postedAt": "2026-10-14T10:04:28.961Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "company": "ElevenLabs",
+      "location": "Remote · Ireland · Europe · European Union · United States · Poland · United Kingdom",
+      "postedAt": "2026-10-14T10:03:44.600Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Forward Deployed Engineer - Software Engineer - USA",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "company": "ElevenLabs",
+      "location": "San Francisco · United States · New York · New York City · Remote",
+      "postedAt": "2026-10-14T01:20:28.144Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - ElevenMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "postedAt": "2026-10-13T14:11:23.984Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "company": "ElevenLabs",
+      "location": "United States · Dublin · Ireland · Bulgaria · Sofia · Germany · Portugal · Poland · Warsaw · Madrid · Spain · Amsterdam · Netherlands · Remote",
+      "postedAt": "2026-10-13T11:50:44.243Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
+      "company": "ElevenLabs",
+      "location": "Remote · New York · New York City · United States · Poland · Warsaw · Sweden · Stockholm · United Kingdom · Netherlands · France",
+      "postedAt": "2026-10-13T11:44:40.668Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer (Backend Leaning) - CoreMusic",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
+      "company": "ElevenLabs",
+      "location": "Remote · New York · New York City · United States · Brazil · Paris · Poland · London · United Kingdom · Amsterdam · Netherlands · Canada",
+      "postedAt": "2026-10-13T11:43:26.151Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2a99d0a0-adae-41b5-a7ef-f1d3faee60a7",
+      "company": "ElevenLabs",
+      "location": "London · Dublin · Ireland · New York · New York City · United States · Sofia · Bulgaria · Switzerland · Poland · Remote",
+      "postedAt": "2026-10-13T09:53:19.313Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Full-Stack Engineer - Ads Engine",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
+      "company": "ElevenLabs",
+      "location": "United Kingdom · United States · Poland · Bulgaria · Remote",
+      "postedAt": "2026-10-13T00:21:46.626Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "elevenlabs"
+    },
+    {
+      "title": "Senior Software Engineer, Distributed Databases",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
+      "company": "Cloudflare",
+      "location": "In-Office · Austin, TX · London, United Kingdom · Seattle, WA",
+      "postedAt": "2026-10-13T22:19:07.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "cloudflare"
     },
     {
       "title": "Software Engineer (Travel Heavy)",
@@ -962,16 +1002,6 @@
       "board": "latchbio"
     },
     {
-      "title": "Software Engineer, Applied Machine Learning",
-      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
-      "company": "fal",
-      "location": "San Francisco",
-      "postedAt": "2026-10-13T21:14:59.835Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "fal-ai"
-    },
-    {
       "title": "Software Developer",
       "url": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56",
       "company": "PAR Technology",
@@ -990,16 +1020,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "zefr"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
-      "company": "Rainmaker Technology Corporation",
-      "location": "El Segundo, CA",
-      "postedAt": "2026-10-13T00:52:59.631Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "make-rain"
     },
     {
       "title": "Software Development Engineer in Test",
@@ -1040,6 +1060,26 @@
       "salary": "",
       "ats": "Lever",
       "board": "enablecomp"
+    },
+    {
+      "title": "Software Engineer, AI & Data",
+      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
+      "company": "CrowdHealth",
+      "location": "United States",
+      "postedAt": "2026-10-14T15:23:08.248Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "crowdhealth"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
+      "company": "Rainmaker Technology Corporation",
+      "location": "El Segundo, CA",
+      "postedAt": "2026-10-13T00:52:59.631Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "make-rain"
     },
     {
       "title": "Senior Software Engineer",
@@ -1117,6 +1157,36 @@
       "ats": "Workday",
       "board": "careers_gm",
       "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Associate DevOps Engineer",
+      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-13T18:10:04.637Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "url": "https://jobs.lever.co/veeva/3957164e-e2ec-402a-b3b8-c5225eb9b0fa",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-12T21:04:17.114Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "url": "https://jobs.lever.co/veeva/17af8079-4844-4b36-b898-ae488e638108",
+      "company": "Veeva Systems",
+      "location": "Missouri - Kansas City",
+      "postedAt": "2026-10-12T21:03:19.507Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
     }
   ],
   "leadSources": [
