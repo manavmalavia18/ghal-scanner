@@ -175,4 +175,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953-1 | globalhr | Software Engineer I (Onsite) | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-14
 - [ ] https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Advisor--Hybrid_26012682 | cigna | Software Engineering Advisor- Hybrid | Austin, TX | posted: 2026-10-14
 
+- [ ] https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1 | signetjewelers | Software Engineer I (Remote) | Support Center - Akron, OH | posted: 2026-10-14
+- [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49493 | chrobinson | Software Engineer III | 2 Locations | posted: 2026-10-14
+
 ## Processed
