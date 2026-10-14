@@ -168,4 +168,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928 | ngc | Associate Cloud Software Engineer (Level 1) | United States-California-Redondo Beach | posted: 2026-10-13
 
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---WA---BELLEVUE/DevOps-Engineer_51590689 | dxctechnology | DevOps Engineer | 9 Locations | posted: 2026-10-14
+
 ## Processed
