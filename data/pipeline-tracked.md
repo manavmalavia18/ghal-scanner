@@ -169,4 +169,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1 | Signetjewelers | Software Engineer I (Remote) | Support Center - Akron, OH | posted: 2026-10-14
 
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Wisconsin/Site-Reliability-Engineer_R-432522 | Humana | Site Reliability Engineer | 25 Locations | posted: 2026-10-13
+
 ## Processed
