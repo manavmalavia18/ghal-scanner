@@ -1,8 +1,29 @@
 {
-  "at": "2026-10-14T13:06:24.716Z",
-  "leadsScanned": 1849,
-  "totalBoardsKnown": 633,
-  "alreadyTracked": 633,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-14T13:51:19.955Z",
+  "leadsScanned": 1570,
+  "totalBoardsKnown": 623,
+  "alreadyTracked": 619,
+  "newlyPromoted": 4,
+  "newBoards": [
+    {
+      "name": "Skydio",
+      "careers_url": "https://jobs.ashbyhq.com/skydio",
+      "provider": "ashby"
+    },
+    {
+      "name": "Humana",
+      "careers_url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site",
+      "provider": "workday"
+    },
+    {
+      "name": "Medline",
+      "careers_url": "https://medline.wd5.myworkdayjobs.com/medline",
+      "provider": "workday"
+    },
+    {
+      "name": "Stryker",
+      "careers_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
+      "provider": "workday"
+    }
+  ]
 }

@@ -7253,6 +7253,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from jobright
+  - name: "Skydio"
+    careers_url: https://jobs.ashbyhq.com/skydio
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Humana"
+    careers_url: https://humana.wd5.myworkdayjobs.com/humana_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Medline"
+    careers_url: https://medline.wd5.myworkdayjobs.com/medline
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stryker"
+    careers_url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
