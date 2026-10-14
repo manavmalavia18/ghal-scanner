@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T20:55:13.696Z",
+  "fetchedAt": "2026-10-14T21:09:07.437Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,28 +24,28 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 18,
+  "pagesFetched": 3,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 678,
+    "software engineer": null,
     "software developer": null,
     "backend engineer": null,
-    "frontend engineer": null,
+    "frontend engineer": 9,
     "full stack engineer": null,
     "full stack developer": null,
     "platform engineer": null,
     "devops engineer": null,
-    "site reliability engineer": 15,
+    "site reliability engineer": null,
     "data engineer": null,
-    "machine learning engineer": 34,
+    "machine learning engineer": null,
     "mobile engineer": null,
     "ios engineer": 5,
-    "android engineer": null,
-    "qa automation engineer": 7,
+    "android engineer": 14,
+    "qa automation engineer": null,
     "security engineer": null
   },
-  "count": 945,
+  "count": 944,
   "jobs": [
     {
       "title": "2027 Summer Internship – Software Engineer",
@@ -367,6 +367,33 @@
       "lastSeenAt": "2026-10-14T20:55:13.678Z"
     },
     {
+      "title": "Electrical Engineering Intern",
+      "url": "https://www.metacareers.com/profile/job_details/929122273385202",
+      "company": "Meta",
+      "location": "Sunnyvale or New York City",
+      "postedAt": 1791996353066,
+      "salary": "$80k-$143k/yr",
+      "workplace": "Onsite",
+      "commitment": "Internship",
+      "yoe": "",
+      "summary": "Currently pursuing a Bachelor's or Master's in Electrical Engineering or related field; knowledge of EE fundamentals, microcontrollers, and lab equipment; must obtain and maintain work authorization; intent to return to full-time degree program after internship.",
+      "tools": [
+        "C/C++",
+        "Python",
+        "Ruby",
+        "Batch",
+        "Java",
+        "Android",
+        "Linux",
+        "FPGA",
+        "ARM"
+      ],
+      "company_tagline": "A technology company building products that help people connect and find communities, moving beyond screens toward immersive experiences.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-10-14T21:09:07.419Z",
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
+    },
+    {
       "title": "Structural Design Engineer - FEA (Intern)",
       "url": "https://www.metacareers.com/profile/job_details/1763344164969127",
       "company": "Meta",
@@ -477,7 +504,7 @@
       "company_tagline": "An electric vehicle manufacturer on a mission to keep the world adventurous forever.",
       "ats_source": "icims2",
       "discoveredAt": "2026-10-14T20:12:27.972Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Machine Learning Engineer - Intelligent Quality Systems",
@@ -774,7 +801,7 @@
       "company_tagline": "A leader in IoT solutions, supporting customers in automotive, manufacturing, and smart infrastructure with cloud computing and IoT services.",
       "ats_source": "lever",
       "discoveredAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Solutions Engineer",
@@ -875,7 +902,7 @@
       "company_tagline": "The world's largest professional network, built to create economic opportunity for every member of the global workforce.",
       "ats_source": "smartrecruiters",
       "discoveredAt": "2026-10-14T20:55:13.678Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Software Development Engineer I",
@@ -3550,6 +3577,30 @@
       "lastSeenAt": "2026-10-14T14:07:08.825Z"
     },
     {
+      "title": "Mobile Field Test Network Engineer",
+      "url": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Mobile-Field-Test-Network-Engineer_JR102098-1",
+      "company": "Business Integra",
+      "location": "Plano, Texas, United States",
+      "postedAt": 1791936000000,
+      "salary": "$58k-$73k/yr",
+      "workplace": "Field",
+      "commitment": "Full Time · Temporary",
+      "yoe": "",
+      "summary": "Bachelor's degree in telecommunications, electrical engineering, computer science or related field; hands-on experience in mobile device or wireless testing; knowledge of Bluetooth and Wi-Fi; familiarity with Android; valid driver's license; ability to travel up to 5%.",
+      "tools": [
+        "Wireshark",
+        "ADB",
+        "Logcat",
+        "iPerf",
+        "Python",
+        "Shell"
+      ],
+      "company_tagline": "A national consulting company providing engineering and technology solutions.",
+      "ats_source": "workday",
+      "discoveredAt": "2026-10-14T21:09:07.419Z",
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
+    },
+    {
       "title": "Intern - Software Engineer",
       "url": "https://lseg.wd3.myworkdayjobs.com/graduate_careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
       "company": "London Stock Exchange Group",
@@ -3732,7 +3783,7 @@
       "company_tagline": "A global business services company that supports, protects, and connects major consumer purchases.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-14T20:55:13.678Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Artificial Intelligence Software Engineer",
@@ -5191,7 +5242,7 @@
       "company_tagline": "An integrated post-purchase and retention suite for Shopify brands, connecting order tracking, returns, reviews, loyalty, and AI support.",
       "ats_source": "workable",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Product Engineer",
@@ -5241,7 +5292,7 @@
       "company_tagline": "An integrated post-purchase and retention suite for Shopify brands, connecting order tracking, returns, reviews, loyalty, and AI support.",
       "ats_source": "workable",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Loyalty & Referrals R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
@@ -5271,7 +5322,7 @@
       "company_tagline": "An integrated post-purchase and retention suite for Shopify brands, connecting order tracking, returns, reviews, loyalty, and AI support.",
       "ats_source": "workable",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Manufacturing Engineering Intern 2026",
@@ -5842,7 +5893,7 @@
       "company_tagline": "A medical technology company developing innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine.",
       "ats_source": "paradox",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Embedded Software Engineer - Biophotonics",
@@ -6941,7 +6992,7 @@
       "company_tagline": "A company that empowers people to perform at a higher level through a deeper understanding of their bodies and daily lives.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Application Engineer",
@@ -7055,7 +7106,7 @@
       "company_tagline": "A security company building autonomous proactive security solutions for the AI era.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Engineering Technician – CAD/CAM",
@@ -8362,7 +8413,7 @@
       "company_tagline": "A technology and logistics company that enables door-to-door delivery and empowers local economies.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:34:01.068Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Software Developer",
@@ -8595,7 +8646,7 @@
       "company_tagline": "A leading US drone company and world leader in autonomous flight technology.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Display Optical Engineer",
@@ -9428,7 +9479,7 @@
       "company_tagline": "A cloud-based software platform providing payroll, benefits, HR tools, and compliance support for growing businesses.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Dynamics 365 Field Service Developer",
@@ -10756,7 +10807,7 @@
       "company_tagline": "A global technology company delivering digital, engineering, cloud, and AI capabilities.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Technical Specialist (US)",
@@ -11445,7 +11496,7 @@
       "company_tagline": "An AI research and product company building realistic voice and audio models.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-13T19:47:07.498Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Software Engineer, Generative AI, Geo Data",
@@ -13585,7 +13636,7 @@
       "company_tagline": "An AI research and product company building the most realistic AI voice platform.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-14T19:48:44.985Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
@@ -14310,7 +14361,7 @@
       "company_tagline": "An AI research and product company building realistic voice and audio models.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-13T19:47:07.498Z",
-      "lastSeenAt": "2026-10-14T19:48:44.985Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Software Engineer - O365",
@@ -19452,7 +19503,7 @@
       "company_tagline": "An IT managed services provider protecting the US defense industrial base from cyber threats.",
       "ats_source": "isolvedhire",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Android AOSP Device Software Engineer",
@@ -19477,7 +19528,7 @@
       "company_tagline": "A global leader in fintech and payments, moving money and information securely for financial institutions, corporations, merchants, and consumers.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Mobile Engineer 4 (Android - Manager, IC)",
@@ -19507,7 +19558,7 @@
       "company_tagline": "A leading information-based technology company bringing ingenuity, simplicity, and humanity to banking.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "#Software Engineer",
@@ -19537,7 +19588,7 @@
       "company_tagline": "A leading technology innovator enabling next-generation experiences and digital transformation.",
       "ats_source": "eightfold",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Assoc Engineer Mobile Device",
@@ -19559,7 +19610,7 @@
       "company_tagline": "A provider of medical-surgical products and supply chain solutions for healthcare.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-14T13:42:55.063Z",
-      "lastSeenAt": "2026-10-14T20:34:01.068Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Software Engineer",
@@ -20321,7 +20372,7 @@
       "company_tagline": "A global pharmaceutical solutions company connecting manufacturers, providers, and patients to improve lives.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-13T19:26:51.098Z",
-      "lastSeenAt": "2026-10-14T20:55:13.678Z"
+      "lastSeenAt": "2026-10-14T21:09:07.419Z"
     },
     {
       "title": "Desarrollador Power BI – Mid Senior  1926",
@@ -22777,86 +22828,6 @@
       "ats_source": "google",
       "discoveredAt": "2026-10-13T20:04:14.794Z",
       "lastSeenAt": "2026-10-13T20:04:14.794Z"
-    },
-    {
-      "title": "Associate Staff Engineer -  INFOR M3 Technical Consultant",
-      "url": "https://jobs.smartrecruiters.com/Nagarro1/744000155116669-associate-staff-engineer-infor-m3-technical-consultant",
-      "company": "Nagarro",
-      "location": "United States or Seattle",
-      "postedAt": 1791839304646,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3-5 years Infor M3 technical development and integration experience; strong expertise in Infor OS, ION, MEC, M3 APIs, Data Lake, Enterprise Collaborator; SQL, XML, JSON, REST/SOAP APIs, middleware; troubleshooting and production support.",
-      "tools": [
-        "Infor M3",
-        "Infor OS",
-        "ION",
-        "MEC",
-        "M3 APIs",
-        "Data Lake",
-        "Enterprise Collaborator",
-        "SQL",
-        "XML",
-        "JSON",
-        "REST",
-        "SOAP"
-      ],
-      "company_tagline": "A digital product engineering company that builds products, services, and experiences across all devices and digital mediums.",
-      "ats_source": "smartrecruiters",
-      "discoveredAt": "2026-10-13T19:03:19.441Z",
-      "lastSeenAt": "2026-10-13T20:04:14.794Z"
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "url": "https://jobs.ashbyhq.com/titan-msp/e9bc8401-f5aa-4a26-b735-e5dd65d9fcb5",
-      "company": "Titan",
-      "location": "San Francisco or New York City",
-      "postedAt": 1791839192930,
-      "salary": "$180k-$480k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years engineering or technical deployment experience with customer-facing work; production-grade code in TypeScript, Python, or comparable stack; experience shipping LLM-powered systems; strong communication; ownership of complex systems.",
-      "tools": [
-        "TypeScript",
-        "Python"
-      ],
-      "company_tagline": "A company building AI agents for IT operations, deploying them across managed service providers and enterprise customers.",
-      "ats_source": "ashby",
-      "discoveredAt": "2026-10-13T20:04:14.794Z",
-      "lastSeenAt": "2026-10-13T20:04:14.794Z"
-    },
-    {
-      "title": "Platform Engineer",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Platform-Engineer_REQ361405-1/apply",
-      "company": "T-Mobile",
-      "location": "Frisco, Texas, United States",
-      "postedAt": 1791838617000,
-      "salary": "$81k-$146k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "2+ YOE",
-      "summary": "Bachelor's degree plus 2 years related experience or equivalent; 2-4+ years designing scalable infrastructure, CI/CD pipelines, and data platform integration; proficiency in Python, Bash, or PowerShell; experience with observability tools; legally authorized to work in the US; at least 18 years old.",
-      "tools": [
-        "AWS",
-        "Azure",
-        "Docker",
-        "Kubernetes",
-        "Python",
-        "Bash",
-        "PowerShell",
-        "Terraform",
-        "Ansible",
-        "GitLab CI/CD",
-        "Jenkins",
-        "Prometheus"
-      ],
-      "company_tagline": "A telecommunications company investing in employees with comprehensive benefits and growth opportunities.",
-      "ats_source": "paradox",
-      "discoveredAt": "2026-10-13T16:39:06.400Z",
-      "lastSeenAt": "2026-10-13T21:15:06.467Z"
     }
   ]
 }
