@@ -236,4 +236,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/DevOps-Engineer_3169187-1 | hp | DevOps Engineer | Vancouver, Washington, United States of America | posted: 2026-10-14
 - [ ] https://generac.wd5.myworkdayjobs.com/external/job/Holdrege-NE---USA/Software-Engineer-II_JR17101 | generac | Software Engineer II | Holdrege, NE - USA | posted: 2026-10-14
 
+- [ ] https://harriscomputer.wd3.myworkdayjobs.com/gbs/job/Remote---Costa-Rica/AI-Engineer_R0046936-1 | harriscomputer | AI Engineer | Remote - Costa Rica | posted: 2026-10-14
+- [ ] https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Spindle-Polishing-Technician-CWW-Front-End-Nights--6-00-PM---6-00-AM_J-00353546 | asml | Spindle Polishing Technician CWW Front End Nights, 6:00 PM – 6:00 AM | Wilton, CT, USA | posted: 2026-10-14
+
 ## Processed
