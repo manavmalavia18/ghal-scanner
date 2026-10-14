@@ -146,4 +146,21 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clera/b73a1940-f763-42e8-9419-247f3a7028df | Clera | Founding Software Engineer | San Francisco | posted: 2026-10-13
 
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6207262004 | Alpaca | Software Engineer, Securities Finance | Remote - Americas | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/swarmaero/0ab05da6-7a1b-4632-b08f-0ef663efb33f | Swarm Aero | Software Engineer, Real-Time Generalist | San Francisco · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/binance.us/022510b5-3654-44c0-b573-e2c6209c778c | Binance.US | Associate Site Reliability Engineer | U.S. · Remote | posted: 2026-10-13
+- [ ] https://jobs.ashbyhq.com/latchbio/57fcf84e-36c3-4684-9a80-9d96661b096e | LatchBio | Infrastructure Software Engineer (AI Enablement) | San Francisco, USA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8138486 | DoorDash | Software Engineer, Backend (All Teams) | San Francisco, CA; New York City, NY; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192187 | DoorDash | Software Engineer, Data and AI Platform | San Francisco, CA; Sunnyvale, CA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192116 | DoorDash | Software Engineer, Data Engineering | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8191886 | DoorDash | Software Engineer, Data Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8192190 | DoorDash | Software Engineer, Spark Platform | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | posted: 2026-10-13
+- [ ] https://job-boards.greenhouse.io/vestmark/jobs/8204509 | Vestmark | Software Engineer Co-op | Boston, MA | posted: 2026-10-13
+- [ ] https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327 | EnableComp | AI Engineer (REMOTE) | Franklin, TN; United States - Remote | posted: 2026-10-13
+- [ ] https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Ohio/Software-Engineer_JR100384 | Ambarella | Software Engineer | US Ohio | posted: 2026-10-14
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-4_R1001442-1 | Capital One | AI Engineer 4 | 4 Locations | posted: 2026-10-14
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1003498-1 | Capital One | AI Engineer 4 (Gen AI Platform Services) | 5 Locations | posted: 2026-10-14
+- [ ] https://surescripts.wd503.myworkdayjobs.com/surescriptscareers/job/United-States/Software-Engineer_REQ3203-1 | Surescripts | Software Engineer | United States | posted: 2026-10-14
+- [ ] https://davita.wd1.myworkdayjobs.com/dkc_external/job/01548---Texas-Remote/DevOps-Engineer--Technology-_R0481506 | DaVita | DevOps Engineer (Technology) | 01548 - Texas Remote | posted: 2026-10-14
+
 ## Processed
