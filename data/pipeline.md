@@ -479,3 +479,7 @@
 - [ ] https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479 | coinbase | Software Engineer, Enterprise Apps | Remote - Brazil | posted: 2026-10-13
 
 - [ ] https://job-boards.greenhouse.io/alpaca/jobs/6207262004 | alpaca | Software Engineer, Securities Finance | Remote - Americas | posted: 2026-10-14
+
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d | chainalysis-careers | Software Engineer II, Compliance Core | New York Office | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote · Ireland · Europe · European Union · United States · Poland · Warsaw · United Kingdom | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote · Ireland · Europe · European Union · United States · Poland · United Kingdom | posted: 2026-10-14
