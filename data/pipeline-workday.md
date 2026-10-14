@@ -213,4 +213,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740-2 | boeing | Experienced Software Engineer–Systems (Systems) | USA - Tinker AFB, OK | posted: 2026-10-14
 - [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/AI-Cloud-Platform-Engineer_R35902 | allstate | AI Cloud Platform Engineer | USA - TX (Remote) | posted: 2026-10-14
 
+- [ ] https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/AI-Engineer_R_00049413 | utaustin | AI Engineer | AUSTIN, TX | posted: 2026-10-14
+- [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/IND---Any-Location-Remote/Software-Engineer-III---India-Hyderabad-Hybrid_JR21230 | teladoc | Software Engineer III - India Hyderabad Hybrid | IND - Any Location (Remote) | posted: 2026-10-14
+- [ ] https://teladoc.wd503.myworkdayjobs.com/teladochealth_is_hiring/job/IND---Any-Location-Remote/Software-Engineer-III_JR21202 | teladoc | Software Engineer III | IND - Any Location (Remote) | posted: 2026-10-14
+- [ ] https://rb.wd5.myworkdayjobs.com/frs/job/Atlanta-GA/Federal-Reserve-Financial-Services-Advanced-Software-Engineer_R-0000033553-1 | rb | Federal Reserve Financial Services Advanced Software Engineer | 4 Locations | posted: 2026-10-14
+- [ ] https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---Pennsylvania---Upper-Providence/Senior-Applied-AI-Engineer_436766 | gsk | Applied AI Engineer | 2 Locations | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1 | boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740 | boeing | Experienced Software Engineer–Systems (Systems) | USA - Tinker AFB, OK | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155 | boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | posted: 2026-10-14
+
 ## Processed
