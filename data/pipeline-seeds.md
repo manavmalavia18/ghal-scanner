@@ -458,4 +458,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Remote · Ireland · Europe · European Union · United States · Poland · Warsaw · United Kingdom | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0 | elevenlabs | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Remote · Ireland · Europe · European Union · United States · Poland · United Kingdom | posted: 2026-10-14
 
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440026008 | backblaze | Site Reliability Engineer I | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007 | andurilindustries | Production Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007 | andurilindustries | Software Engineer, Imaging | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007 | andurilindustries | Realtime Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-14
+- [ ] https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 | veeva | Associate DevOps Engineer | Massachusetts - Boston | posted: 2026-10-13
+
 ## Processed
