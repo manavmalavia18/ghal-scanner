@@ -222,4 +222,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3 | Harvey | Software Engineer | San Francisco | posted: 2026-10-14
 
+- [ ] https://jobs.ashbyhq.com/clera/4154a8b2-7088-4007-b746-7ee8ad0f856a | Clera | Founding Backend Engineer | San Francisco | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/clera/3e502a77-eea5-4eaf-b318-12ef9d2fb655 | Clera | Founding DevOps Engineer | San Francisco | posted: 2026-10-14
+
 ## Processed
