@@ -236,4 +236,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/AI-Engineer---Startups---Partnerships_261001616 | Citi | AI Engineer – Startups & Partnerships | Jersey City New Jersey United States | posted: 2026-10-13
 - [ ] https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_261001276 | Citi | Java Software Engineer, Data Platform | Jersey City New Jersey United States | posted: 2026-10-13
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681 | Salesforce | GovCloud Software Engineer | 3 Locations | posted: 2026-10-14
+- [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineer_R2853 | Sonos | Software Engineer | Boston, MA | posted: 2026-10-14
+- [ ] https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/AI-Engineer_R_00049413 | The University of Texas at Austin | AI Engineer | AUSTIN, TX | posted: 2026-10-14
+
 ## Processed
