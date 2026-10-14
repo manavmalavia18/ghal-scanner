@@ -240,4 +240,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://sonos.wd1.myworkdayjobs.com/sonos/job/Boston-MA/Software-Engineer_R2853 | Sonos | Software Engineer | Boston, MA | posted: 2026-10-14
 - [ ] https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/AI-Engineer_R_00049413 | The University of Texas at Austin | AI Engineer | AUSTIN, TX | posted: 2026-10-14
 
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8889193002 | Gitlab | Cloud Platform Engineer | Remote, Canada; Remote, United States | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593 | BASE | Software Engineer, Algorithms & Infrastructure | Austin, TX | posted: 2026-10-14
+
 ## Processed
