@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T15:46:13.438Z",
+  "fetchedAt": "2026-10-14T16:08:17.925Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 295,
+  "companyCount": 297,
   "companies": [
     {
       "company": "7-Eleven",
@@ -90,6 +90,13 @@
       "board": "anysignal",
       "key": "ashby:anysignal",
       "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724"
+    },
+    {
+      "company": "Apex Systems LLC",
+      "ats": "greenhouse",
+      "board": "explore",
+      "key": "greenhouse:explore",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668710458?domain=coloradowfx.gov"
     },
     {
       "company": "Applied Materials",
@@ -181,6 +188,13 @@
       "board": "aurora-operations-inc",
       "key": "ashby:aurora-operations-inc",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb"
+    },
+    {
+      "company": "AutoNation",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:autonation.wd5.myworkdayjobs.com/careers",
+      "url": "https://autonation.wd5.myworkdayjobs.com/careers"
     },
     {
       "company": "Autoscience",
@@ -1198,6 +1212,13 @@
       "url": "https://boards.greenhouse.io/neuralink/jobs/8027924003?gh_jid=8027924003"
     },
     {
+      "company": "New Jersey Judiciary",
+      "ats": "greenhouse",
+      "board": "njjudiciary",
+      "key": "greenhouse:njjudiciary",
+      "url": "https://www.governmentjobs.com/careers/njjudiciary/jobs/5511413-0"
+    },
+    {
       "company": "Nimble Robotics",
       "ats": "greenhouse",
       "board": "nimblerobotics",
@@ -1301,13 +1322,6 @@
       "board": "",
       "key": "greenhouse-id:8014644003",
       "url": "https://partnerize.com/company/jobs/?gh_jid=8014644003"
-    },
-    {
-      "company": "Peraton",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:172063",
-      "url": "https://peraton.jibeapply.com/jobs/172063"
     },
     {
       "company": "Perseus Group",
@@ -1611,13 +1625,6 @@
       "url": "https://job-boards.greenhouse.io/skyryse/jobs/8275430"
     },
     {
-      "company": "Slalom, LLC",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668671642?domain=coloradowfx.gov"
-    },
-    {
       "company": "Snowflake",
       "ats": "ashby",
       "board": "snowflake",
@@ -1819,6 +1826,13 @@
       "board": "tonicai",
       "key": "ashby:tonicai",
       "url": "https://jobs.ashbyhq.com/tonicai/72dcd5fc-c6d5-4d2f-a2ba-6175aec66b51"
+    },
+    {
+      "company": "Tower Loan",
+      "ats": "workday",
+      "board": "tower_loan_careers",
+      "key": "workday:towerloan.wd12.myworkdayjobs.com/tower_loan_careers",
+      "url": "https://towerloan.wd12.myworkdayjobs.com/tower_loan_careers"
     },
     {
       "company": "TransUnion",
