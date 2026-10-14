@@ -477,3 +477,5 @@
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5451669008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-13
 
 - [ ] https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479 | coinbase | Software Engineer, Enterprise Apps | Remote - Brazil | posted: 2026-10-13
+
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6207262004 | alpaca | Software Engineer, Securities Finance | Remote - Americas | posted: 2026-10-14
