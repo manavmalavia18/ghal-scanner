@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-14T15:02:04.525Z",
+  "fetchedAt": "2026-10-14T15:24:39.468Z",
   "days": 2,
   "leadCount": 85,
-  "jobCount": 73,
+  "jobCount": 72,
   "boards": [
     {
       "key": "greenhouse:candidate",
@@ -25,16 +25,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:waymo",
-      "fetched": 370,
-      "kept": 4
-    },
-    {
-      "key": "greenhouse:sonyinteractiveentertainmentglobal",
-      "fetched": 205,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:stackadapt",
       "fetched": 75,
       "kept": 0
@@ -45,13 +35,33 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:sonyinteractiveentertainmentglobal",
+      "fetched": 205,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:waymo",
+      "fetched": 370,
+      "kept": 4
+    },
+    {
+      "key": "greenhouse:rzr",
+      "fetched": 52,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:taketwo",
+      "fetched": 34,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:affirm",
       "fetched": 205,
       "kept": 3
     },
     {
-      "key": "greenhouse:taketwo",
-      "fetched": 34,
+      "key": "greenhouse:vaticlabs",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -60,24 +70,14 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:rzr",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:vaticlabs",
-      "fetched": 7,
+      "key": "greenhouse:lilasciences",
+      "fetched": 107,
       "kept": 0
     },
     {
       "key": "greenhouse:en",
       "fetched": 0,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 459,
-      "kept": 19
     },
     {
       "key": "greenhouse:ketch",
@@ -95,13 +95,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:lilasciences",
-      "fetched": 107,
+      "key": "greenhouse:tenstorrentuniversity",
+      "fetched": 12,
       "kept": 0
     },
     {
-      "key": "greenhouse:tenstorrentuniversity",
-      "fetched": 12,
+      "key": "greenhouse:virtu",
+      "fetched": 48,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:doordashusa",
+      "fetched": 458,
+      "kept": 18
+    },
+    {
+      "key": "greenhouse:malibucity",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -110,7 +120,32 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:malibucity",
+      "key": "greenhouse:alpaca",
+      "fetched": 76,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:ridgeline",
+      "fetched": 30,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:anaplan",
+      "fetched": 136,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:iowa",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:cloudflare",
+      "fetched": 446,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:minneapolismn",
       "fetched": 0,
       "kept": 0
     },
@@ -120,38 +155,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:ridgeline",
-      "fetched": 30,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:virtu",
-      "fetched": 48,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:alpaca",
-      "fetched": 76,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:iowa",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:ionq",
       "fetched": 132,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:anaplan",
-      "fetched": 136,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:minneapolismn",
-      "fetched": 0,
       "kept": 0
     },
     {
@@ -165,28 +170,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 447,
-      "kept": 1
+      "key": "greenhouse:cayuse",
+      "fetched": 4,
+      "kept": 0
     },
     {
       "key": "greenhouse:bridgeway",
       "fetched": 10,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:twilio",
-      "fetched": 145,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:washington",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:cayuse",
-      "fetched": 4,
       "kept": 0
     },
     {
@@ -195,9 +185,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:reflectionai",
-      "fetched": 47,
+      "key": "greenhouse:washington",
+      "fetched": 0,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:twilio",
+      "fetched": 144,
+      "kept": 1
     },
     {
       "key": "greenhouse:justworks",
@@ -205,19 +200,24 @@
       "kept": 1
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
+      "key": "greenhouse:spacex",
+      "fetched": 2745,
+      "kept": 2
+    },
+    {
+      "key": "ashby:reflectionai",
+      "fetched": 47,
+      "kept": 0
+    },
+    {
+      "key": "ashby:openart",
+      "fetched": 27,
       "kept": 0
     },
     {
       "key": "ashby:ema",
       "fetched": 37,
       "kept": 0
-    },
-    {
-      "key": "ashby:wayve",
-      "fetched": 164,
-      "kept": 2
     },
     {
       "key": "ashby:fluidstack",
@@ -230,9 +230,19 @@
       "kept": 1
     },
     {
-      "key": "ashby:elevenlabs",
-      "fetched": 146,
-      "kept": 9
+      "key": "ashby:wayve",
+      "fetched": 164,
+      "kept": 2
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 100,
+      "kept": 1
+    },
+    {
+      "key": "ashby:recall",
+      "fetched": 5,
+      "kept": 0
     },
     {
       "key": "ashby:anysignal",
@@ -240,28 +250,23 @@
       "kept": 1
     },
     {
+      "key": "ashby:fal-ai",
+      "fetched": 44,
+      "kept": 1
+    },
+    {
+      "key": "ashby:elevenlabs",
+      "fetched": 146,
+      "kept": 9
+    },
+    {
       "key": "ashby:cohere",
       "fetched": 117,
       "kept": 1
     },
     {
-      "key": "ashby:openart",
-      "fetched": 27,
-      "kept": 0
-    },
-    {
-      "key": "ashby:recall",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
       "key": "ashby:column",
       "fetched": 19,
-      "kept": 1
-    },
-    {
-      "key": "ashby:fal-ai",
-      "fetched": 44,
       "kept": 1
     },
     {
@@ -285,9 +290,9 @@
       "kept": 2
     },
     {
-      "key": "ashby:whoop",
-      "fetched": 170,
-      "kept": 0
+      "key": "ashby:zefr",
+      "fetched": 5,
+      "kept": 1
     },
     {
       "key": "ashby:par%20technology",
@@ -295,13 +300,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:zefr",
-      "fetched": 5,
-      "kept": 1
+      "key": "ashby:ntt-data-aivista",
+      "fetched": 6,
+      "kept": 0
     },
     {
       "key": "ashby:pramaana-labs",
       "fetched": 4,
+      "kept": 0
+    },
+    {
+      "key": "ashby:whoop",
+      "fetched": 170,
       "kept": 0
     },
     {
@@ -310,18 +320,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:ntt-data-aivista",
-      "fetched": 6,
-      "kept": 0
-    },
-    {
       "key": "ashby:skydio",
       "fetched": 154,
-      "kept": 0
-    },
-    {
-      "key": "lever:acceldata",
-      "fetched": 39,
       "kept": 0
     },
     {
@@ -330,9 +330,24 @@
       "kept": 3
     },
     {
+      "key": "lever:rhombus-systems",
+      "fetched": 7,
+      "kept": 0
+    },
+    {
       "key": "lever:primee",
       "fetched": 56,
       "kept": 0
+    },
+    {
+      "key": "lever:thea.energy",
+      "fetched": 52,
+      "kept": 0
+    },
+    {
+      "key": "lever:make-rain",
+      "fetched": 25,
+      "kept": 1
     },
     {
       "key": "lever:zoox",
@@ -340,14 +355,14 @@
       "kept": 3
     },
     {
-      "key": "lever:rhombus-systems",
-      "fetched": 7,
+      "key": "lever:cirrus",
+      "fetched": 0,
       "kept": 0
     },
     {
-      "key": "lever:venusaero",
-      "fetched": 32,
-      "kept": 1
+      "key": "lever:acronaviation",
+      "fetched": 52,
+      "kept": 0
     },
     {
       "key": "lever:verygoodsecurity",
@@ -355,27 +370,7 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2744,
-      "kept": 2
-    },
-    {
-      "key": "lever:cirrus",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "lever:crypto",
-      "fetched": 87,
-      "kept": 0
-    },
-    {
       "key": "workday:micron.wd1.myworkdayjobs.com/external",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "lever:enablecomp",
       "fetched": 20,
       "kept": 1
     },
@@ -390,13 +385,13 @@
       "kept": 0
     },
     {
-      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "key": "lever:enablecomp",
       "fetched": 20,
-      "kept": 0
+      "kept": 1
     },
     {
-      "key": "lever:acronaviation",
-      "fetched": 52,
+      "key": "workday:kla.wd1.myworkdayjobs.com/search",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -410,24 +405,29 @@
       "kept": 0
     },
     {
-      "key": "lever:make-rain",
-      "fetched": 25,
-      "kept": 1
-    },
-    {
       "key": "workday:spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers",
       "fetched": 20,
       "kept": 0
     },
     {
-      "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
-      "fetched": 80,
-      "kept": 7
+      "key": "lever:venusaero",
+      "fetched": 32,
+      "kept": 0
     },
     {
-      "key": "lever:thea.energy",
-      "fetched": 52,
+      "key": "lever:acceldata",
+      "fetched": 39,
       "kept": 0
+    },
+    {
+      "key": "lever:crypto",
+      "fetched": 87,
+      "kept": 0
+    },
+    {
+      "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
+      "fetched": 79,
+      "kept": 7
     }
   ],
   "jobs": [
@@ -510,16 +510,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
-    },
-    {
-      "title": "Staff Software Engineer, Data Engineering",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192152",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "postedAt": "2026-10-13T20:25:19.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
     },
     {
       "title": "Senior Software Engineer, Data Engineering",
@@ -702,16 +692,6 @@
       "board": "doordashusa"
     },
     {
-      "title": "Director of Software Engineering, Analytics",
-      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
-      "company": "Planet Labs",
-      "location": "Arlington, VA; Denver, CO",
-      "postedAt": "2026-10-13T23:27:15.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "planetlabs"
-    },
-    {
       "title": "Staff Fullstack Engineer",
       "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
       "company": "Alpaca",
@@ -742,6 +722,16 @@
       "board": "cloudflare"
     },
     {
+      "title": "Director of Software Engineering, Analytics",
+      "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8249630",
+      "company": "Planet Labs",
+      "location": "Arlington, VA; Denver, CO",
+      "postedAt": "2026-10-13T23:27:15.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "planetlabs"
+    },
+    {
       "title": "Software Engineer (L2) Messaging Channels Team ",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
       "company": "Twilio",
@@ -760,6 +750,36 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "justworks"
+    },
+    {
+      "title": "Manager, Software Engineering, People (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-10-13T18:38:45.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": " Manager, Software Engineering, Finance (Application Software)",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002",
+      "company": "SpaceX",
+      "location": "Hawthorne, CA",
+      "postedAt": "2026-10-13T18:37:46.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "spacex"
+    },
+    {
+      "title": "Software Engineer II, Compliance Core",
+      "url": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
+      "company": "Chainalysis",
+      "location": "New York Office",
+      "postedAt": "2026-10-14T10:34:30.967Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "chainalysis-careers"
     },
     {
       "title": "Software Engineer, Simulation",
@@ -782,14 +802,34 @@
       "board": "wayve"
     },
     {
-      "title": "Software Engineer II, Compliance Core",
-      "url": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
-      "company": "Chainalysis",
-      "location": "New York Office",
-      "postedAt": "2026-10-14T10:34:30.967Z",
+      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
+      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "company": "LangChain",
+      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
+      "postedAt": "2026-10-14T15:18:56.705Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "chainalysis-careers"
+      "board": "langchain"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
+      "company": "AnySignal",
+      "location": "Los Angeles, CA",
+      "postedAt": "2026-10-14T00:19:04.536Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "anysignal"
+    },
+    {
+      "title": "Software Engineer, Applied Machine Learning",
+      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
+      "company": "fal",
+      "location": "San Francisco",
+      "postedAt": "2026-10-13T21:14:59.835Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "fal-ai"
     },
     {
       "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
@@ -882,16 +922,6 @@
       "board": "elevenlabs"
     },
     {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
-      "company": "AnySignal",
-      "location": "Los Angeles, CA",
-      "postedAt": "2026-10-14T00:19:04.536Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "anysignal"
-    },
-    {
       "title": "Senior Full-Stack Engineer, Cohere Dashboard",
       "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "company": "Cohere",
@@ -910,16 +940,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "column"
-    },
-    {
-      "title": "Software Engineer, Applied Machine Learning",
-      "url": "https://jobs.ashbyhq.com/fal-ai/c351a0de-1826-4968-a023-a5243aba2ec6",
-      "company": "fal",
-      "location": "San Francisco",
-      "postedAt": "2026-10-13T21:14:59.835Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "fal-ai"
     },
     {
       "title": "Infrastructure Software Engineer (AI Enablement) ",
@@ -952,16 +972,6 @@
       "board": "snowflake"
     },
     {
-      "title": "Software Developer",
-      "url": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56",
-      "company": "PAR Technology",
-      "location": "Remote - Illinois · Remote - Colorado · United States · Remote - Georgia · Remote - North Carolina · Remote - Minnesota · Remote - Pennsylvania · Remote - New York · Remote - Texas",
-      "postedAt": "2026-10-13T17:50:22.197Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "par%20technology"
-    },
-    {
       "title": "Software Development Engineer in Test (SDET)",
       "url": "https://jobs.ashbyhq.com/zefr/2e63eeac-1d66-4cd2-b3c5-a40aaaf5e844",
       "company": "Zefr",
@@ -970,6 +980,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "zefr"
+    },
+    {
+      "title": "Software Developer",
+      "url": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56",
+      "company": "PAR Technology",
+      "location": "Remote - Illinois · Remote - Colorado · United States · Remote - Georgia · Remote - North Carolina · Remote - Minnesota · Remote - Pennsylvania · Remote - New York · Remote - Texas",
+      "postedAt": "2026-10-13T17:50:22.197Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "par%20technology"
     },
     {
       "title": "Software Engineer, Cloud Computer",
@@ -1002,6 +1022,16 @@
       "board": "openai"
     },
     {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
+      "company": "Rainmaker Technology Corporation",
+      "location": "El Segundo, CA",
+      "postedAt": "2026-10-13T00:52:59.631Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "make-rain"
+    },
+    {
       "title": "Software Development Engineer in Test",
       "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
       "company": "Zoox",
@@ -1032,36 +1062,6 @@
       "board": "zoox"
     },
     {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.lever.co/venusaero/73e8b964-23ed-49f5-90d9-b05ea55f0113",
-      "company": "Venus Aerospace",
-      "location": "Houston, TX",
-      "postedAt": "2026-10-12T15:14:00.197Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "venusaero"
-    },
-    {
-      "title": "Manager, Software Engineering, People (Application Software)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-10-13T18:38:45.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
-      "title": " Manager, Software Engineering, Finance (Application Software)",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002",
-      "company": "SpaceX",
-      "location": "Hawthorne, CA",
-      "postedAt": "2026-10-13T18:37:46.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "spacex"
-    },
-    {
       "title": "Senior AI Engineer, SMAI",
       "url": "https://micron.wd1.myworkdayjobs.com/external/job/Hyderabad---Phoenix-Aquila-India/Senior-AI-Engineer--SMAI_JR108671",
       "company": "Micron Technology",
@@ -1083,20 +1083,21 @@
       "board": "enablecomp"
     },
     {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.lever.co/make-rain/f18752c9-4979-41a3-8102-a165e86c6521",
-      "company": "Rainmaker Technology Corporation",
-      "location": "El Segundo, CA",
-      "postedAt": "2026-10-13T00:52:59.631Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "make-rain"
-    },
-    {
       "title": "Senior Software Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_JR-202618276",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_JR-202622338",
       "company": "General Motors",
       "location": "2 Locations",
+      "postedAt": "2026-10-14T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Staff Software Engineer– AI Enablement",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Staff-Software-Engineer--AI-Enablement_JR-202621998",
+      "company": "General Motors",
+      "location": "3 Locations",
       "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
@@ -1152,17 +1153,6 @@
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Senior-Software-Engineer---Manufacturing-Digital-Operations_JR-202617678",
       "company": "General Motors",
       "location": "Warren, Michigan, United States of America",
-      "postedAt": "2026-10-13T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Staff Engineer, Site Reliability Engineering",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Staff-Engineer--Site-Reliability-Engineering_JR-202621675",
-      "company": "General Motors",
-      "location": "2 Locations",
       "postedAt": "2026-10-13T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",

@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T15:02:04.543Z",
+  "fetchedAt": "2026-10-14T15:24:39.491Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 299,
+  "companyCount": 295,
   "companies": [
     {
       "company": "7-Eleven",
@@ -650,13 +650,6 @@
       "board": "",
       "key": "greenhouse-id:5261447007",
       "url": "https://www.esri.com/careers/5261447007?gh_jid=5261447007"
-    },
-    {
-      "company": "Evergreen Residential",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4742917005",
-      "url": "https://evergreenresi.com/careers/openings/?gh_jid=4742917005"
     },
     {
       "company": "Extra Space Storage",
@@ -1352,13 +1345,6 @@
       "url": "https://jobs.ashbyhq.com/poesis/d5e7c3aa-ae58-4cea-8735-23368cf6e9ec"
     },
     {
-      "company": "Pogo Technologies",
-      "ats": "ashby",
-      "board": "joinpogo",
-      "key": "ashby:joinpogo",
-      "url": "https://jobs.ashbyhq.com/joinpogo/dd64707a-2f98-4d4e-ab24-5f6836ac2887"
-    },
-    {
       "company": "Poseidon Aerospace",
       "ats": "ashby",
       "board": "poseidonaero",
@@ -1483,13 +1469,6 @@
       "board": "revionics",
       "key": "workday:aptos.wd108.myworkdayjobs.com/revionics",
       "url": "https://aptos.wd108.myworkdayjobs.com/revionics"
-    },
-    {
-      "company": "RF-SMART",
-      "ats": "greenhouse",
-      "board": "rfsmart",
-      "key": "greenhouse:rfsmart",
-      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008"
     },
     {
       "company": "Rhombus",
@@ -1889,13 +1868,6 @@
       "board": "en",
       "key": "greenhouse:en",
       "url": "https://jobs.uber.com/en/jobs/302498/"
-    },
-    {
-      "company": "UFORCE",
-      "ats": "ashby",
-      "board": "uforce",
-      "key": "ashby:uforce",
-      "url": "https://jobs.ashbyhq.com/uforce/f20bb6b2-337f-4c21-b18c-799f2676d674"
     },
     {
       "company": "UST",
