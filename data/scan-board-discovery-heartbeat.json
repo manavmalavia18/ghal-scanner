@@ -1,19 +1,8 @@
 {
-  "at": "2026-10-14T12:54:43.130Z",
-  "leadsScanned": 1848,
+  "at": "2026-10-14T13:06:24.716Z",
+  "leadsScanned": 1849,
   "totalBoardsKnown": 633,
-  "alreadyTracked": 631,
-  "newlyPromoted": 2,
-  "newBoards": [
-    {
-      "name": "Wayve",
-      "careers_url": "https://jobs.ashbyhq.com/wayve",
-      "provider": "ashby"
-    },
-    {
-      "name": "Micron Technology",
-      "careers_url": "https://micron.wd1.myworkdayjobs.com/external",
-      "provider": "workday"
-    }
-  ]
+  "alreadyTracked": 633,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
