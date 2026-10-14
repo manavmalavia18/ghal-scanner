@@ -188,4 +188,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296 | globalhr | Platform Engineer (Remote) | US-CT-REMOTE | posted: 2026-10-14
 - [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Alpharetta---30005/Platform-Engineer_J00178864 | equifax | Platform Engineer | USA - Georgia - Alpharetta - 30005 | posted: 2026-10-14
 
+- [ ] https://towerloan.wd12.myworkdayjobs.com/tower_loan_careers/job/Flowood-MS-Remote/Software-Engineer_JR2027 | towerloan | Software Engineer | Flowood MS (Remote) | posted: 2026-10-14
+- [ ] https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236 | nvidia | Systems Software Engineer, Kubernetes Scale - DGX Cloud | 3 Locations | posted: 2026-10-14
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Retail-Software-Engineer_3169047-1 | hp | Retail Software Engineer | 2 Locations | posted: 2026-10-14
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Retail-Software-Engineer_3169047 | hp | Retail Software Engineer | 2 Locations | posted: 2026-10-14
+- [ ] https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Atlanta---Remote/Software-Engineer_J00178454 | equifax | Software Engineer | 4 Locations | posted: 2026-10-14
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Austin---River-Place-B7/Infrastructure-AI-ML-Engineer-for-Memory-Design--Characterization--and-Yield-Optimization_R027297 | broadcom | Infrastructure AI/ML Engineer for Memory Design, Characterization, and Yield Optimization | 4 Locations | posted: 2026-10-14
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764 | boeing | Entry Level Software Engineer–Developer (Development) | USA - Tinker AFB, OK | posted: 2026-10-14
+
 ## Processed
