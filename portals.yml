@@ -7763,6 +7763,81 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Backblaze"
+    careers_url: https://job-boards.greenhouse.io/backblaze
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Horace Mann Educators Corporation"
+    careers_url: https://job-boards.greenhouse.io/horacemannservicecorporation
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "IMC"
+    careers_url: https://job-boards.eu.greenhouse.io/imc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Point72 Asset Management"
+    careers_url: https://boards.greenhouse.io/point72
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "The Farmer's Dog"
+    careers_url: https://job-boards.greenhouse.io/thefarmersdog
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Twitch Interactive"
+    careers_url: https://job-boards.greenhouse.io/twitch
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Assurant"
+    careers_url: https://assurant.wd1.myworkdayjobs.com/assurant_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Citi"
+    careers_url: https://citi.wd5.myworkdayjobs.com/2
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gundersen Health System"
+    careers_url: https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jabil"
+    careers_url: https://jabil.wd5.myworkdayjobs.com/jabil_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "London Stock Exchange Group"
+    careers_url: https://lseg.wd3.myworkdayjobs.com/graduate_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PacificSource"
+    careers_url: https://pacificsource.wd5.myworkdayjobs.com/pacificsource
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ProPetro Services"
+    careers_url: https://propetroservices.wd5.myworkdayjobs.com/propetro_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ProPetro Services"
+    careers_url: https://propetroservices.wd5.myworkdayjobs.com/propwr_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lyric"
+    careers_url: https://tbc.wd12.myworkdayjobs.com/c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

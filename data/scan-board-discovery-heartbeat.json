@@ -1,8 +1,84 @@
 {
-  "at": "2026-10-14T20:15:35.984Z",
-  "leadsScanned": 1930,
-  "totalBoardsKnown": 734,
-  "alreadyTracked": 734,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-14T20:59:32.644Z",
+  "leadsScanned": 1981,
+  "totalBoardsKnown": 752,
+  "alreadyTracked": 737,
+  "newlyPromoted": 15,
+  "newBoards": [
+    {
+      "name": "Backblaze",
+      "careers_url": "https://job-boards.greenhouse.io/backblaze",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Horace Mann Educators Corporation",
+      "careers_url": "https://job-boards.greenhouse.io/horacemannservicecorporation",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "IMC",
+      "careers_url": "https://job-boards.eu.greenhouse.io/imc",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Point72 Asset Management",
+      "careers_url": "https://boards.greenhouse.io/point72",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "The Farmer's Dog",
+      "careers_url": "https://job-boards.greenhouse.io/thefarmersdog",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Twitch Interactive",
+      "careers_url": "https://job-boards.greenhouse.io/twitch",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Assurant",
+      "careers_url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Citi",
+      "careers_url": "https://citi.wd5.myworkdayjobs.com/2",
+      "provider": "workday"
+    },
+    {
+      "name": "Gundersen Health System",
+      "careers_url": "https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen",
+      "provider": "workday"
+    },
+    {
+      "name": "Jabil",
+      "careers_url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "London Stock Exchange Group",
+      "careers_url": "https://lseg.wd3.myworkdayjobs.com/graduate_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "PacificSource",
+      "careers_url": "https://pacificsource.wd5.myworkdayjobs.com/pacificsource",
+      "provider": "workday"
+    },
+    {
+      "name": "ProPetro Services",
+      "careers_url": "https://propetroservices.wd5.myworkdayjobs.com/propetro_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "ProPetro Services",
+      "careers_url": "https://propetroservices.wd5.myworkdayjobs.com/propwr_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Lyric",
+      "careers_url": "https://tbc.wd12.myworkdayjobs.com/c7a9d1f8-2c44-4f8b-b9e3-7d9a12e5f6ab",
+      "provider": "workday"
+    }
+  ]
 }
