@@ -209,4 +209,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/chaosindustries/jobs/5265657007 | CHAOS Industries | Guidance Software Engineer | El Segundo, California, United States | posted: 2026-10-14
 - [ ] https://acs.wd5.myworkdayjobs.com/acscareers/job/Atlanta-Georgia/Web-Developer--IT--Technology-Center_JR3827 | American Cancer Society | Web Developer, IT, Technology Center | Atlanta, Georgia | posted: 2026-10-13
 
+- [ ] https://jobs.smartrecruiters.com/ServiceNow/744000155582891 | ServiceNow | Data Platform Software Engineer | Santa Clara, CALIFORNIA, United States | posted: 2026-10-14
+- [ ] https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---TX-Remote/AI-Cloud-Platform-Engineer_R35902 | Allstate | AI Cloud Platform Engineer | USA - TX (Remote) | posted: 2026-10-14
+
 ## Processed
