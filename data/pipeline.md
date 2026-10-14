@@ -524,3 +524,5 @@
 - [ ] https://job-boards.greenhouse.io/backblaze/jobs/5440026008 | backblaze | Site Reliability Engineer I | Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | posted: 2026-10-14
 
 - [ ] https://job-boards.greenhouse.io/trace3/jobs/8282468 | trace3 | Software Developer, Java & Platform Integration | Colorado Springs, CO | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/8282501 | trace3 | DevOps Engineer, TKG Platform Integrator | Colorado Springs, CO | posted: 2026-10-14
