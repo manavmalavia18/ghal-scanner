@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-14T18:46:42.879Z",
+  "fetchedAt": "2026-10-14T19:07:57.606Z",
   "scrapedAt": "2026-10-14T12:18:49.768224+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 330,
+  "companyCount": 325,
   "companies": [
     {
       "company": "7-Eleven",
@@ -181,13 +181,6 @@
       "board": "aureliussystems",
       "key": "ashby:aureliussystems",
       "url": "https://jobs.ashbyhq.com/aureliussystems/9fbd7250-d60d-4604-a1a5-81cacdc888ac"
-    },
-    {
-      "company": "Aurora Innovation, Inc.",
-      "ats": "ashby",
-      "board": "aurora-operations-inc",
-      "key": "ashby:aurora-operations-inc",
-      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb4cc1ef-b802-4dbb-9804-38178d7922fb"
     },
     {
       "company": "AutoNation",
@@ -601,13 +594,6 @@
       "board": "dtn_careers",
       "key": "workday:dtn.wd1.myworkdayjobs.com/dtn_careers",
       "url": "https://dtn.wd1.myworkdayjobs.com/dtn_careers"
-    },
-    {
-      "company": "DV Trading",
-      "ats": "greenhouse",
-      "board": "dvtrading",
-      "key": "greenhouse:dvtrading",
-      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005"
     },
     {
       "company": "E Tech Group",
@@ -1324,13 +1310,6 @@
       "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009"
     },
     {
-      "company": "Novita AI",
-      "ats": "ashby",
-      "board": "novita-ai",
-      "key": "ashby:novita-ai",
-      "url": "https://jobs.ashbyhq.com/novita-ai/0d9d673e-0753-4a38-bbf2-4ec019a0b26e"
-    },
-    {
       "company": "NTT DATA AIVista",
       "ats": "ashby",
       "board": "ntt-data-aivista",
@@ -1982,13 +1961,6 @@
       "url": "https://jobs.lever.co/thea.energy/4b6afe2c-103a-41db-abdd-a3080c958f92"
     },
     {
-      "company": "Tia",
-      "ats": "greenhouse",
-      "board": "tia",
-      "key": "greenhouse:tia",
-      "url": "https://job-boards.greenhouse.io/tia/jobs/8027897003"
-    },
-    {
       "company": "Tindell's Building Materials",
       "ats": "greenhouse",
       "board": "",
@@ -2036,13 +2008,6 @@
       "board": "twilio",
       "key": "greenhouse:twilio",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182"
-    },
-    {
-      "company": "Twin Health",
-      "ats": "greenhouse",
-      "board": "twinhealth",
-      "key": "greenhouse:twinhealth",
-      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6221912004"
     },
     {
       "company": "U.S. Bank",
