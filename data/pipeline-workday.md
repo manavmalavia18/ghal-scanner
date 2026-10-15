@@ -293,4 +293,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347 | litera | Associate Software Engineer | Denver, CO | posted: 2026-10-15
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/R10251455-Software-Engineer-Level-2-or-3--AHT-_R10251461 | ngc | Software Engineer Level 2 or 3 (AHT) | United States-Colorado-Boulder | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279 | hpe | Software Engineer | 3 Locations | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279-1 | hpe | Software Engineer | 3 Locations | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279-2 | hpe | Software Engineer | 3 Locations | posted: 2026-10-15
+
 ## Processed
