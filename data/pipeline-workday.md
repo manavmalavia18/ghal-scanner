@@ -278,4 +278,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://giorgiglobal.wd3.myworkdayjobs.com/canpack/job/Muncie-Indiana/Front-End-Technician_R4240 | giorgiglobal | Front End Technician | Muncie, Indiana | posted: 2026-10-15
 
+- [ ] https://uchicago.wd5.myworkdayjobs.com/external/job/Chicago-IL/Infrastructure-Platform-Engineer_JR35537 | uchicago | Infrastructure Platform Engineer | Chicago, IL | posted: 2026-10-15
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--ML-Platform-Level-5_R0047200-1 | snapchat | Software Engineer, ML Infrastructure, ML Platform Level 5 | 3 Locations | posted: 2026-10-15
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--ML-Platform-Level-5_R0047200 | snapchat | Software Engineer, ML Infrastructure, ML Platform Level 5 | 3 Locations | posted: 2026-10-15
+- [ ] https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-OH-Westerville/Application-Engineer-Pulp---Paper_JR00045532 | abb | Industrial Controls Software Engineer, Pulp & Paper | USA, OH, Westerville | posted: 2026-10-15
+
 ## Processed
