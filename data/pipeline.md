@@ -564,3 +564,7 @@
 - [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6225257004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-15
 
 - [ ] https://job-boards.greenhouse.io/pitchbookdata/jobs/4722216006 | pitchbookdata | Machine Learning Engineer | Seattle, Washington, United States | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/ndeavour/d32dcb18-6060-4147-a99f-4a475aef6aef | ndeavour | Full-Stack Software Engineer - C# & Flutter | All Cities · Remote | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-15
+- [ ] https://www.houserx.com/careers?gh_jid=4744136005 | houserx | Software Engineer II - Support | Remote · Remote | posted: 2026-10-15
