@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T11:33:28.159Z",
+  "fetchedAt": "2026-10-15T11:54:57.084Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 312,
+  "companyCount": 311,
   "companies": [
     {
       "company": "Abbott",
@@ -48,13 +48,6 @@
       "board": "agilent_careers",
       "key": "workday:agilent.wd5.myworkdayjobs.com/agilent_careers",
       "url": "https://agilent.wd5.myworkdayjobs.com/agilent_careers"
-    },
-    {
-      "company": "AIM Intelligent Machines Inc.",
-      "ats": "ashby",
-      "board": "aim",
-      "key": "ashby:aim",
-      "url": "https://jobs.ashbyhq.com/aim/1e62a759-619f-468a-b8fd-2cbd71b6c5a2"
     },
     {
       "company": "Albert Invent",
@@ -509,14 +502,14 @@
       "ats": "greenhouse",
       "board": "",
       "key": "greenhouse-id:140024",
-      "url": "https://jobs.constellationenergy.com/jobs/140024"
+      "url": "https://jobs.constellationenergy.com/jobs/140024?lang=en-us"
     },
     {
       "company": "Constellation Energy",
       "ats": "greenhouse",
       "board": "",
       "key": "greenhouse-id:140021",
-      "url": "https://jobs.constellationenergy.com/jobs/140021"
+      "url": "https://jobs.constellationenergy.com/jobs/140021?lang=en-us"
     },
     {
       "company": "Copart",

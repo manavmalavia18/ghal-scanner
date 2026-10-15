@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T11:33:28.132Z",
+  "fetchedAt": "2026-10-15T11:54:57.070Z",
   "days": 2,
   "leadCount": 87,
   "jobCount": 62,
@@ -35,11 +35,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:harbingermotors",
-      "fetched": 92,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:pronto",
       "fetched": 31,
       "kept": 0
@@ -47,6 +42,11 @@
     {
       "key": "greenhouse:careers-home",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:harbingermotors",
+      "fetched": 92,
       "kept": 0
     },
     {
@@ -65,16 +65,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:icapitalnetwork",
-      "fetched": 212,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:guidepointsecurity",
-      "fetched": 66,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:block",
       "fetched": 231,
       "kept": 0
@@ -85,8 +75,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:icapitalnetwork",
+      "fetched": 212,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:cloudflare",
       "fetched": 441,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:guidepointsecurity",
+      "fetched": 66,
       "kept": 0
     },
     {
@@ -115,6 +115,11 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:rubrik",
+      "fetched": 134,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:macapital",
       "fetched": 8,
       "kept": 0
@@ -125,28 +130,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:truveta",
-      "fetched": 37,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:louisiana",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 458,
-      "kept": 19
+      "key": "greenhouse:truveta",
+      "fetched": 37,
+      "kept": 2
     },
     {
       "key": "greenhouse:explore",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:rubrik",
-      "fetched": 135,
       "kept": 0
     },
     {
@@ -155,18 +150,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:graphcore",
-      "fetched": 184,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:indieinterns",
       "fetched": 4,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:motional",
-      "fetched": 80,
       "kept": 0
     },
     {
@@ -180,8 +165,23 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:motional",
+      "fetched": 80,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:sharkninjaoperatingllc",
+      "fetched": 156,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:pokemoncareers",
       "fetched": 29,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:inversionspace",
+      "fetched": 85,
       "kept": 0
     },
     {
@@ -195,19 +195,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:inversionspace",
-      "fetched": 85,
-      "kept": 0
-    },
-    {
       "key": "ashby:evenup",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:sharkninjaoperatingllc",
-      "fetched": 156,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 458,
+      "kept": 19
     },
     {
       "key": "ashby:typesafe-ai",
@@ -215,13 +210,28 @@
       "kept": 3
     },
     {
+      "key": "ashby:etched",
+      "fetched": 115,
+      "kept": 0
+    },
+    {
       "key": "ashby:pursuit",
       "fetched": 2,
       "kept": 1
     },
     {
-      "key": "ashby:etched",
-      "fetched": 115,
+      "key": "ashby:aurora-operations-inc",
+      "fetched": 98,
+      "kept": 3
+    },
+    {
+      "key": "ashby:abby-care",
+      "fetched": 21,
+      "kept": 2
+    },
+    {
+      "key": "ashby:primeintellect",
+      "fetched": 31,
       "kept": 0
     },
     {
@@ -230,29 +240,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:abby-care",
-      "fetched": 21,
-      "kept": 2
-    },
-    {
-      "key": "ashby:aurora-operations-inc",
-      "fetched": 98,
-      "kept": 3
-    },
-    {
       "key": "ashby:tessera-labs",
       "fetched": 22,
       "kept": 0
     },
     {
-      "key": "ashby:primeintellect",
-      "fetched": 31,
+      "key": "greenhouse:graphcore",
+      "fetched": 184,
       "kept": 0
-    },
-    {
-      "key": "ashby:cursor",
-      "fetched": 134,
-      "kept": 1
     },
     {
       "key": "ashby:paraform",
@@ -265,13 +260,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:lightyear-ai",
-      "fetched": 2,
+      "key": "ashby:cursor",
+      "fetched": 134,
       "kept": 1
     },
     {
-      "key": "ashby:zus-health",
-      "fetched": 7,
+      "key": "ashby:claritypay",
+      "fetched": 13,
       "kept": 0
     },
     {
@@ -280,8 +275,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:claritypay",
-      "fetched": 13,
+      "key": "ashby:zus-health",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -295,18 +290,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:weave",
-      "fetched": 28,
-      "kept": 0
-    },
-    {
-      "key": "ashby:mintmcp",
-      "fetched": 7,
+      "key": "ashby:lightyear-ai",
+      "fetched": 2,
       "kept": 1
     },
     {
-      "key": "ashby:coram-ai",
-      "fetched": 50,
+      "key": "ashby:wayve",
+      "fetched": 165,
+      "kept": 2
+    },
+    {
+      "key": "ashby:weave",
+      "fetched": 28,
       "kept": 0
     },
     {
@@ -320,9 +315,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:wayve",
-      "fetched": 165,
-      "kept": 2
+      "key": "ashby:mintmcp",
+      "fetched": 7,
+      "kept": 1
     },
     {
       "key": "ashby:chainalysis-careers",
@@ -330,8 +325,13 @@
       "kept": 0
     },
     {
-      "key": "lever:rynoss",
-      "fetched": 18,
+      "key": "ashby:coram-ai",
+      "fetched": 50,
+      "kept": 0
+    },
+    {
+      "key": "lever:plus-2",
+      "fetched": 42,
       "kept": 0
     },
     {
@@ -340,8 +340,13 @@
       "kept": 0
     },
     {
-      "key": "lever:cfsenergy",
-      "fetched": 123,
+      "key": "lever:rynoss",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "lever:amtengineering",
+      "fetched": 115,
       "kept": 0
     },
     {
@@ -360,8 +365,13 @@
       "kept": 0
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 612,
+      "key": "lever:zoox",
+      "fetched": 239,
+      "kept": 2
+    },
+    {
+      "key": "lever:venusaero",
+      "fetched": 27,
       "kept": 0
     },
     {
@@ -370,13 +380,13 @@
       "kept": 0
     },
     {
-      "key": "lever:venusaero",
-      "fetched": 27,
+      "key": "lever:shieldai",
+      "fetched": 612,
       "kept": 0
     },
     {
-      "key": "lever:plus-2",
-      "fetched": 42,
+      "key": "lever:cfsenergy",
+      "fetched": 123,
       "kept": 0
     },
     {
@@ -388,16 +398,6 @@
       "key": "workday:jpi.wd1.myworkdayjobs.com/jpicareers",
       "fetched": 20,
       "kept": 1
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 239,
-      "kept": 2
-    },
-    {
-      "key": "lever:amtengineering",
-      "fetched": 115,
-      "kept": 0
     },
     {
       "key": "workday:cadence.wd1.myworkdayjobs.com/univ_careers",
@@ -415,14 +415,14 @@
       "kept": 3
     },
     {
-      "key": "workday:salesforce.wd12.myworkdayjobs.com/external_career_site",
-      "fetched": 79,
-      "kept": 6
-    },
-    {
       "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
       "fetched": 20,
       "kept": 1
+    },
+    {
+      "key": "workday:salesforce.wd12.myworkdayjobs.com/external_career_site",
+      "fetched": 79,
+      "kept": 6
     },
     {
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
@@ -490,6 +490,36 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "truveta"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "postedAt": "2026-10-14T22:58:44.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "gitlab"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/smartasset/jobs/8881645002",
+      "company": "SmartAsset",
+      "location": "Remote, Contiguous United States",
+      "postedAt": "2026-10-14T17:49:17.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "smartasset"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+      "company": "Twitch Interactive",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-10-14T16:31:18.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "twitch"
     },
     {
       "title": "Software Engineer, ML Infrastructure (MDX)",
@@ -682,36 +712,6 @@
       "board": "doordashusa"
     },
     {
-      "title": "Cloud Platform Engineer",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
-      "postedAt": "2026-10-14T22:58:44.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "gitlab"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/smartasset/jobs/8881645002",
-      "company": "SmartAsset",
-      "location": "Remote, Contiguous United States",
-      "postedAt": "2026-10-14T17:49:17.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "smartasset"
-    },
-    {
-      "title": "Software Engineer I",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
-      "company": "Twitch Interactive",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-10-14T16:31:18.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "twitch"
-    },
-    {
       "title": "Data Platform Engineer",
       "url": "https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936",
       "company": "TypeSafe AI",
@@ -752,26 +752,6 @@
       "board": "pursuit"
     },
     {
-      "title": "Senior Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:34:20.177Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:31:41.472Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
       "title": "Software Engineer II, Core Services",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b",
       "company": "Aurora",
@@ -802,14 +782,24 @@
       "board": "aurora-operations-inc"
     },
     {
-      "title": "Software Engineer, Model Lifecycle and Signals ",
-      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
-      "company": "Cursor",
-      "location": "New York · San Francisco · United States",
-      "postedAt": "2026-10-15T01:25:48.788Z",
+      "title": "Senior Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:34:20.177Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "cursor"
+      "board": "abby-care"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:31:41.472Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "abby-care"
     },
     {
       "title": "AI Engineer, Software Factory",
@@ -822,14 +812,14 @@
       "board": "bernard"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195",
-      "company": "Lightyear",
-      "location": "United States · Remote",
-      "postedAt": "2026-10-14T19:47:39.199Z",
+      "title": "Software Engineer, Model Lifecycle and Signals ",
+      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "company": "Cursor",
+      "location": "New York · San Francisco · United States",
+      "postedAt": "2026-10-15T01:25:48.788Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "lightyear-ai"
+      "board": "cursor"
     },
     {
       "title": "Software Engineer, Algorithms & Infrastructure",
@@ -853,13 +843,13 @@
     },
     {
       "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362",
-      "company": "MintMCP",
-      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
-      "postedAt": "2026-10-14T13:25:27.386Z",
+      "url": "https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195",
+      "company": "Lightyear",
+      "location": "United States · Remote",
+      "postedAt": "2026-10-14T19:47:39.199Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "mintmcp"
+      "board": "lightyear-ai"
     },
     {
       "title": "Software Engineer, Simulation",
@@ -882,6 +872,16 @@
       "board": "wayve"
     },
     {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362",
+      "company": "MintMCP",
+      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
+      "postedAt": "2026-10-14T13:25:27.386Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mintmcp"
+    },
+    {
       "title": "Software Engineer, AI & Data",
       "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
       "company": "CrowdHealth",
@@ -890,27 +890,6 @@
       "salary": "",
       "ats": "Lever",
       "board": "crowdhealth"
-    },
-    {
-      "title": "AI Engineer (REMOTE)",
-      "url": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
-      "company": "EnableComp",
-      "location": "Franklin, TN; United States - Remote",
-      "postedAt": "2026-10-13T12:09:49.171Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "enablecomp"
-    },
-    {
-      "title": "AI Engineer",
-      "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/AI-Engineer_JR101441",
-      "company": "JPI",
-      "location": "Dallas Office",
-      "postedAt": "2026-10-14T11:33:21.020Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "jpicareers",
-      "postedAtSource": "workday-detail"
     },
     {
       "title": "Senior Software Development Engineer in Test",
@@ -933,6 +912,27 @@
       "board": "zoox"
     },
     {
+      "title": "AI Engineer (REMOTE)",
+      "url": "https://jobs.lever.co/enablecomp/631c6307-1cbe-4158-82cf-7388a2cf4327",
+      "company": "EnableComp",
+      "location": "Franklin, TN; United States - Remote",
+      "postedAt": "2026-10-13T12:09:49.171Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "enablecomp"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/AI-Engineer_JR101441",
+      "company": "JPI",
+      "location": "Dallas Office",
+      "postedAt": "2026-10-14T11:54:52.379Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "jpicareers",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Associate DevOps Engineer",
       "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
       "company": "Veeva Systems",
@@ -947,7 +947,7 @@
       "url": "https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1",
       "company": "Etsy",
       "location": "Brooklyn, New York",
-      "postedAt": "2026-10-14T11:33:23.454Z",
+      "postedAt": "2026-10-14T11:54:53.386Z",
       "salary": "",
       "ats": "Workday",
       "board": "etsy_careers",
@@ -958,7 +958,7 @@
       "url": "https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Senior-Software-Engineer-I---Observability_JR5952-1",
       "company": "Etsy",
       "location": "Brooklyn, New York",
-      "postedAt": "2026-10-14T11:33:23.384Z",
+      "postedAt": "2026-10-14T11:54:53.209Z",
       "salary": "",
       "ats": "Workday",
       "board": "etsy_careers",
@@ -969,10 +969,21 @@
       "url": "https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Senior-Software-Engineer-I_JR5619-1",
       "company": "Etsy",
       "location": "Brooklyn, New York",
-      "postedAt": "2026-10-13T11:33:23.522Z",
+      "postedAt": "2026-10-13T11:54:53.470Z",
       "salary": "",
       "ats": "Workday",
       "board": "etsy_careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Software Engineer, Business Applications - Information Technology",
+      "url": "https://stout.wd5.myworkdayjobs.com/stout-experienced-careers/job/Detroit-MI/Software-Engineer--Business-Applications---Information-Technology_r2220",
+      "company": "Stout",
+      "location": "Detroit MI",
+      "postedAt": "2026-10-14T11:54:54.038Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "stout-experienced-careers",
       "postedAtSource": "workday-detail"
     },
     {
@@ -980,7 +991,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
       "company": "Salesforce",
       "location": "7 Locations",
-      "postedAt": "2026-10-14T11:33:24.067Z",
+      "postedAt": "2026-10-14T11:54:55.188Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
@@ -991,7 +1002,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Flink-Lead-Software-Engineer_JR343322",
       "company": "Salesforce",
       "location": "California - San Francisco",
-      "postedAt": "2026-10-14T11:33:23.834Z",
+      "postedAt": "2026-10-14T11:54:54.991Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
@@ -1002,18 +1013,7 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Manager-Sr-Manager---Software-Engineering_JR324607",
       "company": "Salesforce",
       "location": "3 Locations",
-      "postedAt": "2026-10-14T11:33:23.762Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "external_career_site",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineering Manager - Full Stack (Slack)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Georgia---Atlanta/Senior-Engineering-Manager--Design-Systems---Accessibility_JR357962-1",
-      "company": "Salesforce",
-      "location": "5 Locations",
-      "postedAt": "2026-10-14T11:33:23.726Z",
+      "postedAt": "2026-10-14T11:54:54.959Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
@@ -1024,7 +1024,18 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS_JR363394",
       "company": "Salesforce",
       "location": "California - San Francisco",
-      "postedAt": "2026-10-14T11:33:23.686Z",
+      "postedAt": "2026-10-14T11:54:54.856Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "external_career_site",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineering Manager - Full Stack (Slack)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/Georgia---Atlanta/Senior-Engineering-Manager--Design-Systems---Accessibility_JR357962-1",
+      "company": "Salesforce",
+      "location": "5 Locations",
+      "postedAt": "2026-10-14T11:54:54.825Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
@@ -1035,21 +1046,10 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/GovCloud-Software-Engineer_JR357681",
       "company": "Salesforce",
       "location": "3 Locations",
-      "postedAt": "2026-10-14T11:33:23.406Z",
+      "postedAt": "2026-10-14T11:54:54.619Z",
       "salary": "",
       "ats": "Workday",
       "board": "external_career_site",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Software Engineer, Business Applications - Information Technology",
-      "url": "https://stout.wd5.myworkdayjobs.com/stout-experienced-careers/job/Detroit-MI/Software-Engineer--Business-Applications---Information-Technology_r2220",
-      "company": "Stout",
-      "location": "Detroit MI",
-      "postedAt": "2026-10-14T11:33:24.275Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "stout-experienced-careers",
       "postedAtSource": "workday-detail"
     },
     {
@@ -1057,7 +1057,7 @@
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Software-Engineer--Hybrid--Brentwood--NY-or-NYC-_JR1086526",
       "company": "Broadridge",
       "location": "2 Locations",
-      "postedAt": "2026-10-14T11:33:25.588Z",
+      "postedAt": "2026-10-14T11:54:55.720Z",
       "salary": "",
       "ats": "Workday",
       "board": "careers",
@@ -1068,7 +1068,7 @@
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Global-Manager-of-Site-Reliability-Engineering--Hybrid---Flexible-Options-_JR1085943",
       "company": "Broadridge",
       "location": "3 Locations",
-      "postedAt": "2026-10-13T11:33:25.902Z",
+      "postedAt": "2026-10-13T11:54:55.978Z",
       "salary": "",
       "ats": "Workday",
       "board": "careers",
