@@ -291,4 +291,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Software-Engineer_R-501346 | litera | Software Engineer | Denver, CO | posted: 2026-10-15
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635 | boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
 
+- [ ] https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347 | litera | Associate Software Engineer | Denver, CO | posted: 2026-10-15
+
 ## Processed
