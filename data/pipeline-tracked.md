@@ -262,4 +262,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/truveta/jobs/6224827004 | Truveta | Software Engineer - Security & Trust | Seattle, WA | posted: 2026-10-14
 - [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1 | Etsy | Software Engineer II, Observability | Brooklyn, New York | posted: 2026-10-15
 
+- [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Site-Reliability-Engineer_100444-1 | Nationwide | Consultant, Site Reliability Engineer | Ohio Columbus Three Nationwide Plaza
+
 ## Processed
