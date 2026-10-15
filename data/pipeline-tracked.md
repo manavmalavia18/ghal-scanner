@@ -302,4 +302,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/9b57f80b-33b5-4082-ac57-9f10920e4eca | Clera | Software Engineer, Mid-Level | San Francisco | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | BASE | Software Engineer, Product | Austin, TX | posted: 2026-10-15
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635 | Boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
+
 ## Processed
