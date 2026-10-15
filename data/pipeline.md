@@ -559,3 +559,6 @@
 
 - [ ] https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3 | supabase | Site Reliability Engineer | Remote, Global | posted: 2026-10-15
 - [ ] https://www.alphasights.com/careers/open-roles?gh_jid=8281957 | alphasights | Mid-level DevOps Engineer (Remote) - Brazil | Brazil, Remote | posted: 2026-10-15
+
+- [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/5007070101 | moniepoint | Site Reliability Engineer | Remote, Pakistan | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6225257004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-15
