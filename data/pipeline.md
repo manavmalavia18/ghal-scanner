@@ -581,3 +581,5 @@
 
 - [ ] https://jobs.ashbyhq.com/melotech/beb62652-69c6-4d32-86ce-1ad38b63a0df | melotech | AI/ML Engineer | Berlin · New York · New York City · United States · London · UK · Remote | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/melotech/a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e | melotech | Full-Stack Developer, Music & Audio | Berlin · San Francisco · United States · New York · New York City · London · UK · Los Angeles · Remote | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3 | quora | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-15
