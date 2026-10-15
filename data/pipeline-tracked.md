@@ -272,4 +272,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/bernard/5baf979e-5a34-444b-9a96-e069b1a6632e | Bernard | AI Engineer, Software Factory | New York City | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/extend/jobs/6224705004 | Extend | Software Engineer II - Fulfillments Team | Remote · Remote, US | posted: 2026-10-14
 
+- [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Boston-Massachusetts/Full-Stack-Java-Developer--AVP_R-798145 | Statestreet | Full Stack Java Developer, AVP | Boston, Massachusetts | posted: 2026-10-15
+
 ## Processed
