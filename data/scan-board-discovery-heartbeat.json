@@ -1,14 +1,8 @@
 {
-  "at": "2026-10-15T14:12:14.968Z",
+  "at": "2026-10-15T14:26:16.455Z",
   "leadsScanned": 1980,
   "totalBoardsKnown": 841,
-  "alreadyTracked": 840,
-  "newlyPromoted": 1,
-  "newBoards": [
-    {
-      "name": "SpaceXAI",
-      "careers_url": "https://job-boards.greenhouse.io/xai",
-      "provider": "greenhouse"
-    }
-  ]
+  "alreadyTracked": 841,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
