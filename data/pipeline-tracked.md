@@ -280,4 +280,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae | Mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-15
 - [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514 | Medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
 
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Software-Development-Engineering---SDET_R-10403889 | Fiserv | Software Development Engineering - SDET | Sunnyvale, California | posted: 2026-10-15
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946 | Amgen | Full Stack Software Engineer | 2 Locations | posted: 2026-10-15
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS---AI-Core--REMOTE-_JR363384 | Salesforce | Software Engineering LMTS - AI Core (REMOTE) | California - San Francisco | posted: 2026-10-15
+- [ ] https://investure.bamboohr.com/careers/85 | Investure | Software Engineer (Generalist) | Charlottesville, Virginia
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1001664-1 | Capital One | Full-stack Engineer 4 | New York, NY | posted: 2026-10-15
+
 ## Processed
