@@ -252,4 +252,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-3 | hpe | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
 - [ ] https://centific.wd1.myworkdayjobs.com/centific_global/job/Remote-Work-Malaysia-Penang/Software-Development-Engineer---Azure-CLI---Azure-PowerShell_JR108534-1 | centific | Software Development Engineer – Azure CLI / Azure PowerShell | Remote Work Malaysia (Penang) | posted: 2026-10-15
 
+- [ ] https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/Chicago/Manager--Power-Platform---Modern-Front-End-Engineering_JR120646-1 | rsm | Supervisor, D365 CE & Power Platform Engineering | 6 Locations | posted: 2026-10-15
+- [ ] https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Remote-Illinois/AI-Engineer_REQ-2026-2441 | directsupply | AI Engineer | Remote Illinois | posted: 2026-10-15
+
 ## Processed
