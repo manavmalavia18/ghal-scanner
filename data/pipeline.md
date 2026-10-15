@@ -578,3 +578,6 @@
 - [ ] https://job-boards.greenhouse.io/schonfeld/jobs/8285213 | schonfeld | Software Engineer | New York, New York, United States | posted: 2026-10-15
 
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4720247006?gh_jid=4720247006 | accenturefederalservices | Application Developer | Washington, DC | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/melotech/beb62652-69c6-4d32-86ce-1ad38b63a0df | melotech | AI/ML Engineer | Berlin · New York · New York City · United States · London · UK · Remote | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/melotech/a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e | melotech | Full-Stack Developer, Music & Audio | Berlin · San Francisco · United States · New York · New York City · London · UK · Los Angeles · Remote | posted: 2026-10-15
