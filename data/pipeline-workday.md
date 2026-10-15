@@ -287,4 +287,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692 | autostore | Software Engineering Coop | Atlanta, GA, USA | posted: 2026-10-15
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/referral19/job/Los-Angeles-California/Software-Engineer--Level-3_Q326SWE-3 | snapchat | Software Engineer, Level 3 | 6 Locations | posted: 2026-10-15
+- [ ] https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Software-Engineer_R-501346 | litera | Software Engineer | Denver, CO | posted: 2026-10-15
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635 | boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
+
 ## Processed
