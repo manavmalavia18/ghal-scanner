@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T19:09:37.343Z",
+  "fetchedAt": "2026-10-15T19:31:16.672Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 340,
+  "companyCount": 339,
   "companies": [
     {
       "company": "Aaru",
@@ -2127,13 +2127,6 @@
       "board": "tusker",
       "key": "lever:tusker",
       "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba"
-    },
-    {
-      "company": "Twilio",
-      "ats": "greenhouse",
-      "board": "twilio",
-      "key": "greenhouse:twilio",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182"
     },
     {
       "company": "Twitch Interactive",

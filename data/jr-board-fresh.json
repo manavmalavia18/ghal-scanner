@@ -1,28 +1,18 @@
 {
-  "fetchedAt": "2026-10-15T19:09:37.318Z",
+  "fetchedAt": "2026-10-15T19:31:16.656Z",
   "days": 2,
   "leadCount": 83,
-  "jobCount": 54,
+  "jobCount": 52,
   "boards": [
-    {
-      "key": "greenhouse:noetik",
-      "fetched": 6,
-      "kept": 2
-    },
     {
       "key": "greenhouse:eh2",
       "fetched": 16,
       "kept": 0
     },
     {
-      "key": "greenhouse:schonfeld",
-      "fetched": 69,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:idme",
-      "fetched": 51,
-      "kept": 0
+      "key": "greenhouse:noetik",
+      "fetched": 6,
+      "kept": 2
     },
     {
       "key": "greenhouse:candidate",
@@ -30,8 +20,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:databento",
-      "fetched": 14,
+      "key": "greenhouse:idme",
+      "fetched": 51,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:asana",
+      "fetched": 107,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:schonfeld",
+      "fetched": 69,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:ubiquiti",
+      "fetched": 173,
       "kept": 0
     },
     {
@@ -45,19 +50,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 180,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:canonical",
       "fetched": 310,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:nuro",
-      "fetched": 109,
-      "kept": 1
     },
     {
       "key": "greenhouse:botauto",
@@ -65,27 +60,22 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asana",
-      "fetched": 106,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:seatgeek",
       "fetched": 36,
       "kept": 0
     },
     {
-      "key": "greenhouse:ubiquiti",
-      "fetched": 173,
+      "key": "greenhouse:databento",
+      "fetched": 14,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scaleai",
+      "fetched": 180,
       "kept": 0
     },
     {
       "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:sc",
       "fetched": 0,
       "kept": 0
     },
@@ -95,18 +85,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:sc",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:affirm",
       "fetched": 208,
       "kept": 3
     },
     {
-      "key": "greenhouse:careers-home",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:nuro",
+      "fetched": 109,
+      "kept": 1
     },
     {
-      "key": "greenhouse:mark43",
-      "fetched": 30,
+      "key": "greenhouse:careers-home",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -115,13 +110,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:applovin",
-      "fetched": 42,
+      "key": "greenhouse:mark43",
+      "fetched": 30,
       "kept": 0
     },
     {
-      "key": "greenhouse:washington",
-      "fetched": 0,
+      "key": "greenhouse:telnyx54",
+      "fetched": 52,
       "kept": 0
     },
     {
@@ -130,8 +125,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:telnyx54",
-      "fetched": 52,
+      "key": "greenhouse:washington",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -140,13 +135,18 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:pathstone",
+      "fetched": 27,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:justfoodcompany",
       "fetched": 5,
       "kept": 0
     },
     {
-      "key": "greenhouse:pathstone",
-      "fetched": 27,
+      "key": "greenhouse:applovin",
+      "fetched": 42,
       "kept": 0
     },
     {
@@ -160,8 +160,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gitlab",
-      "fetched": 215,
+      "key": "greenhouse:chainguard",
+      "fetched": 79,
       "kept": 0
     },
     {
@@ -175,6 +175,16 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:databricks",
+      "fetched": 898,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:gitlab",
+      "fetched": 215,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:truveta",
       "fetched": 37,
       "kept": 2
@@ -183,11 +193,6 @@
       "key": "greenhouse:figureai",
       "fetched": 97,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:chainguard",
-      "fetched": 79,
-      "kept": 1
     },
     {
       "key": "ashby:primeintellect",
@@ -205,18 +210,13 @@
       "kept": 0
     },
     {
+      "key": "ashby:lambda",
+      "fetched": 89,
+      "kept": 0
+    },
+    {
       "key": "ashby:ramp",
       "fetched": 164,
-      "kept": 0
-    },
-    {
-      "key": "ashby:fluidstack",
-      "fetched": 251,
-      "kept": 0
-    },
-    {
-      "key": "ashby:plaid",
-      "fetched": 127,
       "kept": 0
     },
     {
@@ -225,8 +225,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:lambda",
-      "fetched": 89,
+      "key": "ashby:eliseai",
+      "fetched": 130,
+      "kept": 0
+    },
+    {
+      "key": "ashby:plaid",
+      "fetched": 127,
+      "kept": 0
+    },
+    {
+      "key": "ashby:fluidstack",
+      "fetched": 251,
       "kept": 0
     },
     {
@@ -235,24 +245,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:brainco",
-      "fetched": 39,
-      "kept": 0
-    },
-    {
-      "key": "ashby:eliseai",
-      "fetched": 130,
-      "kept": 0
-    },
-    {
       "key": "ashby:webai",
       "fetched": 18,
       "kept": 1
-    },
-    {
-      "key": "ashby:assembledhq",
-      "fetched": 17,
-      "kept": 0
     },
     {
       "key": "ashby:langchain",
@@ -260,9 +255,29 @@
       "kept": 1
     },
     {
+      "key": "ashby:brainco",
+      "fetched": 39,
+      "kept": 0
+    },
+    {
+      "key": "ashby:assembledhq",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 142,
+      "kept": 0
+    },
+    {
       "key": "ashby:rillet",
       "fetched": 41,
       "kept": 0
+    },
+    {
+      "key": "ashby:thumbtack",
+      "fetched": 57,
+      "kept": 1
     },
     {
       "key": "ashby:cyberhaven",
@@ -275,11 +290,6 @@
       "kept": 3
     },
     {
-      "key": "ashby:thumbtack",
-      "fetched": 57,
-      "kept": 1
-    },
-    {
       "key": "ashby:mintmcp",
       "fetched": 7,
       "kept": 1
@@ -290,9 +300,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:abby-care",
-      "fetched": 21,
-      "kept": 2
+      "key": "ashby:tessera-labs",
+      "fetched": 22,
+      "kept": 0
     },
     {
       "key": "ashby:ghost",
@@ -300,9 +310,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:tessera-labs",
+      "key": "ashby:abby-care",
       "fetched": 22,
-      "kept": 0
+      "kept": 2
     },
     {
       "key": "ashby:cursor",
@@ -310,33 +320,23 @@
       "kept": 1
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 142,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:doordashusa",
-      "fetched": 456,
-      "kept": 7
-    },
-    {
-      "key": "lever:iru",
-      "fetched": 22,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:databricks",
-      "fetched": 898,
-      "kept": 0
-    },
-    {
       "key": "lever:crypto",
       "fetched": 91,
       "kept": 0
     },
     {
+      "key": "greenhouse:doordashusa",
+      "fetched": 455,
+      "kept": 7
+    },
+    {
       "key": "lever:rynoss",
       "fetched": 19,
+      "kept": 0
+    },
+    {
+      "key": "lever:iru",
+      "fetched": 22,
       "kept": 0
     },
     {
@@ -355,28 +355,23 @@
       "kept": 0
     },
     {
-      "key": "lever:primee",
-      "fetched": 58,
-      "kept": 0
-    },
-    {
-      "key": "lever:cfsenergy",
-      "fetched": 127,
-      "kept": 0
-    },
-    {
-      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
-      "fetched": 7,
-      "kept": 0
-    },
-    {
       "key": "workday:trendmicro.wd3.myworkdayjobs.com/external",
       "fetched": 20,
       "kept": 0
     },
     {
+      "key": "lever:primee",
+      "fetched": 58,
+      "kept": 0
+    },
+    {
       "key": "workday:tmhcc.wd108.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -390,18 +385,23 @@
       "kept": 0
     },
     {
-      "key": "lever:zoox",
-      "fetched": 239,
-      "kept": 1
-    },
-    {
       "key": "workday:onto.wd1.myworkdayjobs.com/onto_careers",
       "fetched": 20,
       "kept": 0
     },
     {
+      "key": "lever:cfsenergy",
+      "fetched": 128,
+      "kept": 0
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 239,
+      "kept": 1
+    },
+    {
       "key": "lever:palantir",
-      "fetched": 312,
+      "fetched": 310,
       "kept": 0
     },
     {
@@ -412,11 +412,11 @@
     {
       "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
       "fetched": 79,
-      "kept": 10
+      "kept": 9
     },
     {
       "key": "greenhouse:andurilindustries",
-      "fetched": 2527,
+      "fetched": 2530,
       "kept": 11
     }
   ],
@@ -443,26 +443,6 @@
     },
     {
       "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213",
-      "company": "Schonfeld",
-      "location": "New York, New York, United States",
-      "postedAt": "2026-10-15T15:09:11.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "schonfeld"
-    },
-    {
-      "title": "Senior Software Engineer, Autonomy Behavior Testing",
-      "url": "https://nuro.ai/careersitem?gh_jid=8282222",
-      "company": "Nuro",
-      "location": "Mountain View, California (HQ)",
-      "postedAt": "2026-10-14T19:03:58.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "nuro"
-    },
-    {
-      "title": "Software Engineer",
       "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522",
       "company": "Asana",
       "location": "San Francisco",
@@ -470,6 +450,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "asana"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213",
+      "company": "Schonfeld",
+      "location": "New York, New York, United States",
+      "postedAt": "2026-10-15T15:09:11.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "schonfeld"
     },
     {
       "title": "Manager, Software Engineering (App Infrastructure)",
@@ -500,6 +490,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
+    },
+    {
+      "title": "Senior Software Engineer, Autonomy Behavior Testing",
+      "url": "https://nuro.ai/careersitem?gh_jid=8282222",
+      "company": "Nuro",
+      "location": "Mountain View, California (HQ)",
+      "postedAt": "2026-10-14T19:03:58.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "nuro"
     },
     {
       "title": "Software Engineer (Early Career) – C++ & Systems",
@@ -542,16 +542,6 @@
       "board": "truveta"
     },
     {
-      "title": "Staff Software Engineer (Customer Platform) ",
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4720009006",
-      "company": "Chainguard",
-      "location": "United States - Remote",
-      "postedAt": "2026-10-13T19:27:42.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "chainguard"
-    },
-    {
       "title": "Director of Applied AI",
       "url": "https://jobs.ashbyhq.com/webai/789fac9a-0758-4052-941c-bd1fa32c8631",
       "company": "webAI",
@@ -570,6 +560,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "langchain"
+    },
+    {
+      "title": "Software Engineer, AI/ML Infrastructure (US-Based) ",
+      "url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "company": "Thumbtack",
+      "location": "Remote, United States",
+      "postedAt": "2026-10-14T17:11:09.015Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "thumbtack"
     },
     {
       "title": "Software Engineer, iOS",
@@ -600,16 +600,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "mirage"
-    },
-    {
-      "title": "Software Engineer, AI/ML Infrastructure (US-Based) ",
-      "url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "company": "Thumbtack",
-      "location": "Remote, United States",
-      "postedAt": "2026-10-14T17:11:09.015Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "thumbtack"
     },
     {
       "title": "Software Engineer",
@@ -820,17 +810,6 @@
     {
       "title": "Staff Software Engineer– Boot Software",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/New-Architecture-Technical-Specialist--Boot-Software_JR-202616262",
-      "company": "General Motors",
-      "location": "Milford, Michigan, United States of America",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer_JR-202622383",
       "company": "General Motors",
       "location": "Milford, Michigan, United States of America",
       "postedAt": "2026-10-14T12:00:00.000Z",
