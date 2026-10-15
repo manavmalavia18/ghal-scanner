@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T17:58:14.318Z",
+  "fetchedAt": "2026-10-15T18:19:35.289Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 330,
+  "companyCount": 344,
   "companies": [
     {
       "company": "Aaru",
@@ -99,11 +99,25 @@
       "url": "https://jobs.altec.com/jobs/18363249-applications-engineer"
     },
     {
+      "company": "Amentum",
+      "ats": "workday",
+      "board": "amentum_careers",
+      "key": "workday:pae.wd1.myworkdayjobs.com/amentum_careers",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers"
+    },
+    {
       "company": "Anaplan",
       "ats": "greenhouse",
       "board": "anaplan",
       "key": "greenhouse:anaplan",
       "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845838002"
+    },
+    {
+      "company": "Anduril Industries",
+      "ats": "greenhouse",
+      "board": "andurilindustries",
+      "key": "greenhouse:andurilindustries",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007"
     },
     {
       "company": "AnySignal",
@@ -188,6 +202,13 @@
       "board": "assurant_careers",
       "key": "workday:assurant.wd1.myworkdayjobs.com/assurant_careers",
       "url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers"
+    },
+    {
+      "company": "AstraZeneca",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:astrazeneca.wd3.myworkdayjobs.com/careers",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/careers"
     },
     {
       "company": "Aurora Innovation, Inc.",
@@ -337,6 +358,13 @@
       "url": "https://caci.wd1.myworkdayjobs.com/external"
     },
     {
+      "company": "Cadence Design Systems",
+      "ats": "workday",
+      "board": "external_careers",
+      "key": "workday:cadence.wd1.myworkdayjobs.com/external_careers",
+      "url": "https://cadence.wd1.myworkdayjobs.com/external_careers"
+    },
+    {
       "company": "Cambridge Investment Research",
       "ats": "workday",
       "board": "cir_external_career_site",
@@ -349,13 +377,6 @@
       "board": "canonical",
       "key": "greenhouse:canonical",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=canonical&token=2579550"
-    },
-    {
-      "company": "Carbon Robotics",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4721558006",
-      "url": "https://carbonrobotics.com/job-openings?gh_jid=4721558006"
     },
     {
       "company": "CarGurus",
@@ -806,6 +827,20 @@
       "url": "https://jobs.ashbyhq.com/fluidstack/6e705aa9-fb62-4ecf-a86d-67bb900fba5b/application"
     },
     {
+      "company": "Formlabs",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8281470",
+      "url": "https://careers.formlabs.com/job/8281470/apply/?gh_jid=8281470"
+    },
+    {
+      "company": "Freudenberg",
+      "ats": "workday",
+      "board": "freudenberg-group",
+      "key": "workday:freudenberg.wd3.myworkdayjobs.com/freudenberg-group",
+      "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group"
+    },
+    {
       "company": "GE HealthCare",
       "ats": "workday",
       "board": "gehc_externalsite",
@@ -904,6 +939,13 @@
       "url": "https://gundersenhealth.wd5.myworkdayjobs.com/Gundersen"
     },
     {
+      "company": "Haleon",
+      "ats": "workday",
+      "board": "gskcareers",
+      "key": "workday:gsknch.wd3.myworkdayjobs.com/gskcareers",
+      "url": "https://gsknch.wd3.myworkdayjobs.com/gskcareers"
+    },
+    {
       "company": "Health Care Service Corporation",
       "ats": "workday",
       "board": "hcsc_external",
@@ -967,6 +1009,13 @@
       "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite"
     },
     {
+      "company": "Humana",
+      "ats": "workday",
+      "board": "humana_external_career_site",
+      "key": "workday:humana.wd5.myworkdayjobs.com/humana_external_career_site",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site"
+    },
+    {
       "company": "Hunt Electric",
       "ats": "workday",
       "board": "huntelectric_careers",
@@ -993,6 +1042,13 @@
       "board": "idme",
       "key": "greenhouse:idme",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=idme&token=7808011003"
+    },
+    {
+      "company": "Illinois Tool Works",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:itw.wd5.myworkdayjobs.com/external",
+      "url": "https://itw.wd5.myworkdayjobs.com/external"
     },
     {
       "company": "IMEG",
@@ -1095,16 +1151,16 @@
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
-      "board": "jj",
-      "key": "workday:jj.wd5.myworkdayjobs.com/jj",
-      "url": "https://jj.wd5.myworkdayjobs.com/jj"
+      "board": "displacedemployees",
+      "key": "workday:jj.wd5.myworkdayjobs.com/displacedemployees",
+      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees"
     },
     {
       "company": "Johnson & Johnson",
       "ats": "workday",
-      "board": "displacedemployees",
-      "key": "workday:jj.wd5.myworkdayjobs.com/displacedemployees",
-      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees"
+      "board": "jj",
+      "key": "workday:jj.wd5.myworkdayjobs.com/jj",
+      "url": "https://jj.wd5.myworkdayjobs.com/jj"
     },
     {
       "company": "JPI",
@@ -1198,6 +1254,13 @@
       "url": "https://job-boards.greenhouse.io/levanta/jobs/5453079008"
     },
     {
+      "company": "LG Energy Solution Arizona",
+      "ats": "greenhouse",
+      "board": "lgenergyaz",
+      "key": "greenhouse:lgenergyaz",
+      "url": "https://job-boards.greenhouse.io/lgenergyaz/jobs/5450205008"
+    },
+    {
       "company": "Light & Wonder",
       "ats": "workday",
       "board": "lightwonderexternalcareers",
@@ -1273,6 +1336,13 @@
       "board": "",
       "key": "greenhouse-id:1665891037811282",
       "url": "https://www.metacareers.com/jobs/1665891037811282/?rx_campaign=jobright&rx_ch=connector&rx_group=126320&rx_id=b186d3d8-74e2-11f1-a1df-e3892ef8c6c0&rx_job=a1KDp000000B9qSMAS_1002&rx_medium=post&rx_r=none&rx_source=jobright&rx_vp=slots&utm_campaign=Job+board&utm_medium=jobs&utm_source=LIpaid"
+    },
+    {
+      "company": "Miami University",
+      "ats": "workday",
+      "board": "miamioh-staff",
+      "key": "workday:miamioh.wd5.myworkdayjobs.com/miamioh-staff",
+      "url": "https://miamioh.wd5.myworkdayjobs.com/miamioh-staff"
     },
     {
       "company": "Microchip Technology",
@@ -1625,6 +1695,13 @@
       "url": "https://jobs.ashbyhq.com/recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338"
     },
     {
+      "company": "Regeneron Pharmaceuticals",
+      "ats": "workday",
+      "board": "careers",
+      "key": "workday:regeneron.wd1.myworkdayjobs.com/careers",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/careers"
+    },
+    {
       "company": "Reply S.p.A.",
       "ats": "lever",
       "board": "reply",
@@ -1714,6 +1791,13 @@
       "board": "scaleai",
       "key": "greenhouse:scaleai",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=scaleai&token=4736426005"
+    },
+    {
+      "company": "Schneider Electric",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:137743",
+      "url": "https://careers.se.com/jobs/137743?lang=en-us"
     },
     {
       "company": "Schneider Electric",
@@ -1954,6 +2038,13 @@
       "url": "https://aspendental.wd1.myworkdayjobs.com/careers_the_aspen_group"
     },
     {
+      "company": "The Chemours Company",
+      "ats": "workday",
+      "board": "chemours",
+      "key": "workday:chemours.wd103.myworkdayjobs.com/chemours",
+      "url": "https://chemours.wd103.myworkdayjobs.com/chemours"
+    },
+    {
       "company": "The Farmer's Dog",
       "ats": "greenhouse",
       "board": "thefarmersdog",
@@ -2122,13 +2213,6 @@
       "url": "https://usource.ripplehire.com/candidate?token=8YxWjpwDhdL62DFYUIcQ#detail/job/64366"
     },
     {
-      "company": "Veeva Systems",
-      "ats": "lever",
-      "board": "veeva",
-      "key": "lever:veeva",
-      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2"
-    },
-    {
       "company": "Verizon",
       "ats": "workday",
       "board": "frontier_career_site",
@@ -2213,6 +2297,13 @@
       "url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobstargeted"
     },
     {
+      "company": "Wheatland Electric Cooperative",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4244322",
+      "url": "https://weci.applicantpro.com/jobs/4244322"
+    },
+    {
       "company": "WHOOP",
       "ats": "ashby",
       "board": "whoop",
@@ -2295,6 +2386,13 @@
       "board": "",
       "key": "greenhouse-id:8872479002",
       "url": "https://wing.com/careers/8872479002?gh_jid=8872479002"
+    },
+    {
+      "company": "Woolpert",
+      "ats": "greenhouse",
+      "board": "woolpert",
+      "key": "greenhouse:woolpert",
+      "url": "https://job-boards.greenhouse.io/woolpert/jobs/4450249009"
     },
     {
       "company": "Yale University",
