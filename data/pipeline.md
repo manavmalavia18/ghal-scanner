@@ -583,3 +583,5 @@
 - [ ] https://jobs.ashbyhq.com/melotech/a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e | melotech | Full-Stack Developer, Music & Audio | Berlin · San Francisco · United States · New York · New York City · London · UK · Los Angeles · Remote | posted: 2026-10-15
 
 - [ ] https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3 | quora | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | base-power | Software Engineer, Product | Austin, TX | posted: 2026-10-15
