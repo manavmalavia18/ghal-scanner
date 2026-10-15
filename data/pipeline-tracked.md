@@ -243,4 +243,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8889193002 | Gitlab | Cloud Platform Engineer | Remote, Canada; Remote, United States | posted: 2026-10-14
 - [ ] https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593 | BASE | Software Engineer, Algorithms & Infrastructure | Austin, TX | posted: 2026-10-14
 
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8268333 | Mozilla | Software Engineer, Firefox Desktop Integrations | Remote Canada | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-3 | Hewlett Packard Enterprise | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005 | Hpe | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4 | Cursor | Software Engineer, Model Lifecycle and Signals | New York · San Francisco · United States | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236 | OpenAI | Client Platform Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936 | TypeSafe AI | Data Platform Engineer | San Francisco Office | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8283735 | DoorDash | Software Engineer, ML Infrastructure (MDX) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-15
+
 ## Processed
