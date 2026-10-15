@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T15:23:23.244Z",
+  "fetchedAt": "2026-10-15T15:45:13.871Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 346,
+  "companyCount": 344,
   "companies": [
     {
       "company": "Aaru",
@@ -1326,9 +1326,9 @@
     {
       "company": "Milwaukee Tool",
       "ats": "workday",
-      "board": "milwaukee",
-      "key": "workday:tti.wd1.myworkdayjobs.com/milwaukee",
-      "url": "https://tti.wd1.myworkdayjobs.com/milwaukee"
+      "board": "Milwaukee",
+      "key": "workday:tti.wd1.myworkdayjobs.com/Milwaukee",
+      "url": "https://tti.wd1.myworkdayjobs.com/Milwaukee"
     },
     {
       "company": "Minitab",
@@ -1357,13 +1357,6 @@
       "board": "moog_external_career_site",
       "key": "workday:moog.wd5.myworkdayjobs.com/moog_external_career_site",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site"
-    },
-    {
-      "company": "Morris Group, Inc.",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8540960",
-      "url": "https://tmgchicago.teamtailor.com/jobs/8540960-applications-engineer"
     },
     {
       "company": "Motional",
@@ -1539,13 +1532,6 @@
       "board": "search",
       "key": "workday:parsons.wd5.myworkdayjobs.com/search",
       "url": "https://parsons.wd5.myworkdayjobs.com/search"
-    },
-    {
-      "company": "Partnerize",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8014644003",
-      "url": "https://partnerize.com/company/jobs/?gh_jid=8014644003"
     },
     {
       "company": "Pathstone",
