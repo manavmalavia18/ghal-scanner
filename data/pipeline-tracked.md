@@ -274,4 +274,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://statestreet.wd1.myworkdayjobs.com/global/job/Boston-Massachusetts/Full-Stack-Java-Developer--AVP_R-798145 | Statestreet | Full Stack Java Developer, AVP | Boston, Massachusetts | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5 | Bedrock Robotics | Software Engineer, Fleet Platform | New York, NY | posted: 2026-10-15
+
 ## Processed
