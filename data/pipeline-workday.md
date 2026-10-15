@@ -259,4 +259,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Correspondent-Software-Engineer-II_R-05724 | southstatebank | Correspondent Software Engineer II (Remote) | 2 Locations | posted: 2026-10-15
 - [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Software-Engineer-III_R0017634 | astreya | Software Engineer III | Remote, India | posted: 2026-10-15
 
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514 | medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
+- [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514-1 | medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
+
 ## Processed
