@@ -276,4 +276,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5 | Bedrock Robotics | Software Engineer, Fleet Platform | New York, NY | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/mirage/30e78e37-36e2-42e7-9ca5-cf10361ff925 | Mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae | Mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-15
+- [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514 | Medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
+
 ## Processed
