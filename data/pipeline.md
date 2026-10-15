@@ -568,3 +568,5 @@
 - [ ] https://jobs.ashbyhq.com/ndeavour/d32dcb18-6060-4147-a99f-4a475aef6aef | ndeavour | Full-Stack Software Engineer - C# & Flutter | All Cities · Remote | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-15
 - [ ] https://www.houserx.com/careers?gh_jid=4744136005 | houserx | Software Engineer II - Support | Remote · Remote | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/bedrock-robotics/cbcf15d7-6f14-4270-b726-3bfa90242fc5 | bedrock-robotics | Software Engineer, Fleet Platform | New York, NY | posted: 2026-10-15
