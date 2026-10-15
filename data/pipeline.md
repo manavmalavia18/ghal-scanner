@@ -589,3 +589,5 @@
 - [ ] https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c | kin | Software Engineer, Back-End Focus | Remote (United States) | posted: 2026-10-15
 
 - [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4744268005 | dvtrading | Quantitative Software Engineer (DV Commodities) | New York | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e | tin-can | Software Engineer, Core Product | Seattle | posted: 2026-10-15
