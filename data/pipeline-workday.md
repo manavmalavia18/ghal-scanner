@@ -298,4 +298,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279-1 | hpe | Software Engineer | 3 Locations | posted: 2026-10-15
 - [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279-2 | hpe | Software Engineer | 3 Locations | posted: 2026-10-15
 
+- [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Software-Engineer-SME_RQ223041-1 | gdit | Software Engineer SME | USA HI Camp Smith | posted: 2026-10-15
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1 | boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
+
 ## Processed
