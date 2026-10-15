@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T18:47:19.384Z",
+  "fetchedAt": "2026-10-15T19:09:37.343Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 343,
+  "companyCount": 340,
   "companies": [
     {
       "company": "Aaru",
@@ -412,13 +412,6 @@
       "board": "chainguard",
       "key": "greenhouse:chainguard",
       "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722131006"
-    },
-    {
-      "company": "CHAOS Industries",
-      "ats": "greenhouse",
-      "board": "chaosindustries",
-      "key": "greenhouse:chaosindustries",
-      "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5257377007"
     },
     {
       "company": "Charles Schwab",
@@ -1555,13 +1548,6 @@
       "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5265144007&gh_jid=5265144007"
     },
     {
-      "company": "Peec AI",
-      "ats": "ashby",
-      "board": "peec",
-      "key": "ashby:peec",
-      "url": "https://jobs.ashbyhq.com/peec/699fbf03-f3c6-473e-a543-a6b126cd9535"
-    },
-    {
       "company": "Peraton",
       "ats": "greenhouse",
       "board": "",
@@ -2302,13 +2288,6 @@
       "board": "whoop",
       "key": "ashby:whoop",
       "url": "https://jobs.ashbyhq.com/whoop/422da18d-adfc-41d7-ad01-d3e001250e86"
-    },
-    {
-      "company": "Whop",
-      "ats": "ashby",
-      "board": "whop",
-      "key": "ashby:whop",
-      "url": "https://jobs.ashbyhq.com/whop/4100649c-52c3-46db-a459-17c8bf1f5b64"
     },
     {
       "company": "Widget Factory",
