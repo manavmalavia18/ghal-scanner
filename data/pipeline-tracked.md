@@ -309,4 +309,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279 | Hewlett Packard Enterprise | Software Engineer | 3 Locations | posted: 2026-10-15
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Durham-North-Carolina-United-States-of-America/Software-Engineer_1215279-1 | Hpe | Software Engineer | 3 Locations | posted: 2026-10-15
 
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer_R-147407 | The Coca-Cola Company | Software Engineer | US - GA - Atlanta | posted: 2026-10-15
+
 ## Processed
