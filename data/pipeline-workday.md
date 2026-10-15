@@ -274,4 +274,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293662 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-15
 - [ ] https://kissusa.wd12.myworkdayjobs.com/kiss_careers_external/job/USA-NY-Port-Washington-HQ/Application-Developer_R4297 | kissusa | Application Developer | USA, NY, Port Washington, HQ | posted: 2026-10-15
 
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Software-Engineer--ML-infrastructure--Core-Inference--Level-4_R0047198 | snapchat | Software Engineer, ML infrastructure, Core Inference, Level 4 | 3 Locations | posted: 2026-10-15
+
 ## Processed
