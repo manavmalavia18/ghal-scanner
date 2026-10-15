@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T06:21:17.310Z",
+  "fetchedAt": "2026-10-15T06:43:08.336Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 309,
+  "companyCount": 312,
   "companies": [
     {
       "company": "Abbott",
@@ -20,6 +20,13 @@
       "board": "abbottcareers",
       "key": "workday:abbott.wd5.myworkdayjobs.com/abbottcareers",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+    },
+    {
+      "company": "Abby Care",
+      "ats": "ashby",
+      "board": "abby-care",
+      "key": "ashby:abby-care",
+      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89"
     },
     {
       "company": "AeroVironment",
@@ -554,6 +561,13 @@
       "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5"
     },
     {
+      "company": "Cursor",
+      "ats": "ashby",
+      "board": "cursor",
+      "key": "ashby:cursor",
+      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4"
+    },
+    {
       "company": "Databricks",
       "ats": "greenhouse",
       "board": "",
@@ -937,6 +951,13 @@
       "board": "InspireCareers",
       "key": "workday:inspirebrands.wd5.myworkdayjobs.com/InspireCareers",
       "url": "https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers"
+    },
+    {
+      "company": "Intel",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:intel.wd1.myworkdayjobs.com/external",
+      "url": "https://intel.wd1.myworkdayjobs.com/external"
     },
     {
       "company": "Interstates",
@@ -1788,13 +1809,6 @@
     {
       "company": "Stryker",
       "ats": "workday",
-      "board": "strykercareers",
-      "key": "workday:stryker.wd1.myworkdayjobs.com/strykercareers",
-      "url": "https://stryker.wd1.myworkdayjobs.com/strykercareers"
-    },
-    {
-      "company": "Stryker",
-      "ats": "workday",
       "board": "StrykerCareers",
       "key": "workday:stryker.wd1.myworkdayjobs.com/StrykerCareers",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
@@ -1833,6 +1847,13 @@
       "board": "tenstorrentuniversity",
       "key": "greenhouse:tenstorrentuniversity",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"
+    },
+    {
+      "company": "Tessera Labs",
+      "ats": "ashby",
+      "board": "tessera-labs",
+      "key": "ashby:tessera-labs",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7"
     },
     {
       "company": "The Farmer's Dog",
