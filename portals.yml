@@ -8283,6 +8283,16 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from jobright
+  - name: "HP Inc."
+    careers_url: https://hp.wd5.myworkdayjobs.com/externalcareersite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Uline"
+    careers_url: https://uline.wd1.myworkdayjobs.com/uline_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

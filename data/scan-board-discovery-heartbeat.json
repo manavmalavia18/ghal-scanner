@@ -1,8 +1,19 @@
 {
-  "at": "2026-10-15T14:26:16.455Z",
-  "leadsScanned": 1980,
-  "totalBoardsKnown": 841,
-  "alreadyTracked": 841,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-15T15:12:13.892Z",
+  "leadsScanned": 1924,
+  "totalBoardsKnown": 844,
+  "alreadyTracked": 842,
+  "newlyPromoted": 2,
+  "newBoards": [
+    {
+      "name": "HP Inc.",
+      "careers_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite",
+      "provider": "workday"
+    },
+    {
+      "name": "Uline",
+      "careers_url": "https://uline.wd1.myworkdayjobs.com/uline_careers",
+      "provider": "workday"
+    }
+  ]
 }
