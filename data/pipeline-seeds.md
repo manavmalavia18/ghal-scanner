@@ -531,4 +531,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | base-power | Software Engineer, Product | Austin, TX | posted: 2026-10-15
 - [ ] https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811 | qualtrics | Software Engineer I | Provo, Utah, United States | posted: 2026-10-09
 
+- [ ] https://jobs.ashbyhq.com/base-power/3bc0ab1f-fac8-4390-9c89-471c942725c3 | base-power | Software Engineer, Growth | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/ab473247-85f9-4be7-8cd8-da909e7cc9ef | base-power | Full Stack Software Engineer, Growth | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/f7f3523e-70c0-4c4f-bf5d-6f8e39f68d1a | base-power | Full Stack Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/8526b173-27e7-4dac-a96f-c71214906758 | base-power | Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
+
 ## Processed
