@@ -294,4 +294,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/noetik/jobs/4453175009 | NOETIK | Software Engineer, Lab Ops & Automation | San Francisco, CA | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/schonfeld/jobs/8285213 | Schonfeld | Software Engineer | New York, New York, United States | posted: 2026-10-15
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Modernization-Software-Developer_331054 | CACI | Modernization Software Developer | Remote (Any State) | posted: 2026-10-15
+
 ## Processed
