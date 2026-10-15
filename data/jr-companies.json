@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T05:59:12.585Z",
+  "fetchedAt": "2026-10-15T06:21:17.310Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 301,
+  "companyCount": 309,
   "companies": [
     {
       "company": "Abbott",
@@ -201,7 +201,7 @@
       "ats": "ashby",
       "board": "base-power",
       "key": "ashby:base-power",
-      "url": "https://jobs.ashbyhq.com/base-power/f2061575-5656-4117-88b5-8745d490da63"
+      "url": "https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593"
     },
     {
       "company": "Bechtel Corporation",
@@ -209,6 +209,13 @@
       "board": "explore",
       "key": "greenhouse:explore",
       "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519892110088137?domain=coloradowfx.gov"
+    },
+    {
+      "company": "Bernard",
+      "ats": "ashby",
+      "board": "bernard",
+      "key": "ashby:bernard",
+      "url": "https://jobs.ashbyhq.com/bernard/1e203000-0ac9-4aaa-bc8c-155b63559ddf"
     },
     {
       "company": "Binance.US",
@@ -407,6 +414,13 @@
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
     },
     {
+      "company": "ClarityPay",
+      "ats": "ashby",
+      "board": "claritypay",
+      "key": "ashby:claritypay",
+      "url": "https://jobs.ashbyhq.com/claritypay/44202c9c-7a07-45d3-81dd-ca18fcb029d3"
+    },
+    {
       "company": "Clark Construction",
       "ats": "workday",
       "board": "clarkexternal",
@@ -510,6 +524,13 @@
       "board": "coram-ai",
       "key": "ashby:coram-ai",
       "url": "https://jobs.ashbyhq.com/coram-ai/5ed49e66-2568-4154-baae-f153fab40dc1"
+    },
+    {
+      "company": "Cornell University",
+      "ats": "workday",
+      "board": "cornellpositions",
+      "key": "workday:cornell.wd1.myworkdayjobs.com/cornellpositions",
+      "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions"
     },
     {
       "company": "Cornell University",
@@ -652,11 +673,25 @@
       "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582"
     },
     {
+      "company": "EverService",
+      "ats": "lever",
+      "board": "rynoss",
+      "key": "lever:rynoss",
+      "url": "https://jobs.lever.co/rynoss/bea13f94-9eeb-4f88-a06a-8598e098ec3c"
+    },
+    {
       "company": "Evolent",
       "ats": "workday",
       "board": "external",
       "key": "workday:evolent.wd1.myworkdayjobs.com/external",
       "url": "https://evolent.wd1.myworkdayjobs.com/external"
+    },
+    {
+      "company": "Extend",
+      "ats": "greenhouse",
+      "board": "extend",
+      "key": "greenhouse:extend",
+      "url": "https://job-boards.greenhouse.io/extend/jobs/6224705004"
     },
     {
       "company": "fal",
@@ -972,6 +1007,13 @@
       "board": "jj",
       "key": "workday:jj.wd5.myworkdayjobs.com/jj",
       "url": "https://jj.wd5.myworkdayjobs.com/jj"
+    },
+    {
+      "company": "Johnson & Johnson",
+      "ats": "workday",
+      "board": "displacedemployees",
+      "key": "workday:jj.wd5.myworkdayjobs.com/displacedemployees",
+      "url": "https://jj.wd5.myworkdayjobs.com/displacedemployees"
     },
     {
       "company": "JPI",
@@ -1294,6 +1336,13 @@
       "board": "par%20technology",
       "key": "ashby:par%20technology",
       "url": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56"
+    },
+    {
+      "company": "Paraform",
+      "ats": "ashby",
+      "board": "paraform",
+      "key": "ashby:paraform",
+      "url": "https://jobs.ashbyhq.com/paraform/9ee0235c-c5cd-4bac-920d-2847a70ea7d4"
     },
     {
       "company": "Parsons",
@@ -1720,7 +1769,7 @@
       "ats": "greenhouse",
       "board": "washington",
       "key": "greenhouse:washington",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5514535-0"
+      "url": "https://www.governmentjobs.com/careers/washington/jobs/5517216-0"
     },
     {
       "company": "Stout",
@@ -1735,6 +1784,13 @@
       "board": "stout-careers",
       "key": "workday:stout.wd5.myworkdayjobs.com/stout-careers",
       "url": "https://stout.wd5.myworkdayjobs.com/stout-careers"
+    },
+    {
+      "company": "Stryker",
+      "ats": "workday",
+      "board": "strykercareers",
+      "key": "workday:stryker.wd1.myworkdayjobs.com/strykercareers",
+      "url": "https://stryker.wd1.myworkdayjobs.com/strykercareers"
     },
     {
       "company": "Stryker",
