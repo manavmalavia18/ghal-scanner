@@ -285,4 +285,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1 | blackrock | Associate, Frontend Software Engineer (React) - SpiderRock Advisors | Chicago, IL | posted: 2026-10-15
 
+- [ ] https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692 | autostore | Software Engineering Coop | Atlanta, GA, USA | posted: 2026-10-15
+
 ## Processed
