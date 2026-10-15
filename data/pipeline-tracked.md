@@ -288,4 +288,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS---Brain-Team--REMOTE-_JR363395 | Salesforce | Software Engineering SMTS - Brain Team (REMOTE) | California - San Francisco | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35 | Thumbtack | Software Engineer, AI/ML Infrastructure | Remote, Ontario · Remote, British Columbia · Victoria · Canada | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b | Thumbtack | Software Engineer, AI/ML Infrastructure (US-Based) | Remote, United States | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/noetik/jobs/4453164009 | NOETIK | ML Engineer | Remote · Remote - US | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/noetik/jobs/4453175009 | NOETIK | Software Engineer, Lab Ops & Automation | San Francisco, CA | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/8285213 | Schonfeld | Software Engineer | New York, New York, United States | posted: 2026-10-15
+
 ## Processed
