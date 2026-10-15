@@ -8278,6 +8278,11 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "SpaceXAI"
+    careers_url: https://job-boards.greenhouse.io/xai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from jobright
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
