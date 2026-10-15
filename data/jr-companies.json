@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T18:24:22.939Z",
+  "fetchedAt": "2026-10-15T18:47:19.384Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 344,
+  "companyCount": 343,
   "companies": [
     {
       "company": "Aaru",
@@ -216,13 +216,6 @@
       "board": "aurora-operations-inc",
       "key": "ashby:aurora-operations-inc",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b"
-    },
-    {
-      "company": "AvidXchange",
-      "ats": "greenhouse",
-      "board": "avidxchangeinc",
-      "key": "greenhouse:avidxchangeinc",
-      "url": "https://job-boards.greenhouse.io/avidxchangeinc/jobs/5256942007"
     },
     {
       "company": "Avis Budget Group",
