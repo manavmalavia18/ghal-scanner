@@ -587,3 +587,5 @@
 - [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | base-power | Software Engineer, Product | Austin, TX | posted: 2026-10-15
 
 - [ ] https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c | kin | Software Engineer, Back-End Focus | Remote (United States) | posted: 2026-10-15
+
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4744268005 | dvtrading | Quantitative Software Engineer (DV Commodities) | New York | posted: 2026-10-15
