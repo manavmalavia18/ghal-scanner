@@ -1,8 +1,8 @@
 {
-  "at": "2026-10-15T06:02:42.001Z",
+  "at": "2026-10-15T06:11:55.239Z",
   "since": 4,
   "exitCode": 0,
-  "elapsedSec": 119,
+  "elapsedSec": 111.1,
   "incomplete": false,
   "mode": "ghal-reverse-actions",
   "ats": [
