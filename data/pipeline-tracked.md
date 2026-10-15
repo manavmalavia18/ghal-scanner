@@ -286,4 +286,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://investure.bamboohr.com/careers/85 | Investure | Software Engineer (Generalist) | Charlottesville, Virginia
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1001664-1 | Capital One | Full-stack Engineer 4 | New York, NY | posted: 2026-10-15
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS---Brain-Team--REMOTE-_JR363395 | Salesforce | Software Engineering SMTS - Brain Team (REMOTE) | California - San Francisco | posted: 2026-10-15
+
 ## Processed
