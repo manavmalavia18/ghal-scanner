@@ -543,3 +543,8 @@
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8889193002 | gitlab | Cloud Platform Engineer | Remote, Canada; Remote, United States | posted: 2026-10-14
 - [ ] https://careers.gofasti.com/job-application/6224954004?gh_jid=6224954004 | gofasti | 1166 - Jr. Web Developer | Remote · BAC | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/extend/jobs/6224705004 | extend | Software Engineer II - Fulfillments Team | Remote · Remote, US | posted: 2026-10-14
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8283735 | doordashusa | Software Engineer, ML Infrastructure (MDX) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236 | openai | Client Platform Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/sirenopt/jobs/4452002009 | sirenopt | Software Engineer (Early Career) – C++ & Systems | San Leandro, California, United States | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8268333 | mozilla | Software Engineer, Firefox Desktop Integrations | Remote Canada | posted: 2026-10-15
