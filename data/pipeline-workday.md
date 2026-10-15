@@ -247,4 +247,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-II--Application-Platform---AI-Services_JR_15302 | guidewire | Software Engineer II, Application Platform - AI Services | United States - San Mateo, CA | posted: 2026-10-15
 - [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935 | dxctechnology | Analyst I Software Engineering | USA - CT - ANY CITY | posted: 2026-10-15
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005 | hpe | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-1 | hpe | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/System---Software-engineer-II_1214005-3 | hpe | System / Software engineer II | Sunnyvale, California, United States of America | posted: 2026-10-15
+- [ ] https://centific.wd1.myworkdayjobs.com/centific_global/job/Remote-Work-Malaysia-Penang/Software-Development-Engineer---Azure-CLI---Azure-PowerShell_JR108534-1 | centific | Software Development Engineer – Azure CLI / Azure PowerShell | Remote Work Malaysia (Penang) | posted: 2026-10-15
+
 ## Processed
