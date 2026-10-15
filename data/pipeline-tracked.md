@@ -264,4 +264,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Site-Reliability-Engineer_100444-1 | Nationwide | Consultant, Site Reliability Engineer | Ohio Columbus Three Nationwide Plaza
 
+- [ ] https://generac.wd5.myworkdayjobs.com/external/job/Holdrege-NE---USA/Software-Engineer-II_JR17101 | Generac | Software Engineer II | Holdrege, NE - USA | posted: 2026-10-15
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-II--Application-Platform---AI-Services_JR_15302 | Guidewire Software | Software Engineer II, Application Platform - AI Services | United States - San Mateo, CA | posted: 2026-10-15
+- [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26100290-1 | Manulife | Full-Stack Software Engineer | 2 Locations | posted: 2026-10-15
+
 ## Processed
