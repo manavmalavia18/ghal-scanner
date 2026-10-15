@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T17:13:31.096Z",
+  "fetchedAt": "2026-10-15T17:35:20.494Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 340,
+  "companyCount": 336,
   "companies": [
     {
       "company": "Aaru",
@@ -489,13 +489,6 @@
       "board": "cloudflare",
       "key": "greenhouse:cloudflare",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392"
-    },
-    {
-      "company": "Cloudflare",
-      "ats": "greenhouse",
-      "board": "careersday",
-      "key": "greenhouse:careersday",
-      "url": "https://boards.greenhouse.io/careersday/jobs/8279026?gh_jid=8279026"
     },
     {
       "company": "Cognition",
@@ -1464,13 +1457,6 @@
       "url": "https://job-boards.greenhouse.io/orenda/jobs/8031471003"
     },
     {
-      "company": "Outset",
-      "ats": "ashby",
-      "board": "outset",
-      "key": "ashby:outset",
-      "url": "https://jobs.ashbyhq.com/outset/18583f35-f1d5-41ad-9924-2bda6f5435ad"
-    },
-    {
       "company": "PacificSource",
       "ats": "workday",
       "board": "pacificsource",
@@ -1672,13 +1658,6 @@
       "board": "redwoodmaterials",
       "key": "greenhouse:redwoodmaterials",
       "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219767004?gh_jid=6219767004"
-    },
-    {
-      "company": "Reflection AI",
-      "ats": "ashby",
-      "board": "reflectionai",
-      "key": "ashby:reflectionai",
-      "url": "https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a"
     },
     {
       "company": "Reply S.p.A.",
@@ -1952,13 +1931,6 @@
       "board": "StrykerCareers",
       "key": "workday:stryker.wd1.myworkdayjobs.com/StrykerCareers",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
-    },
-    {
-      "company": "Substack",
-      "ats": "ashby",
-      "board": "substack",
-      "key": "ashby:substack",
-      "url": "https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097"
     },
     {
       "company": "Synchrony",
