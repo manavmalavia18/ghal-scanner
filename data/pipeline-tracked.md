@@ -304,4 +304,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635 | Boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
 
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4744268005 | DV Trading | Quantitative Software Engineer (DV Commodities) | New York | posted: 2026-10-15
+
 ## Processed
