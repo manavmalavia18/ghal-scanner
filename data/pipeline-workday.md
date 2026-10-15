@@ -243,4 +243,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Platform---Software-Engineer_RQ229857-1 | gdit | Platform / Software Engineer | USA FL MacDill AFB | posted: 2026-10-14
 - [ ] https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/Minnesota-Remote/Software-Engineer-III_R49703 | chrobinson | Software Engineer III | Minnesota Remote | posted: 2026-10-14
 
+- [ ] https://thomsonreuters.wd5.myworkdayjobs.com/external_career_site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer_JREQ204512 | thomsonreuters | Legal AI Engineer | United States of America Eagan Minnesota | posted: 2026-10-15
+- [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-II--Application-Platform---AI-Services_JR_15302 | guidewire | Software Engineer II, Application Platform - AI Services | United States - San Mateo, CA | posted: 2026-10-15
+- [ ] https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935 | dxctechnology | Analyst I Software Engineering | USA - CT - ANY CITY | posted: 2026-10-15
+
 ## Processed
