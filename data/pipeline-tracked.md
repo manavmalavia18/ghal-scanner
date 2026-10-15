@@ -316,4 +316,19 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/base-power/3bc0ab1f-fac8-4390-9c89-471c942725c3 | BASE | Software Engineer, Growth | Austin, TX | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/base-power/ab473247-85f9-4be7-8cd8-da909e7cc9ef | BASE | Full Stack Software Engineer, Growth | Austin, TX | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/watershed/9dd3ca17-baff-4e36-be75-f13a2a919cbc | Watershed | Software engineer, cloud infrastructure | San Francisco | posted: 2026-10-15
+- [ ] https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1 | Costar | Software Engineer I - BizBuySell - San Francisco, CA | US-CA San Francisco | posted: 2026-10-15
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027 | Salesforce | Software Engineering - MTS, Trust Intelligence Platform | California - San Francisco | posted: 2026-10-15
+- [ ] https://truist.wd1.myworkdayjobs.com/careers/job/Atlanta-GA/Software-Engineer---CLOUD_R0118010-1 | Truist | Software Engineer---CLOUD | 2 Locations | posted: 2026-10-15
+- [ ] https://jobs.smartrecruiters.com/sbtglobalinc/3743990016167316 | SBT Global | Full Stack (JAVA) Developer (korean Billinual) | Plano, TX, United States | posted: 2026-10-15
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Front-End-Developer--Dynamic-Ad-Creative_REQ368337 | Tmobile | Front-End Developer, Dynamic Ad Creative | New York, New York | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/cowboyspace/27c35fe2-0227-443a-95bc-6b9504c47a2b | Cowboy Space Corporation | Ground Station Software Engineer | San Carlos, CA or Seattle, WA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/tenex/45512202-a2f6-407f-b9d2-c42d0d8da744 | Tenex | Platform Engineer, AI & Security | San Jose, CA · Sarasota, FL HQ · Sarasota · United States · Kansas City Metro · Overland Park | posted: 2026-10-15
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Ground-Software-Engineer--Mid-Career----Millennium-Space-Systems_JR2026514051 | Boeing | Ground Software Engineer (Mid Career) - Millennium Space Systems | 2 Locations | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8017342003 | Affirm | Software Engineer I, Fullstack (Search) | Remote Canada | posted: 2026-10-15
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5_R1003810 | Capital One | AI Engineer 5 | 4 Locations | posted: 2026-10-15
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169200-1 | HP Inc. | Software Engineer | Austin, Texas, United States of America | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e | Tin Can | Software Engineer, Core Product | Seattle | posted: 2026-10-15
+
 ## Processed
