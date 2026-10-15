@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T04:11:35.941Z",
+  "fetchedAt": "2026-10-15T04:27:49.857Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 279,
+  "companyCount": 283,
   "companies": [
     {
       "company": "Abbott",
@@ -358,6 +358,13 @@
       "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5257377007"
     },
     {
+      "company": "Charles Schwab",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:127893",
+      "url": "https://career-schwab.icims.com/jobs/127893/site-reliability-engineer/job?in_iframe=1"
+    },
+    {
       "company": "Cintal",
       "ats": "greenhouse",
       "board": "cintal",
@@ -461,6 +468,20 @@
       "board": "",
       "key": "greenhouse-id:138095",
       "url": "https://jobs.constellationenergy.com/jobs/138095"
+    },
+    {
+      "company": "Constellation Energy",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:140024",
+      "url": "https://jobs.constellationenergy.com/jobs/140024"
+    },
+    {
+      "company": "Constellation Energy",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:140021",
+      "url": "https://jobs.constellationenergy.com/jobs/140021"
     },
     {
       "company": "Copart",
@@ -860,6 +881,13 @@
       "board": "jabil_careers",
       "key": "workday:jabil.wd5.myworkdayjobs.com/jabil_careers",
       "url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers"
+    },
+    {
+      "company": "Jain Global",
+      "ats": "workday",
+      "board": "externalsite",
+      "key": "workday:jainglobal.wd5.myworkdayjobs.com/externalsite",
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/externalsite"
     },
     {
       "company": "Jain Global",
