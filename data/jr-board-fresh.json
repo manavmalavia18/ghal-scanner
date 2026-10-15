@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T04:27:49.831Z",
+  "fetchedAt": "2026-10-15T05:24:55.846Z",
   "days": 2,
   "leadCount": 86,
-  "jobCount": 55,
+  "jobCount": 72,
   "boards": [
     {
       "key": "greenhouse:headlandstechnologiesllc",
@@ -25,18 +25,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asana",
-      "fetched": 105,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:pronto",
       "fetched": 31,
       "kept": 0
     },
     {
+      "key": "greenhouse:asana",
+      "fetched": 105,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:flexe",
       "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:xai",
+      "fetched": 302,
       "kept": 0
     },
     {
@@ -80,19 +85,39 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:macapital",
-      "fetched": 8,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:aqr",
-      "fetched": 54,
+      "key": "greenhouse:pathstone",
+      "fetched": 27,
       "kept": 0
     },
     {
       "key": "greenhouse:unitedstates",
       "fetched": 4,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:justfoodcompany",
+      "fetched": 5,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:cloudflare",
+      "fetched": 445,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:macapital",
+      "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:graphcore",
+      "fetched": 186,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:gitlab",
+      "fetched": 215,
+      "kept": 1
     },
     {
       "key": "greenhouse:truveta",
@@ -105,28 +130,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:cloudflare",
-      "fetched": 445,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:explore",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:xai",
-      "fetched": 302,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:rubrik",
-      "fetched": 136,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:figureai",
-      "fetched": 97,
+      "key": "greenhouse:aqr",
+      "fetched": 54,
       "kept": 0
     },
     {
@@ -140,8 +150,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sharkninjaoperatingllc",
-      "fetched": 155,
+      "key": "greenhouse:figureai",
+      "fetched": 97,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:motional",
+      "fetched": 80,
       "kept": 0
     },
     {
@@ -160,28 +175,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:clear",
-      "fetched": 61,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:inversionspace",
       "fetched": 85,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:orenda",
-      "fetched": 16,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:motional",
-      "fetched": 80,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:backblaze",
-      "fetched": 30,
       "kept": 0
     },
     {
@@ -190,13 +185,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:horacemannservicecorporation",
-      "fetched": 28,
+      "key": "greenhouse:sharkninjaoperatingllc",
+      "fetched": 155,
       "kept": 0
     },
     {
-      "key": "greenhouse:point72",
-      "fetched": 224,
+      "key": "greenhouse:cssmerge",
+      "fetched": 322,
       "kept": 0
     },
     {
@@ -210,8 +205,13 @@
       "kept": 3
     },
     {
-      "key": "greenhouse:cssmerge",
-      "fetched": 322,
+      "key": "greenhouse:rubrik",
+      "fetched": 136,
+      "kept": 0
+    },
+    {
+      "key": "ashby:etched",
+      "fetched": 116,
       "kept": 0
     },
     {
@@ -220,23 +220,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:etched",
-      "fetched": 116,
+      "key": "ashby:primeintellect",
+      "fetched": 34,
       "kept": 0
-    },
-    {
-      "key": "ashby:lightyear-ai",
-      "fetched": 2,
-      "kept": 1
     },
     {
       "key": "ashby:zus-health",
       "fetched": 7,
-      "kept": 0
-    },
-    {
-      "key": "ashby:super.com",
-      "fetched": 19,
       "kept": 0
     },
     {
@@ -245,23 +235,28 @@
       "kept": 3
     },
     {
+      "key": "ashby:lightyear-ai",
+      "fetched": 2,
+      "kept": 1
+    },
+    {
       "key": "ashby:spectral%20labs",
       "fetched": 11,
       "kept": 1
     },
     {
-      "key": "ashby:upchurch",
-      "fetched": 92,
-      "kept": 0
-    },
-    {
-      "key": "ashby:primeintellect",
-      "fetched": 34,
-      "kept": 0
-    },
-    {
       "key": "ashby:affiniti",
       "fetched": 13,
+      "kept": 0
+    },
+    {
+      "key": "ashby:super.com",
+      "fetched": 19,
+      "kept": 0
+    },
+    {
+      "key": "ashby:skydio",
+      "fetched": 160,
       "kept": 0
     },
     {
@@ -285,9 +280,14 @@
       "kept": 0
     },
     {
-      "key": "ashby:skydio",
-      "fetched": 160,
+      "key": "ashby:upchurch",
+      "fetched": 92,
       "kept": 0
+    },
+    {
+      "key": "ashby:cohere",
+      "fetched": 116,
+      "kept": 1
     },
     {
       "key": "ashby:chainalysis-careers",
@@ -300,16 +300,6 @@
       "kept": 0
     },
     {
-      "key": "ashby:elevenlabs",
-      "fetched": 147,
-      "kept": 9
-    },
-    {
-      "key": "ashby:cohere",
-      "fetched": 116,
-      "kept": 1
-    },
-    {
       "key": "ashby:anysignal",
       "fetched": 22,
       "kept": 1
@@ -320,33 +310,28 @@
       "kept": 0
     },
     {
+      "key": "ashby:elevenlabs",
+      "fetched": 147,
+      "kept": 9
+    },
+    {
       "key": "ashby:sideshift",
       "fetched": 7,
       "kept": 0
     },
     {
       "key": "ashby:snowflake",
-      "fetched": 356,
+      "fetched": 357,
       "kept": 3
     },
     {
-      "key": "lever:plus-2",
-      "fetched": 42,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 458,
+      "kept": 19
     },
     {
       "key": "lever:reply",
       "fetched": 43,
-      "kept": 0
-    },
-    {
-      "key": "lever:crowdhealth",
-      "fetched": 5,
-      "kept": 1
-    },
-    {
-      "key": "lever:cfsenergy",
-      "fetched": 123,
       "kept": 0
     },
     {
@@ -355,13 +340,23 @@
       "kept": 0
     },
     {
-      "key": "lever:primee",
-      "fetched": 58,
+      "key": "lever:crowdhealth",
+      "fetched": 5,
+      "kept": 1
+    },
+    {
+      "key": "lever:plus-2",
+      "fetched": 42,
       "kept": 0
     },
     {
       "key": "lever:rhombus-systems",
       "fetched": 7,
+      "kept": 0
+    },
+    {
+      "key": "lever:cfsenergy",
+      "fetched": 123,
       "kept": 0
     },
     {
@@ -375,19 +370,14 @@
       "kept": 0
     },
     {
-      "key": "lever:thea.energy",
-      "fetched": 52,
-      "kept": 0
-    },
-    {
       "key": "lever:enablecomp",
       "fetched": 18,
       "kept": 1
     },
     {
-      "key": "lever:zoox",
-      "fetched": 239,
-      "kept": 2
+      "key": "lever:thea.energy",
+      "fetched": 52,
+      "kept": 0
     },
     {
       "key": "workday:jpi.wd1.myworkdayjobs.com/jpicareers",
@@ -395,14 +385,19 @@
       "kept": 1
     },
     {
-      "key": "workday:cadence.wd1.myworkdayjobs.com/univ_careers",
-      "fetched": 18,
+      "key": "lever:primee",
+      "fetched": 58,
       "kept": 0
     },
     {
-      "key": "workday:etsy.wd5.myworkdayjobs.com/etsy_careers",
-      "fetched": 20,
-      "kept": 3
+      "key": "lever:zoox",
+      "fetched": 239,
+      "kept": 2
+    },
+    {
+      "key": "workday:cadence.wd1.myworkdayjobs.com/univ_careers",
+      "fetched": 18,
+      "kept": 0
     },
     {
       "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
@@ -410,9 +405,9 @@
       "kept": 1
     },
     {
-      "key": "workday:salesforce.wd12.myworkdayjobs.com/external_career_site",
-      "fetched": 80,
-      "kept": 7
+      "key": "workday:etsy.wd5.myworkdayjobs.com/etsy_careers",
+      "fetched": 20,
+      "kept": 3
     },
     {
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
@@ -425,14 +420,19 @@
       "kept": 2
     },
     {
+      "key": "lever:veeva",
+      "fetched": 952,
+      "kept": 1
+    },
+    {
       "key": "workday:wustl.wd1.myworkdayjobs.com/external",
       "fetched": 80,
       "kept": 0
     },
     {
-      "key": "lever:veeva",
-      "fetched": 952,
-      "kept": 1
+      "key": "workday:salesforce.wd12.myworkdayjobs.com/external_career_site",
+      "fetched": 80,
+      "kept": 7
     }
   ],
   "jobs": [
@@ -455,6 +455,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "asana"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "postedAt": "2026-10-14T22:58:44.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "gitlab"
     },
     {
       "title": "Software Engineer - Security & Trust",
@@ -497,36 +507,6 @@
       "board": "smartasset"
     },
     {
-      "title": "Software Development Engineer I",
-      "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
-      "company": "CLEAR",
-      "location": "Austin, Texas",
-      "postedAt": "2026-10-14T15:12:43.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "clear"
-    },
-    {
-      "title": "Software Development Engineer II",
-      "url": "https://job-boards.greenhouse.io/clear/jobs/8237847",
-      "company": "CLEAR",
-      "location": "Austin, Texas",
-      "postedAt": "2026-10-14T15:12:39.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "clear"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "url": "https://job-boards.greenhouse.io/orenda/jobs/8031471003",
-      "company": "Orenda",
-      "location": "New York, New York, United States",
-      "postedAt": "2026-10-14T14:34:27.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "orenda"
-    },
-    {
       "title": "Data Platform Engineer",
       "url": "https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936",
       "company": "TypeSafe AI",
@@ -567,16 +547,6 @@
       "board": "pursuit"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195",
-      "company": "Lightyear",
-      "location": "United States · Remote",
-      "postedAt": "2026-10-14T19:47:39.199Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "lightyear-ai"
-    },
-    {
       "title": "Software Engineer II, Core Services",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b",
       "company": "Aurora",
@@ -605,6 +575,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "aurora-operations-inc"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195",
+      "company": "Lightyear",
+      "location": "United States · Remote",
+      "postedAt": "2026-10-14T19:47:39.199Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "lightyear-ai"
     },
     {
       "title": "AI Engineer",
@@ -647,6 +627,16 @@
       "board": "mintmcp"
     },
     {
+      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
+      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
+      "company": "Cohere",
+      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
+      "postedAt": "2026-10-13T23:49:23.157Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cohere"
+    },
+    {
       "title": "Software Engineer II, Compliance Core",
       "url": "https://jobs.ashbyhq.com/chainalysis-careers/05ebe657-fb6e-47c0-a8ce-4ac6ac362d2d",
       "company": "Chainalysis",
@@ -655,6 +645,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "chainalysis-careers"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
+      "company": "AnySignal",
+      "location": "Los Angeles, CA",
+      "postedAt": "2026-10-14T00:19:04.536Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "anysignal"
     },
     {
       "title": "Safety Engineer (Back-End Leaning)",
@@ -747,26 +747,6 @@
       "board": "elevenlabs"
     },
     {
-      "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
-      "company": "Cohere",
-      "location": "Toronto · New York · United States · Ottawa · Canada · Montreal · Remote",
-      "postedAt": "2026-10-13T23:49:23.157Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cohere"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.ashbyhq.com/anysignal/7c515375-2210-4675-8673-d1b4afa33724",
-      "company": "AnySignal",
-      "location": "Los Angeles, CA",
-      "postedAt": "2026-10-14T00:19:04.536Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "anysignal"
-    },
-    {
       "title": "Senior Software Engineer - Identity, Data Security and Trust",
       "url": "https://jobs.ashbyhq.com/snowflake/5f731aa9-26a6-4760-8941-9f4aff96864d",
       "company": "Snowflake",
@@ -797,6 +777,196 @@
       "board": "snowflake"
     },
     {
+      "title": "Software Engineer, ML Infrastructure (MDX)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-15T00:31:07.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Software Engineer, Data Engineering",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8193584",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T20:25:14.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, Data Engineering",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192116",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T20:25:08.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Software Engineer, Spark Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8193574",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "postedAt": "2026-10-13T20:22:06.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, Spark Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192190",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "postedAt": "2026-10-13T20:21:25.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, Data Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191886",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "postedAt": "2026-10-13T20:21:23.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, Data and AI Platform",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192187",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "postedAt": "2026-10-13T20:21:21.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Software Engineer, iOS",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8139094",
+      "company": "DoorDash",
+      "location": "San Francisco, CA ; Sunnyvale, CA",
+      "postedAt": "2026-10-13T18:32:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, iOS",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
+      "company": "DoorDash",
+      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
+      "postedAt": "2026-10-13T18:31:02.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineering, Android (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8161616",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T17:59:20.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Staff Software Engineer, Machine Learning",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8092262",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T17:49:36.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Drive",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8221807",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T17:42:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Software Engineer, Machine Learning",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8143205",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York, NY; Seattle, WA",
+      "postedAt": "2026-10-13T17:38:25.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, New Verticals Agentic Foundations",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8279145",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; NewYork, NY",
+      "postedAt": "2026-10-13T17:38:05.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Staff Machine Learning Engineer, Personalization",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8225006",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "postedAt": "2026-10-13T17:31:26.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Staff Machine Learning Engineer, Fulfillment Planning",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8224336",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "postedAt": "2026-10-13T17:30:37.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Software Engineer, Backend (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8138486",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T16:20:51.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Senior Software Engineer, Backend (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8136498",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T16:20:45.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
+      "title": "Staff Software Engineering, Backend (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8084453",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; New York, NY;  Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-13T16:20:38.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
       "title": "Software Engineer, AI & Data",
       "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
       "company": "CrowdHealth",
@@ -815,6 +985,17 @@
       "salary": "",
       "ats": "Lever",
       "board": "enablecomp"
+    },
+    {
+      "title": "AI Engineer",
+      "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/AI-Engineer_JR101441",
+      "company": "JPI",
+      "location": "Dallas Office",
+      "postedAt": "2026-10-14T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "jpicareers",
+      "postedAtSource": "workday-detail"
     },
     {
       "title": "Senior Software Development Engineer in Test",
@@ -837,14 +1018,14 @@
       "board": "zoox"
     },
     {
-      "title": "AI Engineer",
-      "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/AI-Engineer_JR101441",
-      "company": "JPI",
-      "location": "Dallas Office",
+      "title": "Software Engineer, Business Applications - Information Technology",
+      "url": "https://stout.wd5.myworkdayjobs.com/stout-experienced-careers/job/Detroit-MI/Software-Engineer--Business-Applications---Information-Technology_r2220",
+      "company": "Stout",
+      "location": "Detroit MI",
       "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
-      "board": "jpicareers",
+      "board": "stout-experienced-careers",
       "postedAtSource": "workday-detail"
     },
     {
@@ -881,15 +1062,36 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Software Engineer, Business Applications - Information Technology",
-      "url": "https://stout.wd5.myworkdayjobs.com/stout-experienced-careers/job/Detroit-MI/Software-Engineer--Business-Applications---Information-Technology_r2220",
-      "company": "Stout",
-      "location": "Detroit MI",
+      "title": "Software Engineer (Hybrid, Brentwood, NY or NYC)",
+      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Software-Engineer--Hybrid--Brentwood--NY-or-NYC-_JR1086526",
+      "company": "Broadridge",
+      "location": "2 Locations",
       "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
-      "board": "stout-experienced-careers",
+      "board": "careers",
       "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Director of Engineering Integrated Platform | Platform Engineering, SRE & DevOps",
+      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Global-Manager-of-Site-Reliability-Engineering--Hybrid---Flexible-Options-_JR1085943",
+      "company": "Broadridge",
+      "location": "3 Locations",
+      "postedAt": "2026-10-13T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Associate DevOps Engineer",
+      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-13T18:10:04.637Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
     },
     {
       "title": "Software Engineering AMTS (College Grad)",
@@ -967,38 +1169,6 @@
       "ats": "Workday",
       "board": "external_career_site",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Software Engineer (Hybrid, Brentwood, NY or NYC)",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Software-Engineer--Hybrid--Brentwood--NY-or-NYC-_JR1086526",
-      "company": "Broadridge",
-      "location": "2 Locations",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Director of Engineering Integrated Platform | Platform Engineering, SRE & DevOps",
-      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Global-Manager-of-Site-Reliability-Engineering--Hybrid---Flexible-Options-_JR1085943",
-      "company": "Broadridge",
-      "location": "3 Locations",
-      "postedAt": "2026-10-13T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Associate DevOps Engineer",
-      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
-      "company": "Veeva Systems",
-      "location": "Massachusetts - Boston",
-      "postedAt": "2026-10-13T18:10:04.637Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "veeva"
     }
   ],
   "leadSources": [

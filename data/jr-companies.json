@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T04:27:49.857Z",
+  "fetchedAt": "2026-10-15T05:24:55.861Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 283,
+  "companyCount": 301,
   "companies": [
     {
       "company": "Abbott",
@@ -34,6 +34,13 @@
       "board": "affiniti",
       "key": "ashby:affiniti",
       "url": "https://jobs.ashbyhq.com/affiniti/f6ce54d4-3b11-41bc-95c0-f3a62bea434c"
+    },
+    {
+      "company": "Agilent Technologies",
+      "ats": "workday",
+      "board": "agilent_careers",
+      "key": "workday:agilent.wd5.myworkdayjobs.com/agilent_careers",
+      "url": "https://agilent.wd5.myworkdayjobs.com/agilent_careers"
     },
     {
       "company": "AIM Intelligent Machines Inc.",
@@ -372,6 +379,13 @@
       "url": "https://ats.rippling.com/cintal/jobs/99650597-3def-40d1-b8e1-243ee99ff3da"
     },
     {
+      "company": "Cisco",
+      "ats": "workday",
+      "board": "cisco_careers",
+      "key": "workday:cisco.wd5.myworkdayjobs.com/cisco_careers",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers"
+    },
+    {
       "company": "City of Malibu",
       "ats": "greenhouse",
       "board": "malibucity",
@@ -530,7 +544,7 @@
       "ats": "greenhouse",
       "board": "doordashusa",
       "key": "greenhouse:doordashusa",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192116"
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735"
     },
     {
       "company": "DRW",
@@ -552,6 +566,13 @@
       "board": "",
       "key": "greenhouse-id:6222814004",
       "url": "https://etechgroup.com/careers-list?gh_jid=6222814004"
+    },
+    {
+      "company": "Eat Just",
+      "ats": "greenhouse",
+      "board": "justfoodcompany",
+      "key": "greenhouse:justfoodcompany",
+      "url": "https://job-boards.greenhouse.io/justfoodcompany/jobs/5453409008"
     },
     {
       "company": "Eka Robotics",
@@ -652,6 +673,13 @@
       "url": "https://rb.wd5.myworkdayjobs.com/picfrs"
     },
     {
+      "company": "Ferrovial",
+      "ats": "workday",
+      "board": "ferrovial_career_site",
+      "key": "workday:ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site",
+      "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site"
+    },
+    {
       "company": "Figma",
       "ats": "greenhouse",
       "board": "figma",
@@ -708,11 +736,32 @@
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite"
     },
     {
+      "company": "Generac",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:generac.wd5.myworkdayjobs.com/external",
+      "url": "https://generac.wd5.myworkdayjobs.com/external"
+    },
+    {
       "company": "General Motors",
       "ats": "workday",
       "board": "careers_gm",
       "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm"
+    },
+    {
+      "company": "GitLab",
+      "ats": "greenhouse",
+      "board": "gitlab",
+      "key": "greenhouse:gitlab",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002"
+    },
+    {
+      "company": "Graphcore",
+      "ats": "greenhouse",
+      "board": "graphcore",
+      "key": "greenhouse:graphcore",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8890044002"
     },
     {
       "company": "Guidehouse",
@@ -727,6 +776,13 @@
       "board": "guidepointsecurity",
       "key": "greenhouse:guidepointsecurity",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=guidepointsecurity&token=6212201004"
+    },
+    {
+      "company": "Guidewire Software",
+      "ats": "workday",
+      "board": "external",
+      "key": "workday:guidewire.wd5.myworkdayjobs.com/external",
+      "url": "https://guidewire.wd5.myworkdayjobs.com/external"
     },
     {
       "company": "Gundersen Health System",
@@ -876,6 +932,20 @@
       "url": "https://ionq.com/job?gh_jid=6223597004"
     },
     {
+      "company": "Itron",
+      "ats": "workday",
+      "board": "itron",
+      "key": "workday:itron.wd5.myworkdayjobs.com/itron",
+      "url": "https://itron.wd5.myworkdayjobs.com/itron"
+    },
+    {
+      "company": "Itron",
+      "ats": "workday",
+      "board": "early_careers",
+      "key": "workday:itron.wd5.myworkdayjobs.com/early_careers",
+      "url": "https://itron.wd5.myworkdayjobs.com/early_careers"
+    },
+    {
       "company": "Jabil",
       "ats": "workday",
       "board": "jabil_careers",
@@ -974,6 +1044,13 @@
       "url": "https://job-boards.greenhouse.io/levanta/jobs/5453079008"
     },
     {
+      "company": "Light & Wonder",
+      "ats": "workday",
+      "board": "lightwonderexternalcareers",
+      "key": "workday:lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers",
+      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers"
+    },
+    {
       "company": "Lightyear",
       "ats": "ashby",
       "board": "lightyear-ai",
@@ -1021,6 +1098,13 @@
       "board": "macapital",
       "key": "greenhouse:macapital",
       "url": "https://job-boards.eu.greenhouse.io/macapital/jobs/5006533101"
+    },
+    {
+      "company": "Manulife",
+      "ats": "workday",
+      "board": "mfcjh_jobs",
+      "key": "workday:manulife.wd3.myworkdayjobs.com/mfcjh_jobs",
+      "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs"
     },
     {
       "company": "Microchip Technology",
@@ -1128,6 +1212,13 @@
       "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4449206009"
     },
     {
+      "company": "Nissan",
+      "ats": "workday",
+      "board": "nissanjobs",
+      "key": "workday:alliance.wd3.myworkdayjobs.com/nissanjobs",
+      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs"
+    },
+    {
       "company": "NTT DATA AIVista",
       "ats": "ashby",
       "board": "ntt-data-aivista",
@@ -1217,6 +1308,13 @@
       "board": "",
       "key": "greenhouse-id:8014644003",
       "url": "https://partnerize.com/company/jobs/?gh_jid=8014644003"
+    },
+    {
+      "company": "Pathstone",
+      "ats": "greenhouse",
+      "board": "pathstone",
+      "key": "greenhouse:pathstone",
+      "url": "https://job-boards.greenhouse.io/pathstone/jobs/4722144006"
     },
     {
       "company": "Peak Energy",
@@ -1394,6 +1492,13 @@
       "url": "https://rosendin.wd1.myworkdayjobs.com/careers"
     },
     {
+      "company": "Royal Philips",
+      "ats": "workday",
+      "board": "jobs-and-careers",
+      "key": "workday:philips.wd3.myworkdayjobs.com/jobs-and-careers",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+    },
+    {
       "company": "RTX",
       "ats": "workday",
       "board": "rec_rtx_ext_gateway",
@@ -1415,11 +1520,32 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site"
     },
     {
+      "company": "Salesforce",
+      "ats": "workday",
+      "board": "futureforce_internships",
+      "key": "workday:salesforce.wd12.myworkdayjobs.com/futureforce_internships",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships"
+    },
+    {
       "company": "Samsung Electronics",
       "ats": "workday",
       "board": "samsung_careers",
       "key": "workday:sec.wd3.myworkdayjobs.com/samsung_careers",
       "url": "https://sec.wd3.myworkdayjobs.com/samsung_careers"
+    },
+    {
+      "company": "Sandvik",
+      "ats": "workday",
+      "board": "sigmanest-jobs",
+      "key": "workday:sandvik.wd3.myworkdayjobs.com/sigmanest-jobs",
+      "url": "https://sandvik.wd3.myworkdayjobs.com/sigmanest-jobs"
+    },
+    {
+      "company": "Sandvik",
+      "ats": "workday",
+      "board": "sandvik-jobs",
+      "key": "workday:sandvik.wd3.myworkdayjobs.com/sandvik-jobs",
+      "url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs"
     },
     {
       "company": "Schneider Electric",
