@@ -262,4 +262,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514 | medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
 - [ ] https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R79514-1 | medtronic | Prin Software Engineer | 3 Locations | posted: 2026-10-15
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Engineer_REF089009W | visa | Software Engineer | US - Denver, CO | posted: 2026-10-15
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-LMTS---AI-Core--REMOTE-_JR363384 | salesforce | Software Engineering LMTS - AI Core (REMOTE) | California - San Francisco | posted: 2026-10-15
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1001664-1 | capitalone | Full-stack Engineer 4 | New York, NY | posted: 2026-10-15
+- [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946 | amgen | Full Stack Software Engineer | 2 Locations | posted: 2026-10-15
+
 ## Processed
