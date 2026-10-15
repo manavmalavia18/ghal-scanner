@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T19:53:57.731Z",
+  "fetchedAt": "2026-10-15T20:15:23.020Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 339,
+  "companyCount": 330,
   "companies": [
     {
       "company": "Aaru",
@@ -169,13 +169,6 @@
       "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite"
     },
     {
-      "company": "Armadin",
-      "ats": "ashby",
-      "board": "armadin",
-      "key": "ashby:armadin",
-      "url": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b"
-    },
-    {
       "company": "Asana",
       "ats": "greenhouse",
       "board": "asana",
@@ -314,13 +307,6 @@
       "board": "brainco",
       "key": "ashby:brainco",
       "url": "https://jobs.ashbyhq.com/brainco/4866bc74-52fa-4819-a9d0-3a5e73c31951/application"
-    },
-    {
-      "company": "Bridgeway Benefit Technologies",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8886076002",
-      "url": "https://www.bridgewaybentech.com/job-posting?gh_jid=8886076002"
     },
     {
       "company": "Bright Horizons",
@@ -904,13 +890,6 @@
       "url": "https://job-boards.greenhouse.io/graphcore/jobs/8890044002"
     },
     {
-      "company": "GuidePoint Security",
-      "ats": "greenhouse",
-      "board": "guidepointsecurity",
-      "key": "greenhouse:guidepointsecurity",
-      "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6223478004?gh_jid=6223478004"
-    },
-    {
       "company": "Guidewire Software",
       "ats": "workday",
       "board": "external",
@@ -1205,13 +1184,6 @@
       "url": "https://jobs.ashbyhq.com/langchain/b47dbcea-222c-427d-bf4d-9e30a6b60d4a/application"
     },
     {
-      "company": "LatchBio",
-      "ats": "ashby",
-      "board": "latchbio",
-      "key": "ashby:latchbio",
-      "url": "https://jobs.ashbyhq.com/latchbio/57fcf84e-36c3-4684-9a80-9d96661b096e"
-    },
-    {
       "company": "Latent Health",
       "ats": "ashby",
       "board": "latent",
@@ -1455,13 +1427,6 @@
       "board": "novacredit",
       "key": "greenhouse:novacredit",
       "url": "https://job-boards.greenhouse.io/novacredit/jobs/4450422009"
-    },
-    {
-      "company": "Nuix",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8541523",
-      "url": "https://careers.nuix.com/jobs/8541523-software-engineer"
     },
     {
       "company": "Nuro",
@@ -1779,13 +1744,6 @@
       "url": "https://careers.se.com/jobs/137743?lang=en-us"
     },
     {
-      "company": "Schneider Electric",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:137765",
-      "url": "https://careers.se.com/jobs/137765?lang=en-us"
-    },
-    {
       "company": "Schonfeld",
       "ats": "greenhouse",
       "board": "schonfeld",
@@ -1819,20 +1777,6 @@
       "board": "",
       "key": "greenhouse-id:744000155364528",
       "url": "https://careers.servicenow.com/jobs/744000155364528/software-engineer/"
-    },
-    {
-      "company": "ServiceNow",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:744000155345889",
-      "url": "https://careers.servicenow.com/jobs/744000155345889/ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors/"
-    },
-    {
-      "company": "ServiceNow",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:744000155345689",
-      "url": "https://careers.servicenow.com/jobs/744000155345689/ai-engineering-software-engineer-internships-summer-2027-masters/"
     },
     {
       "company": "SharkNinja",
@@ -2274,13 +2218,6 @@
       "board": "",
       "key": "greenhouse-id:4244322",
       "url": "https://weci.applicantpro.com/jobs/4244322"
-    },
-    {
-      "company": "WHOOP",
-      "ats": "ashby",
-      "board": "whoop",
-      "key": "ashby:whoop",
-      "url": "https://jobs.ashbyhq.com/whoop/422da18d-adfc-41d7-ad01-d3e001250e86"
     },
     {
       "company": "Widget Factory",
