@@ -1,54 +1,24 @@
 {
-  "at": "2026-10-15T16:40:37.605Z",
-  "leadsScanned": 1994,
-  "totalBoardsKnown": 871,
-  "alreadyTracked": 862,
-  "newlyPromoted": 9,
+  "at": "2026-10-15T17:24:06.343Z",
+  "leadsScanned": 2021,
+  "totalBoardsKnown": 874,
+  "alreadyTracked": 871,
+  "newlyPromoted": 3,
   "newBoards": [
     {
-      "name": "ChipAgents",
-      "careers_url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
+      "name": "Aaru",
+      "careers_url": "https://jobs.ashbyhq.com/aaru",
       "provider": "ashby"
     },
     {
-      "name": "Clair",
-      "careers_url": "https://jobs.ashbyhq.com/clair",
+      "name": "Cyberhaven",
+      "careers_url": "https://jobs.ashbyhq.com/cyberhaven",
       "provider": "ashby"
     },
     {
-      "name": "Crux",
-      "careers_url": "https://jobs.ashbyhq.com/cruxclimate",
-      "provider": "ashby"
-    },
-    {
-      "name": "Humanoid",
-      "careers_url": "https://jobs.ashbyhq.com/humanoid",
-      "provider": "ashby"
-    },
-    {
-      "name": "Mintlify",
-      "careers_url": "https://jobs.ashbyhq.com/Mintlify",
-      "provider": "ashby"
-    },
-    {
-      "name": "Moxie",
-      "careers_url": "https://jobs.ashbyhq.com/Moxie",
-      "provider": "ashby"
-    },
-    {
-      "name": "Neara",
-      "careers_url": "https://jobs.ashbyhq.com/neara",
-      "provider": "ashby"
-    },
-    {
-      "name": "Salient",
-      "careers_url": "https://jobs.ashbyhq.com/salient",
-      "provider": "ashby"
-    },
-    {
-      "name": "Lee Company",
-      "careers_url": "https://leecompany.wd1.myworkdayjobs.com/leecompany",
-      "provider": "workday"
+      "name": "Telnyx",
+      "careers_url": "https://job-boards.greenhouse.io/telnyx54",
+      "provider": "greenhouse"
     }
   ]
 }

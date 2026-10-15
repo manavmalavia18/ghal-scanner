@@ -8403,6 +8403,21 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Aaru"
+    careers_url: https://jobs.ashbyhq.com/aaru
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cyberhaven"
+    careers_url: https://jobs.ashbyhq.com/cyberhaven
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Telnyx"
+    careers_url: https://job-boards.greenhouse.io/telnyx54
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
