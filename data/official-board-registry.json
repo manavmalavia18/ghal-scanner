@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T21:43:42.299Z",
+  "generatedAt": "2026-10-15T00:08:02.450Z",
   "boardCount": 773,
-  "candidateCount": 90,
-  "acceptedCount": 683,
-  "alreadyTrackedCount": 755,
+  "candidateCount": 72,
+  "acceptedCount": 701,
+  "alreadyTrackedCount": 773,
   "boards": [
     {
       "key": "ashby:8090 solutions inc",
@@ -14552,7 +14552,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14840,7 +14840,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -14888,7 +14888,7 @@
       "firstSeenAt": "2026-10-14T21:09:07.419Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15008,7 +15008,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15272,7 +15272,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15344,7 +15344,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15392,7 +15392,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15830,7 +15830,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -15932,7 +15932,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -16269,7 +16269,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -16629,7 +16629,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17061,7 +17061,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17187,7 +17187,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -17451,7 +17451,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -18195,7 +18195,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -18771,7 +18771,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -18891,7 +18891,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
@@ -19011,7 +19011,7 @@
       "firstSeenAt": "2026-10-14T21:33:49.954Z",
       "lastSeenAt": "2026-10-14T21:33:49.954Z",
       "state": "accepted",
-      "alreadyTracked": false,
+      "alreadyTracked": true,
       "verification": {
         "status": "not_checked"
       }
