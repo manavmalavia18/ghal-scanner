@@ -8163,6 +8163,76 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Graphcore"
+    careers_url: https://job-boards.greenhouse.io/graphcore
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Eat Just"
+    careers_url: https://job-boards.greenhouse.io/justfoodcompany
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pathstone"
+    careers_url: https://job-boards.greenhouse.io/pathstone
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Agilent Technologies"
+    careers_url: https://agilent.wd5.myworkdayjobs.com/agilent_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ferrovial"
+    careers_url: https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Generac"
+    careers_url: https://generac.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Guidewire Software"
+    careers_url: https://guidewire.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Itron"
+    careers_url: https://itron.wd5.myworkdayjobs.com/early_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Itron"
+    careers_url: https://itron.wd5.myworkdayjobs.com/itron
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Manulife"
+    careers_url: https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Royal Philips"
+    careers_url: https://philips.wd3.myworkdayjobs.com/jobs-and-careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Salesforce"
+    careers_url: https://salesforce.wd12.myworkdayjobs.com/futureforce_internships
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sandvik"
+    careers_url: https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sandvik"
+    careers_url: https://sandvik.wd3.myworkdayjobs.com/sigmanest-jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

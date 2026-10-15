@@ -1,8 +1,79 @@
 {
-  "at": "2026-10-15T04:13:32.121Z",
-  "leadsScanned": 1939,
-  "totalBoardsKnown": 809,
-  "alreadyTracked": 809,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-15T04:44:33.433Z",
+  "leadsScanned": 1978,
+  "totalBoardsKnown": 826,
+  "alreadyTracked": 812,
+  "newlyPromoted": 14,
+  "newBoards": [
+    {
+      "name": "Graphcore",
+      "careers_url": "https://job-boards.greenhouse.io/graphcore",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Eat Just",
+      "careers_url": "https://job-boards.greenhouse.io/justfoodcompany",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Pathstone",
+      "careers_url": "https://job-boards.greenhouse.io/pathstone",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Agilent Technologies",
+      "careers_url": "https://agilent.wd5.myworkdayjobs.com/agilent_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Ferrovial",
+      "careers_url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site",
+      "provider": "workday"
+    },
+    {
+      "name": "Generac",
+      "careers_url": "https://generac.wd5.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "Guidewire Software",
+      "careers_url": "https://guidewire.wd5.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "Itron",
+      "careers_url": "https://itron.wd5.myworkdayjobs.com/early_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Itron",
+      "careers_url": "https://itron.wd5.myworkdayjobs.com/itron",
+      "provider": "workday"
+    },
+    {
+      "name": "Manulife",
+      "careers_url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Royal Philips",
+      "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships",
+      "provider": "workday"
+    },
+    {
+      "name": "Sandvik",
+      "careers_url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs",
+      "provider": "workday"
+    },
+    {
+      "name": "Sandvik",
+      "careers_url": "https://sandvik.wd3.myworkdayjobs.com/sigmanest-jobs",
+      "provider": "workday"
+    }
+  ]
 }
