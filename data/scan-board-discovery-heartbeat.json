@@ -1,8 +1,44 @@
 {
-  "at": "2026-10-15T18:08:05.758Z",
-  "leadsScanned": 1993,
-  "totalBoardsKnown": 873,
-  "alreadyTracked": 873,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-15T18:41:22.487Z",
+  "leadsScanned": 2055,
+  "totalBoardsKnown": 881,
+  "alreadyTracked": 874,
+  "newlyPromoted": 7,
+  "newBoards": [
+    {
+      "name": "LG Energy Solution Arizona",
+      "careers_url": "https://job-boards.greenhouse.io/lgenergyaz",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "AstraZeneca",
+      "careers_url": "https://astrazeneca.wd3.myworkdayjobs.com/careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Cadence Design Systems",
+      "careers_url": "https://cadence.wd1.myworkdayjobs.com/external_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Freudenberg",
+      "careers_url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group",
+      "provider": "workday"
+    },
+    {
+      "name": "Haleon",
+      "careers_url": "https://gsknch.wd3.myworkdayjobs.com/gskcareers",
+      "provider": "workday"
+    },
+    {
+      "name": "Miami University",
+      "careers_url": "https://miamioh.wd5.myworkdayjobs.com/miamioh-staff",
+      "provider": "workday"
+    },
+    {
+      "name": "Amentum",
+      "careers_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers",
+      "provider": "workday"
+    }
+  ]
 }

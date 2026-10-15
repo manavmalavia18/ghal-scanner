@@ -8418,6 +8418,41 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "LG Energy Solution Arizona"
+    careers_url: https://job-boards.greenhouse.io/lgenergyaz
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AstraZeneca"
+    careers_url: https://astrazeneca.wd3.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cadence Design Systems"
+    careers_url: https://cadence.wd1.myworkdayjobs.com/external_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Freudenberg"
+    careers_url: https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Haleon"
+    careers_url: https://gsknch.wd3.myworkdayjobs.com/gskcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Miami University"
+    careers_url: https://miamioh.wd5.myworkdayjobs.com/miamioh-staff
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Amentum"
+    careers_url: https://pae.wd1.myworkdayjobs.com/amentum_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
