@@ -552,3 +552,5 @@
 - [ ] https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4 | cursor | Software Engineer, Model Lifecycle and Signals | New York · San Francisco · United States | posted: 2026-10-15
 
 - [ ] https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89 | abby-care | Applied AI Engineer | San Francisco | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/apex-technology-inc/4cabd6f4-8b6e-48cc-9554-5943c1df04bb | apex-technology-inc | Flight Software Engineer | Los Angeles | posted: 2026-10-15
