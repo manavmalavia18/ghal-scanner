@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T17:35:20.494Z",
+  "fetchedAt": "2026-10-15T17:58:14.318Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 336,
+  "companyCount": 330,
   "companies": [
     {
       "company": "Aaru",
@@ -377,13 +377,6 @@
       "board": "cmu",
       "key": "workday:cmu.wd115.myworkdayjobs.com/cmu",
       "url": "https://cmu.wd115.myworkdayjobs.com/cmu"
-    },
-    {
-      "company": "Cayuse",
-      "ats": "greenhouse",
-      "board": "cayuse",
-      "key": "greenhouse:cayuse",
-      "url": "https://job-boards.greenhouse.io/cayuse/jobs/8885769002"
     },
     {
       "company": "Cboe Global Markets",
@@ -1408,13 +1401,6 @@
       "url": "https://job-boards.greenhouse.io/novacredit/jobs/4450422009"
     },
     {
-      "company": "NTT DATA AIVista",
-      "ats": "ashby",
-      "board": "ntt-data-aivista",
-      "key": "ashby:ntt-data-aivista",
-      "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991"
-    },
-    {
       "company": "Nuix",
       "ats": "greenhouse",
       "board": "",
@@ -1476,13 +1462,6 @@
       "board": "panera_careers",
       "key": "workday:panerabread.wd5.myworkdayjobs.com/panera_careers",
       "url": "https://panerabread.wd5.myworkdayjobs.com/panera_careers"
-    },
-    {
-      "company": "PAR Technology",
-      "ats": "ashby",
-      "board": "par%20technology",
-      "key": "ashby:par%20technology",
-      "url": "https://jobs.ashbyhq.com/par%20technology/cec2db23-b91d-42a6-9b8f-043c773faf56"
     },
     {
       "company": "Paraform",
@@ -1560,13 +1539,6 @@
       "board": "point72",
       "key": "greenhouse:point72",
       "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
-    },
-    {
-      "company": "Pramaana Labs",
-      "ats": "ashby",
-      "board": "pramaana-labs",
-      "key": "ashby:pramaana-labs",
-      "url": "https://jobs.ashbyhq.com/pramaana-labs/6b6893c8-3d96-401f-a90f-e30261bec259"
     },
     {
       "company": "Prime Electric",
@@ -1651,13 +1623,6 @@
       "board": "recall",
       "key": "ashby:recall",
       "url": "https://jobs.ashbyhq.com/recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338"
-    },
-    {
-      "company": "Redwood Materials",
-      "ats": "greenhouse",
-      "board": "redwoodmaterials",
-      "key": "greenhouse:redwoodmaterials",
-      "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6219767004?gh_jid=6219767004"
     },
     {
       "company": "Reply S.p.A.",
@@ -2337,13 +2302,6 @@
       "board": "terminated_layoff_external_career_site",
       "key": "workday:yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site",
       "url": "https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site"
-    },
-    {
-      "company": "Zefr",
-      "ats": "ashby",
-      "board": "zefr",
-      "key": "ashby:zefr",
-      "url": "https://jobs.ashbyhq.com/zefr/2e63eeac-1d66-4cd2-b3c5-a40aaaf5e844"
     },
     {
       "company": "Zoox",
