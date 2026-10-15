@@ -255,4 +255,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/Chicago/Manager--Power-Platform---Modern-Front-End-Engineering_JR120646-1 | rsm | Supervisor, D365 CE & Power Platform Engineering | 6 Locations | posted: 2026-10-15
 - [ ] https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Remote-Illinois/AI-Engineer_REQ-2026-2441 | directsupply | AI Engineer | Remote Illinois | posted: 2026-10-15
 
+- [ ] https://workday.wd5.myworkdayjobs.com/workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0109889 | workday | Software Development Engineer | USA, CA, Pleasanton | posted: 2026-10-15
+- [ ] https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Correspondent-Software-Engineer-II_R-05724 | southstatebank | Correspondent Software Engineer II (Remote) | 2 Locations | posted: 2026-10-15
+- [ ] https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-India/Software-Engineer-III_R0017634 | astreya | Software Engineer III | Remote, India | posted: 2026-10-15
+
 ## Processed
