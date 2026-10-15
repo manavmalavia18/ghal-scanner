@@ -8358,6 +8358,51 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "ChipAgents"
+    careers_url: https://jobs.ashbyhq.com/alpha-design-ai-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Clair"
+    careers_url: https://jobs.ashbyhq.com/clair
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Crux"
+    careers_url: https://jobs.ashbyhq.com/cruxclimate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Humanoid"
+    careers_url: https://jobs.ashbyhq.com/humanoid
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Mintlify"
+    careers_url: https://jobs.ashbyhq.com/Mintlify
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Moxie"
+    careers_url: https://jobs.ashbyhq.com/Moxie
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Neara"
+    careers_url: https://jobs.ashbyhq.com/neara
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Salient"
+    careers_url: https://jobs.ashbyhq.com/salient
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Lee Company"
+    careers_url: https://leecompany.wd1.myworkdayjobs.com/leecompany
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

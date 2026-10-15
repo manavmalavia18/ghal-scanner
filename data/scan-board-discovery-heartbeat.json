@@ -1,73 +1,53 @@
 {
-  "at": "2026-10-15T15:56:07.654Z",
-  "leadsScanned": 1974,
-  "totalBoardsKnown": 863,
-  "alreadyTracked": 850,
-  "newlyPromoted": 13,
+  "at": "2026-10-15T16:40:37.605Z",
+  "leadsScanned": 1994,
+  "totalBoardsKnown": 871,
+  "alreadyTracked": 862,
+  "newlyPromoted": 9,
   "newBoards": [
     {
-      "name": "Ghost",
-      "careers_url": "https://jobs.ashbyhq.com/ghost",
+      "name": "ChipAgents",
+      "careers_url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
       "provider": "ashby"
     },
     {
-      "name": "Thumbtack",
-      "careers_url": "https://jobs.ashbyhq.com/thumbtack",
+      "name": "Clair",
+      "careers_url": "https://jobs.ashbyhq.com/clair",
       "provider": "ashby"
     },
     {
-      "name": "NOETIK",
-      "careers_url": "https://job-boards.greenhouse.io/noetik",
-      "provider": "greenhouse"
+      "name": "Crux",
+      "careers_url": "https://jobs.ashbyhq.com/cruxclimate",
+      "provider": "ashby"
     },
     {
-      "name": "Nova Credit",
-      "careers_url": "https://job-boards.greenhouse.io/novacredit",
-      "provider": "greenhouse"
+      "name": "Humanoid",
+      "careers_url": "https://jobs.ashbyhq.com/humanoid",
+      "provider": "ashby"
     },
     {
-      "name": "Re:Build Manufacturing",
-      "careers_url": "https://job-boards.greenhouse.io/rebuildmanufacturing",
-      "provider": "greenhouse"
+      "name": "Mintlify",
+      "careers_url": "https://jobs.ashbyhq.com/Mintlify",
+      "provider": "ashby"
     },
     {
-      "name": "Schonfeld",
-      "careers_url": "https://job-boards.greenhouse.io/schonfeld",
-      "provider": "greenhouse"
+      "name": "Moxie",
+      "careers_url": "https://jobs.ashbyhq.com/Moxie",
+      "provider": "ashby"
     },
     {
-      "name": "Tusker",
-      "careers_url": "https://jobs.lever.co/tusker",
-      "provider": "lever"
+      "name": "Neara",
+      "careers_url": "https://jobs.ashbyhq.com/neara",
+      "provider": "ashby"
     },
     {
-      "name": "The Aspen Group",
-      "careers_url": "https://aspendental.wd1.myworkdayjobs.com/careers_the_aspen_group",
-      "provider": "workday"
+      "name": "Salient",
+      "careers_url": "https://jobs.ashbyhq.com/salient",
+      "provider": "ashby"
     },
     {
-      "name": "Viridien",
-      "careers_url": "https://cgg.wd103.myworkdayjobs.com/viridienfairs",
-      "provider": "workday"
-    },
-    {
-      "name": "Cambridge Investment Research",
-      "careers_url": "https://cir.wd108.myworkdayjobs.com/cir_external_career_site",
-      "provider": "workday"
-    },
-    {
-      "name": "HP Inc.",
-      "careers_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
-      "provider": "workday"
-    },
-    {
-      "name": "PJM Interconnection",
-      "careers_url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers",
-      "provider": "workday"
-    },
-    {
-      "name": "QTS Data Centers",
-      "careers_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts",
+      "name": "Lee Company",
+      "careers_url": "https://leecompany.wd1.myworkdayjobs.com/leecompany",
       "provider": "workday"
     }
   ]
