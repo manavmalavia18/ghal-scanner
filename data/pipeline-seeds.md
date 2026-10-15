@@ -517,4 +517,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/5007070101 | moniepoint | Site Reliability Engineer | Remote, Pakistan | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6225257004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3 | quora | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/melotech/beb62652-69c6-4d32-86ce-1ad38b63a0df | melotech | AI/ML Engineer | Berlin · New York · New York City · United States · London · UK · Remote | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/melotech/a7d99ee2-75fe-4a12-8f6c-1ecedaa68a3e | melotech | Full-Stack Developer, Music & Audio | Berlin · New York · New York City · United States · London · UK · Remote | posted: 2026-10-15
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4720247006?gh_jid=4720247006 | accenturefederalservices | Application Developer | Washington, DC | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/schonfeld/jobs/8285213 | schonfeld | Software Engineer | New York, New York, United States | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/mirage/30e78e37-36e2-42e7-9ca5-cf10361ff925 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-15
+
 ## Processed
