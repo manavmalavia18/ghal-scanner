@@ -8453,6 +8453,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "d-Matrix"
+    careers_url: https://jobs.ashbyhq.com/d-matrix
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Quora"
+    careers_url: https://jobs.ashbyhq.com/quora
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tin Can"
+    careers_url: https://jobs.ashbyhq.com/tin-can
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Cadence Design Systems"
+    careers_url: https://cadence.wd1.myworkdayjobs.com/university_cst
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
