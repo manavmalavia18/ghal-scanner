@@ -296,4 +296,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Modernization-Software-Developer_331054 | CACI | Modernization Software Developer | Remote (Any State) | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/clera/8abe145f-22cb-445e-bf19-1ee4ffded244 | Clera | Mid-Level Platform Engineer (Kubernetes) | San Francisco | posted: 2026-10-15
+- [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1 | BlackRock | Associate, Frontend Software Engineer (React) - SpiderRock Advisors | Chicago, IL | posted: 2026-10-15
+
 ## Processed
