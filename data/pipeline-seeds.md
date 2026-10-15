@@ -525,4 +525,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae | mirage | Software Engineer, Backend | Union Square, New York City | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/mirage/30e78e37-36e2-42e7-9ca5-cf10361ff925 | mirage | Software Engineer, Agents | Union Square, New York City | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e | tin-can | Software Engineer, Core Product | Seattle | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4744268005 | dvtrading | Quantitative Software Engineer (DV Commodities) | New York | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c | kin | Software Engineer, Back-End Focus | Remote (United States) | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | base-power | Software Engineer, Product | Austin, TX | posted: 2026-10-15
+- [ ] https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811 | qualtrics | Software Engineer I | Provo, Utah, United States | posted: 2026-10-09
+
 ## Processed
