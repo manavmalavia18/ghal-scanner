@@ -591,3 +591,8 @@
 - [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4744268005 | dvtrading | Quantitative Software Engineer (DV Commodities) | New York | posted: 2026-10-15
 
 - [ ] https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e | tin-can | Software Engineer, Core Product | Seattle | posted: 2026-10-15
+
+- [ ] https://jobs.ashbyhq.com/base-power/3bc0ab1f-fac8-4390-9c89-471c942725c3 | base-power | Software Engineer, Growth | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/ab473247-85f9-4be7-8cd8-da909e7cc9ef | base-power | Full Stack Software Engineer, Growth | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/f7f3523e-70c0-4c4f-bf5d-6f8e39f68d1a | base-power | Full Stack Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/8526b173-27e7-4dac-a96f-c71214906758 | base-power | Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
