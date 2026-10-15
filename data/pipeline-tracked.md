@@ -251,4 +251,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936 | TypeSafe AI | Data Platform Engineer | San Francisco Office | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8283735 | DoorDash | Software Engineer, ML Infrastructure (MDX) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/clera/97fd9efd-1ebb-4070-9749-2c834f7e8742 | Clera | Machine Learning Engineer (Mid-Level) | San Francisco | posted: 2026-10-15
+
 ## Processed
