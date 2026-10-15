@@ -267,4 +267,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/Full-stack-Engineer-4_R1001664-1 | capitalone | Full-stack Engineer 4 | New York, NY | posted: 2026-10-15
 - [ ] https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946 | amgen | Full Stack Software Engineer | 2 Locations | posted: 2026-10-15
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis-Junction/Cyber-Software-Engineer--TG-_R10254297 | ngc | Cyber Software Engineer (TG) | 4 Locations | posted: 2026-10-15
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Software-Development-Engineering---SDET_R-10403889 | fiserv | Software Development Engineering - SDET | Sunnyvale, California | posted: 2026-10-15
+
 ## Processed
