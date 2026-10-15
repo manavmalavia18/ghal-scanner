@@ -1,18 +1,73 @@
 {
-  "at": "2026-10-15T15:12:13.892Z",
-  "leadsScanned": 1924,
-  "totalBoardsKnown": 844,
-  "alreadyTracked": 842,
-  "newlyPromoted": 2,
+  "at": "2026-10-15T15:56:07.654Z",
+  "leadsScanned": 1974,
+  "totalBoardsKnown": 863,
+  "alreadyTracked": 850,
+  "newlyPromoted": 13,
   "newBoards": [
     {
-      "name": "HP Inc.",
-      "careers_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite",
+      "name": "Ghost",
+      "careers_url": "https://jobs.ashbyhq.com/ghost",
+      "provider": "ashby"
+    },
+    {
+      "name": "Thumbtack",
+      "careers_url": "https://jobs.ashbyhq.com/thumbtack",
+      "provider": "ashby"
+    },
+    {
+      "name": "NOETIK",
+      "careers_url": "https://job-boards.greenhouse.io/noetik",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Nova Credit",
+      "careers_url": "https://job-boards.greenhouse.io/novacredit",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Re:Build Manufacturing",
+      "careers_url": "https://job-boards.greenhouse.io/rebuildmanufacturing",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Schonfeld",
+      "careers_url": "https://job-boards.greenhouse.io/schonfeld",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Tusker",
+      "careers_url": "https://jobs.lever.co/tusker",
+      "provider": "lever"
+    },
+    {
+      "name": "The Aspen Group",
+      "careers_url": "https://aspendental.wd1.myworkdayjobs.com/careers_the_aspen_group",
       "provider": "workday"
     },
     {
-      "name": "Uline",
-      "careers_url": "https://uline.wd1.myworkdayjobs.com/uline_careers",
+      "name": "Viridien",
+      "careers_url": "https://cgg.wd103.myworkdayjobs.com/viridienfairs",
+      "provider": "workday"
+    },
+    {
+      "name": "Cambridge Investment Research",
+      "careers_url": "https://cir.wd108.myworkdayjobs.com/cir_external_career_site",
+      "provider": "workday"
+    },
+    {
+      "name": "HP Inc.",
+      "careers_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
+      "provider": "workday"
+    },
+    {
+      "name": "PJM Interconnection",
+      "careers_url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers",
+      "provider": "workday"
+    },
+    {
+      "name": "QTS Data Centers",
+      "careers_url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts",
       "provider": "workday"
     }
   ]

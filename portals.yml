@@ -8293,6 +8293,71 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Ghost"
+    careers_url: https://jobs.ashbyhq.com/ghost
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Thumbtack"
+    careers_url: https://jobs.ashbyhq.com/thumbtack
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "NOETIK"
+    careers_url: https://job-boards.greenhouse.io/noetik
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Nova Credit"
+    careers_url: https://job-boards.greenhouse.io/novacredit
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Re:Build Manufacturing"
+    careers_url: https://job-boards.greenhouse.io/rebuildmanufacturing
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Schonfeld"
+    careers_url: https://job-boards.greenhouse.io/schonfeld
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "Tusker"
+    careers_url: https://jobs.lever.co/tusker
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "The Aspen Group"
+    careers_url: https://aspendental.wd1.myworkdayjobs.com/careers_the_aspen_group
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Viridien"
+    careers_url: https://cgg.wd103.myworkdayjobs.com/viridienfairs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cambridge Investment Research"
+    careers_url: https://cir.wd108.myworkdayjobs.com/cir_external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "HP Inc."
+    careers_url: https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "PJM Interconnection"
+    careers_url: https://pjm.wd5.myworkdayjobs.com/pjmcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "QTS Data Centers"
+    careers_url: https://qtsdatacenters.wd5.myworkdayjobs.com/qts
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
