@@ -299,4 +299,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/8abe145f-22cb-445e-bf19-1ee4ffded244 | Clera | Mid-Level Platform Engineer (Kubernetes) | San Francisco | posted: 2026-10-15
 - [ ] https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1 | BlackRock | Associate, Frontend Software Engineer (React) - SpiderRock Advisors | Chicago, IL | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/clera/9b57f80b-33b5-4082-ac57-9f10920e4eca | Clera | Software Engineer, Mid-Level | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/base-power/58429de0-5616-4cd2-889b-47e011850ca7 | BASE | Software Engineer, Product | Austin, TX | posted: 2026-10-15
+
 ## Processed
