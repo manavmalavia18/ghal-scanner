@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T16:51:48.740Z",
+  "fetchedAt": "2026-10-15T17:13:31.067Z",
   "days": 2,
   "leadCount": 84,
-  "jobCount": 55,
+  "jobCount": 54,
   "boards": [
     {
       "key": "greenhouse:eh2",
@@ -15,11 +15,6 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:schonfeld",
-      "fetched": 69,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:candidate",
       "fetched": 0,
       "kept": 0
@@ -30,23 +25,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:asana",
-      "fetched": 106,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:databento",
       "fetched": 14,
       "kept": 0
     },
     {
-      "key": "greenhouse:ubiquiti",
-      "fetched": 172,
-      "kept": 0
+      "key": "greenhouse:schonfeld",
+      "fetched": 69,
+      "kept": 1
     },
     {
-      "key": "greenhouse:flexe",
-      "fetched": 2,
+      "key": "greenhouse:ubiquiti",
+      "fetched": 172,
       "kept": 0
     },
     {
@@ -55,8 +45,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:nuro",
-      "fetched": 109,
+      "key": "greenhouse:flexe",
+      "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:scaleai",
+      "fetched": 180,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:asana",
+      "fetched": 108,
       "kept": 1
     },
     {
@@ -70,14 +70,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:canonical",
-      "fetched": 310,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
+      "key": "greenhouse:nuro",
+      "fetched": 109,
+      "kept": 1
     },
     {
       "key": "greenhouse:applovin",
@@ -86,22 +81,22 @@
     },
     {
       "key": "greenhouse:gotion",
-      "fetched": 153,
+      "fetched": 152,
       "kept": 0
     },
     {
-      "key": "greenhouse:sc",
+      "key": "greenhouse:explore",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:telnyx54",
-      "fetched": 52,
-      "kept": 0
+      "key": "greenhouse:affirm",
+      "fetched": 206,
+      "kept": 3
     },
     {
-      "key": "greenhouse:houserx",
-      "fetched": 20,
+      "key": "greenhouse:sc",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -110,8 +105,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:mark43",
-      "fetched": 31,
+      "key": "greenhouse:houserx",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:telnyx54",
+      "fetched": 52,
       "kept": 0
     },
     {
@@ -120,14 +120,14 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:washington",
-      "fetched": 0,
+      "key": "greenhouse:mark43",
+      "fetched": 31,
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 206,
-      "kept": 3
+      "key": "greenhouse:washington",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "greenhouse:pathstone",
@@ -145,18 +145,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gitlab",
-      "fetched": 215,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:graphcore",
-      "fetched": 179,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:macapital",
       "fetched": 8,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:canonical",
+      "fetched": 310,
       "kept": 0
     },
     {
@@ -175,9 +170,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:novacredit",
-      "fetched": 8,
-      "kept": 0
+      "key": "greenhouse:truveta",
+      "fetched": 37,
+      "kept": 2
     },
     {
       "key": "greenhouse:figureai",
@@ -185,14 +180,19 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:scaleai",
-      "fetched": 180,
+      "key": "greenhouse:novacredit",
+      "fetched": 8,
       "kept": 0
     },
     {
-      "key": "greenhouse:truveta",
-      "fetched": 37,
-      "kept": 2
+      "key": "greenhouse:graphcore",
+      "fetched": 179,
+      "kept": 0
+    },
+    {
+      "key": "ashby:primeintellect",
+      "fetched": 31,
+      "kept": 0
     },
     {
       "key": "ashby:aaru",
@@ -205,28 +205,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 456,
-      "kept": 16
-    },
-    {
-      "key": "ashby:primeintellect",
-      "fetched": 31,
-      "kept": 0
-    },
-    {
       "key": "ashby:plaid",
       "fetched": 126,
-      "kept": 0
-    },
-    {
-      "key": "ashby:ramp",
-      "fetched": 165,
-      "kept": 0
-    },
-    {
-      "key": "ashby:cognition",
-      "fetched": 102,
       "kept": 0
     },
     {
@@ -235,8 +215,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:brainco",
-      "fetched": 39,
+      "key": "ashby:fluidstack",
+      "fetched": 251,
+      "kept": 0
+    },
+    {
+      "key": "ashby:cognition",
+      "fetched": 102,
       "kept": 0
     },
     {
@@ -245,8 +230,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:ramp",
+      "fetched": 164,
+      "kept": 0
+    },
+    {
       "key": "ashby:volta",
       "fetched": 45,
+      "kept": 0
+    },
+    {
+      "key": "ashby:brainco",
+      "fetched": 39,
       "kept": 0
     },
     {
@@ -255,23 +250,33 @@
       "kept": 1
     },
     {
-      "key": "ashby:assembledhq",
-      "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "ashby:fluidstack",
-      "fetched": 251,
-      "kept": 0
-    },
-    {
       "key": "ashby:langchain",
       "fetched": 98,
       "kept": 1
     },
     {
+      "key": "ashby:assembledhq",
+      "fetched": 17,
+      "kept": 0
+    },
+    {
+      "key": "ashby:decagon",
+      "fetched": 141,
+      "kept": 0
+    },
+    {
       "key": "ashby:rillet",
       "fetched": 42,
+      "kept": 0
+    },
+    {
+      "key": "ashby:thumbtack",
+      "fetched": 57,
+      "kept": 1
+    },
+    {
+      "key": "ashby:cyberhaven",
+      "fetched": 29,
       "kept": 0
     },
     {
@@ -285,19 +290,14 @@
       "kept": 1
     },
     {
-      "key": "ashby:thumbtack",
-      "fetched": 57,
-      "kept": 1
-    },
-    {
       "key": "ashby:neuralconcept",
       "fetched": 37,
       "kept": 0
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 141,
-      "kept": 0
+      "key": "ashby:abby-care",
+      "fetched": 21,
+      "kept": 2
     },
     {
       "key": "ashby:tessera-labs",
@@ -310,23 +310,23 @@
       "kept": 0
     },
     {
-      "key": "ashby:abby-care",
-      "fetched": 22,
-      "kept": 2
-    },
-    {
-      "key": "ashby:typesafe-ai",
-      "fetched": 15,
-      "kept": 3
-    },
-    {
       "key": "ashby:cursor",
       "fetched": 134,
       "kept": 1
     },
     {
+      "key": "greenhouse:databricks",
+      "fetched": 896,
+      "kept": 0
+    },
+    {
       "key": "lever:iru",
       "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:gitlab",
+      "fetched": 215,
       "kept": 0
     },
     {
@@ -340,9 +340,9 @@
       "kept": 1
     },
     {
-      "key": "lever:reply",
-      "fetched": 43,
-      "kept": 0
+      "key": "greenhouse:doordashusa",
+      "fetched": 456,
+      "kept": 16
     },
     {
       "key": "lever:crowdhealth",
@@ -350,18 +350,13 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:databricks",
-      "fetched": 896,
+      "key": "lever:cfsenergy",
+      "fetched": 122,
       "kept": 0
     },
     {
-      "key": "lever:primee",
-      "fetched": 58,
-      "kept": 0
-    },
-    {
-      "key": "lever:crypto",
-      "fetched": 91,
+      "key": "lever:palantir",
+      "fetched": 312,
       "kept": 0
     },
     {
@@ -380,13 +375,18 @@
       "kept": 0
     },
     {
-      "key": "workday:purposebrands.wd503.myworkdayjobs.com/purposebrands",
-      "fetched": 16,
+      "key": "lever:primee",
+      "fetched": 58,
       "kept": 0
     },
     {
       "key": "workday:globusmedical.wd5.myworkdayjobs.com/gmed_careers",
       "fetched": 40,
+      "kept": 0
+    },
+    {
+      "key": "workday:purposebrands.wd503.myworkdayjobs.com/purposebrands",
+      "fetched": 16,
       "kept": 0
     },
     {
@@ -400,13 +400,13 @@
       "kept": 0
     },
     {
-      "key": "lever:cfsenergy",
-      "fetched": 122,
+      "key": "lever:reply",
+      "fetched": 43,
       "kept": 0
     },
     {
-      "key": "lever:palantir",
-      "fetched": 312,
+      "key": "lever:crypto",
+      "fetched": 91,
       "kept": 0
     },
     {
@@ -417,11 +417,11 @@
     {
       "key": "workday:generalmotors.wd5.myworkdayjobs.com/careers_gm",
       "fetched": 80,
-      "kept": 8
+      "kept": 10
     },
     {
       "key": "lever:veeva",
-      "fetched": 928,
+      "fetched": 925,
       "kept": 1
     }
   ],
@@ -477,16 +477,6 @@
       "board": "nuro"
     },
     {
-      "title": "Software Engineer (Early Career) – C++ & Systems",
-      "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
-      "company": "SirenOpt",
-      "location": "San Leandro, California, United States",
-      "postedAt": "2026-10-15T00:12:40.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sirenopt"
-    },
-    {
       "title": "Manager, Software Engineering (App Infrastructure)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8015283003",
       "company": "Affirm",
@@ -515,6 +505,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "affirm"
+    },
+    {
+      "title": "Software Engineer (Early Career) – C++ & Systems",
+      "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+      "company": "SirenOpt",
+      "location": "San Leandro, California, United States",
+      "postedAt": "2026-10-15T00:12:40.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "sirenopt"
     },
     {
       "title": "Software Engineer II - Fulfillments Team",
@@ -555,6 +555,116 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "truveta"
+    },
+    {
+      "title": "Director of Applied AI",
+      "url": "https://jobs.ashbyhq.com/webai/789fac9a-0758-4052-941c-bd1fa32c8631",
+      "company": "webAI",
+      "location": "Austin, TX",
+      "postedAt": "2026-10-13T21:57:05.232Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "webai"
+    },
+    {
+      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
+      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
+      "company": "LangChain",
+      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
+      "postedAt": "2026-10-14T15:18:56.705Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "langchain"
+    },
+    {
+      "title": "Software Engineer, AI/ML Infrastructure (US-Based) ",
+      "url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
+      "company": "Thumbtack",
+      "location": "Remote, United States",
+      "postedAt": "2026-10-14T17:11:09.015Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "thumbtack"
+    },
+    {
+      "title": "Software Engineer, iOS",
+      "url": "https://jobs.ashbyhq.com/mirage/ab54c002-4365-42ba-829a-a5bd30a9b7ef",
+      "company": "Mirage",
+      "location": "Union Square, New York City",
+      "postedAt": "2026-10-15T14:47:19.449Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mirage"
+    },
+    {
+      "title": "Software Engineer, Backend ",
+      "url": "https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae",
+      "company": "Mirage",
+      "location": "Union Square, New York City",
+      "postedAt": "2026-10-15T14:46:01.409Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mirage"
+    },
+    {
+      "title": "Software Engineer, Agents ",
+      "url": "https://jobs.ashbyhq.com/mirage/30e78e37-36e2-42e7-9ca5-cf10361ff925",
+      "company": "Mirage",
+      "location": "Union Square, New York City",
+      "postedAt": "2026-10-15T14:45:33.142Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mirage"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b",
+      "company": "MintMCP",
+      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
+      "postedAt": "2026-10-15T13:46:17.991Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "mintmcp"
+    },
+    {
+      "title": "Senior Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:34:20.177Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "abby-care"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:31:41.472Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "abby-care"
+    },
+    {
+      "title": "Software Engineer, Model Lifecycle and Signals ",
+      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+      "company": "Cursor",
+      "location": "New York · San Francisco · United States",
+      "postedAt": "2026-10-15T01:25:48.788Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cursor"
+    },
+    {
+      "title": "Security Platform Engineer I",
+      "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba",
+      "company": "Tusker",
+      "location": "Cleveland, OH",
+      "postedAt": "2026-10-14T16:54:31.602Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "tusker"
     },
     {
       "title": "Software Engineer, ML Infrastructure (MDX)",
@@ -717,146 +827,6 @@
       "board": "doordashusa"
     },
     {
-      "title": "Director of Applied AI",
-      "url": "https://jobs.ashbyhq.com/webai/789fac9a-0758-4052-941c-bd1fa32c8631",
-      "company": "webAI",
-      "location": "Austin, TX",
-      "postedAt": "2026-10-13T21:57:05.232Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "webai"
-    },
-    {
-      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
-      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "company": "LangChain",
-      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
-      "postedAt": "2026-10-14T15:18:56.705Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "langchain"
-    },
-    {
-      "title": "Software Engineer, iOS",
-      "url": "https://jobs.ashbyhq.com/mirage/ab54c002-4365-42ba-829a-a5bd30a9b7ef",
-      "company": "Mirage",
-      "location": "Union Square, New York City",
-      "postedAt": "2026-10-15T14:47:19.449Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mirage"
-    },
-    {
-      "title": "Software Engineer, Backend ",
-      "url": "https://jobs.ashbyhq.com/mirage/ebacdf98-9657-440e-a066-dace513920ae",
-      "company": "Mirage",
-      "location": "Union Square, New York City",
-      "postedAt": "2026-10-15T14:46:01.409Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mirage"
-    },
-    {
-      "title": "Software Engineer, Agents ",
-      "url": "https://jobs.ashbyhq.com/mirage/30e78e37-36e2-42e7-9ca5-cf10361ff925",
-      "company": "Mirage",
-      "location": "Union Square, New York City",
-      "postedAt": "2026-10-15T14:45:33.142Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mirage"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b",
-      "company": "MintMCP",
-      "location": "San Mateo, CA · San Francisco, CA · San Francisco · United States of America",
-      "postedAt": "2026-10-15T13:46:17.991Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "mintmcp"
-    },
-    {
-      "title": "Software Engineer, AI/ML Infrastructure (US-Based) ",
-      "url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "company": "Thumbtack",
-      "location": "Remote, United States",
-      "postedAt": "2026-10-14T17:11:09.015Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "thumbtack"
-    },
-    {
-      "title": "Senior Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:34:20.177Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:31:41.472Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
-      "title": "Data Platform Engineer",
-      "url": "https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936",
-      "company": "TypeSafe AI",
-      "location": "San Francisco Office",
-      "postedAt": "2026-10-15T00:26:28.326Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "typesafe-ai"
-    },
-    {
-      "title": "Member of Technical Staff, Console (Full-Stack)",
-      "url": "https://jobs.ashbyhq.com/typesafe-ai/3eddc681-cecb-40e9-8853-11943cef0bb3",
-      "company": "TypeSafe AI",
-      "location": "San Francisco Office",
-      "postedAt": "2026-10-14T23:50:16.300Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "typesafe-ai"
-    },
-    {
-      "title": "Member of Technical Staff, Full-Stack/Front-end",
-      "url": "https://jobs.ashbyhq.com/typesafe-ai/fce73bca-dd9f-41e8-ad47-6a5b69c96230",
-      "company": "TypeSafe AI",
-      "location": "San Francisco Office",
-      "postedAt": "2026-10-14T23:28:47.401Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "typesafe-ai"
-    },
-    {
-      "title": "Software Engineer, Model Lifecycle and Signals ",
-      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
-      "company": "Cursor",
-      "location": "New York · San Francisco · United States",
-      "postedAt": "2026-10-15T01:25:48.788Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "cursor"
-    },
-    {
-      "title": "Security Platform Engineer I",
-      "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba",
-      "company": "Tusker",
-      "location": "Cleveland, OH",
-      "postedAt": "2026-10-14T16:54:31.602Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "tusker"
-    },
-    {
       "title": "Software Engineer, AI & Data",
       "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
       "company": "CrowdHealth",
@@ -887,11 +857,55 @@
       "board": "zoox"
     },
     {
+      "title": "Staff Software Engineer – Microservices Architecture",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer---MBFF-Platform---Microservices-Architecture_JR-202612622",
+      "company": "General Motors",
+      "location": "2 Locations",
+      "postedAt": "2026-10-15T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer – Microservices Architecture",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer---Microservices---MBFF-Platform_JR-202612620",
+      "company": "General Motors",
+      "location": "2 Locations",
+      "postedAt": "2026-10-15T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
       "title": "Senior Software Engineer, Data Platform (Autonomous Vehicles)",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer--Data-Platform--Autonomous-Vehicles-_JR-202621502",
       "company": "General Motors",
       "location": "2 Locations",
       "postedAt": "2026-10-15T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_JR-202622338",
+      "company": "General Motors",
+      "location": "2 Locations",
+      "postedAt": "2026-10-14T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Staff Software Engineer– AI Enablement",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Staff-Software-Engineer--AI-Enablement_JR-202621998",
+      "company": "General Motors",
+      "location": "3 Locations",
+      "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
       "board": "careers_gm",
@@ -931,43 +945,21 @@
       "postedAtSource": "workday-detail"
     },
     {
-      "title": "Staff Software Engineer for NextGen In-Vehicle Infotainment Systems - DevOps",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mountain-View-California-United-States-of-America/Staff-Software-Engineer-for-NextGen-In-Vehicle-Infotainment-Systems---DevOps_JR-202622358-1",
-      "company": "General Motors",
-      "location": "4 Locations",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_JR-202622338",
-      "company": "General Motors",
-      "location": "2 Locations",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Staff Software Engineer– AI Enablement",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Milford-Michigan-United-States-of-America/Staff-Software-Engineer--AI-Enablement_JR-202621998",
-      "company": "General Motors",
-      "location": "3 Locations",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "careers_gm",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Staff Engineer, Site Reliability Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Staff-Engineer--Site-Reliability-Engineering_JR-202621675",
       "company": "General Motors",
       "location": "3 Locations",
+      "postedAt": "2026-10-14T12:00:00.000Z",
+      "salary": "",
+      "ats": "Workday",
+      "board": "careers_gm",
+      "postedAtSource": "workday-detail"
+    },
+    {
+      "title": "Staff Software Engineer for NextGen In-Vehicle Infotainment Systems - DevOps",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Mountain-View-California-United-States-of-America/Staff-Software-Engineer-for-NextGen-In-Vehicle-Infotainment-Systems---DevOps_JR-202622358-1",
+      "company": "General Motors",
+      "location": "4 Locations",
       "postedAt": "2026-10-14T12:00:00.000Z",
       "salary": "",
       "ats": "Workday",
