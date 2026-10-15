@@ -268,4 +268,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-II--Application-Platform---AI-Services_JR_15302 | Guidewire Software | Software Engineer II, Application Platform - AI Services | United States - San Mateo, CA | posted: 2026-10-15
 - [ ] https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26100290-1 | Manulife | Full-Stack Software Engineer | 2 Locations | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89 | Abby Care | Applied AI Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/bernard/5baf979e-5a34-444b-9a96-e069b1a6632e | Bernard | AI Engineer, Software Factory | New York City | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/extend/jobs/6224705004 | Extend | Software Engineer II - Fulfillments Team | Remote · Remote, US | posted: 2026-10-14
+
 ## Processed
