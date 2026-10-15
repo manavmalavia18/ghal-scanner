@@ -8233,6 +8233,51 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Abby Care"
+    careers_url: https://jobs.ashbyhq.com/abby-care
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Bernard"
+    careers_url: https://jobs.ashbyhq.com/bernard
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "ClarityPay"
+    careers_url: https://jobs.ashbyhq.com/claritypay
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Paraform"
+    careers_url: https://jobs.ashbyhq.com/paraform
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tessera Labs"
+    careers_url: https://jobs.ashbyhq.com/tessera-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Extend"
+    careers_url: https://job-boards.greenhouse.io/extend
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "EverService"
+    careers_url: https://jobs.lever.co/rynoss
+    provider: lever
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Cornell University"
+    careers_url: https://cornell.wd1.myworkdayjobs.com/cornellpositions
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Johnson & Johnson"
+    careers_url: https://jj.wd5.myworkdayjobs.com/displacedemployees
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

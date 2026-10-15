@@ -1,8 +1,54 @@
 {
-  "at": "2026-10-15T05:54:28.296Z",
-  "leadsScanned": 1994,
-  "totalBoardsKnown": 826,
-  "alreadyTracked": 826,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-15T06:35:08.115Z",
+  "leadsScanned": 2049,
+  "totalBoardsKnown": 836,
+  "alreadyTracked": 827,
+  "newlyPromoted": 9,
+  "newBoards": [
+    {
+      "name": "Abby Care",
+      "careers_url": "https://jobs.ashbyhq.com/abby-care",
+      "provider": "ashby"
+    },
+    {
+      "name": "Bernard",
+      "careers_url": "https://jobs.ashbyhq.com/bernard",
+      "provider": "ashby"
+    },
+    {
+      "name": "ClarityPay",
+      "careers_url": "https://jobs.ashbyhq.com/claritypay",
+      "provider": "ashby"
+    },
+    {
+      "name": "Paraform",
+      "careers_url": "https://jobs.ashbyhq.com/paraform",
+      "provider": "ashby"
+    },
+    {
+      "name": "Tessera Labs",
+      "careers_url": "https://jobs.ashbyhq.com/tessera-labs",
+      "provider": "ashby"
+    },
+    {
+      "name": "Extend",
+      "careers_url": "https://job-boards.greenhouse.io/extend",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "EverService",
+      "careers_url": "https://jobs.lever.co/rynoss",
+      "provider": "lever"
+    },
+    {
+      "name": "Cornell University",
+      "careers_url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions",
+      "provider": "workday"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "careers_url": "https://jj.wd5.myworkdayjobs.com/displacedemployees",
+      "provider": "workday"
+    }
+  ]
 }
