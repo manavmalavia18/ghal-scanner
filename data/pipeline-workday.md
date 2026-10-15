@@ -270,4 +270,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Annapolis-Junction/Cyber-Software-Engineer--TG-_R10254297 | ngc | Cyber Software Engineer (TG) | 4 Locations | posted: 2026-10-15
 - [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Software-Development-Engineering---SDET_R-10403889 | fiserv | Software Development Engineering - SDET | Sunnyvale, California | posted: 2026-10-15
 
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-SMTS---Brain-Team--REMOTE-_JR363395 | salesforce | Software Engineering SMTS - Brain Team (REMOTE) | California - San Francisco | posted: 2026-10-15
+- [ ] https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-II_R-293662 | mastercard | Software Engineer II | O'Fallon, Missouri | posted: 2026-10-15
+- [ ] https://kissusa.wd12.myworkdayjobs.com/kiss_careers_external/job/USA-NY-Port-Washington-HQ/Application-Developer_R4297 | kissusa | Application Developer | USA, NY, Port Washington, HQ | posted: 2026-10-15
+
 ## Processed
