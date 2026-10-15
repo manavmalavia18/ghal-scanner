@@ -1,29 +1,8 @@
 {
-  "at": "2026-10-15T21:48:41.575Z",
+  "at": "2026-10-15T23:55:25.326Z",
   "leadsScanned": 2035,
   "totalBoardsKnown": 883,
-  "alreadyTracked": 879,
-  "newlyPromoted": 4,
-  "newBoards": [
-    {
-      "name": "d-Matrix",
-      "careers_url": "https://jobs.ashbyhq.com/d-matrix",
-      "provider": "ashby"
-    },
-    {
-      "name": "Quora",
-      "careers_url": "https://jobs.ashbyhq.com/quora",
-      "provider": "ashby"
-    },
-    {
-      "name": "Tin Can",
-      "careers_url": "https://jobs.ashbyhq.com/tin-can",
-      "provider": "ashby"
-    },
-    {
-      "name": "Cadence Design Systems",
-      "careers_url": "https://cadence.wd1.myworkdayjobs.com/university_cst",
-      "provider": "workday"
-    }
-  ]
+  "alreadyTracked": 883,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
