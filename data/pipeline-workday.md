@@ -276,4 +276,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Software-Engineer--ML-infrastructure--Core-Inference--Level-4_R0047198 | snapchat | Software Engineer, ML infrastructure, Core Inference, Level 4 | 3 Locations | posted: 2026-10-15
 
+- [ ] https://giorgiglobal.wd3.myworkdayjobs.com/canpack/job/Muncie-Indiana/Front-End-Technician_R4240 | giorgiglobal | Front End Technician | Muncie, Indiana | posted: 2026-10-15
+
 ## Processed
