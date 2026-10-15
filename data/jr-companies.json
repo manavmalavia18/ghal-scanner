@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T16:07:36.950Z",
+  "fetchedAt": "2026-10-15T16:29:22.390Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 344,
+  "companyCount": 337,
   "companies": [
     {
       "company": "Aaru",
@@ -251,20 +251,6 @@
       "board": "beyondfinance",
       "key": "greenhouse:beyondfinance",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=beyondfinance&token=8226902"
-    },
-    {
-      "company": "Binance.US",
-      "ats": "ashby",
-      "board": "binance.us",
-      "key": "ashby:binance.us",
-      "url": "https://jobs.ashbyhq.com/binance.us/022510b5-3654-44c0-b573-e2c6209c778c"
-    },
-    {
-      "company": "Biodesix",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:4448611009",
-      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4448611009"
     },
     {
       "company": "BlackRock",
@@ -610,6 +596,13 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
     },
     {
+      "company": "CrowdStrike",
+      "ats": "greenhouse",
+      "board": "explore",
+      "key": "greenhouse:explore",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519857750430062?domain=coloradowfx.gov"
+    },
+    {
       "company": "Crypto.com",
       "ats": "lever",
       "board": "crypto",
@@ -694,13 +687,6 @@
       "url": "https://eitacies-inc.careerplug.com/jobs/3643875"
     },
     {
-      "company": "Eka Robotics",
-      "ats": "ashby",
-      "board": "ekarobotics",
-      "key": "ashby:ekarobotics",
-      "url": "https://jobs.ashbyhq.com/ekarobotics/d07ecc50-fdbd-4ddf-b4ab-037f6e076d11"
-    },
-    {
       "company": "Electric Hydrogen",
       "ats": "greenhouse",
       "board": "eh2",
@@ -757,13 +743,6 @@
       "url": "https://etsy.wd5.myworkdayjobs.com/etsy_careers"
     },
     {
-      "company": "Everpure",
-      "ats": "greenhouse",
-      "board": "purestorage",
-      "key": "greenhouse:purestorage",
-      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582"
-    },
-    {
       "company": "EverService",
       "ats": "lever",
       "board": "rynoss",
@@ -806,13 +785,6 @@
       "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site"
     },
     {
-      "company": "Figma",
-      "ats": "greenhouse",
-      "board": "figma",
-      "key": "greenhouse:figma",
-      "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
-    },
-    {
       "company": "Figure",
       "ats": "greenhouse",
       "board": "figureai",
@@ -839,13 +811,6 @@
       "board": "fluidstack",
       "key": "ashby:fluidstack",
       "url": "https://jobs.ashbyhq.com/fluidstack/6e705aa9-fb62-4ecf-a86d-67bb900fba5b/application"
-    },
-    {
-      "company": "Gallup",
-      "ats": "greenhouse",
-      "board": "gallup",
-      "key": "greenhouse:gallup",
-      "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009"
     },
     {
       "company": "GE HealthCare",
@@ -988,6 +953,13 @@
       "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6223146004"
     },
     {
+      "company": "House Rx",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4744136005",
+      "url": "https://www.houserx.com/careers?gh_jid=4744136005"
+    },
+    {
       "company": "HP Inc.",
       "ats": "workday",
       "board": "exteu-ac-careersite",
@@ -1028,13 +1000,6 @@
       "board": "idme",
       "key": "greenhouse:idme",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=idme&token=7808011003"
-    },
-    {
-      "company": "IMC",
-      "ats": "greenhouse",
-      "board": "careers",
-      "key": "greenhouse:careers",
-      "url": "https://www.imc.com/us/careers/jobs/5001089101"
     },
     {
       "company": "IMEG",
@@ -1228,6 +1193,13 @@
     {
       "company": "Lee Company",
       "ats": "workday",
+      "board": "leecompany",
+      "key": "workday:leecompany.wd1.myworkdayjobs.com/leecompany",
+      "url": "https://leecompany.wd1.myworkdayjobs.com/leecompany"
+    },
+    {
+      "company": "Lee Company",
+      "ats": "workday",
       "board": "talentpromoter",
       "key": "workday:leecompany.wd1.myworkdayjobs.com/talentpromoter",
       "url": "https://leecompany.wd1.myworkdayjobs.com/talentpromoter"
@@ -1303,6 +1275,13 @@
       "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_jobs"
     },
     {
+      "company": "Mark43",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8285303",
+      "url": "https://mark43.com/list-job/8285303?gh_jid=8285303"
+    },
+    {
       "company": "Meta",
       "ats": "greenhouse",
       "board": "",
@@ -1329,13 +1308,6 @@
       "board": "Milwaukee",
       "key": "workday:tti.wd1.myworkdayjobs.com/Milwaukee",
       "url": "https://tti.wd1.myworkdayjobs.com/Milwaukee"
-    },
-    {
-      "company": "Minitab",
-      "ats": "greenhouse",
-      "board": "minitab",
-      "key": "greenhouse:minitab",
-      "url": "https://job-boards.greenhouse.io/minitab/jobs/8030958003"
     },
     {
       "company": "MintMCP",
@@ -1623,13 +1595,6 @@
       "board": "pri",
       "key": "workday:primerica.wd1.myworkdayjobs.com/pri",
       "url": "https://primerica.wd1.myworkdayjobs.com/pri"
-    },
-    {
-      "company": "Prologis Management",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668847274?domain=coloradowfx.gov"
     },
     {
       "company": "ProPetro Services",
@@ -1933,13 +1898,6 @@
       "url": "https://sonos.wd1.myworkdayjobs.com/sonos"
     },
     {
-      "company": "Southern Illinois University Edwardsville",
-      "ats": "greenhouse",
-      "board": "siue",
-      "key": "greenhouse:siue",
-      "url": "https://www.governmentjobs.com/careers/siue/jobs/5513753-0"
-    },
-    {
       "company": "SpaceX",
       "ats": "greenhouse",
       "board": "spacex",
@@ -2211,13 +2169,6 @@
       "board": "",
       "key": "greenhouse-id:8YxWjpwDhdL62DFYUIcQ",
       "url": "https://usource.ripplehire.com/candidate?token=8YxWjpwDhdL62DFYUIcQ#detail/job/64366"
-    },
-    {
-      "company": "Vast",
-      "ats": "greenhouse",
-      "board": "vast",
-      "key": "greenhouse:vast",
-      "url": "https://boards.greenhouse.io/vast/jobs/4721502006?gh_jid=4721502006"
     },
     {
       "company": "Veeva Systems",
