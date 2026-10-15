@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T15:45:13.855Z",
+  "fetchedAt": "2026-10-15T16:07:36.917Z",
   "days": 2,
   "leadCount": 85,
-  "jobCount": 57,
+  "jobCount": 58,
   "boards": [
     {
       "key": "greenhouse:eh2",
@@ -15,23 +15,13 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:schonfeld",
-      "fetched": 69,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:idme",
-      "fetched": 51,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:candidate",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:databento",
-      "fetched": 14,
+      "key": "greenhouse:idme",
+      "fetched": 51,
       "kept": 0
     },
     {
@@ -40,13 +30,23 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:schonfeld",
+      "fetched": 69,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:databento",
+      "fetched": 14,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:flexe",
       "fetched": 2,
       "kept": 0
     },
     {
-      "key": "greenhouse:beyondfinance",
-      "fetched": 29,
+      "key": "greenhouse:ubiquiti",
+      "fetched": 172,
       "kept": 0
     },
     {
@@ -70,14 +70,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:ubiquiti",
-      "fetched": 172,
+      "key": "greenhouse:canonical",
+      "fetched": 310,
       "kept": 0
-    },
-    {
-      "key": "greenhouse:affirm",
-      "fetched": 204,
-      "kept": 3
     },
     {
       "key": "greenhouse:explore",
@@ -105,18 +100,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gotion",
-      "fetched": 153,
+      "key": "greenhouse:beyondfinance",
+      "fetched": 29,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 204,
+      "kept": 3
     },
     {
       "key": "greenhouse:pathstone",
       "fetched": 27,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:canonical",
-      "fetched": 310,
       "kept": 0
     },
     {
@@ -130,6 +125,11 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:gotion",
+      "fetched": 153,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:macapital",
       "fetched": 8,
       "kept": 0
@@ -140,14 +140,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:gitlab",
-      "fetched": 216,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:truveta",
-      "fetched": 37,
-      "kept": 2
+      "key": "greenhouse:chainguard",
+      "fetched": 79,
+      "kept": 1
     },
     {
       "key": "greenhouse:louisiana",
@@ -155,18 +150,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:chainguard",
-      "fetched": 79,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:graphcore",
       "fetched": 180,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:indieinterns",
-      "fetched": 4,
       "kept": 0
     },
     {
@@ -180,9 +165,19 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:indieinterns",
+      "fetched": 4,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:levanta",
       "fetched": 10,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:truveta",
+      "fetched": 37,
+      "kept": 2
     },
     {
       "key": "ashby:aaru",
@@ -195,8 +190,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:motional",
+      "fetched": 81,
+      "kept": 1
+    },
+    {
       "key": "ashby:ramp",
       "fetched": 165,
+      "kept": 0
+    },
+    {
+      "key": "ashby:geniusai",
+      "fetched": 15,
       "kept": 0
     },
     {
@@ -205,23 +210,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:motional",
-      "fetched": 82,
-      "kept": 1
+      "key": "ashby:lambda",
+      "fetched": 91,
+      "kept": 0
     },
     {
-      "key": "ashby:geniusai",
-      "fetched": 15,
+      "key": "ashby:fluidstack",
+      "fetched": 251,
       "kept": 0
     },
     {
       "key": "ashby:cognition",
       "fetched": 102,
-      "kept": 0
-    },
-    {
-      "key": "ashby:lambda",
-      "fetched": 91,
       "kept": 0
     },
     {
@@ -245,13 +245,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:fluidstack",
-      "fetched": 251,
+      "key": "ashby:decagon",
+      "fetched": 141,
       "kept": 0
     },
     {
-      "key": "ashby:decagon",
-      "fetched": 141,
+      "key": "ashby:assembledhq",
+      "fetched": 17,
       "kept": 0
     },
     {
@@ -260,8 +260,13 @@
       "kept": 1
     },
     {
-      "key": "ashby:assembledhq",
-      "fetched": 17,
+      "key": "greenhouse:gitlab",
+      "fetched": 216,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:sharkninjaoperatingllc",
+      "fetched": 156,
       "kept": 0
     },
     {
@@ -275,8 +280,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:sharkninjaoperatingllc",
-      "fetched": 156,
+      "key": "ashby:tessera-labs",
+      "fetched": 22,
+      "kept": 0
+    },
+    {
+      "key": "ashby:ghost",
+      "fetched": 4,
       "kept": 0
     },
     {
@@ -285,29 +295,19 @@
       "kept": 0
     },
     {
-      "key": "ashby:abby-care",
-      "fetched": 22,
-      "kept": 2
-    },
-    {
-      "key": "ashby:tessera-labs",
-      "fetched": 22,
-      "kept": 0
-    },
-    {
       "key": "ashby:typesafe-ai",
       "fetched": 15,
       "kept": 3
     },
     {
+      "key": "ashby:abby-care",
+      "fetched": 22,
+      "kept": 2
+    },
+    {
       "key": "ashby:cursor",
       "fetched": 134,
       "kept": 1
-    },
-    {
-      "key": "ashby:ghost",
-      "fetched": 4,
-      "kept": 0
     },
     {
       "key": "ashby:etched",
@@ -320,19 +320,14 @@
       "kept": 0
     },
     {
-      "key": "lever:iru",
-      "fetched": 22,
-      "kept": 0
-    },
-    {
-      "key": "lever:crypto",
-      "fetched": 91,
-      "kept": 0
-    },
-    {
       "key": "lever:rynoss",
       "fetched": 19,
       "kept": 0
+    },
+    {
+      "key": "ashby:openai",
+      "fetched": 803,
+      "kept": 3
     },
     {
       "key": "lever:tusker",
@@ -340,14 +335,24 @@
       "kept": 1
     },
     {
+      "key": "lever:iru",
+      "fetched": 22,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:doordashusa",
       "fetched": 456,
       "kept": 19
     },
     {
-      "key": "ashby:openai",
-      "fetched": 803,
-      "kept": 3
+      "key": "lever:crowdhealth",
+      "fetched": 5,
+      "kept": 1
+    },
+    {
+      "key": "lever:crypto",
+      "fetched": 91,
+      "kept": 0
     },
     {
       "key": "lever:reply",
@@ -360,34 +365,9 @@
       "kept": 0
     },
     {
-      "key": "lever:palantir",
-      "fetched": 313,
-      "kept": 1
-    },
-    {
       "key": "lever:rhombus-systems",
       "fetched": 7,
       "kept": 0
-    },
-    {
-      "key": "lever:crowdhealth",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "lever:cfsenergy",
-      "fetched": 123,
-      "kept": 0
-    },
-    {
-      "key": "workday:tmhcc.wd108.myworkdayjobs.com/external",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
-      "key": "lever:zoox",
-      "fetched": 239,
-      "kept": 2
     },
     {
       "key": "workday:spgi.wd5.myworkdayjobs.com/kensho_careers",
@@ -397,6 +377,16 @@
     {
       "key": "workday:trendmicro.wd3.myworkdayjobs.com/external",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:tmhcc.wd108.myworkdayjobs.com/external",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "lever:cfsenergy",
+      "fetched": 123,
       "kept": 0
     },
     {
@@ -425,9 +415,19 @@
       "kept": 7
     },
     {
-      "key": "lever:veeva",
-      "fetched": 925,
+      "key": "lever:palantir",
+      "fetched": 312,
       "kept": 1
+    },
+    {
+      "key": "lever:veeva",
+      "fetched": 928,
+      "kept": 1
+    },
+    {
+      "key": "lever:zoox",
+      "fetched": 239,
+      "kept": 2
     }
   ],
   "jobs": [
@@ -453,16 +453,6 @@
     },
     {
       "title": "Software Engineer",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213",
-      "company": "Schonfeld",
-      "location": "New York, New York, United States",
-      "postedAt": "2026-10-15T15:09:11.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "schonfeld"
-    },
-    {
-      "title": "Software Engineer",
       "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522",
       "company": "Asana",
       "location": "San Francisco",
@@ -470,6 +460,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "asana"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213",
+      "company": "Schonfeld",
+      "location": "New York, New York, United States",
+      "postedAt": "2026-10-15T15:09:11.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "schonfeld"
     },
     {
       "title": "Senior Software Engineer, Autonomy Behavior Testing",
@@ -480,6 +480,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "nuro"
+    },
+    {
+      "title": "Software Engineer (Early Career) – C++ & Systems",
+      "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+      "company": "SirenOpt",
+      "location": "San Leandro, California, United States",
+      "postedAt": "2026-10-15T00:12:40.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "sirenopt"
     },
     {
       "title": "Manager, Software Engineering (App Infrastructure)",
@@ -512,16 +522,6 @@
       "board": "affirm"
     },
     {
-      "title": "Software Engineer (Early Career) – C++ & Systems",
-      "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
-      "company": "SirenOpt",
-      "location": "San Leandro, California, United States",
-      "postedAt": "2026-10-15T00:12:40.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "sirenopt"
-    },
-    {
       "title": "Software Engineer II - Fulfillments Team",
       "url": "https://job-boards.greenhouse.io/extend/jobs/6224705004",
       "company": "Extend",
@@ -530,6 +530,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "extend"
+    },
+    {
+      "title": "Staff Software Engineer (Customer Platform) ",
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4720009006",
+      "company": "Chainguard",
+      "location": "United States - Remote",
+      "postedAt": "2026-10-13T19:27:42.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "chainguard"
     },
     {
       "title": "Software Engineer - Security & Trust",
@@ -550,16 +560,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "truveta"
-    },
-    {
-      "title": "Staff Software Engineer (Customer Platform) ",
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4720009006",
-      "company": "Chainguard",
-      "location": "United States - Remote",
-      "postedAt": "2026-10-13T19:27:42.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "chainguard"
     },
     {
       "title": "Senior Software Engineer, HIL Infrastructure",
@@ -602,26 +602,6 @@
       "board": "thumbtack"
     },
     {
-      "title": "Senior Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:34:20.177Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
-      "title": "Applied AI Engineer",
-      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
-      "company": "Abby Care",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T02:31:41.472Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "abby-care"
-    },
-    {
       "title": "Data Platform Engineer",
       "url": "https://jobs.ashbyhq.com/typesafe-ai/7a7cfaf6-b61a-4be1-afa6-d102480bf936",
       "company": "TypeSafe AI",
@@ -652,6 +632,26 @@
       "board": "typesafe-ai"
     },
     {
+      "title": "Senior Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:34:20.177Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "abby-care"
+    },
+    {
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89",
+      "company": "Abby Care",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T02:31:41.472Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "abby-care"
+    },
+    {
       "title": "Software Engineer, Model Lifecycle and Signals ",
       "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
       "company": "Cursor",
@@ -660,6 +660,36 @@
       "salary": "",
       "ats": "Ashby",
       "board": "cursor"
+    },
+    {
+      "title": "Client Platform Engineer",
+      "url": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T00:16:24.105Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "openai"
+    },
+    {
+      "title": "Software Engineer, Cloud Computer",
+      "url": "https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "postedAt": "2026-10-13T17:30:06.719Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "openai"
+    },
+    {
+      "title": "Machine Learning Engineer, Implicit Signals",
+      "url": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "company": "OpenAI",
+      "location": "San Francisco",
+      "postedAt": "2026-10-13T17:24:19.213Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "openai"
     },
     {
       "title": "Security Platform Engineer I",
@@ -862,64 +892,14 @@
       "board": "doordashusa"
     },
     {
-      "title": "Client Platform Engineer",
-      "url": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T00:16:24.105Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "openai"
-    },
-    {
-      "title": "Software Engineer, Cloud Computer",
-      "url": "https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "postedAt": "2026-10-13T17:30:06.719Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "openai"
-    },
-    {
-      "title": "Machine Learning Engineer, Implicit Signals",
-      "url": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
-      "company": "OpenAI",
-      "location": "San Francisco",
-      "postedAt": "2026-10-13T17:24:19.213Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "openai"
-    },
-    {
-      "title": "Forward Deployed Software Engineer - US Government",
-      "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
-      "company": "Palantir Technologies",
-      "location": "Laurel, MD",
-      "postedAt": "2026-10-13T16:40:52.753Z",
+      "title": "Software Engineer, AI & Data",
+      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
+      "company": "CrowdHealth",
+      "location": "United States",
+      "postedAt": "2026-10-14T15:23:08.248Z",
       "salary": "",
       "ats": "Lever",
-      "board": "palantir"
-    },
-    {
-      "title": "Senior Software Development Engineer in Test",
-      "url": "https://jobs.lever.co/zoox/83bbaa62-c523-4972-9eb9-bfdc8a04c0f5",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-10-14T21:40:46.183Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
-    },
-    {
-      "title": "Software Development Engineer in Test",
-      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
-      "company": "Zoox",
-      "location": "Foster City, CA",
-      "postedAt": "2026-10-13T18:42:25.783Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "zoox"
+      "board": "crowdhealth"
     },
     {
       "title": "Senior Software Engineer",
@@ -999,6 +979,16 @@
       "postedAtSource": "workday-detail"
     },
     {
+      "title": "Forward Deployed Software Engineer - US Government",
+      "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+      "company": "Palantir Technologies",
+      "location": "Laurel, MD",
+      "postedAt": "2026-10-13T16:40:52.753Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "palantir"
+    },
+    {
       "title": "Associate DevOps Engineer",
       "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
       "company": "Veeva Systems",
@@ -1007,6 +997,26 @@
       "salary": "",
       "ats": "Lever",
       "board": "veeva"
+    },
+    {
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://jobs.lever.co/zoox/83bbaa62-c523-4972-9eb9-bfdc8a04c0f5",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-10-14T21:40:46.183Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "url": "https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "postedAt": "2026-10-13T18:42:25.783Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "zoox"
     }
   ],
   "leadSources": [
