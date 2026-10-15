@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T16:29:22.390Z",
+  "fetchedAt": "2026-10-15T16:51:48.762Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 337,
+  "companyCount": 339,
   "companies": [
     {
       "company": "Aaru",
@@ -1121,13 +1121,6 @@
       "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers"
     },
     {
-      "company": "Justworks",
-      "ats": "greenhouse",
-      "board": "justworks",
-      "key": "greenhouse:justworks",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815"
-    },
-    {
       "company": "Kensho Technologies",
       "ats": "workday",
       "board": "kensho_careers",
@@ -1305,16 +1298,23 @@
     {
       "company": "Milwaukee Tool",
       "ats": "workday",
-      "board": "Milwaukee",
-      "key": "workday:tti.wd1.myworkdayjobs.com/Milwaukee",
-      "url": "https://tti.wd1.myworkdayjobs.com/Milwaukee"
+      "board": "milwaukee",
+      "key": "workday:tti.wd1.myworkdayjobs.com/milwaukee",
+      "url": "https://tti.wd1.myworkdayjobs.com/milwaukee"
     },
     {
       "company": "MintMCP",
       "ats": "ashby",
       "board": "mintmcp",
       "key": "ashby:mintmcp",
-      "url": "https://jobs.ashbyhq.com/mintmcp/44363147-6de9-4271-bfa4-b0eac6542362"
+      "url": "https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b"
+    },
+    {
+      "company": "Mirage",
+      "ats": "ashby",
+      "board": "mirage",
+      "key": "ashby:mirage",
+      "url": "https://jobs.ashbyhq.com/mirage/ab54c002-4365-42ba-829a-a5bd30a9b7ef"
     },
     {
       "company": "Monolithic Power Systems, Inc.",
@@ -1681,13 +1681,6 @@
       "url": "https://jobs.lever.co/reply/d24a1372-b895-4835-80ab-3ca3ef6c97e6"
     },
     {
-      "company": "Rhombus",
-      "ats": "lever",
-      "board": "rhombus-systems",
-      "key": "lever:rhombus-systems",
-      "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380"
-    },
-    {
       "company": "Ridgeline",
       "ats": "greenhouse",
       "board": "ridgeline",
@@ -1926,6 +1919,13 @@
       "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5516209-0"
     },
     {
+      "company": "State of South Carolina",
+      "ats": "greenhouse",
+      "board": "sc",
+      "key": "greenhouse:sc",
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5516433-0"
+    },
+    {
       "company": "State of Washington",
       "ats": "greenhouse",
       "board": "washington",
@@ -1980,6 +1980,13 @@
       "board": "td_bank_careers",
       "key": "workday:td.wd3.myworkdayjobs.com/td_bank_careers",
       "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers"
+    },
+    {
+      "company": "Telnyx",
+      "ats": "greenhouse",
+      "board": "telnyx54",
+      "key": "greenhouse:telnyx54",
+      "url": "https://job-boards.greenhouse.io/telnyx54/jobs/8034661003"
     },
     {
       "company": "Tenstorrent",
@@ -2218,6 +2225,13 @@
       "board": "volta",
       "key": "ashby:volta",
       "url": "https://jobs.ashbyhq.com/volta/610cc420-1cd8-401e-92a8-b0c45136a4a9/application"
+    },
+    {
+      "company": "Walmart",
+      "ats": "workday",
+      "board": "walmartexternal",
+      "key": "workday:walmart.wd504.myworkdayjobs.com/walmartexternal",
+      "url": "https://walmart.wd504.myworkdayjobs.com/walmartexternal"
     },
     {
       "company": "Waymo",

@@ -1,13 +1,13 @@
 {
-  "at": "2026-10-15T16:29:22.391Z",
+  "at": "2026-10-15T16:51:48.763Z",
   "exitCode": 0,
-  "elapsedSec": 68,
-  "newMatches": 337,
+  "elapsedSec": 59,
+  "newMatches": 339,
   "loginWall": false,
   "paused": false,
   "apiErrors": [],
-  "companyCount": 337,
-  "boardLeadCount": 85,
+  "companyCount": 339,
+  "boardLeadCount": 84,
   "boardFreshCount": 55,
   "leadSources": [
     "jobright-cache",
