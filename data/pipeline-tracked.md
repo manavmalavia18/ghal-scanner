@@ -253,4 +253,13 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/clera/97fd9efd-1ebb-4070-9749-2c834f7e8742 | Clera | Machine Learning Engineer (Mid-Level) | San Francisco | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195 | Lightyear | Software Engineer | United States · Remote | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/pursuit/750c1ee8-6779-47b9-8342-30ed21e632e9 | Pursuit | Full Stack Engineer (Remote, USA) | United States · Remote | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/spectral%20labs/db2466aa-5d44-4cac-9c68-faac0a3f906e | Spectral Labs | AI Engineer | San Francisco | posted: 2026-10-14
+- [ ] https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c | Zus Health | Data Acquisition Software Engineering Co-op | Boston, MA | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/sirenopt/jobs/4452002009 | SirenOpt | Software Engineer (Early Career) – C++ & Systems | San Leandro, California, United States | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8881645002 | SmartAsset | Software Engineer | Remote, Contiguous United States | posted: 2026-10-14
+- [ ] https://job-boards.greenhouse.io/truveta/jobs/6224827004 | Truveta | Software Engineer - Security & Trust | Seattle, WA | posted: 2026-10-14
+- [ ] https://etsy.wd5.myworkdayjobs.com/etsy_careers/job/Brooklyn-New-York/Software-Engineer-II--Observability_JR5951-1 | Etsy | Software Engineer II, Observability | Brooklyn, New York | posted: 2026-10-15
+
 ## Processed
