@@ -562,3 +562,5 @@
 
 - [ ] https://job-boards.eu.greenhouse.io/moniepoint/jobs/5007070101 | moniepoint | Site Reliability Engineer | Remote, Pakistan | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/6225257004 | externaljobboards | Associate Full-Stack Software Engineer (Node.js, React) | Bulgaria, Georgia, Lithuania, Poland , Uzbekistan | posted: 2026-10-15
+
+- [ ] https://job-boards.greenhouse.io/pitchbookdata/jobs/4722216006 | pitchbookdata | Machine Learning Engineer | Seattle, Washington, United States | posted: 2026-10-15
