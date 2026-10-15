@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T20:15:23.020Z",
+  "fetchedAt": "2026-10-15T20:37:54.995Z",
   "scrapedAt": "2026-10-15T15:22:31.046029+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 330,
+  "companyCount": 341,
   "companies": [
     {
       "company": "Aaru",
@@ -211,6 +211,13 @@
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b"
     },
     {
+      "company": "Auterion",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8892969002",
+      "url": "https://auterion.com/company/careers-open-position/8892969002?gh_jid=8892969002"
+    },
+    {
       "company": "Avis Budget Group",
       "ats": "workday",
       "board": "abg_careers",
@@ -339,6 +346,13 @@
     {
       "company": "Cadence Design Systems",
       "ats": "workday",
+      "board": "university_cst",
+      "key": "workday:cadence.wd1.myworkdayjobs.com/university_cst",
+      "url": "https://cadence.wd1.myworkdayjobs.com/university_cst"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "ats": "workday",
       "board": "external_careers",
       "key": "workday:cadence.wd1.myworkdayjobs.com/external_careers",
       "url": "https://cadence.wd1.myworkdayjobs.com/external_careers"
@@ -421,18 +435,18 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers"
     },
     {
+      "company": "City of Lincoln",
+      "ats": "greenhouse",
+      "board": "lincolnne",
+      "key": "greenhouse:lincolnne",
+      "url": "https://www.governmentjobs.com/careers/lincolnne/jobs/5517591-0"
+    },
+    {
       "company": "City of Malibu",
       "ats": "greenhouse",
       "board": "malibucity",
       "key": "greenhouse:malibucity",
       "url": "https://www.governmentjobs.com/careers/malibucity/jobs/5515595-0"
-    },
-    {
-      "company": "City of Minneapolis",
-      "ats": "greenhouse",
-      "board": "minneapolismn",
-      "key": "greenhouse:minneapolismn",
-      "url": "https://www.governmentjobs.com/careers/minneapolismn/jobs/5501791-0"
     },
     {
       "company": "City Storage Systems",
@@ -601,6 +615,13 @@
       "board": "cyberhaven",
       "key": "ashby:cyberhaven",
       "url": "https://jobs.ashbyhq.com/cyberhaven/b7cc8341-aeeb-4036-977f-003c5c3054bd"
+    },
+    {
+      "company": "d-Matrix",
+      "ats": "ashby",
+      "board": "d-matrix",
+      "key": "ashby:d-matrix",
+      "url": "https://jobs.ashbyhq.com/d-matrix/cabbc342-25fc-4679-8b46-8c7a6850f824"
     },
     {
       "company": "Databento",
@@ -911,6 +932,13 @@
       "url": "https://gsknch.wd3.myworkdayjobs.com/gskcareers"
     },
     {
+      "company": "Halvik",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1885213",
+      "url": "https://halvik.isolvedhire.com/jobs/1885213"
+    },
+    {
       "company": "Health Care Service Corporation",
       "ats": "workday",
       "board": "hcsc_external",
@@ -1028,13 +1056,6 @@
       "board": "",
       "key": "greenhouse-id:5265696007",
       "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007"
-    },
-    {
-      "company": "Inspire Brands",
-      "ats": "workday",
-      "board": "InspireCareers",
-      "key": "workday:inspirebrands.wd5.myworkdayjobs.com/InspireCareers",
-      "url": "https://inspirebrands.wd5.myworkdayjobs.com/InspireCareers"
     },
     {
       "company": "Intel",
@@ -1289,6 +1310,13 @@
       "url": "https://mark43.com/list-job/8285303?gh_jid=8285303"
     },
     {
+      "company": "Mecka AI",
+      "ats": "ashby",
+      "board": "mecka.ai",
+      "key": "ashby:mecka.ai",
+      "url": "https://jobs.ashbyhq.com/mecka.ai/72309a18-2522-4602-8770-d4bb6fad928a"
+    },
+    {
       "company": "Meta",
       "ats": "greenhouse",
       "board": "",
@@ -1408,6 +1436,13 @@
       "url": "https://nike.wd1.myworkdayjobs.com/nke"
     },
     {
+      "company": "Nimble Robotics",
+      "ats": "greenhouse",
+      "board": "nimblerobotics",
+      "key": "greenhouse:nimblerobotics",
+      "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4453394009"
+    },
+    {
       "company": "Nissan",
       "ats": "workday",
       "board": "nissanjobs",
@@ -1427,6 +1462,13 @@
       "board": "novacredit",
       "key": "greenhouse:novacredit",
       "url": "https://job-boards.greenhouse.io/novacredit/jobs/4450422009"
+    },
+    {
+      "company": "NSI Mechanical and Engineering",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4245287",
+      "url": "https://NSIMechanical.applicantpro.com/jobs/4245287"
     },
     {
       "company": "Nuro",
@@ -1555,13 +1597,6 @@
       "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
     },
     {
-      "company": "Prime Electric",
-      "ats": "lever",
-      "board": "primee",
-      "key": "lever:primee",
-      "url": "https://jobs.lever.co/primee/ae034c23-f0ca-490d-8c6d-da7aac856835"
-    },
-    {
       "company": "Prime Intellect",
       "ats": "ashby",
       "board": "primeintellect",
@@ -1616,6 +1651,13 @@
       "board": "careers",
       "key": "workday:qualys.wd5.myworkdayjobs.com/careers",
       "url": "https://qualys.wd5.myworkdayjobs.com/careers"
+    },
+    {
+      "company": "Quora",
+      "ats": "ashby",
+      "board": "quora",
+      "key": "ashby:quora",
+      "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3"
     },
     {
       "company": "Ramp",
@@ -1693,6 +1735,13 @@
       "board": "",
       "key": "greenhouse-id:330645",
       "url": "https://careers.spglobal.com/jobs/330645?lang=en-us"
+    },
+    {
+      "company": "S&P Global Inc.",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:330647",
+      "url": "https://careers.spglobal.com/jobs/330647?lang=en-us"
     },
     {
       "company": "Salesforce",
@@ -1839,7 +1888,7 @@
       "ats": "ashby",
       "board": "snowflake",
       "key": "ashby:snowflake",
-      "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68"
+      "url": "https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91"
     },
     {
       "company": "Sonos",
@@ -1854,6 +1903,27 @@
       "board": "spacex",
       "key": "greenhouse:spacex",
       "url": "https://boards.greenhouse.io/spacex/jobs/8864584002?gh_jid=8864584002"
+    },
+    {
+      "company": "SpecSys, Inc.",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1885165",
+      "url": "https://specsys.isolvedhire.com/jobs/1885165"
+    },
+    {
+      "company": "SpecSys, Inc.",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1885167",
+      "url": "https://specsys.isolvedhire.com/jobs/1885167"
+    },
+    {
+      "company": "SpecSys, Inc.",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1885170",
+      "url": "https://specsys.isolvedhire.com/jobs/1885170"
     },
     {
       "company": "Spectral Labs",
@@ -1881,7 +1951,7 @@
       "ats": "greenhouse",
       "board": "sc",
       "key": "greenhouse:sc",
-      "url": "https://www.governmentjobs.com/careers/sc/jobs/5516433-0"
+      "url": "https://www.governmentjobs.com/careers/sc/jobs/5517675-0"
     },
     {
       "company": "State of Washington",
@@ -2015,6 +2085,13 @@
       "board": "thumbtack",
       "key": "ashby:thumbtack",
       "url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b/application"
+    },
+    {
+      "company": "Tin Can",
+      "ats": "ashby",
+      "board": "tin-can",
+      "key": "ashby:tin-can",
+      "url": "https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e"
     },
     {
       "company": "Tindell's Building Materials",
