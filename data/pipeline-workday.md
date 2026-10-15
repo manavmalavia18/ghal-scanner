@@ -301,4 +301,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-HI-Camp-Smith/Software-Engineer-SME_RQ223041-1 | gdit | Software Engineer SME | USA HI Camp Smith | posted: 2026-10-15
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1 | boeing | Software Engineer / Vehicle Management Systems (Associate or Experienced) | USA - Seal Beach, CA | posted: 2026-10-15
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Front-End-Developer--Dynamic-Ad-Creative_REQ368337 | tmobile | Front-End Developer, Dynamic Ad Creative | New York, New York | posted: 2026-10-15
+- [ ] https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027 | salesforce | Software Engineering - MTS, Trust Intelligence Platform | California - San Francisco | posted: 2026-10-15
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306 | ngc | 2027 Software Engineer Dulles VA | 2 Locations | posted: 2026-10-15
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169200-1 | hp | Software Engineer | Austin, Texas, United States of America | posted: 2026-10-15
+- [ ] https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169201 | hp | Software Engineer | Austin, Texas, United States of America | posted: 2026-10-15
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169200 | hp | Software Engineer | Austin, Texas, United States of America | posted: 2026-10-15
+- [ ] https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169201-2 | hp | Software Engineer | Austin, Texas, United States of America | posted: 2026-10-15
+- [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Site-Reliability-Engineer-II_RP1039074 | ffive | Site Reliability Engineer II | Seattle | posted: 2026-10-15
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Ground-Software-Engineer--Mid-Career----Millennium-Space-Systems_JR2026514051 | boeing | Ground Software Engineer (Mid Career) - Millennium Space Systems | 2 Locations | posted: 2026-10-15
+
 ## Processed
