@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-15T14:16:02.729Z",
+  "fetchedAt": "2026-10-15T14:38:43.883Z",
   "days": 2,
-  "leadCount": 87,
-  "jobCount": 61,
+  "leadCount": 85,
+  "jobCount": 60,
   "boards": [
     {
       "key": "greenhouse:headlandstechnologiesllc",
@@ -20,26 +20,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:vercel",
-      "fetched": 90,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:flexe",
-      "fetched": 2,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:harbingermotors",
-      "fetched": 92,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:careers-home",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:pronto",
       "fetched": 31,
       "kept": 0
@@ -48,6 +28,26 @@
       "key": "greenhouse:asana",
       "fetched": 106,
       "kept": 1
+    },
+    {
+      "key": "greenhouse:harbingermotors",
+      "fetched": 92,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:flexe",
+      "fetched": 2,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:vercel",
+      "fetched": 90,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:careers-home",
+      "fetched": 0,
+      "kept": 0
     },
     {
       "key": "greenhouse:global-en",
@@ -60,13 +60,23 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:guidepointsecurity",
+      "fetched": 66,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:wehrtyou",
       "fetched": 89,
       "kept": 0
     },
     {
-      "key": "greenhouse:guidepointsecurity",
-      "fetched": 66,
+      "key": "greenhouse:icapitalnetwork",
+      "fetched": 211,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:explore",
+      "fetched": 0,
       "kept": 0
     },
     {
@@ -80,21 +90,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:icapitalnetwork",
-      "fetched": 211,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:xai",
-      "fetched": 302,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:washington",
       "fetched": 0,
       "kept": 0
@@ -105,8 +100,8 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:extend",
-      "fetched": 15,
+      "key": "greenhouse:xai",
+      "fetched": 302,
       "kept": 1
     },
     {
@@ -115,23 +110,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:extend",
+      "fetched": 15,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:macapital",
       "fetched": 8,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:aqr",
-      "fetched": 54,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:truveta",
-      "fetched": 37,
-      "kept": 2
-    },
-    {
-      "key": "greenhouse:louisiana",
-      "fetched": 0,
       "kept": 0
     },
     {
@@ -140,18 +125,23 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:graphcore",
-      "fetched": 184,
+      "key": "greenhouse:aqr",
+      "fetched": 54,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:louisiana",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:truveta",
+      "fetched": 37,
+      "kept": 2
     },
     {
       "key": "greenhouse:figureai",
       "fetched": 97,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:cloudflare",
-      "fetched": 442,
       "kept": 0
     },
     {
@@ -165,23 +155,13 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:graphcore",
+      "fetched": 184,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:gitlab",
-      "fetched": 215,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:pokemoncareers",
-      "fetched": 29,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:smartasset",
-      "fetched": 4,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:inversionspace",
-      "fetched": 85,
+      "fetched": 216,
       "kept": 0
     },
     {
@@ -190,13 +170,38 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:inversionspace",
+      "fetched": 85,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:smartasset",
+      "fetched": 4,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:pokemoncareers",
+      "fetched": 29,
+      "kept": 0
+    },
+    {
+      "key": "ashby:evenup",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:twitch",
       "fetched": 50,
       "kept": 1
     },
     {
-      "key": "ashby:evenup",
-      "fetched": 0,
+      "key": "ashby:etched",
+      "fetched": 115,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:sharkninjaoperatingllc",
+      "fetched": 155,
       "kept": 0
     },
     {
@@ -205,13 +210,13 @@
       "kept": 3
     },
     {
-      "key": "ashby:super.com",
-      "fetched": 19,
-      "kept": 0
+      "key": "ashby:aurora-operations-inc",
+      "fetched": 98,
+      "kept": 3
     },
     {
-      "key": "ashby:etched",
-      "fetched": 115,
+      "key": "ashby:super.com",
+      "fetched": 19,
       "kept": 0
     },
     {
@@ -220,14 +225,14 @@
       "kept": 1
     },
     {
-      "key": "ashby:primeintellect",
-      "fetched": 31,
+      "key": "ashby:neuralconcept",
+      "fetched": 37,
       "kept": 0
     },
     {
-      "key": "ashby:aurora-operations-inc",
-      "fetched": 98,
-      "kept": 3
+      "key": "ashby:tessera-labs",
+      "fetched": 22,
+      "kept": 0
     },
     {
       "key": "ashby:abby-care",
@@ -235,8 +240,8 @@
       "kept": 2
     },
     {
-      "key": "ashby:tessera-labs",
-      "fetched": 22,
+      "key": "greenhouse:cloudflare",
+      "fetched": 442,
       "kept": 0
     },
     {
@@ -245,13 +250,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:bernard",
-      "fetched": 7,
-      "kept": 1
+      "key": "ashby:primeintellect",
+      "fetched": 31,
+      "kept": 0
     },
     {
       "key": "ashby:cursor",
       "fetched": 134,
+      "kept": 1
+    },
+    {
+      "key": "ashby:base-power",
+      "fetched": 187,
       "kept": 1
     },
     {
@@ -260,14 +270,14 @@
       "kept": 1
     },
     {
-      "key": "ashby:claritypay",
-      "fetched": 13,
+      "key": "ashby:zus-health",
+      "fetched": 7,
       "kept": 0
     },
     {
-      "key": "ashby:base-power",
-      "fetched": 187,
-      "kept": 1
+      "key": "ashby:claritypay",
+      "fetched": 13,
+      "kept": 0
     },
     {
       "key": "ashby:affiniti",
@@ -275,9 +285,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:zus-health",
+      "key": "ashby:bernard",
       "fetched": 7,
-      "kept": 0
+      "kept": 1
     },
     {
       "key": "ashby:spectral%20labs",
@@ -285,9 +295,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:sharkninjaoperatingllc",
-      "fetched": 155,
-      "kept": 0
+      "key": "ashby:mintmcp",
+      "fetched": 7,
+      "kept": 1
     },
     {
       "key": "ashby:weave",
@@ -305,23 +315,13 @@
       "kept": 0
     },
     {
-      "key": "ashby:skydio",
-      "fetched": 160,
-      "kept": 0
-    },
-    {
-      "key": "ashby:mintmcp",
-      "fetched": 7,
-      "kept": 1
-    },
-    {
       "key": "ashby:wayve",
       "fetched": 166,
       "kept": 2
     },
     {
-      "key": "ashby:chainalysis-careers",
-      "fetched": 50,
+      "key": "ashby:skydio",
+      "fetched": 160,
       "kept": 0
     },
     {
@@ -335,13 +335,13 @@
       "kept": 0
     },
     {
-      "key": "lever:reply",
-      "fetched": 43,
+      "key": "lever:rynoss",
+      "fetched": 19,
       "kept": 0
     },
     {
-      "key": "lever:rynoss",
-      "fetched": 19,
+      "key": "lever:reply",
+      "fetched": 43,
       "kept": 0
     },
     {
@@ -355,28 +355,8 @@
       "kept": 0
     },
     {
-      "key": "lever:cfsenergy",
-      "fetched": 123,
-      "kept": 0
-    },
-    {
-      "key": "lever:amtengineering",
-      "fetched": 114,
-      "kept": 0
-    },
-    {
       "key": "lever:rhombus-systems",
       "fetched": 7,
-      "kept": 0
-    },
-    {
-      "key": "lever:venusaero",
-      "fetched": 27,
-      "kept": 0
-    },
-    {
-      "key": "lever:enablecomp",
-      "fetched": 19,
       "kept": 0
     },
     {
@@ -385,9 +365,9 @@
       "kept": 0
     },
     {
-      "key": "workday:jpi.wd1.myworkdayjobs.com/jpicareers",
-      "fetched": 20,
-      "kept": 1
+      "key": "lever:amtengineering",
+      "fetched": 114,
+      "kept": 0
     },
     {
       "key": "lever:zoox",
@@ -395,8 +375,8 @@
       "kept": 2
     },
     {
-      "key": "workday:cadence.wd1.myworkdayjobs.com/univ_careers",
-      "fetched": 18,
+      "key": "workday:jpi.wd1.myworkdayjobs.com/jpicareers",
+      "fetched": 19,
       "kept": 0
     },
     {
@@ -410,14 +390,29 @@
       "kept": 7
     },
     {
-      "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
-      "fetched": 20,
-      "kept": 1
+      "key": "workday:cadence.wd1.myworkdayjobs.com/univ_careers",
+      "fetched": 18,
+      "kept": 0
+    },
+    {
+      "key": "lever:shieldai",
+      "fetched": 612,
+      "kept": 0
     },
     {
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
       "fetched": 80,
       "kept": 0
+    },
+    {
+      "key": "workday:stout.wd5.myworkdayjobs.com/stout-experienced-careers",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "lever:veeva",
+      "fetched": 925,
+      "kept": 1
     },
     {
       "key": "workday:broadridge.wd5.myworkdayjobs.com/careers",
@@ -430,14 +425,9 @@
       "kept": 0
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 612,
+      "key": "lever:cfsenergy",
+      "fetched": 123,
       "kept": 0
-    },
-    {
-      "key": "lever:veeva",
-      "fetched": 927,
-      "kept": 1
     }
   ],
   "jobs": [
@@ -552,16 +542,6 @@
       "board": "typesafe-ai"
     },
     {
-      "title": "Full Stack Engineer (Remote, USA)",
-      "url": "https://jobs.ashbyhq.com/pursuit/750c1ee8-6779-47b9-8342-30ed21e632e9",
-      "company": "Pursuit",
-      "location": "United States · Remote",
-      "postedAt": "2026-10-14T19:49:27.453Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "pursuit"
-    },
-    {
       "title": "Software Engineer II, Core Services",
       "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bd2ac31d-c757-43fd-96d8-dc00f0e8cc3b",
       "company": "Aurora",
@@ -592,6 +572,16 @@
       "board": "aurora-operations-inc"
     },
     {
+      "title": "Full Stack Engineer (Remote, USA)",
+      "url": "https://jobs.ashbyhq.com/pursuit/750c1ee8-6779-47b9-8342-30ed21e632e9",
+      "company": "Pursuit",
+      "location": "United States · Remote",
+      "postedAt": "2026-10-14T19:49:27.453Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "pursuit"
+    },
+    {
       "title": "Senior Applied AI Engineer",
       "url": "https://jobs.ashbyhq.com/abby-care/548ec045-a4c6-4ad8-911f-cfde8044d259",
       "company": "Abby Care",
@@ -612,16 +602,6 @@
       "board": "abby-care"
     },
     {
-      "title": "AI Engineer, Software Factory",
-      "url": "https://jobs.ashbyhq.com/bernard/5baf979e-5a34-444b-9a96-e069b1a6632e",
-      "company": "Bernard",
-      "location": "New York City",
-      "postedAt": "2026-10-14T22:41:17.074Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "bernard"
-    },
-    {
       "title": "Software Engineer, Model Lifecycle and Signals ",
       "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
       "company": "Cursor",
@@ -630,6 +610,16 @@
       "salary": "",
       "ats": "Ashby",
       "board": "cursor"
+    },
+    {
+      "title": "Software Engineer, Algorithms & Infrastructure",
+      "url": "https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593",
+      "company": "Base Power Company",
+      "location": "Austin, TX",
+      "postedAt": "2026-10-14T23:32:36.027Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "base-power"
     },
     {
       "title": "Software Engineer",
@@ -642,14 +632,14 @@
       "board": "lightyear-ai"
     },
     {
-      "title": "Software Engineer, Algorithms & Infrastructure",
-      "url": "https://jobs.ashbyhq.com/base-power/0ccc74f5-3330-4379-9faa-6ca1b39d4593",
-      "company": "Base Power Company",
-      "location": "Austin, TX",
-      "postedAt": "2026-10-14T23:32:36.027Z",
+      "title": "AI Engineer, Software Factory",
+      "url": "https://jobs.ashbyhq.com/bernard/5baf979e-5a34-444b-9a96-e069b1a6632e",
+      "company": "Bernard",
+      "location": "New York City",
+      "postedAt": "2026-10-14T22:41:17.074Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "base-power"
+      "board": "bernard"
     },
     {
       "title": "AI Engineer",
@@ -892,17 +882,6 @@
       "board": "crowdhealth"
     },
     {
-      "title": "AI Engineer",
-      "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/AI-Engineer_JR101441",
-      "company": "JPI",
-      "location": "Dallas Office",
-      "postedAt": "2026-10-14T12:00:00.000Z",
-      "salary": "",
-      "ats": "Workday",
-      "board": "jpicareers",
-      "postedAtSource": "workday-detail"
-    },
-    {
       "title": "Senior Software Development Engineer in Test",
       "url": "https://jobs.lever.co/zoox/83bbaa62-c523-4972-9eb9-bfdc8a04c0f5",
       "company": "Zoox",
@@ -1044,6 +1023,16 @@
       "postedAtSource": "workday-detail"
     },
     {
+      "title": "Associate DevOps Engineer",
+      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
+      "company": "Veeva Systems",
+      "location": "Massachusetts - Boston",
+      "postedAt": "2026-10-13T18:10:04.637Z",
+      "salary": "",
+      "ats": "Lever",
+      "board": "veeva"
+    },
+    {
       "title": "Software Engineer (Hybrid, Brentwood, NY or NYC)",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Edgewood-NY/Software-Engineer--Hybrid--Brentwood--NY-or-NYC-_JR1086526",
       "company": "Broadridge",
@@ -1053,16 +1042,6 @@
       "ats": "Workday",
       "board": "careers",
       "postedAtSource": "workday-detail"
-    },
-    {
-      "title": "Associate DevOps Engineer",
-      "url": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2",
-      "company": "Veeva Systems",
-      "location": "Massachusetts - Boston",
-      "postedAt": "2026-10-13T18:10:04.637Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "veeva"
     }
   ],
   "leadSources": [
