@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-15T14:38:43.907Z",
+  "fetchedAt": "2026-10-15T15:01:21.701Z",
   "scrapedAt": "2026-10-15T03:05:20.496826+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 309,
+  "companyCount": 306,
   "companies": [
     {
       "company": "Abbott",
@@ -482,13 +482,6 @@
       "board": "cfsenergy",
       "key": "lever:cfsenergy",
       "url": "https://jobs.lever.co/cfsenergy/66125f64-1340-410e-9f81-24b37d69f360"
-    },
-    {
-      "company": "Conner Strong & Buckelew",
-      "ats": "greenhouse",
-      "board": "csbinternship",
-      "key": "greenhouse:csbinternship",
-      "url": "https://job-boards.greenhouse.io/csbinternship/jobs/4449867009"
     },
     {
       "company": "Constellation",
@@ -1499,13 +1492,6 @@
       "url": "https://jobs.ashbyhq.com/recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338"
     },
     {
-      "company": "Red Ventures",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8274586",
-      "url": "https://www.redventures.com/careers/positions/open?gh_jid=8274586"
-    },
-    {
       "company": "Redwood Materials",
       "ats": "greenhouse",
       "board": "redwoodmaterials",
@@ -1875,13 +1861,6 @@
       "board": "weitzcareers",
       "key": "workday:weitz.wd504.myworkdayjobs.com/weitzcareers",
       "url": "https://weitz.wd504.myworkdayjobs.com/weitzcareers"
-    },
-    {
-      "company": "Thea Energy",
-      "ats": "lever",
-      "board": "thea.energy",
-      "key": "lever:thea.energy",
-      "url": "https://jobs.lever.co/thea.energy/4b6afe2c-103a-41db-abdd-a3080c958f92"
     },
     {
       "company": "Thrivent",
