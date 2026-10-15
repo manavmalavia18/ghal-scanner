@@ -497,4 +497,11 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3 | harvey | Software Engineer | San Francisco | posted: 2026-10-14
 - [ ] https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8034005003 | blackcanyonconsulting | Account Backend Engineer | Bethesda, Maryland | posted: 2026-10-14
 
+- [ ] https://jobs.ashbyhq.com/abby-care/8b476294-6286-4292-8836-329db2128f89 | abby-care | Applied AI Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4 | cursor | Software Engineer, Model Lifecycle and Signals | New York · San Francisco · United States | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8283735 | doordashusa | Software Engineer, ML Infrastructure (MDX) | San Francisco, CA; Sunnyvale, CA; Seattle, WA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236 | openai | Client Platform Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/sirenopt/jobs/4452002009 | sirenopt | Software Engineer (Early Career) – C++ & Systems | San Leandro, California, United States | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/8268333 | mozilla | Software Engineer, Firefox Desktop Integrations | Remote Canada | posted: 2026-10-15
+
 ## Processed
