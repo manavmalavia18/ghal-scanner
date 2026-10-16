@@ -399,4 +399,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II---InsurTech_R-110027-1 | Expedia | Software Development Engineer II - InsurTech | Washington - Seattle Campus | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/7cd509b3-5e8b-476b-9a36-8293671a2454 | Hadrian | Software Engineer, Identity & Access Management | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States · Seattle/Bellevue Area, WA · Seattle/Bellevue Area | posted: 2026-10-16
 
+- [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Software-Engineer_JR2023-16685 | Callaway | Software Engineer | 2 Locations | posted: 2026-10-16
+
 ## Processed
