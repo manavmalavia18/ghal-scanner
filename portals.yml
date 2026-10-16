@@ -8853,6 +8853,81 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "FSH Technologies"
+    careers_url: https://jobs.ashbyhq.com/fsh
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "CSG Consultants"
+    careers_url: https://job-boards.greenhouse.io/csgconsultantsprivatelink
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ngrok"
+    careers_url: https://job-boards.greenhouse.io/ngrokinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "American Family Insurance"
+    careers_url: https://amfam.wd1.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "BrightView"
+    careers_url: https://brightview.wd501.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Central Hudson Gas & Electric"
+    careers_url: https://cenhud.wd5.myworkdayjobs.com/cenhud
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Choice Hotels International"
+    careers_url: https://choicehotels.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Conagra Brands"
+    careers_url: https://conagrabrands.wd1.myworkdayjobs.com/careers_us
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Hancock Whitney"
+    careers_url: https://hancockwhitney.wd5.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Board of Water and Light"
+    careers_url: https://lbwl.wd12.myworkdayjobs.com/bwlcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "M&T Bank"
+    careers_url: https://mtb.wd5.myworkdayjobs.com/campus
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Regions Financial Corporation"
+    careers_url: https://regions.wd5.myworkdayjobs.com/regions_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "S&P Global Inc."
+    careers_url: https://spgi.wd5.myworkdayjobs.com/spgi_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Terex"
+    careers_url: https://terex.wd1.myworkdayjobs.com/terexcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tutor Perini Corporation"
+    careers_url: https://tutorperini.wd12.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

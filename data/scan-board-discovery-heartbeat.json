@@ -1,8 +1,84 @@
 {
-  "at": "2026-10-16T20:16:08.017Z",
-  "leadsScanned": 1805,
-  "totalBoardsKnown": 944,
-  "alreadyTracked": 944,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-16T21:00:09.290Z",
+  "leadsScanned": 1865,
+  "totalBoardsKnown": 966,
+  "alreadyTracked": 951,
+  "newlyPromoted": 15,
+  "newBoards": [
+    {
+      "name": "FSH Technologies",
+      "careers_url": "https://jobs.ashbyhq.com/fsh",
+      "provider": "ashby"
+    },
+    {
+      "name": "CSG Consultants",
+      "careers_url": "https://job-boards.greenhouse.io/csgconsultantsprivatelink",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "ngrok",
+      "careers_url": "https://job-boards.greenhouse.io/ngrokinc",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "American Family Insurance",
+      "careers_url": "https://amfam.wd1.myworkdayjobs.com/careers",
+      "provider": "workday"
+    },
+    {
+      "name": "BrightView",
+      "careers_url": "https://brightview.wd501.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "Central Hudson Gas & Electric",
+      "careers_url": "https://cenhud.wd5.myworkdayjobs.com/cenhud",
+      "provider": "workday"
+    },
+    {
+      "name": "Choice Hotels International",
+      "careers_url": "https://choicehotels.wd5.myworkdayjobs.com/external",
+      "provider": "workday"
+    },
+    {
+      "name": "Conagra Brands",
+      "careers_url": "https://conagrabrands.wd1.myworkdayjobs.com/careers_us",
+      "provider": "workday"
+    },
+    {
+      "name": "Hancock Whitney",
+      "careers_url": "https://hancockwhitney.wd5.myworkdayjobs.com/careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Board of Water and Light",
+      "careers_url": "https://lbwl.wd12.myworkdayjobs.com/bwlcareers",
+      "provider": "workday"
+    },
+    {
+      "name": "M&T Bank",
+      "careers_url": "https://mtb.wd5.myworkdayjobs.com/campus",
+      "provider": "workday"
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "careers_url": "https://regions.wd5.myworkdayjobs.com/regions_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "S&P Global Inc.",
+      "careers_url": "https://spgi.wd5.myworkdayjobs.com/spgi_careers",
+      "provider": "workday"
+    },
+    {
+      "name": "Terex",
+      "careers_url": "https://terex.wd1.myworkdayjobs.com/terexcareers",
+      "provider": "workday"
+    },
+    {
+      "name": "Tutor Perini Corporation",
+      "careers_url": "https://tutorperini.wd12.myworkdayjobs.com/external",
+      "provider": "workday"
+    }
+  ]
 }
