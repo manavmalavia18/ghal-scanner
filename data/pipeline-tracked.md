@@ -378,4 +378,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/clera/76c18c45-9344-4ed3-a427-ac7fbd9639a8 | Clera | AI Engineer (Mid-Level) | San Francisco | posted: 2026-10-16
 - [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Systems-Engineer--Server-and-Cloud_J2452498 | Jabil | Server Platform Engineer | Austin, TX | posted: 2026-10-16
 
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425 | Entrust | Software Engineering Co-op | United States - Shakopee, MN (GHQ) | posted: 2026-10-16
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-III--Media-Solutions_R-109666-2 | Expedia | Software Development Engineer III, Media Solutions | Washington - Seattle Campus | posted: 2026-10-16
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Software-Development-Engineer-III--Advertising-Technology_R-104546 | Expedia | Software Development Engineer III, Advertising Technology | 2 Locations | posted: 2026-10-16
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Validation-Software-Engineer_30218292-2 | Carrier | Validation Software Engineer | CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA | posted: 2026-10-16
+
 ## Processed
