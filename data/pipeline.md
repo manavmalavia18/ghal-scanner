@@ -669,3 +669,5 @@
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8262968 | braze | Software Engineer II, User Targeting | Chicago | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8262953 | braze | Software Engineer II, User Targeting | Austin | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8262294 | braze | Software Engineer II, User Targeting | New York City | posted: 2026-10-16
+
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4744387005 | assemblyai | Software Engineer, Agent Experience | North America | posted: 2026-10-16
