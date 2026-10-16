@@ -372,4 +372,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Full-Stack-Software-Developer--Mid-level_331602 | CACI | Full Stack Software Developer, Mid-level | Denver, CO, US | posted: 2026-10-16
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II_01883009 | RTX | Software Engineer II | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Atlanta-Georgia/Engineer--Site-Reliability_REQ376643-2 | T-Mobile | Engineer, Site Reliability | Atlanta, Georgia | posted: 2026-10-16
+
 ## Processed
