@@ -364,4 +364,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Full-Stack-Software-Developer---Hybrid-OR-Remote_R-084963 | Rocket Companies | Full Stack Software Developer - Hybrid OR Remote | 3 Locations | posted: 2026-10-16
 
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347 | Boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer_01883008 | RTX | Software Engineer | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
+
 ## Processed
