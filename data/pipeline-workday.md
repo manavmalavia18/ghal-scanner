@@ -373,4 +373,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Fullstack-Software-Dev-Engineer-II_JR0026920 | ouryahoo | Fullstack Software Dev Engineer II | United States of America | posted: 2026-10-16
 
+- [ ] https://pwc.wd3.myworkdayjobs.com/us_entry_level_careers/job/NY-New-York/New-York---Tax-LLM---Associate---Summer-Fall-2027_5292672EIB-1 | pwc | New York - Tax LLM - Associate - Summer/Fall 2027 | NY-New York | posted: 2026-10-16
+- [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425 | entrust | Software Engineering Co-op | United States - Shakopee, MN (GHQ) | posted: 2026-10-16
+
 ## Processed
