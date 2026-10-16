@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T18:22:24.533Z",
+  "fetchedAt": "2026-10-16T18:43:19.565Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 263,
+  "companyCount": 265,
   "companies": [
     {
       "company": "1Password",
@@ -419,6 +419,13 @@
       "board": "cowboyspace",
       "key": "ashby:cowboyspace",
       "url": "https://jobs.ashbyhq.com/cowboyspace/27c35fe2-0227-443a-95bc-6b9504c47a2b"
+    },
+    {
+      "company": "Cross River Bank",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8035024003",
+      "url": "https://www.crossriver.com/greenhouse?gh_jid=8035024003"
     },
     {
       "company": "CrowdStrike",
@@ -1707,6 +1714,13 @@
       "board": "careers",
       "key": "workday:vanderlande.wd3.myworkdayjobs.com/careers",
       "url": "https://vanderlande.wd3.myworkdayjobs.com/careers"
+    },
+    {
+      "company": "Veeam Software",
+      "ats": "greenhouse",
+      "board": "veeamsoftware",
+      "key": "greenhouse:veeamsoftware",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101"
     },
     {
       "company": "Veeva Systems",
