@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T15:47:28.805Z",
+  "fetchedAt": "2026-10-16T16:09:22.748Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 259,
+  "companyCount": 257,
   "companies": [
     {
       "company": "1Password",
@@ -314,13 +314,6 @@
       "board": "lincolnne",
       "key": "greenhouse:lincolnne",
       "url": "https://www.governmentjobs.com/careers/lincolnne/jobs/5517591-0"
-    },
-    {
-      "company": "City Storage Systems",
-      "ats": "greenhouse",
-      "board": "cssmerge",
-      "key": "greenhouse:cssmerge",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
     },
     {
       "company": "ClarityPay",
@@ -1287,13 +1280,6 @@
       "board": "shsjb",
       "key": "workday:onehealthineers.wd3.myworkdayjobs.com/shsjb",
       "url": "https://onehealthineers.wd3.myworkdayjobs.com/shsjb"
-    },
-    {
-      "company": "Simpson Gumpertz & Heger",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8888115002",
-      "url": "https://www.sgh.com/careers/job-openings/view-job/8888115002?gh_jid=8888115002"
     },
     {
       "company": "SirenOpt",
