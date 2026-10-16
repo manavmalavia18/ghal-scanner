@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T17:59:08.060Z",
+  "fetchedAt": "2026-10-16T18:22:24.533Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 269,
+  "companyCount": 263,
   "companies": [
     {
       "company": "1Password",
@@ -62,13 +62,6 @@
       "board": "external_experienced",
       "key": "workday:adobe.wd5.myworkdayjobs.com/external_experienced",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
-    },
-    {
-      "company": "Affiniti",
-      "ats": "ashby",
-      "board": "affiniti",
-      "key": "ashby:affiniti",
-      "url": "https://jobs.ashbyhq.com/affiniti/f6ce54d4-3b11-41bc-95c0-f3a62bea434c"
     },
     {
       "company": "Affirm",
@@ -855,13 +848,6 @@
       "url": "https://relx.wd3.myworkdayjobs.com/risksolutions"
     },
     {
-      "company": "LG Energy Solution Arizona",
-      "ats": "greenhouse",
-      "board": "lgenergyaz",
-      "key": "greenhouse:lgenergyaz",
-      "url": "https://job-boards.greenhouse.io/lgenergyaz/jobs/5450205008"
-    },
-    {
       "company": "Lightyear",
       "ats": "ashby",
       "board": "lightyear-ai",
@@ -1359,13 +1345,6 @@
       "url": "https://careers.servicenow.com/jobs/744000155594219/sr-software-engineer/"
     },
     {
-      "company": "ServiceNow",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:744000155582891",
-      "url": "https://careers.servicenow.com/jobs/744000155582891/data-platform-software-engineer/"
-    },
-    {
       "company": "SharkNinja",
       "ats": "greenhouse",
       "board": "sharkninjaoperatingllc",
@@ -1399,13 +1378,6 @@
       "board": "skhynixmemorysolutionsamericainc",
       "key": "greenhouse:skhynixmemorysolutionsamericainc",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4455114009"
-    },
-    {
-      "company": "SmartAsset",
-      "ats": "greenhouse",
-      "board": "smartasset",
-      "key": "greenhouse:smartasset",
-      "url": "https://job-boards.greenhouse.io/smartasset/jobs/8881645002"
     },
     {
       "company": "Snap Inc.",
@@ -1469,13 +1441,6 @@
       "board": "",
       "key": "greenhouse-id:1885170",
       "url": "https://specsys.isolvedhire.com/jobs/1885170"
-    },
-    {
-      "company": "Spectral Labs",
-      "ats": "ashby",
-      "board": "spectral%20labs",
-      "key": "ashby:spectral%20labs",
-      "url": "https://jobs.ashbyhq.com/spectral%20labs/c7d4c871-2b72-4096-b6c2-df210d6fcb5f"
     },
     {
       "company": "Stanley Black & Decker",
@@ -1616,13 +1581,6 @@
       "board": "careerdepot",
       "key": "workday:homedepot.wd5.myworkdayjobs.com/careerdepot",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot"
-    },
-    {
-      "company": "The Pokémon Company International, Inc.",
-      "ats": "greenhouse",
-      "board": "pokemoncareers",
-      "key": "greenhouse:pokemoncareers",
-      "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/8015119003"
     },
     {
       "company": "The Schebler Company",
