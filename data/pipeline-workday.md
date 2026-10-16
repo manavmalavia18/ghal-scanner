@@ -371,4 +371,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623 | hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
 - [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Olivette-MO-USA/Software-Engineer_R26_0000003648 | bbinsurance | Software Engineer | Olivette, MO, USA | posted: 2026-10-16
 
+- [ ] https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Fullstack-Software-Dev-Engineer-II_JR0026920 | ouryahoo | Fullstack Software Dev Engineer II | United States of America | posted: 2026-10-16
+
 ## Processed
