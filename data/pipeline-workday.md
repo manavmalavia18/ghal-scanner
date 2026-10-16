@@ -336,4 +336,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Full-Stack-Software-Developer---Hybrid-OR-Remote_R-084963 | quickenloans | Full Stack Software Developer - Hybrid OR Remote | 3 Locations | posted: 2026-10-16
 - [ ] https://lplfinancial.wd1.myworkdayjobs.com/external/job/New-York/AVP-Software-Engineer---Data-Platform-Engineering--Python-AWS-_R-053354-1 | lplfinancial | AVP, Backend Software Engineer - Python/AWS | 2 Locations | posted: 2026-10-16
 
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II_01883009 | globalhr | Software Engineer II | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer_01883008 | globalhr | Software Engineer | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Software-Development-Engineering---Advisor-II_R-10405044-1 | fiserv | Software Development Engineering - Advisor II | Milwaukee, Wisconsin | posted: 2026-10-16
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347-1 | boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347 | boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
+
 ## Processed
