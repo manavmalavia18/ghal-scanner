@@ -671,3 +671,5 @@
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8262294 | braze | Software Engineer II, User Targeting | New York City | posted: 2026-10-16
 
 - [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4744387005 | assemblyai | Software Engineer, Agent Experience | North America | posted: 2026-10-16
+
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/7cd509b3-5e8b-476b-9a36-8293671a2454 | hadrian-automation | Software Engineer, Identity & Access Management | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States · Seattle/Bellevue Area, WA · Seattle/Bellevue Area | posted: 2026-10-16
