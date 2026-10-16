@@ -347,4 +347,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Boston/Senior-Software-Engineer_R-101374 | alegeus | Software Engineer II | 3 Locations | posted: 2026-10-16
 
+- [ ] https://luminegrp.wd3.myworkdayjobs.com/vidispine/job/Remote-Germany/Software-Engineer--Broadcast---Video-Formats_JR108249 | luminegrp | Software Engineer, Broadcast & Video Formats | 4 Locations | posted: 2026-10-16
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Systems-Engineer--Server-and-Cloud_J2452498 | jabil | Server Platform Engineer | Austin, TX | posted: 2026-10-16
+- [ ] https://dataminr.wd12.myworkdayjobs.com/dataminr/job/New-York-NY/Software-Engineer-II_JR2100 | dataminr | Software Engineer II | New York, NY | posted: 2026-10-16
+
 ## Processed
