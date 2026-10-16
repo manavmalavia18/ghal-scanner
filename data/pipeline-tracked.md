@@ -344,4 +344,22 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8032173003 | Affirm | Software Engineer II, Full Stack (Card Acquisition) | Remote US | posted: 2026-10-16
 - [ ] https://rb.wd5.myworkdayjobs.com/picfrs/job/Remote---USA/Software-Engineer--DTAS-Game-Changer-Project_R-0000033735-1 | Federal Reserve System | Software Engineer, DTAS Game Changer Project | Remote - USA | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Engineer--Site-Reliability_REQ376643-1 | Tmobile | Engineer, Site Reliability | Atlanta, Georgia | posted: 2026-10-16
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--Gen-AI-SDK--Agentic-AI--Guardrails--Evaluation-_R1003924-1 | Capital One | AI Engineer 5 (Gen AI SDK: Agentic AI, Guardrails, Evaluation) | 5 Locations | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/dialogueai/48219357-056f-4089-981a-0c773b196130 | Dialogue AI | Software Engineer | Los Angeles | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/gamma/fa99107a-c458-45fa-b856-add887b0a255 | Gamma | Software Engineer, Frontend | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef | Gamma | Software Engineer, Growth | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/integrate/4cfdbdb6-76c2-42e3-a77e-722b5a353516 | Integrate | Backend Engineer | Seattle, WA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/integrate/3400bdbc-6be2-4ef9-9256-4c7fd1e89d00 | Integrate | Full Stack Software Engineer | Seattle, WA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/relling/c9e6b558-aaa8-4bfb-9fc6-79620c134dc6 | Relling | Robotics Software Engineer | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/zyphra/7531f714-8809-498b-9bdb-44af16149824 | Zyphra | Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cloud | San Francisco | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8879308002 | Addepar | Software Engineer - Customer Facing Applied AI | Remote, USA | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/echo/jobs/4452483009 | Echo Neurotechnologies | Full Stack Software Engineer | San Francisco, CA | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452586008 | Honeycomb | Software Engineer I - LLM Observability | Remote - Canada | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/pitchbookdata/jobs/4722216006 | PitchBook Data, Inc. | Machine Learning Engineer | Seattle, Washington, United States | posted: 2026-10-15
+- [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Site-Reliability-Engineer-II_RP1039074 | F5 | Site Reliability Engineer II | Seattle | posted: 2026-10-15
+- [ ] https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--ML-Platform-Level-5_R0047200 | Snap Inc. | Software Engineer, ML Infrastructure, ML Platform Level 5 | 3 Locations | posted: 2026-10-15
+- [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Software-Engineer--ML-infrastructure--Core-Inference--Level-4_R0047198 | Snap Inc. | Software Engineer, ML infrastructure, Core Inference, Level 4 | 3 Locations | posted: 2026-10-15
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Engineer_REF089009W | Visa | Software Engineer | US - Denver, CO | posted: 2026-10-15
+
 ## Processed
