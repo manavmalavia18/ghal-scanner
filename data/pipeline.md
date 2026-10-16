@@ -643,3 +643,12 @@
 - [ ] https://jobs.ashbyhq.com/bjakcareer/1e4ddc1e-c737-4f84-8d85-ce5c51e9229b | bjakcareer | Applied Machine Learning Engineer | Poland · Remote | posted: 2026-10-16
 
 - [ ] https://job-boards.eu.greenhouse.io/cision/jobs/4998604101 | cision | Software Engineer II | Remote - Hungary | posted: 2026-10-16
+
+- [ ] https://www.crossriver.com/greenhouse?gh_jid=8035024003 | crossriverbank | Software Engineer II | Remote · Fort Lee, NJ | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8006329003 | affirm | Software Engineer II, Backend (Card) | Remote Spain | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8006331003 | affirm | Software Engineer II, Backend (Card) | Remote Poland | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/mintmcp/d9a53a1e-9724-4527-ab19-92c751814b04 | mintmcp | Software Engineer | San Mateo, CA · San Francisco, CA · San Francisco · United States of America | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8034410003 | globalizationpartners | AI Engineer I | Ireland (Remote-First) | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8033261003 | affirm | Machine Learning Engineer II (ROA + LTV ML) | Remote Canada | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8034413003 | globalizationpartners | AI Engineer I | United Kingdom (Remote-First) | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/engflow/6d2bb158-497c-4c6c-997b-34ded1e62812 | engflow | Site Reliability Engineer | New York · Austin · United States · Remote | posted: 2026-10-16
