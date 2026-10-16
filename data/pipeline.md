@@ -641,3 +641,5 @@
 - [ ] https://jobs.ashbyhq.com/bjakcareer/d29f9c52-9cbc-4c1f-ac30-b85163d3598d | bjakcareer | Applied Machine Learning Engineer | Germany · Remote | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/bjakcareer/834a4cc3-1dea-452f-95db-f7aa1aef1c46 | bjakcareer | Applied Machine Learning Engineer | Portugal · Remote | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/bjakcareer/1e4ddc1e-c737-4f84-8d85-ce5c51e9229b | bjakcareer | Applied Machine Learning Engineer | Poland · Remote | posted: 2026-10-16
+
+- [ ] https://job-boards.eu.greenhouse.io/cision/jobs/4998604101 | cision | Software Engineer II | Remote - Hungary | posted: 2026-10-16
