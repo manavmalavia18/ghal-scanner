@@ -333,4 +333,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TN-Chattanooga/DevOps-Engineer-III_REQ-14628 | terex | DevOps Engineer III | USA, TN, Chattanooga | posted: 2026-10-16
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380 | ngc | 2027 Software Engineer Morrisville NC | United States-North Carolina-Morrisville | posted: 2026-10-16
 
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Full-Stack-Software-Developer---Hybrid-OR-Remote_R-084963 | quickenloans | Full Stack Software Developer - Hybrid OR Remote | 3 Locations | posted: 2026-10-16
+- [ ] https://lplfinancial.wd1.myworkdayjobs.com/external/job/New-York/AVP-Software-Engineer---Data-Platform-Engineering--Python-AWS-_R-053354-1 | lplfinancial | AVP, Backend Software Engineer - Python/AWS | 2 Locations | posted: 2026-10-16
+
 ## Processed
