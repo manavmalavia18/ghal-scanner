@@ -8783,6 +8783,26 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Blee"
+    careers_url: https://jobs.ashbyhq.com/Blee
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Confido"
+    careers_url: https://jobs.ashbyhq.com/confido
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "Langdock"
+    careers_url: https://jobs.ashbyhq.com/langdock
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from nextplay
+  - name: "STRUCTURAL TECHNOLOGIES"
+    careers_url: https://structural.wd12.myworkdayjobs.com/structuraltechnologiescareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
