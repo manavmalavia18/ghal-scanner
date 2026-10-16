@@ -652,3 +652,5 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8033261003 | affirm | Machine Learning Engineer II (ROA + LTV ML) | Remote Canada | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8034413003 | globalizationpartners | AI Engineer I | United Kingdom (Remote-First) | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/engflow/6d2bb158-497c-4c6c-997b-34ded1e62812 | engflow | Site Reliability Engineer | New York · Austin · United States · Remote | posted: 2026-10-16
+
+- [ ] https://jobs.ashbyhq.com/vultr/ce91a915-c2fc-432e-918e-cefae90a017e | vultr | DevOps Engineer, Developer Relations | Remote - India | posted: 2026-10-16
