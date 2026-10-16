@@ -611,3 +611,6 @@
 - [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452586008 | honeycomb | Software Engineer I - LLM Observability | Remote - Canada | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452584008 | honeycomb | Software Engineer I - LLM Observability | Remote - United States | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/gallatin/f28a591f-a57c-4084-86ec-ae449a4f8ba7 | gallatin | Fullstack Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-15
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032175003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote Canada | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032173003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote US | posted: 2026-10-16
