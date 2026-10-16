@@ -338,4 +338,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/wispr-flow/e3f2d9e6-f32d-4121-a51a-7c67720242d6 | Wispr Flow | Platform Engineer, Developer Experience | San Francisco | posted: 2026-10-16
 - [ ] https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119 | CME Group | Platform Engineer I | Chicago - 20 S. Wacker | posted: 2026-10-16
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/AI-Engineer_333616 | CACI | AI Engineer | Washington, DC, US | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8033261003 | Affirm | Machine Learning Engineer II (ROA + LTV ML) | Remote Canada | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8006331003 | Affirm | Software Engineer II, Backend (Card) | Remote Poland | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032173003 | Affirm | Software Engineer II, Full Stack (Card Acquisition) | Remote US | posted: 2026-10-16
+- [ ] https://rb.wd5.myworkdayjobs.com/picfrs/job/Remote---USA/Software-Engineer--DTAS-Game-Changer-Project_R-0000033735-1 | Federal Reserve System | Software Engineer, DTAS Game Changer Project | Remote - USA | posted: 2026-10-16
+
 ## Processed
