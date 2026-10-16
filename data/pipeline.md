@@ -618,3 +618,26 @@
 - [ ] https://jobs.ashbyhq.com/wispr-flow/e3f2d9e6-f32d-4121-a51a-7c67720242d6 | wispr-flow | Platform Engineer, Developer Experience | San Francisco | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/dialogueai/48219357-056f-4089-981a-0c773b196130 | dialogueai | Software Engineer | Los Angeles | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/alpaca/jobs/6226254004 | alpaca | Full-Stack Platform Engineer | Remote - Americas | posted: 2026-10-16
+
+- [ ] https://jobs.ashbyhq.com/bjakcareer/ed931ce5-a247-494f-a68d-3c2ed4a1e3c1 | bjakcareer | Machine Learning Engineer, Applied AI | Singapore · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/f829c3d1-3aad-41c4-841d-2ea520641119 | bjakcareer | Machine Learning Engineer, Applied AI | China · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3811f184-c9a9-433a-8290-5783ae641a6b | bjakcareer | Machine Learning Engineer, Applied AI | Poland · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3e3c113a-d478-463e-a2ec-237bed0b9900 | bjakcareer | Machine Learning Engineer, Applied AI | Spain · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/3ff898a9-f990-4a2f-8237-85f5ba104185 | bjakcareer | Machine Learning Engineer, Applied AI | Portugal · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/32b583f0-aa63-499b-9ca7-d3583242941c | bjakcareer | Machine Learning Engineer, Applied AI | Germany · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1585c6ad-a39a-44f5-9a3c-8f85913a5866 | bjakcareer | Machine Learning Engineer, Applied AI | Sweden · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2b2fe3dd-1b3a-4ef8-96ac-4123f4a7aec6 | bjakcareer | Machine Learning Engineer, Applied AI | Ireland · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/04bc96e6-a2a2-4c4b-a091-afe4ed44dd9a | bjakcareer | Machine Learning Engineer, Applied AI | Switzerland · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/80593334-d3c3-473d-809b-e8975137c2cf | bjakcareer | Machine Learning Engineer, Applied AI | Seoul, Korea · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e66d0af3-cb8d-42a3-8db4-fad259326d2b | bjakcareer | Machine Learning Engineer, Applied AI | Portugal · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/a8809d29-c232-4e75-9d43-fe56fda06bd5 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | Sweden · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/49b09df5-1660-44b2-a36b-e156be707bb4 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1815a891-6854-4ada-9cd3-178009b807d1 | bjakcareer | Machine Learning Engineer, Ranking & Retrieval | China · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/56f522c4-b903-45ea-bb08-952b74641b56 | bjakcareer | Applied Machine Learning Engineer | Singapore · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2fddb7f2-3231-4c6f-b21c-3d69c3f353a7 | bjakcareer | Applied Machine Learning Engineer | United States · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/2f9c5101-0e69-446e-83c6-b72562743c0f | bjakcareer | Applied Machine Learning Engineer | Ireland · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/03d0e447-5788-4ab4-ba1f-73d40d127af0 | bjakcareer | Applied Machine Learning Engineer | Spain · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/01f383b8-bc47-4a76-9362-c6fddf2c1aad | bjakcareer | Applied Machine Learning Engineer | Sweden · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/d29f9c52-9cbc-4c1f-ac30-b85163d3598d | bjakcareer | Applied Machine Learning Engineer | Germany · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/834a4cc3-1dea-452f-95db-f7aa1aef1c46 | bjakcareer | Applied Machine Learning Engineer | Portugal · Remote | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/bjakcareer/1e4ddc1e-c737-4f84-8d85-ce5c51e9229b | bjakcareer | Applied Machine Learning Engineer | Poland · Remote | posted: 2026-10-16
