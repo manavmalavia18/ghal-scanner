@@ -378,4 +378,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1 | rockwellautomation | Process Automation Software Engineer | Milwaukee, Wisconsin, United States | posted: 2026-10-16
 
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | ngc | 2027 Associate/Software Engineer Pathways Dulles VA | United States-Virginia-Dulles | posted: 2026-10-16
+
 ## Processed
