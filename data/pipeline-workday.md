@@ -325,4 +325,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/ATLANTA-GA-USA/PS-Software-Engineer-IV_R1154954-3 | ncratleos | PS Software Engineer IV | ATLANTA, GA, USA | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Engineer--Site-Reliability_REQ376643-1 | tmobile | Engineer, Site Reliability | Atlanta, Georgia | posted: 2026-10-16
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--Gen-AI-SDK--Agentic-AI--Guardrails--Evaluation-_R1003924-1 | capitalone | AI Engineer 5 (Gen AI SDK: Agentic AI, Guardrails, Evaluation) | 5 Locations | posted: 2026-10-16
+
 ## Processed
