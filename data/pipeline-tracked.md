@@ -374,4 +374,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tmobile.wd1.myworkdayjobs.com/contractorconversion/job/Atlanta-Georgia/Engineer--Site-Reliability_REQ376643-2 | T-Mobile | Engineer, Site Reliability | Atlanta, Georgia | posted: 2026-10-16
 
+- [ ] https://jobs.ashbyhq.com/clera/dbd333e8-47d0-4fba-97ac-32d9aeb782e7 | Clera | Founding Applied AI Engineer | San Francisco | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/clera/76c18c45-9344-4ed3-a427-ac7fbd9639a8 | Clera | AI Engineer (Mid-Level) | San Francisco | posted: 2026-10-16
+- [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Systems-Engineer--Server-and-Cloud_J2452498 | Jabil | Server Platform Engineer | Austin, TX | posted: 2026-10-16
+
 ## Processed
