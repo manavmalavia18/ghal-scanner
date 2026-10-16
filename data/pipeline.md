@@ -614,3 +614,7 @@
 
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8032175003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote Canada | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8032173003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote US | posted: 2026-10-16
+
+- [ ] https://jobs.ashbyhq.com/wispr-flow/e3f2d9e6-f32d-4121-a51a-7c67720242d6 | wispr-flow | Platform Engineer, Developer Experience | San Francisco | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/dialogueai/48219357-056f-4089-981a-0c773b196130 | dialogueai | Software Engineer | Los Angeles | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6226254004 | alpaca | Full-Stack Platform Engineer | Remote - Americas | posted: 2026-10-16
