@@ -391,4 +391,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1 | Rockwell Automation | Process Automation Software Engineer | Milwaukee, Wisconsin, United States | posted: 2026-10-16
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W | Visa | Software Development Engineer- Product Reliability Engineering | US - Denver, CO | posted: 2026-10-16
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536-1 | Hewlett Packard Enterprise | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623-3 | Hewlett Packard Enterprise | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536-3 | Hpe | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623 | Hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
+
 ## Processed
