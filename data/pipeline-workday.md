@@ -360,4 +360,15 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W | visa | Software Development Engineer- Product Reliability Engineering | US - Denver, CO | posted: 2026-10-16
 
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Software-Engineer_1215584 | hpe | Software Engineer | San Jose, California, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536-1 | hpe | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623-3 | hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Software-Engineer_1215584-2 | hpe | Software Engineer | San Jose, California, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536 | hpe | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623-1 | hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/San-Jose-California-United-States-of-America/Software-Engineer_1215584-1 | hpe | Software Engineer | San Jose, California, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536-3 | hpe | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
+- [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623 | hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Olivette-MO-USA/Software-Engineer_R26_0000003648 | bbinsurance | Software Engineer | Olivette, MO, USA | posted: 2026-10-16
+
 ## Processed
