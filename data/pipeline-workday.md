@@ -380,4 +380,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499 | ngc | 2027 Associate/Software Engineer Pathways Dulles VA | United States-Virginia-Dulles | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/AI-Engineer_REQ379334 | tmobile | AI Engineer | 2 Locations | posted: 2026-10-16
+
 ## Processed
