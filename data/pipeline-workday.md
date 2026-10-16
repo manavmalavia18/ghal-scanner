@@ -358,4 +358,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203 | humana | ECM Software Engineer | 4 Locations | posted: 2026-10-16
 - [ ] https://erpa.wd12.myworkdayjobs.com/erpa/job/USA-TX-Remote/Software-Application-Developer_R1058 | erpa | Software Application Developer | USA TX Remote | posted: 2026-10-16
 
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W | visa | Software Development Engineer- Product Reliability Engineering | US - Denver, CO | posted: 2026-10-16
+
 ## Processed
