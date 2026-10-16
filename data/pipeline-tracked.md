@@ -387,4 +387,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intermediate-Software-Engineer_R-58401 | Gordon Food Service | Intermediate Software Engineer | 2 Locations | posted: 2026-10-16
 - [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203 | Humana | ECM Software Engineer | 4 Locations | posted: 2026-10-16
 
+- [ ] https://jobs.ashbyhq.com/kraken.com/d715661e-fe7e-4836-8c65-629de06eed8b | Payward, Inc. | Software Engineer - Java - CF Benchmark | Brazil · Peru · Colombia · Argentina · Paraguay · Mexico · Chile · Remote | posted: 2026-10-16
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1 | Rockwell Automation | Process Automation Software Engineer | Milwaukee, Wisconsin, United States | posted: 2026-10-16
+- [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W | Visa | Software Development Engineer- Product Reliability Engineering | US - Denver, CO | posted: 2026-10-16
+
 ## Processed
