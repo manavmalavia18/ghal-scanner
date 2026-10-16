@@ -367,4 +367,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347 | Boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
 - [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer_01883008 | RTX | Software Engineer | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
 
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057 | Bcbst | Software Engineer - UI | 2 Locations | posted: 2026-10-16
+- [ ] https://fiserv.wd5.myworkdayjobs.com/ext/job/Milwaukee-Wisconsin/Software-Development-Engineering---Advisor-II_R-10405044-1 | Fiserv | Software Development Engineering - Advisor II | Milwaukee, Wisconsin | posted: 2026-10-16
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Full-Stack-Software-Developer--Mid-level_331602 | CACI | Full Stack Software Developer, Mid-level | Denver, CO, US | posted: 2026-10-16
+- [ ] https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-II_01883009 | RTX | Software Engineer II | US-MA-MARLBOROUGH-MA4 ~ 1001 Boston Post Rd ~ BLDG 4 | posted: 2026-10-16
+
 ## Processed
