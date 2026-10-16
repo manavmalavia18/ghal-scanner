@@ -590,4 +590,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/8034413003 | globalizationpartners | AI Engineer I | United Kingdom (Remote-First) | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/engflow/6d2bb158-497c-4c6c-997b-34ded1e62812 | engflow | Site Reliability Engineer | New York · Austin · United States · Remote | posted: 2026-10-16
 
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4722607006?gh_jid=4722607006 | accenturefederalservices | Machine Learning Engineer | Washington, DC | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4722621006?gh_jid=4722621006 | accenturefederalservices | Generative AI Applications Engineer (Agents & RAG) | Washington, DC | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/iftother/jobs/8259660 | iftother | DevOps Engineer (Vac DST) | Remote (Worldwide) | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/logos/jobs/8259659 | logos | DevOps Engineer (Vac DST) | Remote (Worldwide) | posted: 2026-10-16
+
 ## Processed
