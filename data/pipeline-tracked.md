@@ -362,4 +362,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://snapchat.wd1.myworkdayjobs.com/snap/job/Bellevue-Washington/Software-Engineer--ML-infrastructure--Core-Inference--Level-4_R0047198 | Snap Inc. | Software Engineer, ML infrastructure, Core Inference, Level 4 | 3 Locations | posted: 2026-10-15
 - [ ] https://visa.wd5.myworkdayjobs.com/visa/job/US---Denver-CO/Software-Engineer_REF089009W | Visa | Software Engineer | US - Denver, CO | posted: 2026-10-15
 
+- [ ] https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Full-Stack-Software-Developer---Hybrid-OR-Remote_R-084963 | Rocket Companies | Full Stack Software Developer - Hybrid OR Remote | 3 Locations | posted: 2026-10-16
+
 ## Processed
