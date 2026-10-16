@@ -353,4 +353,9 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Validation-Software-Engineer_30218292-2 | carrier | Validation Software Engineer | CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ370324-1 | tmobile | Software Engineer | 3 Locations | posted: 2026-10-16
+- [ ] https://mastercard.wd1.myworkdayjobs.com/campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852 | mastercard | AI Engineer I, Launch Program 2027 – St. Louis, MO, US | O'Fallon, Missouri | posted: 2026-10-16
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203 | humana | ECM Software Engineer | 4 Locations | posted: 2026-10-16
+- [ ] https://erpa.wd12.myworkdayjobs.com/erpa/job/USA-TX-Remote/Software-Application-Developer_R1058 | erpa | Software Application Developer | USA TX Remote | posted: 2026-10-16
+
 ## Processed
