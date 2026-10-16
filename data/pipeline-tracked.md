@@ -383,4 +383,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Software-Development-Engineer-III--Advertising-Technology_R-104546 | Expedia | Software Development Engineer III, Advertising Technology | 2 Locations | posted: 2026-10-16
 - [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Validation-Software-Engineer_30218292-2 | Carrier | Validation Software Engineer | CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Software-Engineer_REQ370324-1 | Tmobile | Software Engineer | 3 Locations | posted: 2026-10-16
+- [ ] https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intermediate-Software-Engineer_R-58401 | Gordon Food Service | Intermediate Software Engineer | 2 Locations | posted: 2026-10-16
+- [ ] https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/ECM-Software-Engineer_R-434203 | Humana | ECM Software Engineer | 4 Locations | posted: 2026-10-16
+
 ## Processed
