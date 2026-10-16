@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T16:31:41.604Z",
+  "fetchedAt": "2026-10-16T16:53:30.424Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 262,
+  "companyCount": 269,
   "companies": [
     {
       "company": "1Password",
@@ -41,6 +41,13 @@
       "board": "abridge",
       "key": "ashby:abridge",
       "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e"
+    },
+    {
+      "company": "Accenture",
+      "ats": "workday",
+      "board": "accenturecareers",
+      "key": "workday:accenture.wd103.myworkdayjobs.com/accenturecareers",
+      "url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers"
     },
     {
       "company": "Addepar",
@@ -90,6 +97,20 @@
       "board": "airbus",
       "key": "workday:ag.wd3.myworkdayjobs.com/airbus",
       "url": "https://ag.wd3.myworkdayjobs.com/airbus"
+    },
+    {
+      "company": "Allison Transmission",
+      "ats": "workday",
+      "board": "ati-external",
+      "key": "workday:allisontransmission.wd1.myworkdayjobs.com/ati-external",
+      "url": "https://allisontransmission.wd1.myworkdayjobs.com/ati-external"
+    },
+    {
+      "company": "Ally Financial",
+      "ats": "workday",
+      "board": "Ally",
+      "key": "workday:ally.wd1.myworkdayjobs.com/Ally",
+      "url": "https://ally.wd1.myworkdayjobs.com/Ally"
     },
     {
       "company": "Anduril Industries",
@@ -414,6 +435,13 @@
       "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668915624?domain=coloradowfx.gov"
     },
     {
+      "company": "Crusoe",
+      "ats": "ashby",
+      "board": "crusoe",
+      "key": "ashby:crusoe",
+      "url": "https://jobs.ashbyhq.com/crusoe/fb2f4059-00a0-4e89-a58b-2e8d7a3ed0c6"
+    },
+    {
       "company": "Crypto.com",
       "ats": "lever",
       "board": "crypto",
@@ -631,6 +659,13 @@
       "url": "https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef"
     },
     {
+      "company": "GE Vernova",
+      "ats": "workday",
+      "board": "vernova_externalsite",
+      "key": "workday:gevernova.wd5.myworkdayjobs.com/vernova_externalsite",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite"
+    },
+    {
       "company": "General Motors",
       "ats": "workday",
       "board": "careers_gm",
@@ -671,6 +706,13 @@
       "board": "graphcore",
       "key": "greenhouse:graphcore",
       "url": "https://job-boards.greenhouse.io/graphcore/jobs/8890044002"
+    },
+    {
+      "company": "Gravity Payments",
+      "ats": "greenhouse",
+      "board": "gravitypayments17",
+      "key": "greenhouse:gravitypayments17",
+      "url": "https://job-boards.greenhouse.io/gravitypayments17/jobs/4453118009"
     },
     {
       "company": "H-E-B",
@@ -755,6 +797,13 @@
       "board": "jabil_careers",
       "key": "workday:jabil.wd5.myworkdayjobs.com/jabil_careers",
       "url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers"
+    },
+    {
+      "company": "Jasper Engines & Transmissions",
+      "ats": "workday",
+      "board": "JET_Careers",
+      "key": "workday:jasperholdings.wd504.myworkdayjobs.com/JET_Careers",
+      "url": "https://jasperholdings.wd504.myworkdayjobs.com/JET_Careers"
     },
     {
       "company": "KLA",
@@ -915,7 +964,7 @@
       "ats": "ashby",
       "board": "mintmcp",
       "key": "ashby:mintmcp",
-      "url": "https://jobs.ashbyhq.com/mintmcp/077296d4-ffab-4c00-b907-89d2caccd83b"
+      "url": "https://jobs.ashbyhq.com/mintmcp/d9a53a1e-9724-4527-ab19-92c751814b04"
     },
     {
       "company": "Mirage",
@@ -1100,6 +1149,13 @@
       "url": "https://peraton.jibeapply.com/jobs/172378"
     },
     {
+      "company": "Persistent Technology",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:1885705",
+      "url": "https://perstechinc.isolvedhire.com/jobs/1885705"
+    },
+    {
       "company": "Pfizer",
       "ats": "workday",
       "board": "pfizercareers",
@@ -1133,6 +1189,13 @@
       "board": "primeintellect",
       "key": "ashby:primeintellect",
       "url": "https://jobs.ashbyhq.com/primeintellect/7bd4beca-6c73-4a38-9a6b-09dfa855dcf0/application"
+    },
+    {
+      "company": "ProMach",
+      "ats": "workday",
+      "board": "promach",
+      "key": "workday:promachbuilt.wd108.myworkdayjobs.com/promach",
+      "url": "https://promachbuilt.wd108.myworkdayjobs.com/promach"
     },
     {
       "company": "PSECU",
@@ -1203,6 +1266,13 @@
       "board": "relx",
       "key": "workday:relx.wd3.myworkdayjobs.com/relx",
       "url": "https://relx.wd3.myworkdayjobs.com/relx"
+    },
+    {
+      "company": "Rennscot MFG",
+      "ats": "ashby",
+      "board": "rennscotmfg",
+      "key": "ashby:rennscotmfg",
+      "url": "https://jobs.ashbyhq.com/rennscotmfg/19630145-1218-41bb-94f0-8693eb5454f4"
     },
     {
       "company": "Rillet",
@@ -1349,7 +1419,7 @@
       "ats": "ashby",
       "board": "snowflake",
       "key": "ashby:snowflake",
-      "url": "https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91"
+      "url": "https://jobs.ashbyhq.com/snowflake/88a70f56-834d-44d4-add8-e36b739e5495"
     },
     {
       "company": "Solar Turbines",
@@ -1466,6 +1536,13 @@
     {
       "company": "T-Mobile",
       "ats": "workday",
+      "board": "external",
+      "key": "workday:tmobile.wd1.myworkdayjobs.com/external",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/external"
+    },
+    {
+      "company": "T-Mobile",
+      "ats": "workday",
       "board": "contractorconversion",
       "key": "workday:tmobile.wd1.myworkdayjobs.com/contractorconversion",
       "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion"
@@ -1476,13 +1553,6 @@
       "board": "External",
       "key": "workday:tmobile.wd1.myworkdayjobs.com/External",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External"
-    },
-    {
-      "company": "T-Mobile",
-      "ats": "workday",
-      "board": "external",
-      "key": "workday:tmobile.wd1.myworkdayjobs.com/external",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/external"
     },
     {
       "company": "T.D. Williamson",
@@ -1604,13 +1674,6 @@
       "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba"
     },
     {
-      "company": "Twitch Interactive",
-      "ats": "greenhouse",
-      "board": "twitch",
-      "key": "greenhouse:twitch",
-      "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
-    },
-    {
       "company": "TypeSafe AI",
       "ats": "ashby",
       "board": "typesafe-ai",
@@ -1665,13 +1728,6 @@
       "board": "ur_staff",
       "key": "workday:rochester.wd5.myworkdayjobs.com/ur_staff",
       "url": "https://rochester.wd5.myworkdayjobs.com/ur_staff"
-    },
-    {
-      "company": "Upchurch",
-      "ats": "ashby",
-      "board": "upchurch",
-      "key": "ashby:upchurch",
-      "url": "https://jobs.ashbyhq.com/upchurch/0bc8a468-d6a1-4307-8c70-bc3bcb7a2b89"
     },
     {
       "company": "USAA",
@@ -1742,13 +1798,6 @@
       "board": "",
       "key": "greenhouse-id:8244128",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8244128"
-    },
-    {
-      "company": "Wayve",
-      "ats": "ashby",
-      "board": "wayve",
-      "key": "ashby:wayve",
-      "url": "https://jobs.ashbyhq.com/wayve/1dc6ac74-cf95-43d3-870e-04abf15d991c"
     },
     {
       "company": "WellSky",
