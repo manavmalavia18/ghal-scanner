@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T15:03:28.481Z",
+  "fetchedAt": "2026-10-16T15:25:31.446Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 265,
+  "companyCount": 263,
   "companies": [
     {
       "company": "1Password",
@@ -330,13 +330,6 @@
       "url": "https://jobs.ashbyhq.com/claritypay/44202c9c-7a07-45d3-81dd-ca18fcb029d3"
     },
     {
-      "company": "CLEAR",
-      "ats": "greenhouse",
-      "board": "clear",
-      "key": "greenhouse:clear",
-      "url": "https://job-boards.greenhouse.io/clear/jobs/8241829"
-    },
-    {
       "company": "Clearwater Analytics",
       "ats": "workday",
       "board": "clearwater_analytics_careers",
@@ -412,13 +405,6 @@
       "board": "cowboyspace",
       "key": "ashby:cowboyspace",
       "url": "https://jobs.ashbyhq.com/cowboyspace/27c35fe2-0227-443a-95bc-6b9504c47a2b"
-    },
-    {
-      "company": "CrowdHealth",
-      "ats": "lever",
-      "board": "crowdhealth",
-      "key": "lever:crowdhealth",
-      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5"
     },
     {
       "company": "CrowdStrike",

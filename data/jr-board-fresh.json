@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-16T15:03:28.467Z",
+  "fetchedAt": "2026-10-16T15:25:31.432Z",
   "days": 2,
-  "leadCount": 81,
-  "jobCount": 44,
+  "leadCount": 80,
+  "jobCount": 42,
   "boards": [
     {
       "key": "greenhouse:candidate",
@@ -12,11 +12,6 @@
     {
       "key": "greenhouse:netdocuments",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:atomicmachines",
-      "fetched": 30,
       "kept": 0
     },
     {
@@ -30,9 +25,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:affirm",
-      "fetched": 215,
-      "kept": 2
+      "key": "greenhouse:atomicmachines",
+      "fetched": 30,
+      "kept": 0
     },
     {
       "key": "greenhouse:fubotv",
@@ -40,9 +35,19 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:relaypro",
+      "fetched": 26,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:baselayer",
       "fetched": 11,
       "kept": 0
+    },
+    {
+      "key": "greenhouse:affirm",
+      "fetched": 214,
+      "kept": 2
     },
     {
       "key": "greenhouse:flexe",
@@ -52,6 +57,11 @@
     {
       "key": "greenhouse:flyzipline",
       "fetched": 349,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:figma",
+      "fetched": 143,
       "kept": 0
     },
     {
@@ -65,16 +75,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:relaypro",
-      "fetched": 26,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:figma",
-      "fetched": 143,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:duolingo",
       "fetched": 63,
       "kept": 0
@@ -82,6 +82,16 @@
     {
       "key": "greenhouse:drweng",
       "fetched": 166,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:togetherai",
+      "fetched": 76,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:mongodb",
+      "fetched": 404,
       "kept": 0
     },
     {
@@ -95,18 +105,8 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:togetherai",
-      "fetched": 76,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:aidashinc",
       "fetched": 17,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:mongodb",
-      "fetched": 406,
       "kept": 0
     },
     {
@@ -115,8 +115,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:inversionspace",
-      "fetched": 88,
+      "key": "greenhouse:doordashusa",
+      "fetched": 452,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:skhynixmemorysolutionsamericainc",
+      "fetched": 28,
       "kept": 0
     },
     {
@@ -130,17 +135,27 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:skhynixmemorysolutionsamericainc",
-      "fetched": 28,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:vercel",
-      "fetched": 93,
+      "key": "greenhouse:inversionspace",
+      "fetched": 88,
       "kept": 0
     },
     {
       "key": "greenhouse:130621-curative-hr-llc",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:elpasocounty",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:wikimedia",
+      "fetched": 12,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:louisiana",
       "fetched": 0,
       "kept": 0
     },
@@ -150,23 +165,13 @@
       "kept": 2
     },
     {
-      "key": "greenhouse:wikimedia",
-      "fetched": 12,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:elpasocounty",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:louisiana",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:explore",
       "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:vercel",
+      "fetched": 93,
       "kept": 0
     },
     {
@@ -180,19 +185,9 @@
       "kept": 1
     },
     {
-      "key": "greenhouse:coreweave",
-      "fetched": 307,
-      "kept": 2
-    },
-    {
       "key": "greenhouse:dvtrading",
       "fetched": 74,
       "kept": 1
-    },
-    {
-      "key": "greenhouse:relativity",
-      "fetched": 365,
-      "kept": 0
     },
     {
       "key": "ashby:primeintellect",
@@ -200,8 +195,8 @@
       "kept": 0
     },
     {
-      "key": "ashby:rillet",
-      "fetched": 41,
+      "key": "greenhouse:relativity",
+      "fetched": 365,
       "kept": 0
     },
     {
@@ -210,13 +205,18 @@
       "kept": 2
     },
     {
-      "key": "ashby:langchain",
-      "fetched": 100,
-      "kept": 1
-    },
-    {
       "key": "ashby:reflectionai",
       "fetched": 46,
+      "kept": 0
+    },
+    {
+      "key": "ashby:applied",
+      "fetched": 326,
+      "kept": 0
+    },
+    {
+      "key": "ashby:langchain",
+      "fetched": 100,
       "kept": 0
     },
     {
@@ -225,8 +225,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:rillet",
+      "fetched": 41,
+      "kept": 0
+    },
+    {
       "key": "ashby:plaud",
       "fetched": 55,
+      "kept": 0
+    },
+    {
+      "key": "ashby:voleon",
+      "fetched": 58,
       "kept": 0
     },
     {
@@ -235,9 +245,9 @@
       "kept": 0
     },
     {
-      "key": "ashby:voleon",
-      "fetched": 58,
-      "kept": 0
+      "key": "greenhouse:coreweave",
+      "fetched": 306,
+      "kept": 2
     },
     {
       "key": "ashby:dialogueai",
@@ -250,9 +260,9 @@
       "kept": 1
     },
     {
-      "key": "ashby:applied",
-      "fetched": 326,
-      "kept": 0
+      "key": "ashby:integrate",
+      "fetched": 6,
+      "kept": 2
     },
     {
       "key": "ashby:openai",
@@ -265,28 +275,13 @@
       "kept": 2
     },
     {
-      "key": "ashby:integrate",
-      "fetched": 6,
-      "kept": 2
-    },
-    {
       "key": "ashby:anysignal",
       "fetched": 24,
       "kept": 1
     },
     {
-      "key": "ashby:base-power",
-      "fetched": 191,
-      "kept": 5
-    },
-    {
       "key": "ashby:cowboyspace",
       "fetched": 80,
-      "kept": 1
-    },
-    {
-      "key": "ashby:tenex",
-      "fetched": 45,
       "kept": 1
     },
     {
@@ -295,14 +290,14 @@
       "kept": 1
     },
     {
+      "key": "ashby:tenex",
+      "fetched": 45,
+      "kept": 1
+    },
+    {
       "key": "ashby:abridge",
       "fetched": 42,
       "kept": 0
-    },
-    {
-      "key": "ashby:gamma",
-      "fetched": 21,
-      "kept": 2
     },
     {
       "key": "ashby:etched",
@@ -315,23 +310,28 @@
       "kept": 0
     },
     {
+      "key": "ashby:gamma",
+      "fetched": 21,
+      "kept": 2
+    },
+    {
       "key": "ashby:relling",
       "fetched": 11,
       "kept": 1
     },
     {
-      "key": "greenhouse:spacex",
-      "fetched": 2755,
-      "kept": 3
+      "key": "ashby:base-power",
+      "fetched": 191,
+      "kept": 5
+    },
+    {
+      "key": "lever:crypto",
+      "fetched": 90,
+      "kept": 0
     },
     {
       "key": "lever:cfsenergy",
       "fetched": 129,
-      "kept": 0
-    },
-    {
-      "key": "lever:rynoss",
-      "fetched": 19,
       "kept": 0
     },
     {
@@ -340,18 +340,8 @@
       "kept": 1
     },
     {
-      "key": "lever:veeva",
-      "fetched": 929,
-      "kept": 0
-    },
-    {
-      "key": "lever:crowdhealth",
-      "fetched": 5,
-      "kept": 1
-    },
-    {
-      "key": "lever:field-ai",
-      "fetched": 104,
+      "key": "lever:reply",
+      "fetched": 44,
       "kept": 0
     },
     {
@@ -365,19 +355,9 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 452,
-      "kept": 1
-    },
-    {
-      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
-      "key": "workday:exelixis.wd1.myworkdayjobs.com/exel",
-      "fetched": 20,
-      "kept": 0
+      "key": "greenhouse:spacex",
+      "fetched": 2756,
+      "kept": 3
     },
     {
       "key": "workday:kla.wd1.myworkdayjobs.com/search",
@@ -390,8 +370,23 @@
       "kept": 0
     },
     {
+      "key": "workday:exelixis.wd1.myworkdayjobs.com/exel",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "key": "workday:crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "key": "workday:cmegroup.wd1.myworkdayjobs.com/cme_careers",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
+      "key": "lever:veeva",
+      "fetched": 929,
       "kept": 0
     },
     {
@@ -400,13 +395,13 @@
       "kept": 1
     },
     {
-      "key": "lever:reply",
-      "fetched": 44,
+      "key": "lever:rynoss",
+      "fetched": 19,
       "kept": 0
     },
     {
-      "key": "lever:crypto",
-      "fetched": 90,
+      "key": "lever:field-ai",
+      "fetched": 104,
       "kept": 0
     }
   ],
@@ -450,6 +445,16 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "asm"
+    },
+    {
+      "title": "Software Engineer, ML Infrastructure (MDX)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
+      "company": "DoorDash",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "postedAt": "2026-10-15T00:31:07.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
     },
     {
       "title": "Senior Full Stack Software Engineer",
@@ -522,26 +527,6 @@
       "board": "fortrobotics"
     },
     {
-      "title": "Senior Software Engineer II, ML Workflows - W&B",
-      "url": "https://coreweave.com/careers/job?4722487006&board=coreweave&gh_jid=4722487006",
-      "company": "CoreWeave",
-      "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / San Francisco, CA",
-      "postedAt": "2026-10-15T23:12:48.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "coreweave"
-    },
-    {
-      "title": "Senior Software Engineer, Network Development",
-      "url": "https://coreweave.com/careers/job?4721908006&board=coreweave&gh_jid=4721908006",
-      "company": "CoreWeave",
-      "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
-      "postedAt": "2026-10-14T19:35:49.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "coreweave"
-    },
-    {
       "title": "Quantitative Software Engineer (DV Commodities)",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4744268005",
       "company": "DV Trading",
@@ -572,14 +557,24 @@
       "board": "maintainx"
     },
     {
-      "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
-      "url": "https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
-      "company": "LangChain",
-      "location": "San Francisco, CA · Boston, MA · Cambridge · United States · New York, NY · New York",
-      "postedAt": "2026-10-14T15:18:56.705Z",
+      "title": "Senior Software Engineer II, ML Workflows - W&B",
+      "url": "https://coreweave.com/careers/job?4722487006&board=coreweave&gh_jid=4722487006",
+      "company": "CoreWeave",
+      "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA / San Francisco, CA",
+      "postedAt": "2026-10-15T23:12:48.000Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "langchain"
+      "ats": "Greenhouse",
+      "board": "coreweave"
+    },
+    {
+      "title": "Senior Software Engineer, Network Development",
+      "url": "https://coreweave.com/careers/job?4721908006&board=coreweave&gh_jid=4721908006",
+      "company": "CoreWeave",
+      "location": "Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA",
+      "postedAt": "2026-10-14T19:35:49.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "coreweave"
     },
     {
       "title": "Software Engineer",
@@ -600,6 +595,26 @@
       "salary": "",
       "ats": "Ashby",
       "board": "watershed"
+    },
+    {
+      "title": "Backend Engineer",
+      "url": "https://jobs.ashbyhq.com/integrate/4cfdbdb6-76c2-42e3-a77e-722b5a353516",
+      "company": "Integrate",
+      "location": "Seattle, WA",
+      "postedAt": "2026-10-15T05:00:55.686Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "integrate"
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "url": "https://jobs.ashbyhq.com/integrate/3400bdbc-6be2-4ef9-9256-4c7fd1e89d00",
+      "company": "Integrate",
+      "location": "Seattle, WA",
+      "postedAt": "2026-10-15T05:00:55.686Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "integrate"
     },
     {
       "title": "Client Platform Engineer",
@@ -632,26 +647,6 @@
       "board": "aim"
     },
     {
-      "title": "Backend Engineer",
-      "url": "https://jobs.ashbyhq.com/integrate/4cfdbdb6-76c2-42e3-a77e-722b5a353516",
-      "company": "Integrate",
-      "location": "Seattle, WA",
-      "postedAt": "2026-10-15T05:00:55.686Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "integrate"
-    },
-    {
-      "title": "Full Stack Software Engineer",
-      "url": "https://jobs.ashbyhq.com/integrate/3400bdbc-6be2-4ef9-9256-4c7fd1e89d00",
-      "company": "Integrate",
-      "location": "Seattle, WA",
-      "postedAt": "2026-10-15T05:00:55.686Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "integrate"
-    },
-    {
       "title": "Associate Embedded Software Engineer",
       "url": "https://jobs.ashbyhq.com/anysignal/71ef4b1c-be24-4ee7-b152-3ac14d9b5426",
       "company": "AnySignal",
@@ -660,6 +655,66 @@
       "salary": "",
       "ats": "Ashby",
       "board": "anysignal"
+    },
+    {
+      "title": "Ground Station Software Engineer",
+      "url": "https://jobs.ashbyhq.com/cowboyspace/27c35fe2-0227-443a-95bc-6b9504c47a2b",
+      "company": "Cowboy Space Corporation",
+      "location": "San Carlos, CA or Seattle, WA",
+      "postedAt": "2026-10-15T23:05:35.199Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "cowboyspace"
+    },
+    {
+      "title": "Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cloud",
+      "url": "https://jobs.ashbyhq.com/zyphra/7531f714-8809-498b-9bdb-44af16149824",
+      "company": "Zyphra",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T22:55:27.956Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "zyphra"
+    },
+    {
+      "title": "Platform Engineer, AI & Security",
+      "url": "https://jobs.ashbyhq.com/tenex/45512202-a2f6-407f-b9d2-c42d0d8da744",
+      "company": "TENEX.AI",
+      "location": "San Jose, CA · Sarasota, FL HQ · Sarasota · United States · Kansas City Metro · Overland Park",
+      "postedAt": "2026-10-15T22:56:10.732Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "tenex"
+    },
+    {
+      "title": "Software Engineer, Growth",
+      "url": "https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef",
+      "company": "Gamma",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T21:19:38.800Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "gamma"
+    },
+    {
+      "title": "Software Engineer, Frontend",
+      "url": "https://jobs.ashbyhq.com/gamma/fa99107a-c458-45fa-b856-add887b0a255",
+      "company": "Gamma",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T21:16:59.485Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "gamma"
+    },
+    {
+      "title": "Robotics Software Engineer",
+      "url": "https://jobs.ashbyhq.com/relling/c9e6b558-aaa8-4bfb-9fc6-79620c134dc6",
+      "company": "Relling",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T20:46:03.100Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "relling"
     },
     {
       "title": "Software Engineer, Growth",
@@ -712,64 +767,14 @@
       "board": "base-power"
     },
     {
-      "title": "Ground Station Software Engineer",
-      "url": "https://jobs.ashbyhq.com/cowboyspace/27c35fe2-0227-443a-95bc-6b9504c47a2b",
-      "company": "Cowboy Space Corporation",
-      "location": "San Carlos, CA or Seattle, WA",
-      "postedAt": "2026-10-15T23:05:35.199Z",
+      "title": "Security Platform Engineer I",
+      "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba",
+      "company": "Tusker",
+      "location": "Cleveland, OH",
+      "postedAt": "2026-10-14T16:54:31.602Z",
       "salary": "",
-      "ats": "Ashby",
-      "board": "cowboyspace"
-    },
-    {
-      "title": "Platform Engineer, AI & Security",
-      "url": "https://jobs.ashbyhq.com/tenex/45512202-a2f6-407f-b9d2-c42d0d8da744",
-      "company": "TENEX.AI",
-      "location": "San Jose, CA · Sarasota, FL HQ · Sarasota · United States · Kansas City Metro · Overland Park",
-      "postedAt": "2026-10-15T22:56:10.732Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "tenex"
-    },
-    {
-      "title": "Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cloud",
-      "url": "https://jobs.ashbyhq.com/zyphra/7531f714-8809-498b-9bdb-44af16149824",
-      "company": "Zyphra",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T22:55:27.956Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "zyphra"
-    },
-    {
-      "title": "Software Engineer, Growth",
-      "url": "https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef",
-      "company": "Gamma",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T21:19:38.800Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "gamma"
-    },
-    {
-      "title": "Software Engineer, Frontend",
-      "url": "https://jobs.ashbyhq.com/gamma/fa99107a-c458-45fa-b856-add887b0a255",
-      "company": "Gamma",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T21:16:59.485Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "gamma"
-    },
-    {
-      "title": "Robotics Software Engineer",
-      "url": "https://jobs.ashbyhq.com/relling/c9e6b558-aaa8-4bfb-9fc6-79620c134dc6",
-      "company": "Relling",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T20:46:03.100Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "relling"
+      "ats": "Lever",
+      "board": "tusker"
     },
     {
       "title": "Lead Software Engineer, Components Test (Starshield)",
@@ -800,36 +805,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "spacex"
-    },
-    {
-      "title": "Security Platform Engineer I",
-      "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba",
-      "company": "Tusker",
-      "location": "Cleveland, OH",
-      "postedAt": "2026-10-14T16:54:31.602Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "tusker"
-    },
-    {
-      "title": "Software Engineer, AI & Data",
-      "url": "https://jobs.lever.co/crowdhealth/04371686-6b4c-4c18-b32c-c2beab2446b5",
-      "company": "CrowdHealth",
-      "location": "United States",
-      "postedAt": "2026-10-14T15:23:08.248Z",
-      "salary": "",
-      "ats": "Lever",
-      "board": "crowdhealth"
-    },
-    {
-      "title": "Software Engineer, ML Infrastructure (MDX)",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8283735",
-      "company": "DoorDash",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "postedAt": "2026-10-15T00:31:07.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
     },
     {
       "title": "Platform Engineer I",
