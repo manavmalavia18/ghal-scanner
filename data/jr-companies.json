@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T20:58:17.254Z",
+  "fetchedAt": "2026-10-16T21:20:26.299Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 276,
+  "companyCount": 274,
   "companies": [
     {
       "company": "1Password",
@@ -155,25 +155,11 @@
       "url": "https://www.apptegy.com/careers/?gh_jid=4454314009"
     },
     {
-      "company": "AQR Capital Management",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8007349",
-      "url": "https://careers.aqr.com/jobs?gh_jid=8007349&gh_jid=8007349"
-    },
-    {
       "company": "Asana",
       "ats": "greenhouse",
       "board": "asana",
       "key": "greenhouse:asana",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=asana&token=8227390"
-    },
-    {
-      "company": "Asana",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8194522",
-      "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522"
     },
     {
       "company": "ASM",
