@@ -345,4 +345,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Full-Stack-Software-Developer--Mid-level_331602 | caci | Full Stack Software Developer, Mid-level | Denver, CO, US | posted: 2026-10-16
 - [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057 | bcbst | Software Engineer - UI | 2 Locations | posted: 2026-10-16
 
+- [ ] https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Boston/Senior-Software-Engineer_R-101374 | alegeus | Software Engineer II | 3 Locations | posted: 2026-10-16
+
 ## Processed
