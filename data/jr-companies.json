@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T17:15:48.496Z",
+  "fetchedAt": "2026-10-16T17:37:39.750Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
@@ -188,6 +188,13 @@
       "board": "attgeneral",
       "key": "workday:att.wd1.myworkdayjobs.com/attgeneral",
       "url": "https://att.wd1.myworkdayjobs.com/attgeneral"
+    },
+    {
+      "company": "Atlas Air Worldwide",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:4455456009",
+      "url": "https://www.atlasairworldwide.com/careers/job-board/?gh_jid=4455456009"
     },
     {
       "company": "Atomic Machines",
@@ -729,6 +736,13 @@
       "url": "https://halvik.isolvedhire.com/jobs/1885213"
     },
     {
+      "company": "HawkEye 360",
+      "ats": "greenhouse",
+      "board": "hawkeye360",
+      "key": "greenhouse:hawkeye360",
+      "url": "https://job-boards.greenhouse.io/hawkeye360/jobs/4455445009"
+    },
+    {
       "company": "Hewlett Packard Enterprise",
       "ats": "workday",
       "board": "jobsathpe",
@@ -1044,13 +1058,6 @@
       "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara"
     },
     {
-      "company": "Nike",
-      "ats": "workday",
-      "board": "nke",
-      "key": "workday:nike.wd1.myworkdayjobs.com/nke",
-      "url": "https://nike.wd1.myworkdayjobs.com/nke"
-    },
-    {
       "company": "Nimble Robotics",
       "ats": "greenhouse",
       "board": "nimblerobotics",
@@ -1327,6 +1334,13 @@
       "company": "Schneider Electric",
       "ats": "greenhouse",
       "board": "",
+      "key": "greenhouse-id:137910",
+      "url": "https://careers.se.com/jobs/137910?lang=en-us"
+    },
+    {
+      "company": "Schneider Electric",
+      "ats": "greenhouse",
+      "board": "",
       "key": "greenhouse-id:137743",
       "url": "https://careers.se.com/jobs/137743?lang=en-us"
     },
@@ -1385,13 +1399,6 @@
       "board": "skhynixmemorysolutionsamericainc",
       "key": "greenhouse:skhynixmemorysolutionsamericainc",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4455114009"
-    },
-    {
-      "company": "Skydio",
-      "ats": "ashby",
-      "board": "skydio",
-      "key": "ashby:skydio",
-      "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     },
     {
       "company": "SmartAsset",
@@ -1665,13 +1672,6 @@
       "board": "truveta",
       "key": "greenhouse:truveta",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004"
-    },
-    {
-      "company": "Tusker",
-      "ats": "lever",
-      "board": "tusker",
-      "key": "lever:tusker",
-      "url": "https://jobs.lever.co/tusker/120313d4-cacf-423c-b8c9-abd5ff35acba"
     },
     {
       "company": "TypeSafe AI",
