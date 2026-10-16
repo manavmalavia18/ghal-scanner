@@ -656,3 +656,5 @@
 - [ ] https://jobs.ashbyhq.com/vultr/ce91a915-c2fc-432e-918e-cefae90a017e | vultr | DevOps Engineer, Developer Relations | Remote - India | posted: 2026-10-16
 
 - [ ] https://job-boards.greenhouse.io/logos/jobs/8259659 | logos | DevOps Engineer (Vac DST) | Remote (Worldwide) | posted: 2026-10-16
+
+- [ ] https://job-boards.greenhouse.io/iftother/jobs/8259660 | iftother | DevOps Engineer (Vac DST) | Remote (Worldwide) | posted: 2026-10-16
