@@ -323,4 +323,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Chantilly-VA/Ground-Software-Engineer--Mid-Career----Millennium-Space-Systems_JR2026514051-1 | boeing | Ground Software Engineer (Mid Career) - Millennium Space Systems | 2 Locations | posted: 2026-10-15
 - [ ] https://austincc.wd1.myworkdayjobs.com/external/job/Austin-Community-College/CE-Hourly-Instructor---AI-Engineering_R-10005 | austincc | CE Hourly Instructor - AI Engineering | Austin Community College | posted: 2026-10-15
 
+- [ ] https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/ATLANTA-GA-USA/PS-Software-Engineer-IV_R1154954-3 | ncratleos | PS Software Engineer IV | ATLANTA, GA, USA | posted: 2026-10-16
+
 ## Processed
