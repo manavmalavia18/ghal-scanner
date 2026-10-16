@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T20:14:27.481Z",
+  "fetchedAt": "2026-10-16T20:36:10.424Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 259,
+  "companyCount": 252,
   "companies": [
     {
       "company": "1Password",
@@ -265,13 +265,6 @@
       "board": "bah_jobs",
       "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs"
-    },
-    {
-      "company": "Brain Co.",
-      "ats": "ashby",
-      "board": "brainco",
-      "key": "ashby:brainco",
-      "url": "https://jobs.ashbyhq.com/brainco/962d81f4-ca91-4f9c-ae9b-21842d673672"
     },
     {
       "company": "Canonical",
@@ -617,13 +610,6 @@
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=figma&token=5802956004"
     },
     {
-      "company": "Figure",
-      "ats": "greenhouse",
-      "board": "figureai",
-      "key": "greenhouse:figureai",
-      "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
-    },
-    {
       "company": "Flagstar Bank",
       "ats": "workday",
       "board": "flagstar",
@@ -848,13 +834,6 @@
       "url": "https://relx.wd3.myworkdayjobs.com/risksolutions"
     },
     {
-      "company": "Lightyear",
-      "ats": "ashby",
-      "board": "lightyear-ai",
-      "key": "ashby:lightyear-ai",
-      "url": "https://jobs.ashbyhq.com/lightyear-ai/1b74eb95-d2ec-4c98-bfce-e47140137195"
-    },
-    {
       "company": "LiveView Technologies",
       "ats": "ashby",
       "board": "liveview-technologies",
@@ -1044,13 +1023,6 @@
       "url": "https://job-boards.greenhouse.io/noetik/jobs/4453164009"
     },
     {
-      "company": "Nova Credit",
-      "ats": "greenhouse",
-      "board": "novacredit",
-      "key": "greenhouse:novacredit",
-      "url": "https://job-boards.greenhouse.io/novacredit/jobs/4450422009"
-    },
-    {
       "company": "NSI Mechanical and Engineering",
       "ats": "greenhouse",
       "board": "",
@@ -1121,13 +1093,6 @@
       "url": "https://job-boards.greenhouse.io/pathstone/jobs/4722144006"
     },
     {
-      "company": "Peraton",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:172378",
-      "url": "https://peraton.jibeapply.com/jobs/172378"
-    },
-    {
       "company": "Persistent Technology",
       "ats": "greenhouse",
       "board": "",
@@ -1182,13 +1147,6 @@
       "board": "psecu",
       "key": "workday:psecu.wd12.myworkdayjobs.com/psecu",
       "url": "https://psecu.wd12.myworkdayjobs.com/psecu"
-    },
-    {
-      "company": "Pursuit",
-      "ats": "ashby",
-      "board": "pursuit",
-      "key": "ashby:pursuit",
-      "url": "https://jobs.ashbyhq.com/pursuit/750c1ee8-6779-47b9-8342-30ed21e632e9"
     },
     {
       "company": "Pye-Barker Fire & Safety",
@@ -1322,13 +1280,6 @@
       "board": "schonfeld",
       "key": "greenhouse:schonfeld",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213"
-    },
-    {
-      "company": "SharkNinja",
-      "ats": "greenhouse",
-      "board": "sharkninjaoperatingllc",
-      "key": "greenhouse:sharkninjaoperatingllc",
-      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006"
     },
     {
       "company": "SHI International Corp.",
