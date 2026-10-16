@@ -676,3 +676,6 @@
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455838008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455835008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-16
+
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7703668003 | axon | Software Engineer I | Seattle, Washington, United States | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381 | justworks | Software Engineer, Solutions Engineering | New York, New York | posted: 2026-10-16
