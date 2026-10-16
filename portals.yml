@@ -8843,6 +8843,11 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "HawkEye 360"
+    careers_url: https://job-boards.greenhouse.io/hawkeye360
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

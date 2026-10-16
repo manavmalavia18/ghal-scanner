@@ -1,49 +1,14 @@
 {
-  "at": "2026-10-16T16:55:24.336Z",
-  "leadsScanned": 1892,
+  "at": "2026-10-16T17:39:18.396Z",
+  "leadsScanned": 1884,
   "totalBoardsKnown": 943,
-  "alreadyTracked": 935,
-  "newlyPromoted": 8,
+  "alreadyTracked": 942,
+  "newlyPromoted": 1,
   "newBoards": [
     {
-      "name": "Rennscot MFG",
-      "careers_url": "https://jobs.ashbyhq.com/rennscotmfg",
-      "provider": "ashby"
-    },
-    {
-      "name": "Gravity Payments",
-      "careers_url": "https://job-boards.greenhouse.io/gravitypayments17",
+      "name": "HawkEye 360",
+      "careers_url": "https://job-boards.greenhouse.io/hawkeye360",
       "provider": "greenhouse"
-    },
-    {
-      "name": "Ocrolus",
-      "careers_url": "https://job-boards.greenhouse.io/ocrolusinc",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Allison Transmission",
-      "careers_url": "https://allisontransmission.wd1.myworkdayjobs.com/ati-external",
-      "provider": "workday"
-    },
-    {
-      "name": "Ally Financial",
-      "careers_url": "https://ally.wd1.myworkdayjobs.com/Ally",
-      "provider": "workday"
-    },
-    {
-      "name": "Jasper Engines & Transmissions",
-      "careers_url": "https://jasperholdings.wd504.myworkdayjobs.com/JET_Careers",
-      "provider": "workday"
-    },
-    {
-      "name": "T-Mobile",
-      "careers_url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion",
-      "provider": "workday"
-    },
-    {
-      "name": "University Corporation for Atmospheric Research",
-      "careers_url": "https://ucar.wd5.myworkdayjobs.com/ucar_careers",
-      "provider": "workday"
     }
   ]
 }
