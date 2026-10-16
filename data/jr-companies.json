@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T14:42:03.571Z",
+  "fetchedAt": "2026-10-16T15:03:28.481Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 264,
+  "companyCount": 265,
   "companies": [
     {
       "company": "1Password",
@@ -1462,6 +1462,13 @@
       "board": "washington",
       "key": "greenhouse:washington",
       "url": "https://www.governmentjobs.com/careers/washington/jobs/5517216-0"
+    },
+    {
+      "company": "STRUCTURAL TECHNOLOGIES",
+      "ats": "workday",
+      "board": "structuraltechnologiescareers",
+      "key": "workday:structural.wd12.myworkdayjobs.com/structuraltechnologiescareers",
+      "url": "https://structural.wd12.myworkdayjobs.com/structuraltechnologiescareers"
     },
     {
       "company": "Stryker",
