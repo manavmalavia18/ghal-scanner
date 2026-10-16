@@ -311,4 +311,16 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Site-Reliability-Engineer-II_RP1039074 | ffive | Site Reliability Engineer II | Seattle | posted: 2026-10-15
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Ground-Software-Engineer--Mid-Career----Millennium-Space-Systems_JR2026514051 | boeing | Ground Software Engineer (Mid Career) - Millennium Space Systems | 2 Locations | posted: 2026-10-15
 
+- [ ] https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119 | cmegroup | Platform Engineer I | Chicago - 20 S. Wacker | posted: 2026-10-16
+- [ ] https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/MS-Power-Platform-Application-Developer--REMOTE-_00700130 | trinityhealth | MS Power Platform Application Developer (REMOTE) | Livonia, Michigan | posted: 2026-10-15
+- [ ] https://meijer.wd5.myworkdayjobs.com/fresh_thyme_stores_external_career_site/job/Chicago-IL/Front-End-Coordinator_R000707304 | meijer | Front End Coordinator | Chicago, IL | posted: 2026-10-15
+- [ ] https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1 | costar | Software Engineer I - BizBuySell - San Francisco, CA | US-CA San Francisco | posted: 2026-10-15
+- [ ] https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer_R-147407 | coke | Software Engineer | US - GA - Atlanta | posted: 2026-10-15
+- [ ] https://cni.wd503.myworkdayjobs.com/cni/job/Remote/Full-Stack-Developer-III_R9678 | cni | Full Stack Developer III | Remote | posted: 2026-10-15
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1 | capitalone | Full Stack Engineer 4 (Global Payment Network) | 2 Locations | posted: 2026-10-15
+- [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5_R1003810 | capitalone | AI Engineer 5 | 4 Locations | posted: 2026-10-15
+- [ ] https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422 | broadcom | R&D Software Engineer VMKernel | USA-CA - Promontory B | posted: 2026-10-15
+- [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Chantilly-VA/Ground-Software-Engineer--Mid-Career----Millennium-Space-Systems_JR2026514051-1 | boeing | Ground Software Engineer (Mid Career) - Millennium Space Systems | 2 Locations | posted: 2026-10-15
+- [ ] https://austincc.wd1.myworkdayjobs.com/external/job/Austin-Community-College/CE-Hourly-Instructor---AI-Engineering_R-10005 | austincc | CE Hourly Instructor - AI Engineering | Austin Community College | posted: 2026-10-15
+
 ## Processed
