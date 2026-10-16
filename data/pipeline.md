@@ -661,3 +661,5 @@
 
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4722607006?gh_jid=4722607006 | accenturefederalservices | Machine Learning Engineer | Washington, DC | posted: 2026-10-16
 - [ ] https://boards.greenhouse.io/accenturefederalservices/jobs/4722621006?gh_jid=4722621006 | accenturefederalservices | Generative AI Applications Engineer (Agents & RAG) | Washington, DC | posted: 2026-10-16
+
+- [ ] https://www.bridgewaybentech.com/job-posting?gh_jid=8894554002 | bridgeway | Associate Platform Engineer | Remote · Remote | posted: 2026-10-16
