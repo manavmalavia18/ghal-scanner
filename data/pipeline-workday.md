@@ -330,4 +330,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/AI-Engineer_333616 | caci | AI Engineer | Washington, DC, US | posted: 2026-10-16
 
+- [ ] https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TN-Chattanooga/DevOps-Engineer-III_REQ-14628 | terex | DevOps Engineer III | USA, TN, Chattanooga | posted: 2026-10-16
+- [ ] https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380 | ngc | 2027 Software Engineer Morrisville NC | United States-North Carolina-Morrisville | posted: 2026-10-16
+
 ## Processed
