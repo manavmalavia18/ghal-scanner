@@ -328,4 +328,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Engineer--Site-Reliability_REQ376643-1 | tmobile | Engineer, Site Reliability | Atlanta, Georgia | posted: 2026-10-16
 - [ ] https://capitalone.wd12.myworkdayjobs.com/capital_one/job/New-York-NY/AI-Engineer-5--Gen-AI-SDK--Agentic-AI--Guardrails--Evaluation-_R1003924-1 | capitalone | AI Engineer 5 (Gen AI SDK: Agentic AI, Guardrails, Evaluation) | 5 Locations | posted: 2026-10-16
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/AI-Engineer_333616 | caci | AI Engineer | Washington, DC, US | posted: 2026-10-16
+
 ## Processed
