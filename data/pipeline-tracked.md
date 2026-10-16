@@ -335,4 +335,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/gallatin/f28a591f-a57c-4084-86ec-ae449a4f8ba7 | Gallatin AI | Fullstack Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-15
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8032175003 | Affirm | Software Engineer II, Mobile (Card Acquisition) | Remote Canada | posted: 2026-10-16
 
+- [ ] https://jobs.ashbyhq.com/wispr-flow/e3f2d9e6-f32d-4121-a51a-7c67720242d6 | Wispr Flow | Platform Engineer, Developer Experience | San Francisco | posted: 2026-10-16
+- [ ] https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119 | CME Group | Platform Engineer I | Chicago - 20 S. Wacker | posted: 2026-10-16
+
 ## Processed
