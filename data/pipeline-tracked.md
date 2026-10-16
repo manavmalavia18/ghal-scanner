@@ -331,4 +331,8 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations · United States · Canada | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/tin-can/f72ddcbc-f2ba-431b-81c1-a1e7f4a9f13e | Tin Can | Software Engineer, Core Product | Seattle | posted: 2026-10-15
 
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6226254004 | Alpaca | Full-Stack Platform Engineer | Remote - Americas | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/gallatin/f28a591f-a57c-4084-86ec-ae449a4f8ba7 | Gallatin AI | Fullstack Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032175003 | Affirm | Software Engineer II, Mobile (Card Acquisition) | Remote Canada | posted: 2026-10-16
+
 ## Processed
