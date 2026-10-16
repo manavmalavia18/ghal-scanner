@@ -665,3 +665,7 @@
 - [ ] https://www.bridgewaybentech.com/job-posting?gh_jid=8894554002 | bridgeway | Associate Platform Engineer | Remote · Remote | posted: 2026-10-16
 
 - [ ] https://www.dotmatics.com/jobs/apply?gh_jid=4742861005 | dotmatics | Software Engineer, Agentic AI | Boston, MA | posted: 2026-10-16
+
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8262968 | braze | Software Engineer II, User Targeting | Chicago | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8262953 | braze | Software Engineer II, User Targeting | Austin | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8262294 | braze | Software Engineer II, User Targeting | New York City | posted: 2026-10-16
