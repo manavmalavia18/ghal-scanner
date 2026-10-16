@@ -106,6 +106,7 @@ function main() {
     loadJsonFeed('hiringcafe-feed.json', 'hiringcafe'),
     loadJsonFeed('nextplay-feed.json', 'nextplay'),
     loadJsonFeed('jr-board-fresh.json', 'jobright'),
+    loadJsonFeed('wellfound-feed.json', 'wellfound'),
   ];
   const totalLeads = feeds.reduce((sum, f) => sum + f.jobs.length, 0);
 

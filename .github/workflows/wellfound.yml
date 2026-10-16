@@ -1,0 +1,57 @@
+name: Wellfound board-discovery leads
+
+on:
+  schedule:
+    - cron: '12,42 * * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: wellfound-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --no-audit --no-fund
+
+      # No login wall, no Cloudflare challenge on wellfound.com's public
+      # search pages (confirmed via plain curl with a normal browser UA) —
+      # unlike NextPlay/HiringCafe this does NOT need the Tailscale exit
+      # node. If GitHub's datacenter IP range later gets blocked (same
+      # failure mode NextPlay hit), add the exit-node step here to match.
+      - name: Run Wellfound lead fetch
+        run: node fetch-wellfound-feed.mjs --pages 2
+
+      - name: Commit results
+        run: |
+          git config user.name "scoutgrid-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "wellfound: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=0
+            for attempt in 1 2 3; do
+              git rebase --abort >/dev/null 2>&1 || true
+              if git pull --rebase --quiet && git push; then
+                pushed=1
+                break
+              fi
+              echo "push attempt $attempt failed, retrying..."
+              sleep 5
+            done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::failed to push scan results after 3 attempts"
+              exit 1
+            fi
+          fi
