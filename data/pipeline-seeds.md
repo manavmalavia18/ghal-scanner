@@ -604,4 +604,12 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/hadrian-automation/7cd509b3-5e8b-476b-9a36-8293671a2454 | hadrian-automation | Software Engineer, Identity & Access Management | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States · Seattle/Bellevue Area, WA · Seattle/Bellevue Area | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4744387005 | assemblyai | Software Engineer, Agent Experience | North America | posted: 2026-10-16
 
+- [ ] https://jobs.ashbyhq.com/read-ai/6ea57d82-e8d4-4325-90b6-73886553f604 | read-ai | Software Engineer - Fullstack | Read AI - Seattle HQ | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/hirehangar/83dc7a2b-12f7-4416-a570-c52eeeeded1b | hirehangar | LLM Infrastructure Engineer | Argentina - Buenos Aires · Parugauy - Asuncion · Asuncion · Paraguay · Ecuador - Guayaquil · Guayaquil · Ecuador · Bolivia - Santa Cruz de la Sierra · Santa Cruz de la Sierra · Bolivia · Egypt - Cairo · Cairo · Egypt · South Africa - Johannesburg · Johannesburg · South Africa · Columbia - Bogotá · Bogotá · Colombia · Columbia - Medellín · Medellín · Chile - Santiago · Santiago · Chile · Uruguay - Montevideo · Montevideo · Uruguay · Peru - Lima · Lima · Peru · Dominican Republic - Santo Domingo · Santo Domingo · Dominican Republic · Nicaragua - Managua · Managua · Nicaragua · Panama - Panama City · Panama City · Panama · Honduras - Tegucigalpa · Tegucigalpa · Honduras · South Africa - Cape Town · Cape Town · Mexico - Mexico City · Mexico City · Mexico · Remote | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455895008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7703668003 | axon | Software Engineer I | Seattle, Washington, United States | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455838008 | lightfeatheriollc | Full Stack Engineer | United States | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455835008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381 | justworks | Software Engineer, Solutions Engineering | New York, New York | posted: 2026-10-16
+
 ## Processed
