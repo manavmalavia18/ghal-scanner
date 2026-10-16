@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T19:05:44.102Z",
+  "fetchedAt": "2026-10-16T19:30:29.265Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 265,
+  "companyCount": 259,
   "companies": [
     {
       "company": "1Password",
@@ -766,6 +766,13 @@
     {
       "company": "HP Inc.",
       "ats": "workday",
+      "board": "externalcareersite",
+      "key": "workday:hp.wd5.myworkdayjobs.com/externalcareersite",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite"
+    },
+    {
+      "company": "HP Inc.",
+      "ats": "workday",
       "board": "exteu-ac-careersite",
       "key": "workday:hp.wd5.myworkdayjobs.com/exteu-ac-careersite",
       "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite"
@@ -776,13 +783,6 @@
       "board": "imeg_careers",
       "key": "workday:imeg.wd1.myworkdayjobs.com/imeg_careers",
       "url": "https://imeg.wd1.myworkdayjobs.com/imeg_careers"
-    },
-    {
-      "company": "indie Semiconductor",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:5265696007",
-      "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265696007"
     },
     {
       "company": "Integrate",
@@ -839,13 +839,6 @@
       "board": "lennar_jobs",
       "key": "workday:lennar.wd1.myworkdayjobs.com/lennar_jobs",
       "url": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs"
-    },
-    {
-      "company": "Levanta",
-      "ats": "greenhouse",
-      "board": "levanta",
-      "key": "greenhouse:levanta",
-      "url": "https://job-boards.greenhouse.io/levanta/jobs/5453079008"
     },
     {
       "company": "LexisNexis Risk Solutions",
@@ -1007,20 +1000,6 @@
       "board": "",
       "key": "greenhouse-id:8552163",
       "url": "https://morrismidwest.teamtailor.com/jobs/8552163-cnc-applications-engineer"
-    },
-    {
-      "company": "Motional",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8033974003",
-      "url": "https://motional.com/open-positions/?gh_jid=8033974003#/8033974003"
-    },
-    {
-      "company": "Mphasis",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:01zDXztjsKxiR1EuZvx3",
-      "url": "https://mphasis.ripplehire.com/candidate/?token=01zDXztjsKxiR1EuZvx3&source=CAREERSITE#detail/job/912452"
     },
     {
       "company": "NCR Voyix",
@@ -1343,13 +1322,6 @@
       "board": "schonfeld",
       "key": "greenhouse:schonfeld",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8285213"
-    },
-    {
-      "company": "ServiceNow",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:744000155594219",
-      "url": "https://careers.servicenow.com/jobs/744000155594219/sr-software-engineer/"
     },
     {
       "company": "SharkNinja",
@@ -1807,13 +1779,6 @@
       "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853"
     },
     {
-      "company": "Woolpert",
-      "ats": "greenhouse",
-      "board": "woolpert",
-      "key": "greenhouse:woolpert",
-      "url": "https://job-boards.greenhouse.io/woolpert/jobs/4450249009"
-    },
-    {
       "company": "Workday",
       "ats": "workday",
       "board": "Workday_Jobs",
@@ -1847,13 +1812,6 @@
       "board": "zscaler",
       "key": "greenhouse:zscaler",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5256468007"
-    },
-    {
-      "company": "Zus Health",
-      "ats": "ashby",
-      "board": "zus-health",
-      "key": "ashby:zus-health",
-      "url": "https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c"
     },
     {
       "company": "Zyphra",
