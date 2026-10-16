@@ -342,4 +342,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347-1 | boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
 - [ ] https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347 | boeing | Software Engineer Developer – Millennium Space Systems | USA - El Segundo, CA | posted: 2026-10-16
 
+- [ ] https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Full-Stack-Software-Developer--Mid-level_331602 | caci | Full Stack Software Developer, Mid-level | Denver, CO, US | posted: 2026-10-16
+- [ ] https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057 | bcbst | Software Engineer - UI | 2 Locations | posted: 2026-10-16
+
 ## Processed
