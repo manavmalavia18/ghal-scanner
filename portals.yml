@@ -8473,6 +8473,316 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "1Password"
+    careers_url: https://jobs.ashbyhq.com/1password
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Abridge"
+    careers_url: https://jobs.ashbyhq.com/abridge
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Dialogue AI"
+    careers_url: https://jobs.ashbyhq.com/dialogueai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Gamma"
+    careers_url: https://jobs.ashbyhq.com/gamma
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Genki Robotics"
+    careers_url: https://jobs.ashbyhq.com/genki
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Integrate"
+    careers_url: https://jobs.ashbyhq.com/integrate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "LiveView Technologies"
+    careers_url: https://jobs.ashbyhq.com/liveview-technologies
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Luminai"
+    careers_url: https://jobs.ashbyhq.com/luminai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "MaintainX"
+    careers_url: https://jobs.ashbyhq.com/maintainx
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "OpenGov"
+    careers_url: https://jobs.ashbyhq.com/opengov
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Relling"
+    careers_url: https://jobs.ashbyhq.com/relling
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Tandem PV"
+    careers_url: https://jobs.ashbyhq.com/tandempv
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Zyphra"
+    careers_url: https://jobs.ashbyhq.com/zyphra
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Addepar"
+    careers_url: https://job-boards.greenhouse.io/addepar1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "AiDash"
+    careers_url: https://job-boards.greenhouse.io/aidashinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Blueprint Technologies"
+    careers_url: https://job-boards.greenhouse.io/bpcs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Deterrence Defense"
+    careers_url: https://job-boards.greenhouse.io/deterrencedefenseinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Echo Neurotechnologies"
+    careers_url: https://job-boards.greenhouse.io/echo
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "FORT Robotics"
+    careers_url: https://job-boards.greenhouse.io/fortrobotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "Honeycomb"
+    careers_url: https://job-boards.greenhouse.io/honeycomb
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe, jobright
+  - name: "PitchBook Data, Inc."
+    careers_url: https://job-boards.greenhouse.io/pitchbookdata
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Relativity Space"
+    careers_url: https://boards.greenhouse.io/relativity
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "SK hynix memory solutions America Inc."
+    careers_url: https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "viaPhoton"
+    careers_url: https://job-boards.greenhouse.io/viaphoton
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Wikimedia Foundation"
+    careers_url: https://job-boards.greenhouse.io/wikimedia
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Zscaler"
+    careers_url: https://job-boards.greenhouse.io/zscaler
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Airbus"
+    careers_url: https://ag.wd3.myworkdayjobs.com/airbus
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "AT&T"
+    careers_url: https://att.wd1.myworkdayjobs.com/attgeneral
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Austin Powder"
+    careers_url: https://austinpowder.wd5.myworkdayjobs.com/job
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Carrier"
+    careers_url: https://carrier.wd5.myworkdayjobs.com/jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Centene Corporation"
+    careers_url: https://centene.wd5.myworkdayjobs.com/centene_external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "DigiKey"
+    careers_url: https://digikey.wd5.myworkdayjobs.com/digi-key
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Early Warning Services"
+    careers_url: https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Sompo International"
+    careers_url: https://endurance.wd103.myworkdayjobs.com/sompointernational
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "F5"
+    careers_url: https://ffive.wd5.myworkdayjobs.com/f5jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fresenius Kabi"
+    careers_url: https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Lennar"
+    careers_url: https://lennar.wd1.myworkdayjobs.com/lennar_jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "State of Oklahoma"
+    careers_url: https://okgov.wd1.myworkdayjobs.com/okgovjobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "ONEOK"
+    careers_url: https://oneok.wd1.myworkdayjobs.com/oneok_2
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Oshkosh Corporation"
+    careers_url: https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pfizer"
+    careers_url: https://pfizer.wd1.myworkdayjobs.com/pfizercareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Pye-Barker Fire & Safety"
+    careers_url: https://pyebarkerfire.wd1.myworkdayjobs.com/pb_v2
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "RELX"
+    careers_url: https://relx.wd3.myworkdayjobs.com/relx
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "University of Rochester"
+    careers_url: https://rochester.wd5.myworkdayjobs.com/ur_staff
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rolls-Royce"
+    careers_url: https://rollsroyce.wd3.myworkdayjobs.com/professional
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Stanley Black & Decker"
+    careers_url: https://sbdinc.wd1.myworkdayjobs.com/stanley_black_decker_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Snap Inc."
+    careers_url: https://snapchat.wd1.myworkdayjobs.com/snap
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Snap Inc."
+    careers_url: https://snapchat.wd1.myworkdayjobs.com/sourced
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "S&P Global Inc."
+    careers_url: https://spgi.wd5.myworkdayjobs.com/kensho_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Symbotic"
+    careers_url: https://symbotic.wd504.myworkdayjobs.com/symbotic
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "T.D. Williamson"
+    careers_url: https://tdwilliamson.wd1.myworkdayjobs.com/tdwcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tyson Foods"
+    careers_url: https://tysonfoods.wd5.myworkdayjobs.com/tsfd
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tyson Foods"
+    careers_url: https://tysonfoods.wd5.myworkdayjobs.com/tsn
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Tyson Foods"
+    careers_url: https://tysonfoods.wd5.myworkdayjobs.com/tyit
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Valeo"
+    careers_url: https://valeo.wd3.myworkdayjobs.com/valeo_jobs
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Vanderlande"
+    careers_url: https://vanderlande.wd3.myworkdayjobs.com/careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Visa"
+    careers_url: https://visa.wd5.myworkdayjobs.com/visa
+    provider: workday
+    enabled: true
+    notes: auto-discovered from jobright
+  - name: "WellSky"
+    careers_url: https://wellsky.wd1.myworkdayjobs.com/wellskycareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Welocalize"
+    careers_url: https://welocalize.wd1.myworkdayjobs.com/welocalize
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Western Alliance Bancorporation"
+    careers_url: https://westernalliancebank.wd5.myworkdayjobs.com/wab
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "WEX"
+    careers_url: https://wexinc.wd5.myworkdayjobs.com/wexinc
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Yale University"
+    careers_url: https://yale.wd1.myworkdayjobs.com/external_career_site
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
