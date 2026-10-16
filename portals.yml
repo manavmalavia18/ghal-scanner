@@ -8928,6 +8928,691 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Agave API"
+    careers_url: https://jobs.ashbyhq.com/agave-api
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Anything"
+    careers_url: https://jobs.ashbyhq.com/anythingdotcom
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Apiphany AI"
+    careers_url: https://jobs.ashbyhq.com/apiphany-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Assured"
+    careers_url: https://jobs.ashbyhq.com/assured-claims
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Astra"
+    careers_url: https://jobs.ashbyhq.com/astra_finance
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Basis AI"
+    careers_url: https://jobs.ashbyhq.com/basis-36
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Bevel"
+    careers_url: https://jobs.ashbyhq.com/bevel-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Big Leap Health"
+    careers_url: https://jobs.ashbyhq.com/big-leap-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Blockstream"
+    careers_url: https://jobs.ashbyhq.com/blockstream
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Bobyard"
+    careers_url: https://jobs.ashbyhq.com/bobyard
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Boom"
+    careers_url: https://jobs.ashbyhq.com/boom-app
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Capsule"
+    careers_url: https://jobs.ashbyhq.com/capsule-makevideo
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "cardboard.ai"
+    careers_url: https://jobs.ashbyhq.com/cardboard-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Check"
+    careers_url: https://jobs.ashbyhq.com/checkhq
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Claim Health"
+    careers_url: https://jobs.ashbyhq.com/claim-health-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Constructor.io"
+    careers_url: https://jobs.ashbyhq.com/constructor-io
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Creatify AI"
+    careers_url: https://jobs.ashbyhq.com/creatify-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Crux"
+    careers_url: https://jobs.ashbyhq.com/crux-climate
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Doss"
+    careers_url: https://jobs.ashbyhq.com/doss-com
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "EliseAI"
+    careers_url: https://jobs.ashbyhq.com/eliseai-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Feathery"
+    careers_url: https://jobs.ashbyhq.com/featheryai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Firecrawl"
+    careers_url: https://jobs.ashbyhq.com/firecrawl
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Hazel"
+    careers_url: https://jobs.ashbyhq.com/fromhazel
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "General Medicine"
+    careers_url: https://jobs.ashbyhq.com/general-medicine-3
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Gray Swan AI"
+    careers_url: https://jobs.ashbyhq.com/gray-swan-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Halliday"
+    careers_url: https://jobs.ashbyhq.com/halliday-2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Juniper Square"
+    careers_url: https://jobs.ashbyhq.com/juniper-square
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Kepler"
+    careers_url: https://jobs.ashbyhq.com/kepler
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Kontakt.io"
+    careers_url: https://jobs.ashbyhq.com/kontakt-io-5
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Kovo"
+    careers_url: https://jobs.ashbyhq.com/kovocredit
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Layer"
+    careers_url: https://jobs.ashbyhq.com/layer-22
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Light"
+    careers_url: https://jobs.ashbyhq.com/light-20
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Lightfield"
+    careers_url: https://jobs.ashbyhq.com/lightfield-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Lindus Health"
+    careers_url: https://jobs.ashbyhq.com/lindus-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Lunar"
+    careers_url: https://jobs.ashbyhq.com/lunar-systems-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Maze"
+    careers_url: https://jobs.ashbyhq.com/maze-design
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Medal"
+    careers_url: https://jobs.ashbyhq.com/medal-app
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Merciv"
+    careers_url: https://jobs.ashbyhq.com/merciv
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Method Financial"
+    careers_url: https://jobs.ashbyhq.com/methodfi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Metriport"
+    careers_url: https://jobs.ashbyhq.com/metriport-2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "midpage.ai"
+    careers_url: https://jobs.ashbyhq.com/midpage-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Mintlify"
+    careers_url: https://jobs.ashbyhq.com/mintlify-2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Mirage"
+    careers_url: https://jobs.ashbyhq.com/mirage-app
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Monte Carlo"
+    careers_url: https://jobs.ashbyhq.com/monte-carlo-data-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Moxie"
+    careers_url: https://jobs.ashbyhq.com/moxie-10
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "NewForm.ai"
+    careers_url: https://jobs.ashbyhq.com/newform-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "NextPatient"
+    careers_url: https://jobs.ashbyhq.com/nextpatient-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Oden Technologies"
+    careers_url: https://jobs.ashbyhq.com/oden-technologies
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Partly"
+    careers_url: https://jobs.ashbyhq.com/partly-3
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Perchwell"
+    careers_url: https://jobs.ashbyhq.com/perchwell
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Petual"
+    careers_url: https://jobs.ashbyhq.com/petual-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Posh"
+    careers_url: https://jobs.ashbyhq.com/posh-4
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Possible Finance"
+    careers_url: https://jobs.ashbyhq.com/possible-finance
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Ravenna Software"
+    careers_url: https://jobs.ashbyhq.com/ravenna-software
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Rula"
+    careers_url: https://jobs.ashbyhq.com/rula
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "SafetyKit"
+    careers_url: https://jobs.ashbyhq.com/safetykit-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Sardine"
+    careers_url: https://jobs.ashbyhq.com/sardine-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Siro"
+    careers_url: https://jobs.ashbyhq.com/siro-ai
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Speak"
+    careers_url: https://jobs.ashbyhq.com/speak-app
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Starfish Space"
+    careers_url: https://jobs.ashbyhq.com/starfish-space
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Steadily"
+    careers_url: https://jobs.ashbyhq.com/steadily
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Stuut"
+    careers_url: https://jobs.ashbyhq.com/stuut-1
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Svix (YC W21)"
+    careers_url: https://jobs.ashbyhq.com/svix
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Sydecar"
+    careers_url: https://jobs.ashbyhq.com/sydecar-2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "tennr"
+    careers_url: https://jobs.ashbyhq.com/tennr-2
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Theori"
+    careers_url: https://jobs.ashbyhq.com/theori
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Tremendous"
+    careers_url: https://jobs.ashbyhq.com/tremendous
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Virta Health"
+    careers_url: https://jobs.ashbyhq.com/virta-health
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Vitalize Care (YC W23)"
+    careers_url: https://jobs.ashbyhq.com/vitalize-care
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Watney Robotics"
+    careers_url: https://jobs.ashbyhq.com/watney-robotics
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "wisp"
+    careers_url: https://jobs.ashbyhq.com/wisp-6
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Wynd Labs"
+    careers_url: https://jobs.ashbyhq.com/wynd-labs
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Zenos"
+    careers_url: https://jobs.ashbyhq.com/zenos-inc
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "10a Labs"
+    careers_url: https://job-boards.greenhouse.io/10a-labs-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Actively"
+    careers_url: https://job-boards.greenhouse.io/activelyai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Alloy"
+    careers_url: https://job-boards.greenhouse.io/alloy
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Alloy"
+    careers_url: https://job-boards.greenhouse.io/alloy-2
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Alt"
+    careers_url: https://job-boards.greenhouse.io/altxyz
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Arize AI"
+    careers_url: https://job-boards.greenhouse.io/arize-ai
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Augury"
+    careers_url: https://job-boards.greenhouse.io/augury
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Bitwarden"
+    careers_url: https://job-boards.greenhouse.io/bitwarden
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "BrainStation"
+    careers_url: https://job-boards.greenhouse.io/brainstation-4
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Braze"
+    careers_url: https://job-boards.greenhouse.io/braze
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Brex"
+    careers_url: https://job-boards.greenhouse.io/brex
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "C3 AI"
+    careers_url: https://job-boards.greenhouse.io/c3
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Capital On Tap"
+    careers_url: https://job-boards.greenhouse.io/capital-on-tap
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Citian"
+    careers_url: https://job-boards.greenhouse.io/citian
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Coast"
+    careers_url: https://job-boards.greenhouse.io/coastpay
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "commercetools"
+    careers_url: https://job-boards.greenhouse.io/commercetools-2
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "ComplyAdvantage"
+    careers_url: https://job-boards.greenhouse.io/comply-advantage
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Cross River"
+    careers_url: https://job-boards.greenhouse.io/crossriver
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Current"
+    careers_url: https://job-boards.greenhouse.io/current
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Dealpath"
+    careers_url: https://job-boards.greenhouse.io/dealpath
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Develocity"
+    careers_url: https://job-boards.greenhouse.io/develocity-gradle
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "dv01"
+    careers_url: https://job-boards.greenhouse.io/dv01-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Faire"
+    careers_url: https://job-boards.greenhouse.io/faire-wholesale
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Flowcode"
+    careers_url: https://job-boards.greenhouse.io/flow-code
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Forward Networks"
+    careers_url: https://job-boards.greenhouse.io/forward-networks
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Garner Health"
+    careers_url: https://job-boards.greenhouse.io/garner-health
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Hackerrank"
+    careers_url: https://job-boards.greenhouse.io/hackerrank-6
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "HealthVerity"
+    careers_url: https://job-boards.greenhouse.io/healthverity
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Honor"
+    careers_url: https://job-boards.greenhouse.io/honor
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Iterative Health"
+    careers_url: https://job-boards.greenhouse.io/iterative-health
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Klaviyo"
+    careers_url: https://job-boards.greenhouse.io/klaviyo
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Kodiak Robotics"
+    careers_url: https://job-boards.greenhouse.io/kodiak-robotics
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Linqia"
+    careers_url: https://job-boards.greenhouse.io/linqia
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "LogicMonitor"
+    careers_url: https://job-boards.greenhouse.io/logicmonitor
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Madison Reed"
+    careers_url: https://job-boards.greenhouse.io/madison-reed
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Manychat"
+    careers_url: https://job-boards.greenhouse.io/manychat
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Mochi Health"
+    careers_url: https://job-boards.greenhouse.io/mochi-health
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Nanit"
+    careers_url: https://job-boards.greenhouse.io/nanit
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Netskope"
+    careers_url: https://job-boards.greenhouse.io/netskope
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Nextdoor"
+    careers_url: https://job-boards.greenhouse.io/nextdoor
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "PayIt"
+    careers_url: https://job-boards.greenhouse.io/payit
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Podium"
+    careers_url: https://job-boards.greenhouse.io/podium
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Point"
+    careers_url: https://job-boards.greenhouse.io/point-4
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Prodigal"
+    careers_url: https://job-boards.greenhouse.io/prodigal-2
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Quantiq"
+    careers_url: https://job-boards.greenhouse.io/quantiqpartners
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Quidient"
+    careers_url: https://job-boards.greenhouse.io/quidient-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Seekr"
+    careers_url: https://job-boards.greenhouse.io/seekr-4
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Sigma Computing"
+    careers_url: https://job-boards.greenhouse.io/sigma-computing-2
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Smartly.io"
+    careers_url: https://job-boards.greenhouse.io/smartly-io
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Speechmatics"
+    careers_url: https://job-boards.greenhouse.io/speechmatics-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Spoiler Alert"
+    careers_url: https://job-boards.greenhouse.io/spoiler-alert
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "T-Rex Solutions"
+    careers_url: https://job-boards.greenhouse.io/t-rex-solutions
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Take-Two Interactive Software"
+    careers_url: https://job-boards.greenhouse.io/take-two-interactive-software
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Tatari"
+    careers_url: https://job-boards.greenhouse.io/tatari
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Triplemint"
+    careers_url: https://job-boards.greenhouse.io/triplemint
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Tulip Interfaces"
+    careers_url: https://job-boards.greenhouse.io/tulip-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Vannevar Labs"
+    careers_url: https://job-boards.greenhouse.io/vannevar-labs
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "VirtualHealth"
+    careers_url: https://job-boards.greenhouse.io/virtualhealth-
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "SpotMe"
+    careers_url: https://job-boards.greenhouse.io/withspotme
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Wonderschool"
+    careers_url: https://job-boards.greenhouse.io/wonderschool
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "YipitData"
+    careers_url: https://job-boards.greenhouse.io/yipitdata
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Avante"
+    careers_url: https://jobs.lever.co/avante-5
+    provider: lever
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Instrumentl"
+    careers_url: https://jobs.lever.co/instrumentl
+    provider: lever
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Samba"
+    careers_url: https://jobs.lever.co/sambatv
+    provider: lever
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

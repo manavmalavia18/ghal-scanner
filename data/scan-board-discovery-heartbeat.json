@@ -1,8 +1,694 @@
 {
-  "at": "2026-10-16T21:13:07.918Z",
-  "leadsScanned": 1865,
-  "totalBoardsKnown": 966,
-  "alreadyTracked": 966,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "at": "2026-10-16T23:37:52.719Z",
+  "leadsScanned": 2001,
+  "totalBoardsKnown": 1106,
+  "alreadyTracked": 969,
+  "newlyPromoted": 137,
+  "newBoards": [
+    {
+      "name": "Agave API",
+      "careers_url": "https://jobs.ashbyhq.com/agave-api",
+      "provider": "ashby"
+    },
+    {
+      "name": "Anything",
+      "careers_url": "https://jobs.ashbyhq.com/anythingdotcom",
+      "provider": "ashby"
+    },
+    {
+      "name": "Apiphany AI",
+      "careers_url": "https://jobs.ashbyhq.com/apiphany-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Assured",
+      "careers_url": "https://jobs.ashbyhq.com/assured-claims",
+      "provider": "ashby"
+    },
+    {
+      "name": "Astra",
+      "careers_url": "https://jobs.ashbyhq.com/astra_finance",
+      "provider": "ashby"
+    },
+    {
+      "name": "Basis AI",
+      "careers_url": "https://jobs.ashbyhq.com/basis-36",
+      "provider": "ashby"
+    },
+    {
+      "name": "Bevel",
+      "careers_url": "https://jobs.ashbyhq.com/bevel-health",
+      "provider": "ashby"
+    },
+    {
+      "name": "Big Leap Health",
+      "careers_url": "https://jobs.ashbyhq.com/big-leap-health",
+      "provider": "ashby"
+    },
+    {
+      "name": "Blockstream",
+      "careers_url": "https://jobs.ashbyhq.com/blockstream",
+      "provider": "ashby"
+    },
+    {
+      "name": "Bobyard",
+      "careers_url": "https://jobs.ashbyhq.com/bobyard",
+      "provider": "ashby"
+    },
+    {
+      "name": "Boom",
+      "careers_url": "https://jobs.ashbyhq.com/boom-app",
+      "provider": "ashby"
+    },
+    {
+      "name": "Capsule",
+      "careers_url": "https://jobs.ashbyhq.com/capsule-makevideo",
+      "provider": "ashby"
+    },
+    {
+      "name": "cardboard.ai",
+      "careers_url": "https://jobs.ashbyhq.com/cardboard-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Check",
+      "careers_url": "https://jobs.ashbyhq.com/checkhq",
+      "provider": "ashby"
+    },
+    {
+      "name": "Claim Health",
+      "careers_url": "https://jobs.ashbyhq.com/claim-health-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Constructor.io",
+      "careers_url": "https://jobs.ashbyhq.com/constructor-io",
+      "provider": "ashby"
+    },
+    {
+      "name": "Creatify AI",
+      "careers_url": "https://jobs.ashbyhq.com/creatify-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Crux",
+      "careers_url": "https://jobs.ashbyhq.com/crux-climate",
+      "provider": "ashby"
+    },
+    {
+      "name": "Doss",
+      "careers_url": "https://jobs.ashbyhq.com/doss-com",
+      "provider": "ashby"
+    },
+    {
+      "name": "EliseAI",
+      "careers_url": "https://jobs.ashbyhq.com/eliseai-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Feathery",
+      "careers_url": "https://jobs.ashbyhq.com/featheryai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Firecrawl",
+      "careers_url": "https://jobs.ashbyhq.com/firecrawl",
+      "provider": "ashby"
+    },
+    {
+      "name": "Hazel",
+      "careers_url": "https://jobs.ashbyhq.com/fromhazel",
+      "provider": "ashby"
+    },
+    {
+      "name": "General Medicine",
+      "careers_url": "https://jobs.ashbyhq.com/general-medicine-3",
+      "provider": "ashby"
+    },
+    {
+      "name": "Gray Swan AI",
+      "careers_url": "https://jobs.ashbyhq.com/gray-swan-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Halliday",
+      "careers_url": "https://jobs.ashbyhq.com/halliday-2",
+      "provider": "ashby"
+    },
+    {
+      "name": "Juniper Square",
+      "careers_url": "https://jobs.ashbyhq.com/juniper-square",
+      "provider": "ashby"
+    },
+    {
+      "name": "Kepler",
+      "careers_url": "https://jobs.ashbyhq.com/kepler",
+      "provider": "ashby"
+    },
+    {
+      "name": "Kontakt.io",
+      "careers_url": "https://jobs.ashbyhq.com/kontakt-io-5",
+      "provider": "ashby"
+    },
+    {
+      "name": "Kovo",
+      "careers_url": "https://jobs.ashbyhq.com/kovocredit",
+      "provider": "ashby"
+    },
+    {
+      "name": "Layer",
+      "careers_url": "https://jobs.ashbyhq.com/layer-22",
+      "provider": "ashby"
+    },
+    {
+      "name": "Light",
+      "careers_url": "https://jobs.ashbyhq.com/light-20",
+      "provider": "ashby"
+    },
+    {
+      "name": "Lightfield",
+      "careers_url": "https://jobs.ashbyhq.com/lightfield-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Lindus Health",
+      "careers_url": "https://jobs.ashbyhq.com/lindus-health",
+      "provider": "ashby"
+    },
+    {
+      "name": "Lunar",
+      "careers_url": "https://jobs.ashbyhq.com/lunar-systems-inc",
+      "provider": "ashby"
+    },
+    {
+      "name": "Maze",
+      "careers_url": "https://jobs.ashbyhq.com/maze-design",
+      "provider": "ashby"
+    },
+    {
+      "name": "Medal",
+      "careers_url": "https://jobs.ashbyhq.com/medal-app",
+      "provider": "ashby"
+    },
+    {
+      "name": "Merciv",
+      "careers_url": "https://jobs.ashbyhq.com/merciv",
+      "provider": "ashby"
+    },
+    {
+      "name": "Method Financial",
+      "careers_url": "https://jobs.ashbyhq.com/methodfi",
+      "provider": "ashby"
+    },
+    {
+      "name": "Metriport",
+      "careers_url": "https://jobs.ashbyhq.com/metriport-2",
+      "provider": "ashby"
+    },
+    {
+      "name": "midpage.ai",
+      "careers_url": "https://jobs.ashbyhq.com/midpage-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Mintlify",
+      "careers_url": "https://jobs.ashbyhq.com/mintlify-2",
+      "provider": "ashby"
+    },
+    {
+      "name": "Mirage",
+      "careers_url": "https://jobs.ashbyhq.com/mirage-app",
+      "provider": "ashby"
+    },
+    {
+      "name": "Monte Carlo",
+      "careers_url": "https://jobs.ashbyhq.com/monte-carlo-data-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Moxie",
+      "careers_url": "https://jobs.ashbyhq.com/moxie-10",
+      "provider": "ashby"
+    },
+    {
+      "name": "NewForm.ai",
+      "careers_url": "https://jobs.ashbyhq.com/newform-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "NextPatient",
+      "careers_url": "https://jobs.ashbyhq.com/nextpatient-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Oden Technologies",
+      "careers_url": "https://jobs.ashbyhq.com/oden-technologies",
+      "provider": "ashby"
+    },
+    {
+      "name": "Partly",
+      "careers_url": "https://jobs.ashbyhq.com/partly-3",
+      "provider": "ashby"
+    },
+    {
+      "name": "Perchwell",
+      "careers_url": "https://jobs.ashbyhq.com/perchwell",
+      "provider": "ashby"
+    },
+    {
+      "name": "Petual",
+      "careers_url": "https://jobs.ashbyhq.com/petual-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Posh",
+      "careers_url": "https://jobs.ashbyhq.com/posh-4",
+      "provider": "ashby"
+    },
+    {
+      "name": "Possible Finance",
+      "careers_url": "https://jobs.ashbyhq.com/possible-finance",
+      "provider": "ashby"
+    },
+    {
+      "name": "Ravenna Software",
+      "careers_url": "https://jobs.ashbyhq.com/ravenna-software",
+      "provider": "ashby"
+    },
+    {
+      "name": "Rula",
+      "careers_url": "https://jobs.ashbyhq.com/rula",
+      "provider": "ashby"
+    },
+    {
+      "name": "SafetyKit",
+      "careers_url": "https://jobs.ashbyhq.com/safetykit-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Sardine",
+      "careers_url": "https://jobs.ashbyhq.com/sardine-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Siro",
+      "careers_url": "https://jobs.ashbyhq.com/siro-ai",
+      "provider": "ashby"
+    },
+    {
+      "name": "Speak",
+      "careers_url": "https://jobs.ashbyhq.com/speak-app",
+      "provider": "ashby"
+    },
+    {
+      "name": "Starfish Space",
+      "careers_url": "https://jobs.ashbyhq.com/starfish-space",
+      "provider": "ashby"
+    },
+    {
+      "name": "Steadily",
+      "careers_url": "https://jobs.ashbyhq.com/steadily",
+      "provider": "ashby"
+    },
+    {
+      "name": "Stuut",
+      "careers_url": "https://jobs.ashbyhq.com/stuut-1",
+      "provider": "ashby"
+    },
+    {
+      "name": "Svix (YC W21)",
+      "careers_url": "https://jobs.ashbyhq.com/svix",
+      "provider": "ashby"
+    },
+    {
+      "name": "Sydecar",
+      "careers_url": "https://jobs.ashbyhq.com/sydecar-2",
+      "provider": "ashby"
+    },
+    {
+      "name": "tennr",
+      "careers_url": "https://jobs.ashbyhq.com/tennr-2",
+      "provider": "ashby"
+    },
+    {
+      "name": "Theori",
+      "careers_url": "https://jobs.ashbyhq.com/theori",
+      "provider": "ashby"
+    },
+    {
+      "name": "Tremendous",
+      "careers_url": "https://jobs.ashbyhq.com/tremendous",
+      "provider": "ashby"
+    },
+    {
+      "name": "Virta Health",
+      "careers_url": "https://jobs.ashbyhq.com/virta-health",
+      "provider": "ashby"
+    },
+    {
+      "name": "Vitalize Care (YC W23)",
+      "careers_url": "https://jobs.ashbyhq.com/vitalize-care",
+      "provider": "ashby"
+    },
+    {
+      "name": "Watney Robotics",
+      "careers_url": "https://jobs.ashbyhq.com/watney-robotics",
+      "provider": "ashby"
+    },
+    {
+      "name": "wisp",
+      "careers_url": "https://jobs.ashbyhq.com/wisp-6",
+      "provider": "ashby"
+    },
+    {
+      "name": "Wynd Labs",
+      "careers_url": "https://jobs.ashbyhq.com/wynd-labs",
+      "provider": "ashby"
+    },
+    {
+      "name": "Zenos",
+      "careers_url": "https://jobs.ashbyhq.com/zenos-inc",
+      "provider": "ashby"
+    },
+    {
+      "name": "10a Labs",
+      "careers_url": "https://job-boards.greenhouse.io/10a-labs-1",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Actively",
+      "careers_url": "https://job-boards.greenhouse.io/activelyai",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Alloy",
+      "careers_url": "https://job-boards.greenhouse.io/alloy",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Alloy",
+      "careers_url": "https://job-boards.greenhouse.io/alloy-2",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Alt",
+      "careers_url": "https://job-boards.greenhouse.io/altxyz",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Arize AI",
+      "careers_url": "https://job-boards.greenhouse.io/arize-ai",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Augury",
+      "careers_url": "https://job-boards.greenhouse.io/augury",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Bitwarden",
+      "careers_url": "https://job-boards.greenhouse.io/bitwarden",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "BrainStation",
+      "careers_url": "https://job-boards.greenhouse.io/brainstation-4",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Braze",
+      "careers_url": "https://job-boards.greenhouse.io/braze",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Brex",
+      "careers_url": "https://job-boards.greenhouse.io/brex",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "C3 AI",
+      "careers_url": "https://job-boards.greenhouse.io/c3",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Capital On Tap",
+      "careers_url": "https://job-boards.greenhouse.io/capital-on-tap",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Citian",
+      "careers_url": "https://job-boards.greenhouse.io/citian",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Coast",
+      "careers_url": "https://job-boards.greenhouse.io/coastpay",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "commercetools",
+      "careers_url": "https://job-boards.greenhouse.io/commercetools-2",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "ComplyAdvantage",
+      "careers_url": "https://job-boards.greenhouse.io/comply-advantage",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Cross River",
+      "careers_url": "https://job-boards.greenhouse.io/crossriver",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Current",
+      "careers_url": "https://job-boards.greenhouse.io/current",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Dealpath",
+      "careers_url": "https://job-boards.greenhouse.io/dealpath",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Develocity",
+      "careers_url": "https://job-boards.greenhouse.io/develocity-gradle",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "dv01",
+      "careers_url": "https://job-boards.greenhouse.io/dv01-1",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Faire",
+      "careers_url": "https://job-boards.greenhouse.io/faire-wholesale",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Flowcode",
+      "careers_url": "https://job-boards.greenhouse.io/flow-code",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Forward Networks",
+      "careers_url": "https://job-boards.greenhouse.io/forward-networks",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Garner Health",
+      "careers_url": "https://job-boards.greenhouse.io/garner-health",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Hackerrank",
+      "careers_url": "https://job-boards.greenhouse.io/hackerrank-6",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "HealthVerity",
+      "careers_url": "https://job-boards.greenhouse.io/healthverity",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Honor",
+      "careers_url": "https://job-boards.greenhouse.io/honor",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Iterative Health",
+      "careers_url": "https://job-boards.greenhouse.io/iterative-health",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Klaviyo",
+      "careers_url": "https://job-boards.greenhouse.io/klaviyo",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Kodiak Robotics",
+      "careers_url": "https://job-boards.greenhouse.io/kodiak-robotics",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Linqia",
+      "careers_url": "https://job-boards.greenhouse.io/linqia",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "LogicMonitor",
+      "careers_url": "https://job-boards.greenhouse.io/logicmonitor",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Madison Reed",
+      "careers_url": "https://job-boards.greenhouse.io/madison-reed",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Manychat",
+      "careers_url": "https://job-boards.greenhouse.io/manychat",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Mochi Health",
+      "careers_url": "https://job-boards.greenhouse.io/mochi-health",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Nanit",
+      "careers_url": "https://job-boards.greenhouse.io/nanit",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Netskope",
+      "careers_url": "https://job-boards.greenhouse.io/netskope",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Nextdoor",
+      "careers_url": "https://job-boards.greenhouse.io/nextdoor",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "PayIt",
+      "careers_url": "https://job-boards.greenhouse.io/payit",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Podium",
+      "careers_url": "https://job-boards.greenhouse.io/podium",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Point",
+      "careers_url": "https://job-boards.greenhouse.io/point-4",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Prodigal",
+      "careers_url": "https://job-boards.greenhouse.io/prodigal-2",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Quantiq",
+      "careers_url": "https://job-boards.greenhouse.io/quantiqpartners",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Quidient",
+      "careers_url": "https://job-boards.greenhouse.io/quidient-1",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Seekr",
+      "careers_url": "https://job-boards.greenhouse.io/seekr-4",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Sigma Computing",
+      "careers_url": "https://job-boards.greenhouse.io/sigma-computing-2",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Smartly.io",
+      "careers_url": "https://job-boards.greenhouse.io/smartly-io",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Speechmatics",
+      "careers_url": "https://job-boards.greenhouse.io/speechmatics-1",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Spoiler Alert",
+      "careers_url": "https://job-boards.greenhouse.io/spoiler-alert",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "T-Rex Solutions",
+      "careers_url": "https://job-boards.greenhouse.io/t-rex-solutions",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Take-Two Interactive Software",
+      "careers_url": "https://job-boards.greenhouse.io/take-two-interactive-software",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Tatari",
+      "careers_url": "https://job-boards.greenhouse.io/tatari",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Triplemint",
+      "careers_url": "https://job-boards.greenhouse.io/triplemint",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Tulip Interfaces",
+      "careers_url": "https://job-boards.greenhouse.io/tulip-1",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Vannevar Labs",
+      "careers_url": "https://job-boards.greenhouse.io/vannevar-labs",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "VirtualHealth",
+      "careers_url": "https://job-boards.greenhouse.io/virtualhealth-",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "SpotMe",
+      "careers_url": "https://job-boards.greenhouse.io/withspotme",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Wonderschool",
+      "careers_url": "https://job-boards.greenhouse.io/wonderschool",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "YipitData",
+      "careers_url": "https://job-boards.greenhouse.io/yipitdata",
+      "provider": "greenhouse"
+    },
+    {
+      "name": "Avante",
+      "careers_url": "https://jobs.lever.co/avante-5",
+      "provider": "lever"
+    },
+    {
+      "name": "Instrumentl",
+      "careers_url": "https://jobs.lever.co/instrumentl",
+      "provider": "lever"
+    },
+    {
+      "name": "Samba",
+      "careers_url": "https://jobs.lever.co/sambatv",
+      "provider": "lever"
+    }
+  ]
 }
