@@ -681,3 +681,7 @@
 - [ ] https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381 | justworks | Software Engineer, Solutions Engineering | New York, New York | posted: 2026-10-16
 
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455895008 | lightfeatheriollc | ServiceNow Platform Engineer | Washington, DC | posted: 2026-10-16
+
+- [ ] https://jobs.ashbyhq.com/brettonai/191496c7-6aa7-4d11-897d-7681aec0e6b9 | brettonai | Software Engineer, Product | San Francisco, CA | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/read-ai/6ea57d82-e8d4-4325-90b6-73886553f604 | read-ai | Software Engineer - Fullstack | Read AI - Seattle HQ | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/hirehangar/83dc7a2b-12f7-4416-a570-c52eeeeded1b | hirehangar | LLM Infrastructure Engineer | Argentina - Buenos Aires · Parugauy - Asuncion · Asuncion · Paraguay · Ecuador - Guayaquil · Guayaquil · Ecuador · Bolivia - Santa Cruz de la Sierra · Santa Cruz de la Sierra · Bolivia · Egypt - Cairo · Cairo · Egypt · South Africa - Johannesburg · Johannesburg · South Africa · Columbia - Bogotá · Bogotá · Colombia · Columbia - Medellín · Medellín · Chile - Santiago · Santiago · Chile · Uruguay - Montevideo · Montevideo · Uruguay · Peru - Lima · Lima · Peru · Dominican Republic - Santo Domingo · Santo Domingo · Dominican Republic · Nicaragua - Managua · Managua · Nicaragua · Panama - Panama City · Panama City · Panama · Honduras - Tegucigalpa · Tegucigalpa · Honduras · South Africa - Cape Town · Cape Town · Mexico - Mexico City · Mexico City · Mexico · Remote | posted: 2026-10-16
