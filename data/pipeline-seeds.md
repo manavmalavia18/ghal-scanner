@@ -536,4 +536,23 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/base-power/f7f3523e-70c0-4c4f-bf5d-6f8e39f68d1a | base-power | Full Stack Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/base-power/8526b173-27e7-4dac-a96f-c71214906758 | base-power | Software Engineer, Core Experience | Austin, TX | posted: 2026-10-15
 
+- [ ] https://jobs.ashbyhq.com/dialogueai/48219357-056f-4089-981a-0c773b196130 | dialogueai | Software Engineer | Los Angeles | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032175003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote Canada | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8032173003 | affirm | Software Engineer II, Mobile (Card Acquisition) | Remote US | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6226254004 | alpaca | Full-Stack Platform Engineer | Remote - Americas | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452586008 | honeycomb | Software Engineer I - LLM Observability | Remote - Canada | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452584008 | honeycomb | Software Engineer I - LLM Observability | Remote - United States | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/gallatin/f28a591f-a57c-4084-86ec-ae449a4f8ba7 | gallatin | Fullstack Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/echo/jobs/4452483009 | Echo | Full Stack Software Engineer | San Francisco, CA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/tenex/45512202-a2f6-407f-b9d2-c42d0d8da744 | tenex | Platform Engineer, AI & Security | San Jose, CA · Sarasota, FL HQ · Sarasota · United States · Kansas City Metro · Overland Park | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/zyphra/7531f714-8809-498b-9bdb-44af16149824 | zyphra | Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cloud | San Francisco | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008 | anthropic | Applied AI Engineer, Startups (Physical AI) | San Francisco, CA | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454650008 | anthropic | Applied AI Engineer, Startups (Life Sciences) | San Francisco, CA / New York City, NY | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8879308002 | addepar1 | Software Engineer - Customer Facing Applied AI | Remote, USA | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/watershed/9dd3ca17-baff-4e36-be75-f13a2a919cbc | watershed | Software engineer, cloud infrastructure | San Francisco | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8017342003 | affirm | Software Engineer I, Fullstack (Search) | Remote Canada | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/8017340003 | affirm | Software Engineer I, Fullstack (Search) | Remote US | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef | gamma | Software Engineer, Growth | San Francisco | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/gamma/fa99107a-c458-45fa-b856-add887b0a255 | gamma | Software Engineer, Frontend | San Francisco | posted: 2026-10-15
+
 ## Processed
