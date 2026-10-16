@@ -1,29 +1,8 @@
 {
-  "at": "2026-10-16T15:27:24.315Z",
-  "leadsScanned": 1861,
-  "totalBoardsKnown": 935,
-  "alreadyTracked": 931,
-  "newlyPromoted": 4,
-  "newBoards": [
-    {
-      "name": "Blee",
-      "careers_url": "https://jobs.ashbyhq.com/Blee",
-      "provider": "ashby"
-    },
-    {
-      "name": "Confido",
-      "careers_url": "https://jobs.ashbyhq.com/confido",
-      "provider": "ashby"
-    },
-    {
-      "name": "Langdock",
-      "careers_url": "https://jobs.ashbyhq.com/langdock",
-      "provider": "ashby"
-    },
-    {
-      "name": "STRUCTURAL TECHNOLOGIES",
-      "careers_url": "https://structural.wd12.myworkdayjobs.com/structuraltechnologiescareers",
-      "provider": "workday"
-    }
-  ]
+  "at": "2026-10-16T16:11:21.936Z",
+  "leadsScanned": 1848,
+  "totalBoardsKnown": 934,
+  "alreadyTracked": 934,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
