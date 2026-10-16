@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T14:38:13.747Z",
+  "fetchedAt": "2026-10-16T15:01:27.473Z",
   "provider": "hiringcafe",
   "window": "48h",
   "hcDaysRequested": 2,
@@ -24,25 +24,25 @@
     "security engineer"
   ],
   "days": 2,
-  "pagesFetched": 27,
+  "pagesFetched": 4,
   "truncated": false,
   "transport": "patchright",
   "hcTotals": {
-    "software engineer": 657,
-    "software developer": 618,
+    "software engineer": null,
+    "software developer": null,
     "backend engineer": null,
     "frontend engineer": null,
     "full stack engineer": null,
-    "full stack developer": 120,
+    "full stack developer": null,
     "platform engineer": null,
-    "devops engineer": 29,
-    "site reliability engineer": null,
+    "devops engineer": null,
+    "site reliability engineer": 10,
     "data engineer": null,
     "machine learning engineer": null,
-    "mobile engineer": 16,
-    "ios engineer": null,
-    "android engineer": 9,
-    "qa automation engineer": null,
+    "mobile engineer": null,
+    "ios engineer": 13,
+    "android engineer": null,
+    "qa automation engineer": 2,
     "security engineer": null
   },
   "count": 842,
@@ -404,7 +404,7 @@
       "company_tagline": "A technology company focused on building innovative mobile applications.",
       "ats_source": "dover",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "RPA Developer (US)",
@@ -2145,7 +2145,7 @@
       "company_tagline": "A provider of integrated facility, engineering, and infrastructure solutions.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Platform Engineer L2",
@@ -2929,6 +2929,29 @@
       "ats_source": "successfactors",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
       "lastSeenAt": "2026-10-16T14:38:13.735Z"
+    },
+    {
+      "title": "Enterprise Systems Engineer",
+      "url": "https://careers.avalara.com/jobs/17535?lang=en-us",
+      "company": "Avalara",
+      "location": "United States",
+      "postedAt": 1792095918000,
+      "salary": "$88k-$141k/yr",
+      "workplace": "Remote",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in Computer Science or related field; experience as systems or marketing technology engineer; hands-on Adobe Analytics, Adobe Launch, Adobe IO, OneTrust; AI experience with Adobe MCPs and agentic workflows.",
+      "tools": [
+        "Adobe Analytics",
+        "Adobe Launch",
+        "Adobe IO",
+        "OneTrust",
+        "Adobe MCPs"
+      ],
+      "company_tagline": "A cloud compliance platform processing billions of API calls and millions of tax returns annually.",
+      "ats_source": "icims2",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Electrical Estimator",
@@ -4407,7 +4430,7 @@
       "company_tagline": "A global leader in zero trust security, providing a cloud platform that securely connects users, devices, and applications.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "MTS I, Software",
@@ -4448,6 +4471,26 @@
       "ats_source": "governmentjobs",
       "discoveredAt": "2026-10-15T20:34:27.406Z",
       "lastSeenAt": "2026-10-16T14:38:13.735Z"
+    },
+    {
+      "title": "Software QA Engineer, Fitness+ Team",
+      "url": "https://jobs.apple.com/en-us/details/200689338-0836/software-qa-engineer-fitness-team",
+      "company": "Apple",
+      "location": "Cupertino, California, United States",
+      "postedAt": 1792086510641,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "3+ YOE",
+      "summary": "3+ years professional Software QA experience; strong programming in Python and Java; regression and functional testing; bug reporting; communication; Bachelor's in Computer Science; automation, UI, integration, and API testing preferred.",
+      "tools": [
+        "Python",
+        "Java"
+      ],
+      "company_tagline": "A technology company that designs and develops consumer electronics, software, and services.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Intern, Software Engineer",
@@ -4516,7 +4559,7 @@
       "company_tagline": "A leading global financial services company at the heart of the global financial system.",
       "ats_source": "oraclecloud",
       "discoveredAt": "2026-10-15T20:34:27.406Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Software Engineer III, Home Infrastructure",
@@ -6130,7 +6173,7 @@
       "company_tagline": "An AI video company focused on making creation dramatically easier through generative media and creative tools.",
       "ats_source": "ashby",
       "discoveredAt": "2026-10-15T16:46:27.692Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Project Engineer",
@@ -6320,7 +6363,7 @@
       "company_tagline": "A real estate technology company providing an end-to-end platform for residential agents.",
       "ats_source": "grnhse",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "2026017 - Software Engineer",
@@ -6957,7 +7000,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Software Engineer-Java with Angular",
@@ -7138,6 +7181,34 @@
       "ats_source": "betterteam",
       "discoveredAt": "2026-10-15T16:46:27.692Z",
       "lastSeenAt": "2026-10-15T16:46:27.692Z"
+    },
+    {
+      "title": "Network Development Engineer, Frontier Networking",
+      "url": "https://www.amazon.jobs/en/jobs/10580076/network-development-engineer-frontier-networking",
+      "company": "Amazon",
+      "location": "Seattle, Washington, United States",
+      "postedAt": 1792065600000,
+      "salary": "$114k-$160k/yr",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree; knowledge of IP networking fundamentals, network analysis, BGP and OSPF; experience with Cisco IOS, Junos, and Linux/Unix environments.",
+      "tools": [
+        "Cisco IOS",
+        "Junos",
+        "Linux",
+        "Unix",
+        "BGP",
+        "OSPF",
+        "Perl",
+        "Shell",
+        "C",
+        "C++"
+      ],
+      "company_tagline": "A global technology company providing cloud services and network infrastructure.",
+      "ats_source": "adhoc",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Software Dev Engineer, Amazon Leo Customer Terminal Software",
@@ -8201,6 +8272,96 @@
       "ats_source": "successfactors",
       "discoveredAt": "2026-10-15T17:27:15.153Z",
       "lastSeenAt": "2026-10-15T20:34:27.406Z"
+    },
+    {
+      "title": "SeniorAdministrator - Monitoring Tools, Event Monitoring (181821)",
+      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=181821",
+      "company": "HCLTech",
+      "location": "United States",
+      "postedAt": 1792050438000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience in NOC, service desk, or infrastructure operations; Linux command-line troubleshooting; foundational compute, storage, networking, identity; Jira and monitoring tools; scripting with Python, shell, Ansible; Associate's or Bachelor's degree preferred.",
+      "tools": [
+        "Jira",
+        "Prometheus",
+        "Grafana",
+        "SolarWinds",
+        "PagerDuty",
+        "Python",
+        "Ansible",
+        "MAAS",
+        "Xen",
+        "VMware",
+        "Azure",
+        "NetApp"
+      ],
+      "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
+    },
+    {
+      "title": "SeniorAdministrator - Monitoring Tools, Event Monitoring (181814)",
+      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=181814",
+      "company": "HCLTech",
+      "location": "United States",
+      "postedAt": 1792050438000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience in NOC, service desk, or infrastructure operations; Linux command-line troubleshooting; foundational compute, storage, networking, identity; Jira or ticketing systems; monitoring tools like Prometheus, Grafana, SolarWinds, or PagerDuty; scripting with Python, shell, Ansible, or APIs beneficial.",
+      "tools": [
+        "Jira",
+        "Prometheus",
+        "Grafana",
+        "SolarWinds",
+        "PagerDuty",
+        "Python",
+        "Ansible",
+        "MAAS",
+        "Xen",
+        "VMware",
+        "Azure",
+        "NetApp"
+      ],
+      "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
+    },
+    {
+      "title": "SeniorAdministrator - Monitoring Tools, Event Monitoring (181817)",
+      "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=181817",
+      "company": "HCLTech",
+      "location": "United States",
+      "postedAt": 1792050438000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Experience in NOC, service desk, or infrastructure operations; Linux command-line troubleshooting; foundational compute, storage, networking, identity; Jira and monitoring tools; ability to follow procedures and document handoffs; Associate's or Bachelor's degree preferred.",
+      "tools": [
+        "Jira",
+        "Prometheus",
+        "Grafana",
+        "SolarWinds",
+        "PagerDuty",
+        "Python",
+        "Ansible",
+        "MAAS",
+        "Xen",
+        "VMware",
+        "Azure",
+        "NetApp"
+      ],
+      "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
+      "ats_source": "successfactors",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Forward Deployed Engineer (US, West Coast)",
@@ -9839,7 +10000,7 @@
       "company_tagline": "A clean energy producer operating nuclear, natural gas, geothermal, hydro, wind, and solar facilities.",
       "ats_source": "icims2",
       "discoveredAt": "2026-10-15T11:37:51.259Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Drexel Site Engineering Co-op (Spring/Summer 2027) - Peach Bottom",
@@ -9877,7 +10038,7 @@
       "company_tagline": "A leading clean energy producer operating nuclear, natural gas, geothermal, hydro, wind, and solar facilities.",
       "ats_source": "icims2",
       "discoveredAt": "2026-10-15T11:37:51.259Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Drexel Site Engineering Co-op (Spring/Summer 2027) - Limerick",
@@ -10259,6 +10420,23 @@
       "lastSeenAt": "2026-10-15T20:34:27.406Z"
     },
     {
+      "title": "Associate Engineer",
+      "url": "https://structural.wd12.myworkdayjobs.com/structuraltechnologiescareers/job/Chicago-IL/Associate-Engineer_JR-6796-1",
+      "company": "STRUCTURAL TECHNOLOGIES",
+      "location": "Chicago, Illinois, United States",
+      "postedAt": 1792022400000,
+      "salary": "",
+      "workplace": "Onsite",
+      "commitment": "Full Time",
+      "yoe": "",
+      "summary": "Bachelor's degree in civil engineering (structural or materials emphasis preferred), GPA 3.4+, one relevant internship, strong communication and organizational skills, reliable transportation to job sites.",
+      "tools": [],
+      "company_tagline": "A specialty contractor providing repair, maintenance, and engineering support for infrastructure.",
+      "ats_source": "workday",
+      "discoveredAt": "2026-10-16T15:01:27.466Z",
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
+    },
+    {
       "title": "Senior RPA Developer - Core (175764)",
       "url": "https://career55.sapsf.eu/career?career_ns=job_listing&company=HCLPRD&career_job_req_id=175764",
       "company": "HCLTech",
@@ -10280,7 +10458,7 @@
       "company_tagline": "A global IT services and technology company delivering AI, engineering, and cloud solutions.",
       "ats_source": "successfactors",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Engineer - Software",
@@ -12530,7 +12708,7 @@
       "company_tagline": "A global leader in application delivery and security, helping customers secure and deliver every app, API, and piece of infrastructure.",
       "ats_source": "workday",
       "discoveredAt": "2026-10-16T14:38:13.735Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Assistant Pricing Developer",
@@ -13780,7 +13958,7 @@
       "company_tagline": "A developer platform combining data science insights and global device infrastructure to perfect digital experiences.",
       "ats_source": "bamboohr",
       "discoveredAt": "2026-10-15T16:46:27.692Z",
-      "lastSeenAt": "2026-10-16T14:38:13.735Z"
+      "lastSeenAt": "2026-10-16T15:01:27.466Z"
     },
     {
       "title": "Operations System Engineer - ITS4",
@@ -20235,181 +20413,6 @@
       "company_tagline": "A global footwear company with a family atmosphere, focused on innovation and employee engagement.",
       "ats_source": "smartrecruiters",
       "discoveredAt": "2026-10-15T18:11:59.406Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
-    },
-    {
-      "title": "PHP Full-Stack Developer",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4585112",
-      "company": "Lightology",
-      "location": "Chicago, Illinois, United States",
-      "postedAt": 1791990024000,
-      "salary": "$70k-$80k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "Bachelor's degree or equivalent in computer science or related field; strong HTML, CSS, JavaScript; front-end framework (jQuery, React, Vue.js); back-end language (PHP, Python, Java); relational databases (MySQL, PostgreSQL); Bootstrap, SASS, responsive design.",
-      "tools": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "jQuery",
-        "React",
-        "Vue.js",
-        "PHP",
-        "Python",
-        "Java",
-        "MySQL",
-        "PostgreSQL",
-        "Bootstrap"
-      ],
-      "company_tagline": "A contemporary lighting showroom that educates customers on lighting design.",
-      "ats_source": "paylocity",
-      "discoveredAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
-    },
-    {
-      "title": "Programmer",
-      "url": "https://opportunities.columbia.edu/job/560154",
-      "company": "Columbia University",
-      "location": "New York City, New York, United States",
-      "postedAt": 1791990000000,
-      "salary": "$80k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree in computer science, computational biology, bioinformatics, mathematics, or related field; at least 3 years of related experience.",
-      "tools": [],
-      "company_tagline": "An Ivy League university conducting research and education.",
-      "ats_source": "pageup",
-      "discoveredAt": "2026-10-15T03:07:13.208Z",
-      "lastSeenAt": "2026-10-15T19:18:04.095Z"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=74883fe0-07bc-451c-8351-0a9b3e8453ed&ccId=19000101_000001&jobId=585943&lang=en_US",
-      "company": "Title Resources Group",
-      "location": "United States",
-      "postedAt": 1791990000000,
-      "salary": "",
-      "workplace": "Remote",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "3+ years professional software engineering experience; daily hands-on use of agentic development tools; ability to read/debug code; Git, automated testing, CI/CD; YAML, infrastructure as code; cloud platform; proficiency in C#, TypeScript, or Python; secure coding; clear written communication; Bachelor's in CS or equiv",
-      "tools": [
-        "Claude Code",
-        "GitHub Copilot",
-        "Cursor",
-        "Codex",
-        "Git",
-        "YAML",
-        "GitLab CI",
-        "Bicep",
-        "Terraform",
-        "C#",
-        "TypeScript",
-        "Python"
-      ],
-      "company_tagline": "One of the nation's largest and fastest-growing title insurance underwriters, delivering trusted solutions and protecting property ownership rights across America.",
-      "ats_source": "adp",
-      "discoveredAt": "2026-10-14T20:55:13.678Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
-    },
-    {
-      "title": "Project Engineer II - Data Center Construction",
-      "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/24147",
-      "company": "Mortenson",
-      "location": "Pampa or Miami",
-      "postedAt": 1791989529000,
-      "salary": "$93k-$126k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "3+ YOE",
-      "summary": "Bachelor's degree in Construction, Civil, or Architectural Engineering or Construction Management; 3+ years construction experience; basic construction law understanding; current driver's license; U.S. work authorization without sponsorship.",
-      "tools": [],
-      "company_tagline": "A top builder, developer, and EPC company specializing in sports, renewable energy, data centers, healthcare, and more.",
-      "ats_source": "oraclecloud",
-      "discoveredAt": "2026-10-14T17:02:51.606Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
-    },
-    {
-      "title": "Java Developer I",
-      "url": "https://recruiting.ultipro.com/uni1105uscs/JobBoard/f098a23a-c6d0-4336-8e06-18c0579c891d/OpportunityDetail?opportunityId=cc15e050-54fc-436c-9453-e4aa0de61076",
-      "company": "United States Cold Storage",
-      "location": "Camden, New Jersey, United States",
-      "postedAt": 1791989275701,
-      "salary": "$95k-$100k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "BS in Computer Science or related field; strong Java, Spring, JavaScript, Angular/React, Oracle/SQL Server, Hibernate, REST, Maven, Git, Jira/Confluence; experience with TDD, Scrum, and continuous delivery.",
-      "tools": [
-        "Java",
-        "Spring",
-        "JavaScript",
-        "Angular",
-        "React",
-        "Oracle",
-        "SQL Server",
-        "Hibernate",
-        "TypeScript",
-        "REST",
-        "Maven",
-        "Git"
-      ],
-      "company_tagline": "A logistics company operating a network of temperature-controlled distribution centers.",
-      "ats_source": "ultipro",
-      "discoveredAt": "2026-10-14T20:55:13.678Z",
-      "lastSeenAt": "2026-10-15T17:52:31.371Z"
-    },
-    {
-      "title": "Java Developer I",
-      "url": "https://recruiting.ultipro.com/uni1105uscs/JobBoard/d4ff7dd5-4039-40e8-862a-d044370634fa/OpportunityDetail?opportunityId=cc15e050-54fc-436c-9453-e4aa0de61076",
-      "company": "United States Cold Storage",
-      "location": "Camden, New Jersey, United States",
-      "postedAt": 1791989275701,
-      "salary": "$95k-$100k/yr",
-      "workplace": "Hybrid",
-      "commitment": "Full Time",
-      "yoe": "",
-      "summary": "BS in Computer Science or related field; strong Core Java, Spring, JavaScript, Angular/React, Oracle/SQL Server, Hibernate, REST, Maven, Git, Jira/Confluence; Agile Scrum experience; less than 10% travel.",
-      "tools": [
-        "Java",
-        "Spring",
-        "JavaScript",
-        "Angular",
-        "React",
-        "Oracle",
-        "SQL Server",
-        "Hibernate",
-        "TypeScript",
-        "Maven",
-        "Git",
-        "Confluence"
-      ],
-      "company_tagline": "A logistics company operating temperature-controlled distribution networks across North America.",
-      "ats_source": "ultipro",
-      "discoveredAt": "2026-10-14T16:44:39.245Z",
-      "lastSeenAt": "2026-10-15T20:34:27.406Z"
-    },
-    {
-      "title": "Civil Engineer I",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e7b253cc-44c6-4e65-b94b-10bc49eb91f9&ccId=9201395191649_2&jobId=583661&lang=en_US",
-      "company": "Crawford, Murphy & Tilly",
-      "location": "Davenport, Iowa, United States",
-      "postedAt": 1791989100000,
-      "salary": "$73k-$76k/yr",
-      "workplace": "Onsite",
-      "commitment": "Full Time",
-      "yoe": "0+ YOE",
-      "summary": "Bachelor's degree in engineering; 0-3 years experience; EIT licensure preferred; knowledge of design software and civil engineering practices; valid driver's license preferred; ability to travel and work overtime.",
-      "tools": [
-        "AutoCAD",
-        "MicroStation",
-        "Microsoft Office"
-      ],
-      "company_tagline": "A civil infrastructure professional services firm providing planning, design, and delivery solutions.",
-      "ats_source": "adp",
-      "discoveredAt": "2026-10-14T20:55:13.678Z",
       "lastSeenAt": "2026-10-15T20:34:27.406Z"
     }
   ]
