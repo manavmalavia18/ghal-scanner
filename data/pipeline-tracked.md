@@ -396,4 +396,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Ft-Collins-Colorado-United-States-of-America/Platform-Software-Engineer_1216536-3 | Hpe | Platform Software Engineer | Ft. Collins, Colorado, United States of America | posted: 2026-10-16
 - [ ] https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Spring-Texas-United-States-of-America/HPC---AI---Software-Engineering-Resolution-Engineer_1214623 | Hpe | HPC & AI - Software Engineering Resolution Engineer | Spring, Texas, United States of America | posted: 2026-10-16
 
+- [ ] https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-II---InsurTech_R-110027-1 | Expedia | Software Development Engineer II - InsurTech | Washington - Seattle Campus | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/7cd509b3-5e8b-476b-9a36-8293671a2454 | Hadrian | Software Engineer, Identity & Access Management | Los Angeles, CA · San Francisco Bay Area, CA · San Francisco Bay Area · United States · Seattle/Bellevue Area, WA · Seattle/Bellevue Area | posted: 2026-10-16
+
 ## Processed
