@@ -376,4 +376,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://pwc.wd3.myworkdayjobs.com/us_entry_level_careers/job/NY-New-York/New-York---Tax-LLM---Associate---Summer-Fall-2027_5292672EIB-1 | pwc | New York - Tax LLM - Associate - Summer/Fall 2027 | NY-New York | posted: 2026-10-16
 - [ ] https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425 | entrust | Software Engineering Co-op | United States - Shakopee, MN (GHQ) | posted: 2026-10-16
 
+- [ ] https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1 | rockwellautomation | Process Automation Software Engineer | Milwaukee, Wisconsin, United States | posted: 2026-10-16
+
 ## Processed
