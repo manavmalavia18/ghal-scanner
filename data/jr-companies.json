@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T15:25:31.446Z",
+  "fetchedAt": "2026-10-16T15:47:28.805Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 263,
+  "companyCount": 259,
   "companies": [
     {
       "company": "1Password",
@@ -454,13 +454,6 @@
       "board": "d-matrix",
       "key": "ashby:d-matrix",
       "url": "https://jobs.ashbyhq.com/d-matrix/cabbc342-25fc-4679-8b46-8c7a6850f824"
-    },
-    {
-      "company": "Databricks",
-      "ats": "greenhouse",
-      "board": "",
-      "key": "greenhouse-id:8886384002",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002"
     },
     {
       "company": "Deterrence Defense",
@@ -1163,13 +1156,6 @@
       "url": "https://www.paycomonline.net/v4/ats/web.php/portal/0E35BF4CDCD4FEE99D33D853E535BD83/jobs/462145"
     },
     {
-      "company": "Re:Build Manufacturing",
-      "ats": "greenhouse",
-      "board": "rebuildmanufacturing",
-      "key": "greenhouse:rebuildmanufacturing",
-      "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4743404005"
-    },
-    {
       "company": "Reflection",
       "ats": "ashby",
       "board": "reflectionai",
@@ -1203,13 +1189,6 @@
       "board": "relx",
       "key": "workday:relx.wd3.myworkdayjobs.com/relx",
       "url": "https://relx.wd3.myworkdayjobs.com/relx"
-    },
-    {
-      "company": "Reply S.p.A.",
-      "ats": "lever",
-      "board": "reply",
-      "key": "lever:reply",
-      "url": "https://jobs.lever.co/reply/d24a1372-b895-4835-80ab-3ca3ef6c97e6"
     },
     {
       "company": "Rillet",
@@ -1749,13 +1728,6 @@
       "board": "wayve",
       "key": "ashby:wayve",
       "url": "https://jobs.ashbyhq.com/wayve/1dc6ac74-cf95-43d3-870e-04abf15d991c"
-    },
-    {
-      "company": "Weave",
-      "ats": "ashby",
-      "board": "weave",
-      "key": "ashby:weave",
-      "url": "https://jobs.ashbyhq.com/weave/60c0b7e6-5702-4e16-ad34-cbd2773f752d"
     },
     {
       "company": "WellSky",
