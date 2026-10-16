@@ -8803,6 +8803,46 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Rennscot MFG"
+    careers_url: https://jobs.ashbyhq.com/rennscotmfg
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Gravity Payments"
+    careers_url: https://job-boards.greenhouse.io/gravitypayments17
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ocrolus"
+    careers_url: https://job-boards.greenhouse.io/ocrolusinc
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Allison Transmission"
+    careers_url: https://allisontransmission.wd1.myworkdayjobs.com/ati-external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ally Financial"
+    careers_url: https://ally.wd1.myworkdayjobs.com/Ally
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Jasper Engines & Transmissions"
+    careers_url: https://jasperholdings.wd504.myworkdayjobs.com/JET_Careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "T-Mobile"
+    careers_url: https://tmobile.wd1.myworkdayjobs.com/contractorconversion
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "University Corporation for Atmospheric Research"
+    careers_url: https://ucar.wd5.myworkdayjobs.com/ucar_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
