@@ -607,3 +607,7 @@
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/8017340003 | affirm | Software Engineer I, Fullstack (Search) | Remote US | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/gamma/71009abf-dff3-44a9-b347-95e3362bffef | gamma | Software Engineer, Growth | San Francisco | posted: 2026-10-15
 - [ ] https://jobs.ashbyhq.com/gamma/fa99107a-c458-45fa-b856-add887b0a255 | gamma | Software Engineer, Frontend | San Francisco | posted: 2026-10-15
+
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452586008 | honeycomb | Software Engineer I - LLM Observability | Remote - Canada | posted: 2026-10-15
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452584008 | honeycomb | Software Engineer I - LLM Observability | Remote - United States | posted: 2026-10-15
+- [ ] https://jobs.ashbyhq.com/gallatin/f28a591f-a57c-4084-86ec-ae449a4f8ba7 | gallatin | Fullstack Engineer | El Segundo, CA · Washington, D.C. · United States · Palo Alto, CA · Palo Alto · San Francisco, CA · San Francisco · Austin, TX · Austin · New York City, NY · New York City | posted: 2026-10-15
