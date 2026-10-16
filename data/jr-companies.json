@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-16T16:09:22.748Z",
+  "fetchedAt": "2026-10-16T16:31:41.604Z",
   "scrapedAt": "2026-10-16T14:41:11.394606+00:00",
   "source": [
     "jobright-cache",
     "hiringcafe"
   ],
-  "companyCount": 257,
+  "companyCount": 262,
   "companies": [
     {
       "company": "1Password",
@@ -407,6 +407,13 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
     },
     {
+      "company": "Crowe LLP",
+      "ats": "greenhouse",
+      "board": "explore",
+      "key": "greenhouse:explore",
+      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/844768668915624?domain=coloradowfx.gov"
+    },
+    {
       "company": "Crypto.com",
       "ats": "lever",
       "board": "crypto",
@@ -517,13 +524,6 @@
       "board": "echo",
       "key": "greenhouse:echo",
       "url": "https://job-boards.greenhouse.io/echo/jobs/4452483009"
-    },
-    {
-      "company": "Eliassen Group",
-      "ats": "greenhouse",
-      "board": "explore",
-      "key": "greenhouse:explore",
-      "url": "https://jobs.connectingcolorado.gov/careerhub/explore/jobs/5519892110200375?domain=coloradowfx.gov"
     },
     {
       "company": "Etched",
@@ -935,6 +935,20 @@
       "company": "Morris Group, Inc.",
       "ats": "greenhouse",
       "board": "",
+      "key": "greenhouse-id:8560892",
+      "url": "https://therobertemorris.teamtailor.com/jobs/8560892-cnc-applications-engineer"
+    },
+    {
+      "company": "Morris Group, Inc.",
+      "ats": "greenhouse",
+      "board": "",
+      "key": "greenhouse-id:8560885",
+      "url": "https://therobertemorris.teamtailor.com/jobs/8560885-cnc-applications-engineer"
+    },
+    {
+      "company": "Morris Group, Inc.",
+      "ats": "greenhouse",
+      "board": "",
       "key": "greenhouse-id:8552163",
       "url": "https://morrismidwest.teamtailor.com/jobs/8552163-cnc-applications-engineer"
     },
@@ -1014,6 +1028,13 @@
       "board": "",
       "key": "greenhouse-id:4245287",
       "url": "https://NSIMechanical.applicantpro.com/jobs/4245287"
+    },
+    {
+      "company": "Ocrolus",
+      "ats": "greenhouse",
+      "board": "ocrolusinc",
+      "key": "greenhouse:ocrolusinc",
+      "url": "https://job-boards.greenhouse.io/ocrolusinc/jobs/6226422004"
     },
     {
       "company": "ONEOK",
@@ -1445,6 +1466,13 @@
     {
       "company": "T-Mobile",
       "ats": "workday",
+      "board": "contractorconversion",
+      "key": "workday:tmobile.wd1.myworkdayjobs.com/contractorconversion",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/contractorconversion"
+    },
+    {
+      "company": "T-Mobile",
+      "ats": "workday",
       "board": "External",
       "key": "workday:tmobile.wd1.myworkdayjobs.com/External",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External"
@@ -1623,6 +1651,13 @@
       "board": "uline_careers",
       "key": "workday:uline.wd1.myworkdayjobs.com/uline_careers",
       "url": "https://uline.wd1.myworkdayjobs.com/uline_careers"
+    },
+    {
+      "company": "University Corporation for Atmospheric Research",
+      "ats": "workday",
+      "board": "ucar_careers",
+      "key": "workday:ucar.wd5.myworkdayjobs.com/ucar_careers",
+      "url": "https://ucar.wd5.myworkdayjobs.com/ucar_careers"
     },
     {
       "company": "University of Rochester",
