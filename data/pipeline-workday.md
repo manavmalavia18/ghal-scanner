@@ -351,4 +351,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/Austin-TX/Systems-Engineer--Server-and-Cloud_J2452498 | jabil | Server Platform Engineer | Austin, TX | posted: 2026-10-16
 - [ ] https://dataminr.wd12.myworkdayjobs.com/dataminr/job/New-York-NY/Software-Engineer-II_JR2100 | dataminr | Software Engineer II | New York, NY | posted: 2026-10-16
 
+- [ ] https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Validation-Software-Engineer_30218292-2 | carrier | Validation Software Engineer | CAI19: UTEC-Huntington, 111 East Wayne Street, Fort Wayne, IN, 46802 USA | posted: 2026-10-16
+
 ## Processed
