@@ -1,14 +1,8 @@
 {
-  "at": "2026-10-16T17:39:18.396Z",
+  "at": "2026-10-16T18:05:47.649Z",
   "leadsScanned": 1884,
   "totalBoardsKnown": 943,
-  "alreadyTracked": 942,
-  "newlyPromoted": 1,
-  "newBoards": [
-    {
-      "name": "HawkEye 360",
-      "careers_url": "https://job-boards.greenhouse.io/hawkeye360",
-      "provider": "greenhouse"
-    }
-  ]
+  "alreadyTracked": 943,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
