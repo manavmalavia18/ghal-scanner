@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-16T21:34:56.872Z",
+  "at": "2026-10-17T13:38:47.037Z",
   "exitCode": 0,
-  "elapsedSec": 12,
-  "newMatches": 971,
+  "elapsedSec": 13,
+  "newMatches": 954,
   "incoming": 921,
   "pagesFetched": 15,
-  "total": 33290,
+  "total": 33304,
   "mode": "nextplay-public-api"
 }
