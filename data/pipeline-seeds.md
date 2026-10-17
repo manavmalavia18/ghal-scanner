@@ -622,4 +622,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007 | andurilindustries | Classified Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-16
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-16
 
+- [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | abnormalsecurity | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
+
 ## Processed
