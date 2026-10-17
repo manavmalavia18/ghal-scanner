@@ -9663,6 +9663,11 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "EarnIn"
+    careers_url: https://job-boards.greenhouse.io/earnin
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

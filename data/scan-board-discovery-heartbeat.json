@@ -1,8 +1,14 @@
 {
-  "at": "2026-10-17T10:48:47.156Z",
-  "leadsScanned": 1956,
-  "totalBoardsKnown": 1116,
+  "at": "2026-10-17T13:32:08.909Z",
+  "leadsScanned": 1958,
+  "totalBoardsKnown": 1117,
   "alreadyTracked": 1116,
-  "newlyPromoted": 0,
-  "newBoards": []
+  "newlyPromoted": 1,
+  "newBoards": [
+    {
+      "name": "EarnIn",
+      "careers_url": "https://job-boards.greenhouse.io/earnin",
+      "provider": "greenhouse"
+    }
+  ]
 }
