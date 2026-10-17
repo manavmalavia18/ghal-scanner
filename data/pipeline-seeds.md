@@ -612,4 +612,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5455835008 | lightfeatheriollc | GCP Cloud/DevOps Engineer | Washington, DC | posted: 2026-10-16
 - [ ] https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381 | justworks | Software Engineer, Solutions Engineering | New York, New York | posted: 2026-10-16
 
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002 | lyft | Software Engineer | San Francisco, CA | posted: 2026-10-17
+- [ ] https://www.bill.com/job?6223092004&gh_jid=6223092004 | billcom | Software Engineer II - Growth | United States | posted: 2026-10-17
+- [ ] https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003 | faradayfuture | SDK Platform Engineer | El Segundo, California, United States | posted: 2026-10-17
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005 | globalhealthcareexchangeinc | Software Engineer II - Java, Spring, AWS, CI/CD | Office Location or Remote - USA | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445 | openai | Software Engineer, Full Stack — Dots | New York City | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981 | openai | Software Engineer, Mobile Web — Dots | New York City | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/brettonai/191496c7-6aa7-4d11-897d-7681aec0e6b9 | brettonai | Software Engineer, Product | San Francisco, CA | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007 | andurilindustries | Classified Platform Engineer | Costa Mesa, California, United States | posted: 2026-10-16
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007 | andurilindustries | Mission Software Engineer | Waltham, Massachusetts, United States | posted: 2026-10-16
+
 ## Processed
