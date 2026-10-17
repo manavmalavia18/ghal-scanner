@@ -9838,6 +9838,41 @@ tracked_companies:
     provider: workday
     enabled: true
     notes: auto-discovered from hiringcafe
+  - name: "Aleph"
+    careers_url: https://jobs.ashbyhq.com/getaleph
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "January"
+    careers_url: https://jobs.ashbyhq.com/january-tech
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Family Office"
+    careers_url: https://job-boards.greenhouse.io/fo
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Fort Bend County"
+    careers_url: https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Ghafari Associates"
+    careers_url: https://ghafari.wd5.myworkdayjobs.com/ghafari_careers
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "Rochester Regional Health"
+    careers_url: https://rrhs.wd5.myworkdayjobs.com/rrh
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
+  - name: "University of Chicago"
+    careers_url: https://uchicago.wd5.myworkdayjobs.com/external
+    provider: workday
+    enabled: true
+    notes: auto-discovered from hiringcafe
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
