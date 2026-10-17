@@ -9613,6 +9613,51 @@ tracked_companies:
     provider: lever
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Haystack News"
+    careers_url: https://jobs.ashbyhq.com/haystack-tv
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Macroscope"
+    careers_url: https://jobs.ashbyhq.com/macroscope-3
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Maven AGI"
+    careers_url: https://jobs.ashbyhq.com/maven-agi
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Modern Treasury"
+    careers_url: https://jobs.ashbyhq.com/moderntreasury
+    provider: ashby
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "AssemblyAI"
+    careers_url: https://job-boards.greenhouse.io/assemblyai-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "DriveWealth"
+    careers_url: https://job-boards.greenhouse.io/drivewealth-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Ketryx"
+    careers_url: https://job-boards.greenhouse.io/ketryx-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "LeafLink"
+    careers_url: https://job-boards.greenhouse.io/leaflink
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
+  - name: "Ursa Major"
+    careers_url: https://job-boards.greenhouse.io/ursa-major-technologies-1
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe
