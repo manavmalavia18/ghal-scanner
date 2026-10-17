@@ -407,4 +407,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://jobs.ashbyhq.com/revel/eb632eff-b2de-4938-a9ea-dbadc8a25e86 | Revel | Frontend Software Engineer, Data Platform | North America / Los Angeles / San Francisco / Seattle | posted: 2026-10-16
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8262968 | Braze | Software Engineer II, User Targeting | Chicago | posted: 2026-10-16
 
+- [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | Abnormal AI | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
+
 ## Processed
