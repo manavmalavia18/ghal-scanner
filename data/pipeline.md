@@ -690,3 +690,5 @@
 - [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005 | globalhealthcareexchangeinc | Software Engineer II - Java, Spring, AWS, CI/CD | Office Location or Remote - USA | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445 | openai | Software Engineer, Full Stack — Dots | New York City | posted: 2026-10-16
 - [ ] https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981 | openai | Software Engineer, Mobile Web — Dots | New York City | posted: 2026-10-16
+
+- [ ] https://www.bill.com/job?6223092004&gh_jid=6223092004 | billcom | Software Engineer II - Growth | United States | posted: 2026-10-17
