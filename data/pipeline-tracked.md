@@ -409,4 +409,14 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | Abnormal AI | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
 
+- [ ] https://jobs.ashbyhq.com/read-ai/6ea57d82-e8d4-4325-90b6-73886553f604 | Read AI | Software Engineer - Fullstack | Read AI - Seattle HQ | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/mantle/85a9eddd-1fb9-4040-9151-f89a4e779015 | Mantle | Software Engineer, Full Stack | San Francisco | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003 | Faraday Future | SDK Platform Engineer | El Segundo, California, United States | posted: 2026-10-17
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4744387005 | AssemblyAI | Software Engineer, Agent Experience | North America | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005 | Global Healthcare Exchange | Software Engineer II - Java, Spring, AWS, CI/CD | Office Location or Remote - USA | posted: 2026-10-16
+- [ ] https://recar.wd108.myworkdayjobs.com/slatecareers/job/Remote-WA/Software-Engineer-II_JR101552 | Slate | Software Engineer II | 2 Locations | posted: 2026-10-16
+- [ ] https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Olivette-MO-USA/Software-Engineer_R26_0000003648 | Brown & Brown, Inc. | Software Engineer | Olivette, MO, USA | posted: 2026-10-16
+- [ ] https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1 | Morningstar | Associate Software Engineer | 2 Locations | posted: 2026-10-16
+- [ ] https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Software-Engineer_JR10016004 | Universities of Wisconsin | Software Engineer | University of Wisconsin Madison | posted: 2026-10-16
+
 ## Processed
