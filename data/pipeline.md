@@ -692,3 +692,6 @@
 - [ ] https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981 | openai | Software Engineer, Mobile Web — Dots | New York City | posted: 2026-10-16
 
 - [ ] https://www.bill.com/job?6223092004&gh_jid=6223092004 | billcom | Software Engineer II - Growth | United States | posted: 2026-10-17
+
+- [ ] https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003 | abnormalsecurity | Software Engineer 1 - Cloud Infrastructure | Remote - USA | posted: 2026-10-17
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002 | lyft | Software Engineer | San Francisco, CA | posted: 2026-10-17
