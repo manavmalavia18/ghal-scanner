@@ -9658,6 +9658,11 @@ tracked_companies:
     provider: greenhouse
     enabled: true
     notes: auto-discovered from wellfound
+  - name: "Oklo"
+    careers_url: https://job-boards.greenhouse.io/oklo
+    provider: greenhouse
+    enabled: true
+    notes: auto-discovered from wellfound
 job_boards:
   - name: Hiring Cafe — US SE (entry/mid, last 4 days)
     provider: hiringcafe

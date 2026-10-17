@@ -1,53 +1,13 @@
 {
-  "at": "2026-10-17T01:34:33.225Z",
-  "leadsScanned": 1997,
-  "totalBoardsKnown": 1114,
-  "alreadyTracked": 1105,
-  "newlyPromoted": 9,
+  "at": "2026-10-17T06:14:40.714Z",
+  "leadsScanned": 1955,
+  "totalBoardsKnown": 1116,
+  "alreadyTracked": 1115,
+  "newlyPromoted": 1,
   "newBoards": [
     {
-      "name": "Haystack News",
-      "careers_url": "https://jobs.ashbyhq.com/haystack-tv",
-      "provider": "ashby"
-    },
-    {
-      "name": "Macroscope",
-      "careers_url": "https://jobs.ashbyhq.com/macroscope-3",
-      "provider": "ashby"
-    },
-    {
-      "name": "Maven AGI",
-      "careers_url": "https://jobs.ashbyhq.com/maven-agi",
-      "provider": "ashby"
-    },
-    {
-      "name": "Modern Treasury",
-      "careers_url": "https://jobs.ashbyhq.com/moderntreasury",
-      "provider": "ashby"
-    },
-    {
-      "name": "AssemblyAI",
-      "careers_url": "https://job-boards.greenhouse.io/assemblyai-1",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "DriveWealth",
-      "careers_url": "https://job-boards.greenhouse.io/drivewealth-1",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Ketryx",
-      "careers_url": "https://job-boards.greenhouse.io/ketryx-1",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "LeafLink",
-      "careers_url": "https://job-boards.greenhouse.io/leaflink",
-      "provider": "greenhouse"
-    },
-    {
-      "name": "Ursa Major",
-      "careers_url": "https://job-boards.greenhouse.io/ursa-major-technologies-1",
+      "name": "Oklo",
+      "careers_url": "https://job-boards.greenhouse.io/oklo",
       "provider": "greenhouse"
     }
   ]
