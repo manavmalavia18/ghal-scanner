@@ -382,4 +382,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/AI-Engineer_REQ379334 | tmobile | AI Engineer | 2 Locations | posted: 2026-10-16
 
+- [ ] https://wisconsin.wd1.myworkdayjobs.com/uw_madison/job/Madison-WI/Software-Engineer_JR10016004 | wisconsin | Software Engineer | University of Wisconsin Madison | posted: 2026-10-16
+
 ## Processed
