@@ -401,4 +401,10 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://tcbrands.wd1.myworkdayjobs.com/callaway-careers/job/CG--CGI-Austin-Texas/Software-Engineer_JR2023-16685 | Callaway | Software Engineer | 2 Locations | posted: 2026-10-16
 
+- [ ] https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/AI-Engineer_REQ379334 | Tmobile | AI Engineer | 2 Locations | posted: 2026-10-17
+- [ ] https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445 | OpenAI | Software Engineer, Full Stack — Dots | New York City | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981 | OpenAI | Software Engineer, Mobile Web — Dots | New York City | posted: 2026-10-16
+- [ ] https://jobs.ashbyhq.com/revel/eb632eff-b2de-4938-a9ea-dbadc8a25e86 | Revel | Frontend Software Engineer, Data Platform | North America / Los Angeles / San Francisco / Seattle | posted: 2026-10-16
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8262968 | Braze | Software Engineer II, User Targeting | Chicago | posted: 2026-10-16
+
 ## Processed
