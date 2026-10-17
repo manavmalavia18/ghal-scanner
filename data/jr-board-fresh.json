@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T13:49:20.016Z",
+  "fetchedAt": "2026-10-17T13:54:33.552Z",
   "days": 2,
   "leadCount": 77,
   "jobCount": 46,
@@ -10,13 +10,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:diligentcorporation",
-      "fetched": 54,
+      "key": "greenhouse:worldquant",
+      "fetched": 95,
       "kept": 0
     },
     {
-      "key": "greenhouse:figma",
-      "fetched": 139,
+      "key": "greenhouse:diligentcorporation",
+      "fetched": 54,
       "kept": 0
     },
     {
@@ -30,11 +30,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:worldquant",
-      "fetched": 95,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:preciselyusjobs",
       "fetched": 36,
       "kept": 0
@@ -45,13 +40,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:gotion",
+      "fetched": 152,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:130621-curative-hr-llc",
       "fetched": 0,
       "kept": 0
     },
     {
-      "key": "greenhouse:gotion",
-      "fetched": 152,
+      "key": "greenhouse:figma",
+      "fetched": 139,
       "kept": 0
     },
     {
@@ -60,14 +60,19 @@
       "kept": 1
     },
     {
+      "key": "greenhouse:warp",
+      "fetched": 4,
+      "kept": 0
+    },
+    {
       "key": "greenhouse:abnormalsecurity",
       "fetched": 86,
       "kept": 1
     },
     {
-      "key": "greenhouse:warp",
-      "fetched": 4,
-      "kept": 0
+      "key": "greenhouse:lyft",
+      "fetched": 183,
+      "kept": 1
     },
     {
       "key": "greenhouse:twitch",
@@ -95,23 +100,13 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:doordashusa",
-      "fetched": 456,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:billcom",
       "fetched": 45,
       "kept": 1
     },
     {
-      "key": "greenhouse:faradayfuture",
-      "fetched": 82,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:assemblyai",
-      "fetched": 12,
+      "key": "greenhouse:doordashusa",
+      "fetched": 456,
       "kept": 1
     },
     {
@@ -120,13 +115,18 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:faradayfuture",
+      "fetched": 82,
+      "kept": 1
+    },
+    {
       "key": "greenhouse:justworks",
       "fetched": 100,
       "kept": 3
     },
     {
-      "key": "greenhouse:lyft",
-      "fetched": 183,
+      "key": "greenhouse:assemblyai",
+      "fetched": 12,
       "kept": 1
     },
     {
@@ -135,33 +135,18 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:csgconsultantsprivatelink",
-      "fetched": 3,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:braze",
-      "fetched": 326,
-      "kept": 3
-    },
-    {
-      "key": "greenhouse:boostlingo",
-      "fetched": 5,
-      "kept": 0
-    },
-    {
       "key": "greenhouse:quisitivejobs",
       "fetched": 9,
       "kept": 0
     },
     {
-      "key": "greenhouse:verifone",
-      "fetched": 43,
+      "key": "greenhouse:csgconsultantsprivatelink",
+      "fetched": 3,
       "kept": 0
     },
     {
-      "key": "greenhouse:bridgeway",
-      "fetched": 10,
+      "key": "greenhouse:boostlingo",
+      "fetched": 5,
       "kept": 0
     },
     {
@@ -170,7 +155,37 @@
       "kept": 0
     },
     {
+      "key": "greenhouse:bridgeway",
+      "fetched": 10,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:verifone",
+      "fetched": 43,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:braze",
+      "fetched": 326,
+      "kept": 3
+    },
+    {
       "key": "greenhouse:tacomacc",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "key": "greenhouse:fervoenergy",
+      "fetched": 56,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:ngrokinc",
+      "fetched": 3,
+      "kept": 1
+    },
+    {
+      "key": "greenhouse:explore",
       "fetched": 0,
       "kept": 0
     },
@@ -180,21 +195,6 @@
       "kept": 0
     },
     {
-      "key": "greenhouse:fervoenergy",
-      "fetched": 56,
-      "kept": 1
-    },
-    {
-      "key": "greenhouse:explore",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "greenhouse:ngrokinc",
-      "fetched": 3,
-      "kept": 1
-    },
-    {
       "key": "greenhouse:sonyinteractiveentertainmentglobal",
       "fetched": 208,
       "kept": 2
@@ -202,11 +202,6 @@
     {
       "key": "ashby:corridor",
       "fetched": 15,
-      "kept": 0
-    },
-    {
-      "key": "ashby:kayak",
-      "fetched": 43,
       "kept": 0
     },
     {
@@ -220,13 +215,18 @@
       "kept": 0
     },
     {
+      "key": "ashby:kayak",
+      "fetched": 43,
+      "kept": 0
+    },
+    {
       "key": "ashby:skydio",
       "fetched": 160,
       "kept": 0
     },
     {
-      "key": "ashby:hyperexponential",
-      "fetched": 33,
+      "key": "ashby:superhuman%20platform%20inc",
+      "fetched": 66,
       "kept": 0
     },
     {
@@ -235,28 +235,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:revel",
-      "fetched": 29,
-      "kept": 1
-    },
-    {
       "key": "ashby:watershed",
       "fetched": 35,
       "kept": 1
     },
     {
-      "key": "ashby:superhuman%20platform%20inc",
-      "fetched": 66,
+      "key": "ashby:hyperexponential",
+      "fetched": 33,
       "kept": 0
     },
     {
-      "key": "ashby:mantle",
-      "fetched": 4,
-      "kept": 2
-    },
-    {
-      "key": "ashby:perplexity",
-      "fetched": 133,
+      "key": "ashby:revel",
+      "fetched": 29,
       "kept": 1
     },
     {
@@ -270,13 +260,18 @@
       "kept": 1
     },
     {
-      "key": "ashby:assorthealth",
-      "fetched": 35,
-      "kept": 0
+      "key": "ashby:mantle",
+      "fetched": 4,
+      "kept": 2
     },
     {
-      "key": "ashby:alleviatehealth",
-      "fetched": 7,
+      "key": "ashby:perplexity",
+      "fetched": 133,
+      "kept": 1
+    },
+    {
+      "key": "ashby:assorthealth",
+      "fetched": 35,
       "kept": 0
     },
     {
@@ -285,8 +280,8 @@
       "kept": 1
     },
     {
-      "key": "ashby:fsh",
-      "fetched": 9,
+      "key": "ashby:alleviatehealth",
+      "fetched": 7,
       "kept": 0
     },
     {
@@ -295,13 +290,18 @@
       "kept": 0
     },
     {
-      "key": "ashby:primeintellect",
-      "fetched": 35,
+      "key": "ashby:fsh",
+      "fetched": 9,
       "kept": 0
     },
     {
       "key": "ashby:supabase",
       "fetched": 54,
+      "kept": 0
+    },
+    {
+      "key": "ashby:primeintellect",
+      "fetched": 35,
       "kept": 0
     },
     {
@@ -335,23 +335,18 @@
       "kept": 1
     },
     {
-      "key": "lever:cfsenergy",
-      "fetched": 129,
-      "kept": 0
-    },
-    {
       "key": "lever:zoox",
       "fetched": 240,
       "kept": 2
     },
     {
-      "key": "lever:shieldai",
-      "fetched": 629,
+      "key": "lever:cfsenergy",
+      "fetched": 129,
       "kept": 0
     },
     {
-      "key": "workday:snapfinance.wd1.myworkdayjobs.com/Snap_External_Careers",
-      "fetched": 19,
+      "key": "lever:shieldai",
+      "fetched": 629,
       "kept": 0
     },
     {
@@ -365,7 +360,17 @@
       "kept": 0
     },
     {
+      "key": "workday:snapfinance.wd1.myworkdayjobs.com/Snap_External_Careers",
+      "fetched": 19,
+      "kept": 0
+    },
+    {
       "key": "workday:varsitybrands.wd503.myworkdayjobs.com/externalcareersite",
+      "fetched": 80,
+      "kept": 0
+    },
+    {
+      "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
       "fetched": 80,
       "kept": 0
     },
@@ -377,11 +382,6 @@
     {
       "key": "workday:nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers",
       "fetched": 0,
-      "kept": 0
-    },
-    {
-      "key": "workday:bah.wd1.myworkdayjobs.com/bah_jobs",
-      "fetched": 80,
       "kept": 0
     },
     {
@@ -412,6 +412,16 @@
       "board": "abnormalsecurity"
     },
     {
+      "title": "Software Engineer",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+      "company": "Lyft",
+      "location": "San Francisco, CA",
+      "postedAt": "2026-10-17T02:47:42.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "lyft"
+    },
+    {
       "title": "Full Stack Engineer (Python)",
       "url": "https://job-boards.greenhouse.io/1800contacts/jobs/8289484",
       "company": "1-800 Contacts",
@@ -420,16 +430,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "1800contacts"
-    },
-    {
-      "title": "Staff Software Engineer, Data - Experimentation",
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8294468",
-      "company": "DoorDash",
-      "location": "California, CA; San Francisco, CA; Seattle, WA; New York,NY",
-      "postedAt": "2026-10-17T07:28:44.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "doordashusa"
     },
     {
       "title": "Software Engineer II - Growth",
@@ -442,6 +442,16 @@
       "board": "billcom"
     },
     {
+      "title": "Staff Software Engineer, Data - Experimentation",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8294468",
+      "company": "DoorDash",
+      "location": "California, CA; San Francisco, CA; Seattle, WA; New York,NY",
+      "postedAt": "2026-10-17T07:28:44.000Z",
+      "salary": "",
+      "ats": "Greenhouse",
+      "board": "doordashusa"
+    },
+    {
       "title": "SDK Platform Engineer",
       "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
       "company": "Faraday Future",
@@ -450,16 +460,6 @@
       "salary": "",
       "ats": "Greenhouse",
       "board": "faradayfuture"
-    },
-    {
-      "title": "Software Engineer, Agent Experience",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744387005",
-      "company": "AssemblyAI",
-      "location": "North America",
-      "postedAt": "2026-10-16T19:44:53.000Z",
-      "salary": "",
-      "ats": "Greenhouse",
-      "board": "assemblyai"
     },
     {
       "title": "Software Engineer, Solutions Engineering",
@@ -492,14 +492,14 @@
       "board": "justworks"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
-      "company": "Lyft",
-      "location": "San Francisco, CA",
-      "postedAt": "2026-10-17T02:47:42.000Z",
+      "title": "Software Engineer, Agent Experience",
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744387005",
+      "company": "AssemblyAI",
+      "location": "North America",
+      "postedAt": "2026-10-16T19:44:53.000Z",
       "salary": "",
       "ats": "Greenhouse",
-      "board": "lyft"
+      "board": "assemblyai"
     },
     {
       "title": "Software Engineer II, User Targeting",
@@ -612,6 +612,16 @@
       "board": "decagon"
     },
     {
+      "title": "Software engineer, cloud infrastructure",
+      "url": "https://jobs.ashbyhq.com/watershed/9dd3ca17-baff-4e36-be75-f13a2a919cbc",
+      "company": "Watershed",
+      "location": "San Francisco",
+      "postedAt": "2026-10-15T21:44:54.149Z",
+      "salary": "",
+      "ats": "Ashby",
+      "board": "watershed"
+    },
+    {
       "title": "Frontend Software Engineer, Data Platform",
       "url": "https://jobs.ashbyhq.com/revel/eb632eff-b2de-4938-a9ea-dbadc8a25e86",
       "company": "Revel",
@@ -622,14 +632,14 @@
       "board": "revel"
     },
     {
-      "title": "Software engineer, cloud infrastructure",
-      "url": "https://jobs.ashbyhq.com/watershed/9dd3ca17-baff-4e36-be75-f13a2a919cbc",
-      "company": "Watershed",
-      "location": "San Francisco",
-      "postedAt": "2026-10-15T21:44:54.149Z",
+      "title": "Software Engineer - Fullstack",
+      "url": "https://jobs.ashbyhq.com/read-ai/6ea57d82-e8d4-4325-90b6-73886553f604",
+      "company": "Read AI",
+      "location": "Read AI - Seattle HQ",
+      "postedAt": "2026-10-16T22:59:45.362Z",
       "salary": "",
       "ats": "Ashby",
-      "board": "watershed"
+      "board": "read-ai"
     },
     {
       "title": "Software Engineer, Full Stack",
@@ -660,16 +670,6 @@
       "salary": "",
       "ats": "Ashby",
       "board": "perplexity"
-    },
-    {
-      "title": "Software Engineer - Fullstack",
-      "url": "https://jobs.ashbyhq.com/read-ai/6ea57d82-e8d4-4325-90b6-73886553f604",
-      "company": "Read AI",
-      "location": "Read AI - Seattle HQ",
-      "postedAt": "2026-10-16T22:59:45.362Z",
-      "salary": "",
-      "ats": "Ashby",
-      "board": "read-ai"
     },
     {
       "title": "Software Engineer II, Perception",
