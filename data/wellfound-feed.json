@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T04:17:18.608Z",
+  "fetchedAt": "2026-10-17T08:47:00.244Z",
   "jobs": [
     {
       "title": "Software Engineer",
@@ -470,6 +470,15 @@
       "ats": "ashby"
     },
     {
+      "title": "Senior Frontend Engineer",
+      "company": "Halliday",
+      "url": "https://jobs.ashbyhq.com/halliday-2",
+      "location": "Remote",
+      "salary": "$150k – $250k",
+      "postedAt": "2026-06-19T11:58:56.000Z",
+      "ats": "ashby"
+    },
+    {
       "title": "Staff Frontend Engineer",
       "company": "Assured",
       "url": "https://jobs.ashbyhq.com/assured-claims",
@@ -497,15 +506,6 @@
       "ats": "ashby"
     },
     {
-      "title": "Frontend Engineer",
-      "company": "SafetyKit",
-      "url": "https://jobs.ashbyhq.com/safetykit-1",
-      "location": "San Francisco",
-      "salary": "",
-      "postedAt": "2025-07-09T16:35:38.000Z",
-      "ats": "ashby"
-    },
-    {
       "title": "Senior Frontend Engineer - AI Platform",
       "company": "Seekr",
       "url": "https://job-boards.greenhouse.io/seekr-4",
@@ -513,6 +513,15 @@
       "salary": "$160k – $220k",
       "postedAt": "2026-10-16T20:26:02.000Z",
       "ats": "greenhouse"
+    },
+    {
+      "title": "Frontend Engineer",
+      "company": "SafetyKit",
+      "url": "https://jobs.ashbyhq.com/safetykit-1",
+      "location": "San Francisco",
+      "salary": "",
+      "postedAt": "2025-07-09T16:35:38.000Z",
+      "ats": "ashby"
     },
     {
       "title": "Senior Frontend Engineer",
@@ -621,15 +630,6 @@
       "salary": "$200k – $280k",
       "postedAt": "2026-01-21T20:33:53.000Z",
       "ats": "ashby"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "company": "Cross River",
-      "url": "https://job-boards.greenhouse.io/crossriver",
-      "location": "Fort Lee",
-      "salary": "$160k – $200k",
-      "postedAt": "2026-04-21T21:30:06.000Z",
-      "ats": "greenhouse"
     },
     {
       "title": "DevOps Engineer ",
@@ -828,6 +828,15 @@
       "salary": "$140k – $185k",
       "postedAt": "2026-10-09T23:29:36.000Z",
       "ats": "ashby"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": "Cross River",
+      "url": "https://job-boards.greenhouse.io/crossriver",
+      "location": "Fort Lee",
+      "salary": "$160k – $200k",
+      "postedAt": "2026-08-26T21:05:18.000Z",
+      "ats": "greenhouse"
     },
     {
       "title": "Lead Site Reliability Engineer",
@@ -1091,15 +1100,6 @@
       "ats": "ashby"
     },
     {
-      "title": "Senior Machine Learning Engineer",
-      "company": "Possible Finance",
-      "url": "https://jobs.ashbyhq.com/possible-finance",
-      "location": "Seattle",
-      "salary": "$187k – $202k",
-      "postedAt": "2026-10-03T00:01:38.000Z",
-      "ats": "ashby"
-    },
-    {
       "title": "Machine Learning Engineer ",
       "company": "Augury",
       "url": "https://job-boards.greenhouse.io/augury",
@@ -1109,12 +1109,12 @@
       "ats": "greenhouse"
     },
     {
-      "title": "Machine Learning Engineer",
-      "company": "Sardine",
-      "url": "https://jobs.ashbyhq.com/sardine-1",
-      "location": "Remote",
-      "salary": "$175k – $220k",
-      "postedAt": "2025-10-20T16:56:55.000Z",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Possible Finance",
+      "url": "https://jobs.ashbyhq.com/possible-finance",
+      "location": "Seattle",
+      "salary": "$187k – $202k",
+      "postedAt": "2026-10-03T00:01:38.000Z",
       "ats": "ashby"
     },
     {
@@ -1125,6 +1125,15 @@
       "salary": "",
       "postedAt": "2026-08-11T09:24:16.000Z",
       "ats": "greenhouse"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Sardine",
+      "url": "https://jobs.ashbyhq.com/sardine-1",
+      "location": "Remote",
+      "salary": "$175k – $220k",
+      "postedAt": "2025-10-20T16:56:55.000Z",
+      "ats": "ashby"
     },
     {
       "title": "Senior Machine Learning Engineer",
