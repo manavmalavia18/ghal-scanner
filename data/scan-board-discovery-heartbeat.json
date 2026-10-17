@@ -1,14 +1,8 @@
 {
-  "at": "2026-10-17T06:14:40.714Z",
-  "leadsScanned": 1955,
+  "at": "2026-10-17T10:48:47.156Z",
+  "leadsScanned": 1956,
   "totalBoardsKnown": 1116,
-  "alreadyTracked": 1115,
-  "newlyPromoted": 1,
-  "newBoards": [
-    {
-      "name": "Oklo",
-      "careers_url": "https://job-boards.greenhouse.io/oklo",
-      "provider": "greenhouse"
-    }
-  ]
+  "alreadyTracked": 1116,
+  "newlyPromoted": 0,
+  "newBoards": []
 }
